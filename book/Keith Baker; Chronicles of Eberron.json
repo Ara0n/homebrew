@@ -1,0 +1,24 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "ChroniclesofEberron",
+				"abbreviation": "CoE",
+				"full": "Chronicles of Eberron",
+				"authors": [
+					"Keith Baker"
+				],
+				"convertedBy": [
+					"_Ara0n_"
+				],
+				"version": "1.02",
+				"color": "ffffff",
+				"url": "https://www.dmsguild.com/product/415474/Chronicles-of-Eberron?term=chronicles+of+eberr",
+				"dateReleased": "2022-12-01"
+			}
+		],
+		"status": "wip",
+		"dateAdded": 1708532754,
+		"dateLastModified": 1708532754
+	}
+}
