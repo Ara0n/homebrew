@@ -319,7 +319,7 @@
 					]
 				},
 				{
-					"name": "It’s All About the Journey",
+					"name": "It's All About the Journey",
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 10
@@ -935,7 +935,8 @@
 					"entries": [
 						"{@i Chronicles of Eberron} delves more deeply into the Eberron campaign setting, presenting ideas that could inspire your next character or campaign.",
 						"It serves as a companion to {@i Eberron: Rising from the Last War} and {@i Exploring Eberron} (available on the {@link Dungeon Masters Guild|https://www.dmsguild.com/product/315887/Exploring-Eberron?affiliate_id=2255601}). This book is divided into two parts, each with a series of short chapters (well, most of them ...) designed for quick reading and easy reference.",
-						"Part 1: The Library contains material that's widely useful to all readers. These chapters explore things that are either common knowledge or that any character could reasonably know about. For example, a Dungeon Master might craft adventures using the chapters about the gnomes of Lorghalan and Pylas Pyrial ... or a player might use the same information to create a gnome character from one of these locations. Similarly, a DM could read about the traditions of Galifar's nobility before introducing their duke NPC—meanwhile, the player of a noble character might review the same information before meeting that duke."
+						"{@book Part 1: The Library|ChroniclesofEberron|5}  contains material that's widely useful to all readers. These chapters explore things that are either common knowledge or that any character could reasonably know about. For example, a Dungeon Master might craft adventures using the chapters about the gnomes of Lorghalan and Pylas Pyrial ... or a player might use the same information to create a gnome character from one of these locations. Similarly, a DM could read about the traditions of Galifar's nobility before introducing their duke NPC—meanwhile, the player of a noble character might review the same information before meeting that duke.",
+						"{@book Part 2: The Vault|ChroniclesofEberron|14} is primarily designed for Dungeon Masters and adventure creators. In these pages, you'll find deadly monsters and dangerous places that are unlikely to fit into a player character's background. Anyone can read these chapters, of course ... but beware the spoilers that lie ahead! Even though some players may know the secrets of Ashtakala or the Twister of Roots, it's unlikely their characters do."
 					]
 				},
 				{
