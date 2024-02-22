@@ -1108,6 +1108,75 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "General Information",
+							"page": 10,
+							"entries": [
+								"The Draconic Prophecy, fiends, the Silver Flame—these are dramatic forces in the world. But what about more mundane things? What do the people of the Five Nations actually know about drow, the dar, or even the Aurum?",
+								{
+									"type": "entries",
+									"name": "Aerenal, the Undying Court, and the Tairnadal",
+									"page": 10,
+									"entries": [
+										"Aerenal is an isolationist culture with little interest in sharing its traditions with others. However, the elves do trade with the Five Nations and there's been enough immigration over the course of history to provide a general knowledge of their culture. Most people know Aerenal is ruled by the Undying Court, a group of ancient undead elves. However, they don't fully understand the difference between deathless and other undead.",
+										"Most Five Nations citizens have never heard of the Tairnadal, and they assume any Tairnadal elf is from Valenar. They know Valenar elves are deadly warriors who are always looking for fights and who worship their ancestors, but they don't know any specifics about patron ancestors or the Keepers of the Past. (You can learn more about the Tairnadal in {@book chapter 5|ChroniclesofEberron|10}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Aurum",
+									"page": 11,
+									"entries": [
+										"While it's a stretch to say that everyone's heard of the Aurum, it's about as well known as, say, Mensa in our world. The Aurum is generally seen as an exclusive fraternal order of extremely wealthy people. Because it is exclusive and many of its members are minor local celebrities, there are certainly lots of conspiracies theories about what it's really up to ... but despite claims that the Aurum wants to overthrow the Twelve or that it engineered the Last War, at the end of the day, people think of it as that fancy members-only club on Main Street that always donates generously to the Race of Eight Winds celebrations."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Uncommon Ancestries",
+									"page": 11,
+									"entries": [
+										"People in Khorvaire know lizardfolk and dragonborn come from Q'barra, but most don't realize these are two different ancestries. Most people know drow are from Xen'drik. Tieflings are generally understood to be planetouched; on the other hand, aasimar and genasi (as discussed in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}) are generally so rare that they won't be recognized by the general populace. With these and other uncommon folk, Eberron's people are generally accepting of creatures from ancestries they've never encountered. After all, this is a world where people deal with humans, orcs, shifters, goblins, warforged, elves, kalashtar, ogres, medusas, and more every day; so if someone has never seen a goliath before, they're far more likely to say \"Well, that's new\" than to panic at the sight of alien giant-folk. Unusual characters are generally targets of curiosity rather than fear."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The History of Xen'drik",
+									"page": 11,
+									"entries": [
+										"People know Xen'drik was once home to a civilization of giants, who most believe were destroyed in a war with the dragons. Many people know the elves were originally from Xen'drik and fled this destruction. However, without {@skill History} proficiency, most people don't know the name of any of the giant cultures—nor know there was more than one—and they definitely don't know anything about giants fighting quori. The idea that arrogant giants destroyed the thirteenth moon is a common folktale, but the legend has many variants and few people consider it truth."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Goblins and the Empire of Dhakaan",
+									"page": 11,
+									"entries": [
+										"Everyone in the Five Nations knows that a goblin empire inhabited Khorvaire before humanity, but it fell long ago. Most people don't know the name of this empire or exactly what led to its downfall. People generally recognize Dhakaani ruins as goblin creations, and they know many of Khorvaire's largest cities are built on goblin foundations. A few fringe groups assert those ancient structures are clearly too sophisticated to be goblin work and must've been built by some forgotten human civilization, but most people consider these stories as the ridiculous conspiracy theories they are—on par with the idea that shapeshifted dragons are secretly manipulating the world.",
+										"Most people of the Five Nations—and even some denizens of Darguun—don't know the difference between the Kech Dhakaan and the more modern goblin civilizations, like the Marguul and the Ghaal'dar. When someone from the Five Nations meets dar of the Kech Dhakaan, they may recognize that these dar are evoking unusual elements from Dhakaani history. However, it's not commonly known that the Kech Dhakaan have maintained an unbroken link to the past—nor do Khorvairians have any idea how powerful the goblinoids of Dhakaan are."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Shifters and Lycanthropes",
+									"page": 11,
+									"entries": [
+										"In the Five Nations, most people believe lycanthropes are cursed humanoids who become animals or hybrids, then prey on innocents, potentially spreading their curse (but are luckily vulnerable to silver). People know most lycanthropes were wiped out in the Silver Crusade (or Lycanthropic Purge), and for the most part, they believe this was a justified action against a serious threat.",
+										"Shifters are often called “weretouched,” and most people believe shifters are distantly connected with lycanthropes. Some even mistakenly believe shifters become aggressive when many moons are full. However, few believe that shifters can spread lycanthropy or that they're sympathetic to lycanthropes. Those negative stereotypes exist, especially in rural Aundair or places where people have never encountered shifters, but they're uncommon."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Spies",
+									"page": 11,
+									"entries": [
+										"When people in the Five Nations talk about spies, they're usually thinking of the Dark Lanterns or the Royal Eyes of Aundair. These familiar spy agencies are known to operate covertly in other nations, similar to what people in our world knew of the CIA and KGB during the height of the Cold War.",
+										"Most people in the Five Nations have heard of the Trust and understand that it's some sort of secret police force that maintains order in Zilargo. But they don't know much beyond that, and people aren't concerned about Zil spies.",
+										"House Phiarlan and House Thuranni, renowned for their entertainers, aren't generally viewed as spies. The assertion that Phiarlan runs a spy network is like the idea that Elvis worked for the CIA; not impossible, but also not a particularly credible theory."
+									]
+								}
+							]
 						}
 					]
 				}
