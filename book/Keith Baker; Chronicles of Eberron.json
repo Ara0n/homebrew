@@ -44,6 +44,26 @@
 				},
 				{
 					"name": "Preface"
+				},
+				{
+					"name": "Introduction"
+				},
+				{
+					"name": "The Library",
+					"ordinal": {
+						"type": "part",
+						"identifier": 1
+					}
+				},
+				{
+					"name": "Common Knowledge",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					},
+					"headers": [
+						"Religion"
+					]
 				}
 			]
 		}
@@ -278,7 +298,7 @@
 					"page": 5,
 					"entries": [
 						"As I write these words, it's been almost twenty years since I first began exploring the world of Eberron in my mind. Over these two decades, a part of me has always been thinking about Eberron, considering all the questions the official books never had time and space to answer. What's the history of Dor Maleer? Just how smart are Karrnathi undead? Why so barren, Barren Sea?",
-						"In the days before the Dungeon Masters Guild, there was no opportunity to create new Eberron content. I couldn't legally release new lore or mechanics—but I could answer questions. I started doing just that on my website, Keith-Baker.com, and over the years, I've written hundreds of articles. But that quantity is a blessing and a curse; some topics are more generally useful than others, but they're needles in a very large haystack. Beyond those questions and answers, I couldn't give players and Dungeon Masters new tools to work with until the Dungeon Masters Guild opened up Eberron for new creations.",
+						"In the days before the Dungeon Masters Guild, there was no opportunity to create new Eberron content. I couldn't legally release new lore or mechanics—but I {@i could} answer questions. I started doing just that on my website, {@link Keith-Baker.com|www.keith-baker.com}, and over the years, I've written hundreds of articles. But that quantity is a blessing and a curse; some topics are more generally useful than others, but they're needles in a very large haystack. Beyond those questions and answers, I couldn't give players and Dungeon Masters new tools to work with until the Dungeon Masters Guild opened up Eberron for new creations.",
 						"These pages you hold in your hands—or, potentially, these pixels you see on your screen—contain the answers to some of my favorite questions. This book blends practical advice (\"How do I start a new campaign? How do I handle travel?\") and deep lore detailing topics like the Twister of Roots and the gnomes of Lorghalan. In compiling this book, I've revised some of my articles and expanded others; even if you've read everything I've written, you'll find things here you've never seen before. And thanks to the excellent work of Imogen Gingell, we've added further depth and concrete mechanics to many ideas I previously only explored as stories. Because of her collaboration on this book, you can fight the daelkyr Avassh or wield the forbidden magic of the Shadow",
 						"What lies ahead evolved from questions I've answered and how I've run things in my own personal campaign. Remember that what you're hearing in these pages is my personal voice. As fans have come to call it over the years, this book is \"kanon\"; in addition to being far less formal than canonical material, details in this book may contradict canon sources. One of the core principles of Eberron is that canon should serve as an inspiration, not a restriction on the stories you want to tell—and that applies to me as much as it does to you! What you have here is an account of what I'm doing \"in my Eberron.\" I hope it will inspire you, but never let anything I say stop you from telling a story you want to tell in your Eberron.",
 						"And now, let's dive into the {@i Chronicles of Eberron}!",
@@ -289,6 +309,92 @@
 								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0007.webp"
 							},
 							"credit": "Keith Baker, creator of Eberron"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Introduction",
+					"page": 5,
+					"entries": [
+						"{@i Chronicles of Eberron} delves more deeply into the Eberron campaign setting, presenting ideas that could inspire your next character or campaign.",
+						"It serves as a companion to {@i Eberron: Rising from the Last War} and {@i Exploring Eberron} (available on the {@link Dungeon Masters Guild|https://www.dmsguild.com/product/315887/Exploring-Eberron?affiliate_id=2255601}). This book is divided into two parts, each with a series of short chapters (well, most of them ...) designed for quick reading and easy reference.",
+						"Part 1: The Library contains material that's widely useful to all readers. These chapters explore things that are either common knowledge or that any character could reasonably know about. For example, a Dungeon Master might craft adventures using the chapters about the gnomes of Lorghalan and Pylas Pyrial ... or a player might use the same information to create a gnome character from one of these locations. Similarly, a DM could read about the traditions of Galifar's nobility before introducing their duke NPC—meanwhile, the player of a noble character might review the same information before meeting that duke."
+					]
+				},
+				{
+					"type": "section",
+					"name": "The Library",
+					"page": 6,
+					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0043.webp"
+							},
+							"credit": "Júlio Azevedo"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Common Knowledge",
+					"page": 7,
+					"entries": [
+						"Eberron sourcebooks provide us a source of absolute knowledge. As players and DMs, we know about the Lords of Dust and the Dreaming Dark. We know about the giants of Xen'drik and that they fought the quori. Our adventurers may also know these things if they succeed on appropriate ability checks; if a character wants to recall details of the conflict between the Dhakaani and the daelkyr, they might make an Intelligence ({@skill History}) check. But what do people know {@i without} making any ability checks? What things are just common knowledge? If an adventurer mentions the Lords of Dust in a tavern, do other patrons know what they're talking about?",
+						"This chapter discusses much of the common knowledge of a citizen of the Five Nations. For other cultures, DMs will have to combine this chapter's foundation with common sense to account for the variances in common knowledge: Stormreachers know more about drow than Aundairians do. Shadow Marchers have heard of the Gatekeepers, while most Karrns haven't. People living in a region probably have common knowledge about the things that impact their lives there—the people of the Mror Holds don't know much about the daelkyr in general, but they {@i do} know about Dyrrn the Corruptor, because they've been fighting him for decades and he signed his name with Dyrrn's Promise in 943 YK.",
+						{
+							"type": "insetReadaloud",
+							"page": 7,
+							"name": "Could You Pass the Test ?",
+							"entries": [
+								"Every year during the feast of Aureon's Crown, Morgrave University professor Jolan Hass Holan runs \"Crowns for the Crown\"—a challenge where any denizen of Sharn can test their knowledge and earn a few coppers. Is Malleon's Gate named after a pirate or a king? What was the name of the city whose foundations lie beneath Sharn? Fun as this is, it's not just a game; for the professor, it's a long-term project to measure how general knowledge has spread across the people of Sharn—and to identify flaws in the educational system. In this year's challenge, only one in ten contestants knew which Tavick was the namesake of Tavick's Landing; more concerning was a continuing decline in familiarity with the customs and geography of the nations beyond Breland. \"The war built walls between us,\" Hass Holan says. \"If we truly hope to reunite Galifar, we need to ensure we remember our common history and culture.\""
+							]
+						},
+						{
+							"type": "section",
+							"name": "Religion",
+							"page": 7,
+							"entries": [
+								"Gods don't walk the world in Eberron, and the existence of the divine is a matter of faith. But even if you don't believe in anything you can't touch, you'll still know some basic details about the faiths of Eberron. (These faiths are discussed further in {@i Eberron: Rising from the Last War}, {@i Exploring Eberron}, and this book's chapter on \"The Dark Six.\")",
+								{
+									"type": "entries",
+									"name": "The Creation Myth",
+									"page": 7,
+									"entries": [
+										"Everyone knows the basic creation myth: Khyber, Eberron, and Siberys created the planes. Khyber killed Siberys and scattered his pieces in the sky, creating the Ring of Siberys. Eberron enfolded Khyber and became the world. Some people believe this is literally true while others consider it metaphor, but everyone understands that magic comes from Siberys, natural creatures come from Eberron, and fiends and other evil things come from Khyber."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Sovereign Host",
+									"page": 7,
+									"entries": [
+										"The Sovereign Host is deeply ingrained into daily life in the Five Nations. Even people who don't believe in the Sovereigns know the names and basic attributes of the Nine and Six, and you don't have to be a Vassal to take part in the festivities of Aureon's Crown or Bounty's Blessing. Likewise, everyone knows that in the dawn of time, demons ruled the world, the Sovereigns fought them, and the demons were bound by the Silver Flame. Because of this, some Vassals actually believe the Sovereigns created the Silver Flame—it's just the light of Dol Arrah, and templars are fools for not seeing this.",
+										"The Dark Six are widely known by their titles—the Mockery, the Keeper—but their original names—Dol Azur, Kol Turrant—are usually only known by those with ties to a relevant cult or proficiency in Religion."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Silver Flame",
+									"page": 7,
+									"entries": [
+										"For hundreds of years, the Church of the Silver Flame has been a significant force within the Five Nations. Even citizens who don't worship the Silver Flame recognize it as a force that binds demons, and its templars are known as soldiers devoted to protecting the innocent from supernatural evil.",
+										"Prior to the Last War, local law enforcement commonly worked with templars to combat supernatural threats. However, the Last War undermined trust in the templars (though most people understand that templars are devoted to their faith rather than to Thrane); today, the level of cooperation between templars and local authorities varies from place to place. Most people— including those devoted to the Silver Flame—don't know the actual origins of the Silver Flame; they recognize couatls as divine servants of the Silver Flame, but not as its creators. The faithful believe the Silver Flame is a celestial force strengthened by noble souls, while many Vassals assert the Sovereigns created the Flame.",
+										"The doctrine of the Church of the Silver Flame doesn't deny the existence of the Sovereigns, and it's entirely possible—although uncommon—to follow both religions simultaneously. Similarly, most Silver Flame templars are happy to work with paladins of the Host. At the end of the day, the Church of the Silver Flame doesn't care if the Sovereigns exist. Flamic creed maintains that if they do exist, they are vast powers that maintain their individual domains in the world: Arawai makes sure there's rain for the crops, while Onatar watches over foundries. That's all great, but someone has to deal with the ghouls in the graveyard. So the church doesn't teach anything about the Sovereigns, and it doesn't encourage its followers to believe in the Sovereigns or incorporate them into its services—but it doesn't specifically deny the Sovereigns exist or forbid followers from holding both beliefs.",
+										"Along the same lines, the Church of the Silver Flame doesn't have a unique creation myth; to them, at the end of the day, it doesn't matter where the world itself came from. Beyond all else, the faith is practical: supernatural evil exists, it threatens the world, and good people should work together to fight it. Compared to our own world, the Church of the Silver Flame is more like the Jedi or the Men in Black than any of our religions. The Silver Flame is a real, concrete source of celestial energy that can empower champions to fight evil. Noble souls strengthen the Flame after death, so be virtuous—and if you want to believe in higher beings beyond that, feel free. What's important is to protect the innocent from supernatural evil, and faith in the Flame will help you to do that."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Secondary Religions",
+									"page": 8,
+									"entries": [
+										"Aside from the Silver Flame and the Sovereign Host, most of Khorvaire's religions are regional. The Blood of Vol is the best known of the secondary religions because of the role it played in Karrnath during the Last War, but outside that nation, most people think it's some sort of Karrnathi death cult. Everyone knows druids exist, and the Wardens of the Wood are relatively well known because of their central role in the Eldeen Reaches, but other druidic sects are largely unknown outside the areas they operate in. The Path of Light is generally only known about by people who have direct contact with kalashtar communities. Finally, people have a general sense that some elves worship their ancestors, but they don't know the specific details."
+									]
+								}
+							]
 						}
 					]
 				}
