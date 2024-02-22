@@ -38,6 +38,12 @@
 				},
 				{
 					"name": "Credits"
+				},
+				{
+					"name": "Mechanics Index"
+				},
+				{
+					"name": "Preface"
 				}
 			]
 		}
@@ -77,7 +83,16 @@
 								"type": "external",
 								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0001.webp"
 							},
-							"title": "Inside Cover"
+							"title": "Inside Cover",
+							"credit": "Bad Moon Art Studio"
+						},
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0023.webp"
+							},
+							"credit": "Thomas \"Dentifreaks\" Bourdon"
 						}
 					]
 				},
@@ -239,6 +254,41 @@
 							"entries": [
 								"Disclaimer: This book is the property of the Library of Ashtakala. The borrower must present one (1) soul as collateral, which will be returned intact provided this book is returned in good condition within one (1) century of date of issue. If return proves impossible, the soul becomes the possession of Ashtakala. The book may be placed upon a basalt altar and burned; a library associate will collect the ashes."
 							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Mechanics Index",
+					"page": 2,
+					"entries": [
+						"This book presents new stat blocks, subclasses, spells, and other mechanical options throughout its pages. You can find these options on the following pages.",
+						{
+							"type": "section",
+							"name": "Background Variant",
+							"entries": [
+								"TBD"
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Preface",
+					"page": 5,
+					"entries": [
+						"As I write these words, it's been almost twenty years since I first began exploring the world of Eberron in my mind. Over these two decades, a part of me has always been thinking about Eberron, considering all the questions the official books never had time and space to answer. What's the history of Dor Maleer? Just how smart are Karrnathi undead? Why so barren, Barren Sea?",
+						"In the days before the Dungeon Masters Guild, there was no opportunity to create new Eberron content. I couldn't legally release new lore or mechanics—but I could answer questions. I started doing just that on my website, Keith-Baker.com, and over the years, I've written hundreds of articles. But that quantity is a blessing and a curse; some topics are more generally useful than others, but they're needles in a very large haystack. Beyond those questions and answers, I couldn't give players and Dungeon Masters new tools to work with until the Dungeon Masters Guild opened up Eberron for new creations.",
+						"These pages you hold in your hands—or, potentially, these pixels you see on your screen—contain the answers to some of my favorite questions. This book blends practical advice (\"How do I start a new campaign? How do I handle travel?\") and deep lore detailing topics like the Twister of Roots and the gnomes of Lorghalan. In compiling this book, I've revised some of my articles and expanded others; even if you've read everything I've written, you'll find things here you've never seen before. And thanks to the excellent work of Imogen Gingell, we've added further depth and concrete mechanics to many ideas I previously only explored as stories. Because of her collaboration on this book, you can fight the daelkyr Avassh or wield the forbidden magic of the Shadow",
+						"What lies ahead evolved from questions I've answered and how I've run things in my own personal campaign. Remember that what you're hearing in these pages is my personal voice. As fans have come to call it over the years, this book is \"kanon\"; in addition to being far less formal than canonical material, details in this book may contradict canon sources. One of the core principles of Eberron is that canon should serve as an inspiration, not a restriction on the stories you want to tell—and that applies to me as much as it does to you! What you have here is an account of what I'm doing \"in my Eberron.\" I hope it will inspire you, but never let anything I say stop you from telling a story you want to tell in your Eberron.",
+						"And now, let's dive into the {@i Chronicles of Eberron}!",
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0007.webp"
+							},
+							"credit": "Keith Baker, creator of Eberron"
 						}
 					]
 				}
