@@ -19,6 +19,230 @@
 		],
 		"status": "wip",
 		"dateAdded": 1708532754,
-		"dateLastModified": 1708532754
-	}
+		"dateLastModified": 1708602271
+	},
+	"book": [
+		{
+			"name": "Chronicles of Eberron",
+			"id": "ChroniclesofEberron",
+			"source": "ChroniclesofEberron",
+			"cover": {
+				"type": "external",
+				"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0000.png"
+			},
+			"published": "2022-12-01",
+			"group": "homebrew",
+			"contents": [
+				{
+					"name": "Cover Arts"
+				},
+				{
+					"name": "Credits"
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "ChroniclesofEberron",
+			"source": "ChroniclesofEberron",
+			"data": [
+				{
+					"type": "section",
+					"name": "Cover Arts",
+					"page": 1,
+					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0000.webp"
+							},
+							"title": "Cover",
+							"credit": "Thomas \"Dentifreaks\" Bourdon"
+						},
+						{
+							"type": "hr"
+						},
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0002.webp"
+							}
+						},
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0001.webp"
+							},
+							"title": "Inside Cover"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Credits",
+					"page": 2,
+					"entries": [
+						{
+							"type": "list",
+							"style": "list-no-bullets",
+							"columns": 2,
+							"page": 2,
+							"items": [
+								{
+									"type": "item",
+									"name": "Lead Designer:",
+									"entries": [
+										"Keith Baker"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Designer:",
+									"entries": [
+										"Imogen Gingell"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Editor:",
+									"entries": [
+										"Laura Hirsbrunner"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Art Director:",
+									"entries": [
+										"Wayne Chang"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Layout Designer:",
+									"entries": [
+										"Laura Hirsbrunner"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Graphic Designer:",
+									"entries": [
+										"Laura Hirsbrunner, Dante Ezio Cifaldi"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Cover Illustrator:",
+									"entries": [
+										"Thomas \"Dentifreaks\" Bourdon"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Cartographer:",
+									"entries": [
+										"Marco \"MA4PS\" Bernadi"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Interior Illustrator:",
+									"entries": [
+										"James Austin, Rinehart Appiah, Júlio Azevedo, Bad Moon Art Studio, Marco \"MA4PS\" Bernardini, Olie Boldador, Thomas \"Dentifreaks\" Bourdon, Carolina Cesario, Alex Coggon, Eldon Cowgur, GAOZ, Laura Hirsbrunner, Matthew Johnson, Tim Jones, Vincentius Matthew, Robert Moody, Styliani \"Sylverryn\" Papadaki, Cheto See, Ari-Matti Toivonen, Spark, Lightning, and Thunderbolt crossbows © Sky Castle Studio LLC, used with permission"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Additional Illustrators:",
+									"entries": [
+										"Storn Cook, Konstantin Gerasimov, Jack Holliday, Fred Hooper, Tomasz Jedruszek, Camille Kuo, Steve Prescott, Mike Schley, Scott Roller, Sternfahrer, S. Tappin, Mark Turner, Daria Ustiugova, Warm Tail Art, Alexandr Yurthenco, Liu Zishan"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Producer:",
+									"entries": [
+										"Wayne Chang"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Sensitivity Consultant:",
+									"entries": [
+										"Alex Cunningham"
+									]
+								},
+								{
+									"type": "item",
+									"name": "Playtesters:",
+									"entries": [
+										"Patrick Dunning, Steve Fidler, Joseph Meehan, Elly Runnalls, Jarrod Taylor, Sierra Villarreal, Luke Volker"
+									]
+								}
+							]
+						},
+						{
+							"type": "gallery",
+							"images": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0004.webp"
+									}
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0005.webp"
+									}
+								}
+							]
+						},
+						"{@b Keith Baker Presents} is an imprint of the game design studio Twogether Studios, LLC. Keith Baker, Co-Owner & Creative Director Jenn Ellis, Co-Owner & Director www.TwogetherStudios.com",
+						{
+							"type": "hr"
+						},
+						{
+							"type": "entries",
+							"name": "On the Cover",
+							"page": 2,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0003.webp"
+									},
+									"title": "Full Cover",
+									"credit": "Thomas \"Dentifreaks\" Bourdon"
+								},
+								"The adventurers known as the Badgers have ventured into the demon city of Ashtakala in pursuit of the Codex Ourelonastrix. While Dela d'Cannith and Rev guard their escape path, the remaining Badgers must steal the tome under the very nose of Hektula, the First Scribe. This scene is brought to life by Thomas Bourdon."
+							]
+						},
+						{
+							"type": "hr"
+						},
+						"First Printing: November 2022. PDF Version: 1.02.",
+						"DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.",
+						"All other original material in this work is copyright 2022 by KB Presents and Twogether Studios, and published under the Community Content Agreement for Dungeon Masters Guild.",
+						{
+							"type": "hr"
+						},
+						{
+							"type": "quote",
+							"entries": [
+								"Disclaimer: This book is the property of the Library of Ashtakala. The borrower must present one (1) soul as collateral, which will be returned intact provided this book is returned in good condition within one (1) century of date of issue. If return proves impossible, the soul becomes the possession of Ashtakala. The book may be placed upon a basalt altar and burned; a library associate will collect the ashes."
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }
