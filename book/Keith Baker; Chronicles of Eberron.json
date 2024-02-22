@@ -62,7 +62,8 @@
 						"identifier": 1
 					},
 					"headers": [
-						"Religion"
+						"Religion",
+						"Mystical Forces"
 					]
 				}
 			]
@@ -392,6 +393,58 @@
 									"page": 8,
 									"entries": [
 										"Aside from the Silver Flame and the Sovereign Host, most of Khorvaire's religions are regional. The Blood of Vol is the best known of the secondary religions because of the role it played in Karrnath during the Last War, but outside that nation, most people think it's some sort of Karrnathi death cult. Everyone knows druids exist, and the Wardens of the Wood are relatively well known because of their central role in the Eldeen Reaches, but other druidic sects are largely unknown outside the areas they operate in. The Path of Light is generally only known about by people who have direct contact with kalashtar communities. Finally, people have a general sense that some elves worship their ancestors, but they don't know the specific details."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Mystical Forces",
+							"page": 8,
+							"entries": [
+								"Magic is part of everyday life in the Five Nations. But how deep does this knowledge run? What do people know about the enigmatic fey or the Draconic Prophecy?",
+								{
+									"type": "entries",
+									"name": "The Draconic Prophecy",
+									"page": 8,
+									"entries": [
+										"Though most people have heard of the \"Draconic Prophecy\", they know almost nothing about it aside from the fact that it's ... a prophecy. When common people do talk about the Prophecy, they're usually thinking of the {@i Caldyn Fragments}, a collection of pieces of the Prophecy assembled by Korranberg scholar Ohnal Caldyn (described in {@i City of Stormreach}). Most people have no idea that the Prophecy is an evolving matrix of conditional elements, nor that it's the key to releasing the overlords (a topic discussed further in chapter 15, \"The First War\")."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dragons",
+									"page": 8,
+									"entries": [
+										"Everyone knows that dragons exist and that they are terrifying and powerful creatures. Stories of dragons guarding hoards of treasure are plentiful, and if you're from Thrane, you know of the Bane of Thrane, the dragon who slew Prince Thrane. A few stories tell of heroes making bargains with dragons, or of dragons possessing secret knowledge. Everyone knows that Argonnessen is a land of dragons, but they know almost nothing about it beyond \"here there be dragons\" and the fact that people who go there don't come back. Some people know that dragons occasionally attack Aerenal, and the giants of Xen'drik were destroyed in some sort of war with dragons.",
+										"So everyone knows dragons exist, they are extremely powerful, and they can be deadly threats or enigmatic advisors—but most people don't expect to ever see a dragon. The idea of dragons secretly manipulating humanity is a conspiracy theory on par with our world's idea that many world leaders are secretly reptilian aliens; there are certainly people who believe it, but sensible people don't take it seriously. (For more information on this entirely preposterous theory that has absolutely no basis in reality, check out chapter 15.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dragonmarks and Aberrant Dragonmarks",
+									"page": 8,
+									"entries": [
+										"Dragonmarks have been part of civilization for over a thousand years. The dragonmarked houses provide the major services that are part of everyday life, and everyone in the Five Nations knows the names of the houses and the common twelve marks. However, a character without proficiency in {@skill History} is unlikely to have heard of the Mark of Death.",
+										"Common knowledge is that aberrant dragonmarks are dangerous to both their bearer and the people around them. Such marks are often seen as the \"touch of Khyber.\" Without proficiency in History, a character won't know much about the War of the Mark, aside from the fact that the aberrants were dangerous and destroyed the original city of Sharn."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fey and Archfey",
+									"page": 8,
+									"entries": [
+										"Everyone knows that dryads, sprites, and other fey exist, and that they're especially common near manifest zones tied to Thelanis. Not only do people know fairy tales about fey and archfey, they know these stories have some basis in reality. So when people tell stories about the Lady in Shadow and the Forest Queen, they believe that somewhere in the planes, you might actually be able to meet the Forest Queen and other archfey—though they don't personally expect to ever meet one. Specific knowledge about the fey is more prevalent in regions close to Thelanian manifest zones or where people have a tradition of bargaining with the fey; notably, Aundairians know more about fey than most other people of the Five Nations.",
+										"Most people can't easily differentiate between an archfey and some other type of powerful immortal. As a result, cultists of the Dragon Below bargaining with Sul Khatesh might mistakenly think they're dealing with an archfey, or cultists of Avassh might believe they're blessed by the Forest Queen. A cult might know they worship a being they call \"the Still Lord\" or \"the Queen of Shadows,\" but they don't automatically know whether that power is a fiend, a fey, or a celestial. Making such distinctions is an academic pursuit that would require a successful ability check."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Planes, Moons, and Manifest Zones",
+									"page": 9,
+									"entries": [
+										"Everyone knows the names of the planes and their basic attributes: \"Shavarath, the Eternal Battleground, is filled with celestials and fiends fighting.\" Similarly, they know the names of the moons and that each has a mystic tie to a corresponding plane; many people also hold superstitions regarding the impact of each moon on daily life, especially for those born under that moon. Think of this like knowledge of the solar system in our world; most people can name the planets, and they know Mars is the Red Planet, but only someone who has studied them can tell you the names of each of Jupiter's moons.",
+										"Even common folk understand the planes have concrete effects on the world through their manifest zones and coterminous/remote phases. Someone may not be able to tell you the precise effects of a Shavarath manifest zone unless they actually live by one, but they know Shavarath is the Eternal Battleground, and they could guess what such a manifest zone might do. (You can learn more about the planes, manifest zones, and moons in chapter 5 of {@i Exploring Eberron}.)"
 									]
 								}
 							]
