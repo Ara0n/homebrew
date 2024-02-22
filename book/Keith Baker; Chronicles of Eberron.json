@@ -63,7 +63,622 @@
 					},
 					"headers": [
 						"Religion",
-						"Mystical Forces"
+						"Mystical Forces",
+						"Supernatural Evil",
+						"General Information"
+					]
+				},
+				{
+					"name": "Arms, Armor, and Aesthetics",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					},
+					"headers": [
+						"Magical, Not Medieval",
+						"Armor and Fashion",
+						"Mundane Weapons, Magical World"
+					]
+				},
+				{
+					"name": "Nobility of Galifar",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					},
+					"headers": [
+						"Position of Privilege",
+						"Traditions of Galifar",
+						"Nations and Nobles Today",
+						{
+							"depth": 1,
+							"header": "Aundair"
+						},
+						{
+							"depth": 1,
+							"header": "Breland"
+						},
+						{
+							"depth": 1,
+							"header": "Cyre"
+						},
+						{
+							"depth": 1,
+							"header": "Karrnath"
+						},
+						{
+							"depth": 1,
+							"header": "Thrane"
+						},
+						{
+							"depth": 1,
+							"header": "Other Nations"
+						},
+						"Notable Nobles",
+						"Using the Nobility"
+					]
+				},
+				{
+					"name": "Adding Ancestries to Eberron",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 4
+					},
+					"headers": [
+						"Reasons to Play",
+						"Telling Their Stories",
+						{
+							"depth": 1,
+							"header": "Aarakocra"
+						},
+						{
+							"depth": 1,
+							"header": "Centaurs"
+						},
+						{
+							"depth": 1,
+							"header": "Changelings"
+						},
+						{
+							"depth": 1,
+							"header": "Dhampirs"
+						},
+						{
+							"depth": 1,
+							"header": "Fairies and Satyrs"
+						},
+						{
+							"depth": 1,
+							"header": "Firbolgs"
+						},
+						{
+							"depth": 1,
+							"header": "Genasi"
+						},
+						{
+							"depth": 1,
+							"header": "Goliaths"
+						},
+						{
+							"depth": 1,
+							"header": "Grungs"
+						},
+						{
+							"depth": 1,
+							"header": "Harengons"
+						},
+						{
+							"depth": 1,
+							"header": "Kenku"
+						},
+						{
+							"depth": 1,
+							"header": "Warforged"
+						}
+					]
+				},
+				{
+					"name": "The Tairnadal Elves",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 5
+					},
+					"headers": [
+						"Tairnadal Faith",
+						{
+							"depth": 1,
+							"header": "Ancestors of Legend"
+						},
+						{
+							"depth": 1,
+							"header": "Paladin: Oath of Veneration"
+						},
+						"Tairnadal Society"
+					]
+				},
+				{
+					"name": "Gnomes of Lorghalan",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 6
+					},
+					"headers": [
+						"Zil Dissidents",
+						"Island of Lorghalan",
+						"Fleet of Lorghalan",
+						"People of Lorghalan",
+						"Lorghalan Adventures",
+						"Lorghalan Characters"
+					]
+				},
+				{
+					"name": "Gnomes of Pylas Pyrial",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 7
+					},
+					"headers": [
+						"Gnomes of Joy",
+						"Visiting the Spire",
+						"Pyrial Adventures",
+						"Pyrial Characters."
+					]
+				},
+				{
+					"name": "The Dark Six",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 8
+					},
+					"headers": [
+						"The Cazhaak Faith",
+						"The Devourer",
+						{
+							"depth": 1,
+							"header": "Many Faces of the Devourer"
+						},
+						{
+							"depth": 1,
+							"header": "Using the Devourer"
+						},
+						"The Fury",
+						{
+							"depth": 1,
+							"header": "Many Faces of the Fury"
+						},
+						{
+							"depth": 1,
+							"header": "Using the Fury"
+						},
+						"The Keeper",
+						{
+							"depth": 1,
+							"header": "Many Faces of the Keeper"
+						},
+						{
+							"depth": 1,
+							"header": "Using the Keeper"
+						},
+						"The Mockery",
+						{
+							"depth": 1,
+							"header": "Many Faces of the Mockery"
+						},
+						{
+							"depth": 1,
+							"header": "Using the Mockery"
+						},
+						"The Shadow",
+						{
+							"depth": 1,
+							"header": "Many Faces of the Shadow"
+						},
+						{
+							"depth": 1,
+							"header": "Using the Shadow"
+						},
+						"The Traveler",
+						{
+							"depth": 1,
+							"header": "Many Faces of the Traveler"
+						},
+						{
+							"depth": 1,
+							"header": "Using the Traveler"
+						}
+					]
+				},
+				{
+					"name": "The Vault",
+					"ordinal": {
+						"type": "part",
+						"identifier": 2
+					}
+				},
+				{
+					"name": "Session Zero",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 9
+					},
+					"headers": [
+						"Starting a Campaign",
+						"Session Zero",
+						{
+							"depth": 1,
+							"header": "Safety Tools"
+						},
+						{
+							"depth": 1,
+							"header": "Rules and House Rules"
+						},
+						{
+							"depth": 1,
+							"header": "Character Introduction"
+						}
+					]
+				},
+				{
+					"name": "It’s All About the Journey",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 10
+					},
+					"headers": [
+						"Filling the Space Between"
+					]
+				},
+				{
+					"name": "The Barren Sea",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 11
+					},
+					"headers": [
+						"Unyielding Waters",
+						"Kua toa: Dreamers in the Deep"
+					]
+				},
+				{
+					"name": "The Astral Plane",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 12
+					},
+					"headers": [
+						"Denizens of the Astral Plane",
+						"Astral Locations",
+						{
+							"depth": 1,
+							"header": "Travel on the Astral Plane"
+						},
+						{
+							"depth": 1,
+							"header": "Pylas Var-Tolai"
+						},
+						{
+							"depth": 1,
+							"header": "Ruins and Hermitages"
+						},
+						{
+							"depth": 1,
+							"header": "Sharokarthel"
+						},
+						{
+							"depth": 1,
+							"header": "Subspace"
+						},
+						{
+							"depth": 1,
+							"header": "Tu'narath"
+						},
+						"Planar Manifestations"
+					]
+				},
+				{
+					"name": "The Overlords Revealed",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 13
+					},
+					"headers": [
+						"Immortal Archfiends",
+						"Who Are the Overlords ?",
+						{
+							"depth": 1,
+							"header": "Ashtakala"
+						},
+						{
+							"depth": 1,
+							"header": "Ashurak"
+						},
+						{
+							"depth": 1,
+							"header": "Bel Shalor"
+						},
+						{
+							"depth": 1,
+							"header": "The Daughter of Khyber"
+						},
+						{
+							"depth": 1,
+							"header": "Dral Khatuur"
+						},
+						{
+							"depth": 1,
+							"header": "Eldrantulku"
+						},
+						{
+							"depth": 1,
+							"header": "Katashka"
+						},
+						{
+							"depth": 1,
+							"header": "The Lurker in Shadow"
+						},
+						{
+							"depth": 1,
+							"header": "Masvirik"
+						},
+						{
+							"depth": 1,
+							"header": "Rak Tulkhesh"
+						},
+						{
+							"depth": 1,
+							"header": "Ran Iishiv"
+						},
+						{
+							"depth": 1,
+							"header": "Sakinnirot"
+						},
+						{
+							"depth": 1,
+							"header": "The Spinner of Shadows"
+						},
+						{
+							"depth": 1,
+							"header": "Sul Khatesh"
+						},
+						{
+							"depth": 1,
+							"header": "Tol Kharash"
+						},
+						{
+							"depth": 1,
+							"header": "Tul Oreshka"
+						},
+						{
+							"depth": 1,
+							"header": "Val Gultesh"
+						},
+						{
+							"depth": 1,
+							"header": "The Wild Heart"
+						},
+						{
+							"depth": 1,
+							"header": "Yad-Raghesh"
+						},
+						"Using the Overlords",
+						{
+							"depth": 1,
+							"header": "Boons of the Overlords"
+						},
+						{
+							"depth": 1,
+							"header": "The Year of Blood and Fire"
+						}
+					]
+				},
+				{
+					"name": "Ashtakala",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 14
+					},
+					"headers": [
+						"City of Demons",
+						"Demon City",
+						"Using Ashtakala"
+					]
+				},
+				{
+					"name": "The First War",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 15
+					},
+					"headers": [
+						"Battelground of Prophecy",
+						"Using the First War"
+					]
+				},
+				{
+					"name": "Ghost Stories of Eberron",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 16
+					},
+					"headers": [
+						"The Reality of Undead",
+						"Types of Undead",
+						{
+							"depth": 1,
+							"header": "Skeletons and Zombies"
+						},
+						{
+							"depth": 1,
+							"header": "Ghouls and Ghasts"
+						},
+						{
+							"depth": 1,
+							"header": "Wights"
+						},
+						{
+							"depth": 1,
+							"header": "Wraiths and Specters Ghosts, Banshees, and Dawn Specters"
+						},
+						{
+							"depth": 1,
+							"header": "Vampires"
+						},
+						{
+							"depth": 1,
+							"header": "Mummies"
+						},
+						{
+							"depth": 1,
+							"header": "Liches"
+						},
+						{
+							"depth": 1,
+							"header": "Death Knights"
+						}
+					]
+				},
+				{
+					"name": "The Grim Lords",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 17
+					},
+					"headers": [
+						"Members of the Grim",
+						{
+							"depth": 1,
+							"header": "Lord Varonen"
+						},
+						{
+							"depth": 1,
+							"header": "Haeldar Krakensbane"
+						},
+						{
+							"depth": 1,
+							"header": "The Ship of Eldaraen"
+						},
+						{
+							"depth": 1,
+							"header": "The Vyrael Sisters"
+						},
+						"Aerenal and the Bloodsails"
+					]
+				},
+				{
+					"name": "Karrnathi Undead",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 18
+					},
+					"headers": [
+						"Canon: Unchanging Undead",
+						"Kanon: Uncanny Undead",
+						"Frequently Asked Questions"
+					]
+				},
+				{
+					"name": "Mordain the Fleshweaver",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 19
+					},
+					"headers": [
+						"History of Mordain",
+						"Using the Fleshweaver"
+					]
+				},
+				{
+					"name": "Avass, the Twister of Roots",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 20
+					},
+					"headers": [
+						"Twister of Roots",
+						"Cults and Creatures of Avassh",
+						"Using the Twister of Roots"
+					]
+				},
+				{
+					"name": "Riedra",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 21
+					},
+					"headers": [
+						"Psionics in Fifth Edition",
+						{
+							"depth": 1,
+							"header": "Psionic Characters and NPCs"
+						},
+						{
+							"depth": 1,
+							"header": "Psionic Feats"
+						},
+						"Everyday Psionics in Riedra",
+						{
+							"depth": 1,
+							"header": "Psionic Infrastructure"
+						},
+						{
+							"depth": 1,
+							"header": "Riedran Tools"
+						},
+						"Psionic Weapons",
+						{
+							"depth": 1,
+							"header": "Sentira Lenses"
+						},
+						{
+							"depth": 1,
+							"header": "Sentira Shards"
+						},
+						"Dreamspace",
+						"Cities of Riedra",
+						"Provinces of Riedra",
+						{
+							"depth": 1,
+							"header": "Borunan"
+						},
+						{
+							"depth": 1,
+							"header": "Corvagura"
+						},
+						{
+							"depth": 1,
+							"header": "Dor Maleer"
+						},
+						{
+							"depth": 1,
+							"header": "Khalesh"
+						},
+						{
+							"depth": 1,
+							"header": "Nulakesh"
+						},
+						{
+							"depth": 1,
+							"header": "Ohr Kaluun"
+						},
+						{
+							"depth": 1,
+							"header": "Pyrine"
+						},
+						{
+							"depth": 1,
+							"header": "Rhiavhaar"
+						}
+					]
+				},
+				{
+					"name": "High-Level Adventures",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 22
+					},
+					"headers": [
+						"Mighty and Malevolent",
+						"With Great Power"
 					]
 				}
 			]
