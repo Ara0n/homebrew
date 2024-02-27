@@ -1232,41 +1232,44 @@
 										"Until the start of the Last War, the soldiers of the Five Nations all served in the united army of Galifar. Over the century of war, styles evolved as each nation strove both to distinguish its soldiers and improve their tools of war. This was especially true with elite forces, which show off the strengths of the nation; Karrnath fielded the finest heavy infantry of the Five Nations, while Aundairians relied more on arcane firepower and lighter armor. However, throughout the war, the uniform of common soldiers of the Five Nations remained quite similar. Here's an overview of the common armor of today:",
 										{
 											"type": "list",
-											"style": "list-hang-notitle",
+											"style": "list-no-bullets",
 											"columns": 0,
 											"page": 13,
 											"items": [
 												{
 													"type": "item",
-													"name": "Light armor:",
+													"name": "Light armor",
+													"nameDot": false,
 													"entries": [
 														"typically involves a leather greatcoat or thick leather tunic. This is supplemented with heavy leather gauntlets and boots, or for better defense, metal shin guards and vambraces."
 													]
 												},
 												{
 													"type": "item",
-													"name": "Medium armor:",
+													"name": "Medium armor",
+													"nameDot": false,
 													"entries": [
 														"uses the same base—a long leather coat or vest—enhanced with a strong metal helmet and a breastplate. The breastplate of the common soldier is cheap and heavy, and actually uses the statistics of scale mail (including imposing disadvantage on Stealth checks), while officers and elite forces wear a finer, lighter design that uses breastplate statistics."
 													]
 												},
 												{
 													"type": "item",
-													"name": "Heavy armor:",
+													"name": "Heavy armor",
+													"nameDot": false,
 													"entries": [
 														"is considerably more distinctive between nations. For example, the Brelish equivalent of splint mail combines a breastplate with a layer of chainmail, while Karrnathi splint mail is light plate."
 													]
-												},
-												"This reflects the armor of the common soldier of the Five Nations, but elite units, mercenaries, local militias, and other forces use different styles and materials. If you're playing a ranger with the soldier background and want to wear hide armor, you could say that it was a distinct style of the Brelish \"leatherback scouts.\" Beyond this, every nation has its own distinct approach to fashion, both in its armor and civilian clothing. Here are a few style points to keep in mind.",
-												{
-													"type": "image",
-													"href": {
-														"type": "external",
-														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0012.webp"
-													},
-													"credit": "Bad Moon Art Studio"
 												}
 											]
+										},
+										"This reflects the armor of the common soldier of the Five Nations, but elite units, mercenaries, local militias, and other forces use different styles and materials. If you're playing a ranger with the soldier background and want to wear hide armor, you could say that it was a distinct style of the Brelish \"leatherback scouts.\" Beyond this, every nation has its own distinct approach to fashion, both in its armor and civilian clothing. Here are a few style points to keep in mind.",
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0012.webp"
+											},
+											"credit": "Bad Moon Art Studio"
 										},
 										{
 											"type": "entries",
