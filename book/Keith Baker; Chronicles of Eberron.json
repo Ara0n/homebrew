@@ -1140,7 +1140,7 @@
 										"People in Khorvaire know lizardfolk and dragonborn come from Q'barra, but most don't realize these are two different ancestries. Most people know drow are from Xen'drik. Tieflings are generally understood to be planetouched; on the other hand, aasimar and genasi (as discussed in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}) are generally so rare that they won't be recognized by the general populace. With these and other uncommon folk, Eberron's people are generally accepting of creatures from ancestries they've never encountered. After all, this is a world where people deal with humans, orcs, shifters, goblins, warforged, elves, kalashtar, ogres, medusas, and more every day; so if someone has never seen a goliath before, they're far more likely to say \"Well, that's new\" than to panic at the sight of alien giant-folk. Unusual characters are generally targets of curiosity rather than fear."
 									]
 								},
-								{
+{
 									"type": "entries",
 									"name": "The History of Xen'drik",
 									"page": 11,
@@ -1179,7 +1179,203 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Arms, Armor, and Aesthetics",
+					"page": 12,
+					"entries": [
+						"Eberron is a world of elemental-powered lightning rails and airships, of mass-produced warforged, of magnificent towers that scrape Sharn's sky. But it's also a world where your character might be a knight in plate armor hitting things with a sword or shooting them with crossbow bolts. So what does that look and feel like? Does the world seem medieval, or is the aesthetic closer to World War I ?",
+						{
+							"type": "section",
+							"name": "Magical, Not Medieval",
+							"page": 12,
+							"entries": [
+								"When creating Eberron, the design team made a conscious decision to keep the experience of the world grounded in D&D. This meant people would still wear plate armor. They'd ride horses instead of motorcycles. They'd fight using swords and bows rather than firearms. But while Eberron's design process didn't make classic armor and weaponry obsolete, the setting isn't particularly medieval in tone. Fifth edition highlights the spread of wandslingers, lightly armored soldiers who fight using damage-dealing cantrips; they are one of many examples of how the world of Eberron is moving beyond medieval trappings. In one of my favorite quotes from {@i {@loader Wayfinder's Guide to Eberron|collection/Wayfinder's Guide to Eberron.json|prerelease}}, an Aundairian exclaims, \"Sovereigns above, Wyllis. We're days away from the Eleventh Century and you're still shooting people with pointed sticks?\" So in 998 YK, Eberron is nearing the point where a soldier could just as plausibly be a leather-clad, wand-wielding warlock as they could be a fighter in plate with sword and shield—but for now, armies still clash with sword and spear.",
+								"With that said, Eberron's central concept is that of a world whose progress is driven by magic, not science. Eberron has trains, yes—but they don't use steam or gears, they're a series of stagecoaches that ride a line of lightning. Eberron is not our world, and while the tools its people use may have names we consider medieval, that doesn't mean they are medieval in form or function.",
+								"Heavy armor became obsolete in our world because crossbows and gunpowder weapons could easily penetrate it, and because the protective value of the armor no longer offset its limitations on movement. But in fifth edition, this isn't the case: regardless of whether your attacker is using a sword, heavy crossbow, or firearm, plate armor provides more protection than leather armor, and it's remarkably flexible (though noisy), imposing no penalties on Dexterity ({@skill Acrobatics}) checks and the like. You can choose to attribute these qualities to the limitations of a streamlined rules system—but I prefer to embrace the idea that this isn't medieval armor. Though made of heavy plates and requiring Strength to use it effectively, plate armor needn't be medieval in material or appearance.",
+								"The same concept applies to other \"medieval\" things. Orien couriers use special {@i {@item horseshoes of speed}}, channeling the power of their dragonmark to give a mount greater speed and durability. So yes, people are riding horses instead of motorcycles, but that Orien courier can tear past you with blue light flashing from their horse's hooves! On rare occasions, you might even see a courier with {@i {@item horseshoes of a zephyr}} riding a horse across the surface of a river. Eberron is a magical world; rather than thinking \"they don't have cars, the world is primitive,\" highlight what they've developed instead. Describe a squad of Vadalis hippogriffs passing overhead or a street performer weaving wonders out of illusion; it's not {@i medieval}, it's {@i magical}."
+							]
+						},
+						{
+							"type": "section",
+							"name": "Armor and Fashion",
+							"page": 12,
+							"entries": [
+								"Magic is a part of life—and very much a part of fashion. {@i {@item Glamerweave|ERLW}} (presented in {@book Eberron: Rising from the Last War|ERLW}) is commonly used to imbue clothing with illusion magic. A sorcerer may wear a cloak lined with a starry sky, or the armor of a former soldier could be etched with glowing sigils representing the service medals bestowed on them. The Glamerweave Designs table provides inspiration for illusion magic you might see in the fashions of the Five Nations.",
+								{
+									"type": "statblock",
+									"tag": "table",
+									"source": "ChroniclesofEberron",
+									"name": "Glamerweave Designs",
+									"page": 12,
+									"style": "inset"
+								},
+								"Similarly, {@i {@item shiftweave|ERLW}} (also in {@i Eberron: Rising from the Last War}) allows a person to shift their attire between multiple outfits; for example, you might change between a traveling outfit and a shimmering gown with a snap of your fingers. And {@i {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}} discusses cosmetic transmutation—the idea that you can go to a cosmetic illusionist and add magical details to your appearance. Particularly in Aundair, you can expect to see people with glowing eyes, metallic hair, or other cosmetic details that are obviously the product of magic.",
+								"Magical enhancement doesn't just apply to civilian attire. After all, Khorvaire is just two years out from decades of war, when all genders served in the armies of the Five Nations. Wartime trends often prioritized practical clothing allowing freedom of movement; the closer you were to the front lines, the more you needed to be ready for anything. Though some nobles might embrace fashions that restrict movement to make a statement— \"my gown shows I'm not going to fight, or if I do, it'll be with magic, not muscle\"—these would be exceptions.",
+								"Even after the war, armor (especially light armor) remains a part of everyday life and fashion. Leather and studded leather can be designed to be stylish and comfortable, and many former soldiers wear a modified form of their service armor. Think of it a bit like gunslingers in westerns: carrying a pistol suggests you can handle yourself, but it's not going to immediately raise an alarm. So while heavy armor definitely makes a statement, people won't blink at someone casually wearing light armor.",
+								{
+									"type": "entries",
+									"name": "When Is a Breastplate Not a Breastplate ?",
+									"page": 13,
+									"entries": [
+										"The names of armors in D&D are arbitrary. A more complex system might explore the advantages and disadvantages of chainmail versus rigid armor, but fifth edition keeps it simple. Mechanically, different types of armor are differentiated by the presence (or absence) of metal, weight, AC, disadvantage on Stealth ... and the fact that someone who examines you can recognize those things. Everything else is story.",
+										"In other words, there's no reason you can't say the Doldarun dwarves produce exceptionally strong, light \"chainmail\" whose statistics coincidentally match breastplate statistics—allowing a character with medium armor proficiency to wear armor with heavy armor aesthetics. Your \"breastplate\" armor doesn't have to be an actual breastplate, as long as someone looking at it can recognize its qualities. The same applies to any armor, whether studded leather or heavy plate—describe it with whatever aesthetics you wish, as long as it uses the same statistics and can be recognized by anyone who might need to know how well you'd be protected in combat.",
+										"All of this comes back to the idea that just because people in Eberron use tools we think of as medieval, it doesn't mean they {@i are} medieval. You can adjust the appearance of everything from crossbows to plate armor, making their designs feel more modern or culturally specific. Don't limit yourself with an armor's official name, as long as you logically maintain its statistics and ease of recognition."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Armor of the Five Nations",
+									"page": 13,
+									"entries": [
+										"Until the start of the Last War, the soldiers of the Five Nations all served in the united army of Galifar. Over the century of war, styles evolved as each nation strove both to distinguish its soldiers and improve their tools of war. This was especially true with elite forces, which show off the strengths of the nation; Karrnath fielded the finest heavy infantry of the Five Nations, while Aundairians relied more on arcane firepower and lighter armor. However, throughout the war, the uniform of common soldiers of the Five Nations remained quite similar. Here's an overview of the common armor of today:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"columns": 0,
+											"page": 13,
+											"items": [
+												{
+													"type": "item",
+													"name": "Light armor:",
+													"entries": [
+														"typically involves a leather greatcoat or thick leather tunic. This is supplemented with heavy leather gauntlets and boots, or for better defense, metal shin guards and vambraces."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Medium armor:",
+													"entries": [
+														"uses the same base—a long leather coat or vest—enhanced with a strong metal helmet and a breastplate. The breastplate of the common soldier is cheap and heavy, and actually uses the statistics of scale mail (including imposing disadvantage on Stealth checks), while officers and elite forces wear a finer, lighter design that uses breastplate statistics."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Heavy armor:",
+													"entries": [
+														"is considerably more distinctive between nations. For example, the Brelish equivalent of splint mail combines a breastplate with a layer of chainmail, while Karrnathi splint mail is light plate."
+													]
+												},
+												"This reflects the armor of the common soldier of the Five Nations, but elite units, mercenaries, local militias, and other forces use different styles and materials. If you're playing a ranger with the soldier background and want to wear hide armor, you could say that it was a distinct style of the Brelish \"leatherback scouts.\" Beyond this, every nation has its own distinct approach to fashion, both in its armor and civilian clothing. Here are a few style points to keep in mind.",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0012.webp"
+													},
+													"credit": "Bad Moon Art Studio"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Aundair",
+											"page": 14,
+											"entries": [
+												"Magic is part of daily life in the Five Nations, and this is never truer than in Aundair. Aundairians often use glamerweave or transmutation to add flair to both clothing and armor, and an Aundairian knight could have twinkling stars or brooding storm clouds imbued into their armor. With that said, Aundairians favor grace, mobility, and skill over heavy armor and brute strength. The Aundairian wandslinger—lightly armored, fashionably dressed, wielding wand and rapier—is celebrated over the heavily armored knight."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Breland",
+											"page": 14,
+											"entries": [
+												"The Brelish are pragmatic people with no great desire to stand out on the battlefield. Thanks to their superior industrial capacity, they were able to field more soldiers in medium armor than their rivals; and due to mass production, Brelish soldiers have nearly identical equipment. Brelish soldiers add personal touches, to be sure, but these are more related to comfort and functionality than to Aundairian flair."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cyre",
+											"page": 14,
+											"entries": [
+												"Cyre has long been known for \"the Cyran Appreciation.\" The Cyrans say they see the best in the nations around them and combine those elements to make something new; others say that they Cyrans only appropriate instead of innovating. Regardless, Cyran armor and clothing combine Brelish practicality with some of the flair of Aundair. Cyran heavy armor mirrors Karrnathi light plate designs, though without the gothic styling. Cloaks and capes are an important part of Cyran fashion, and Cyran soldiers are sometimes called \"Greencloaks\" due to their distinctive uniform cloaks"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Karrnath",
+											"page": 14,
+											"entries": [
+												"Unlike the flamboyance of Aundair, Karrnath's fashions emphasize strength. The nation is both gothic and martial in its overall style, and its armor and helmets are designed to intimidate. The Karrns have always been the finest armorers of the Five Nations, and armor—especially heavy armor—is more common here than in other nations, both on and off the battlefield. Their armor is frequently stylized; aside from their infamous bone knights, you can expect gothic styling or details tied to a family crest. The flag of Karrnath is black and red, and both these colors are common in their fashions."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Thrane",
+											"page": 14,
+											"entries": [
+												"Thrane is the most practical and least pretentious of the Five Nations. Templars may wear heavy armor, but the common peasant militias rely on light armor and bows. Light armor is common in everyday life, but unostentatious; cosmetic transmutation and glamerweave are rare. Thrane militias don't have a standardized uniform, but followers of the Silver Flame usually display a symbol of their faith, often through pendants, brooches, or painted designs."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Other Nations",
+											"page": 14,
+											"entries": [
+												"Elsewhere in Khorvaire, armor and fashions are sometimes influenced by trends in the Five Nations, but each culture's armor strongly reflects its own traditions. The {@b Mror Holds} have a strong tradition of chainmail, and Doldarun double-chain uses the statistics of plate armor. Each of the {@b Lhazaar Principalities} has its own distinctive style; however, as befits a people who spend much of their time on the sea, they tend to wear light armor that won't impede a swimmer. It's common for the people of {@b Darguun} to wear armor in everyday life; each clan has its own style, but medium armor is common, especially different forms of scale mail; like Karrnath, Darguul arms and armor are often designed to intimidate. The people of the {@b Eldeen Reaches} use natural materials taken from supernatural creatures, making them stronger than one would expect; as such, the Eldeen equivalent of plate armor could be made from the hide and bones of a demon-spawned bear. Meanwhile, the people of {@b Zilargo} prefer not to wear armor in everyday life—after all, thanks to the Trust, they have no fear of violence—though light armor can be incorporated into casual fashion."
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
+			]
+		}
+	],
+	"table": [
+		{
+			"source": "ChroniclesofEberron",
+			"name": "Glamerweave Designs",
+			"caption": "Glamerweave Designs",
+			"page": 12,
+			"colLabels": [
+				"d10",
+				"Glamerweave"
+			],
+			"rows": [
+				[
+					"1",
+					"A starry night sky with the moons and Ring of Siberys."
+				],
+				[
+					"2",
+					"Cloth that appears to be metal—depending on style, it might be polished or rusty."
+				],
+				[
+					"3",
+					"Patterns of dancing flame rising up from the fabric."
+				],
+				[
+					"4",
+					"A roiling thunderstorm with periodic flashes of lightning."
+				],
+				[
+					"5",
+					"Cloth that appears to be formed of a swarm of butterflies or other insects."
+				],
+				[
+					"6",
+					"Whirling patterns of clouds or mist."
+				],
+				[
+					"7",
+					"A national flag, rippling as if in a breeze."
+				],
+				[
+					"8",
+					"A dragon circling the clothing, occasionally releasing gouts of flame."
+				],
+				[
+					"9",
+					"A labyrinth through which a monster chases an adventurer."
+				],
+				[
+					"10",
+					"The skyline of Sharn with tiny moving skycoaches."
+				]
 			]
 		}
 	]
