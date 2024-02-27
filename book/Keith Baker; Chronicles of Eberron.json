@@ -1140,7 +1140,7 @@
 										"People in Khorvaire know lizardfolk and dragonborn come from Q'barra, but most don't realize these are two different ancestries. Most people know drow are from Xen'drik. Tieflings are generally understood to be planetouched; on the other hand, aasimar and genasi (as discussed in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}) are generally so rare that they won't be recognized by the general populace. With these and other uncommon folk, Eberron's people are generally accepting of creatures from ancestries they've never encountered. After all, this is a world where people deal with humans, orcs, shifters, goblins, warforged, elves, kalashtar, ogres, medusas, and more every day; so if someone has never seen a goliath before, they're far more likely to say \"Well, that's new\" than to panic at the sight of alien giant-folk. Unusual characters are generally targets of curiosity rather than fear."
 									]
 								},
-{
+								{
 									"type": "entries",
 									"name": "The History of Xen'drik",
 									"page": 11,
@@ -1316,6 +1316,108 @@
 												"Elsewhere in Khorvaire, armor and fashions are sometimes influenced by trends in the Five Nations, but each culture's armor strongly reflects its own traditions. The {@b Mror Holds} have a strong tradition of chainmail, and Doldarun double-chain uses the statistics of plate armor. Each of the {@b Lhazaar Principalities} has its own distinctive style; however, as befits a people who spend much of their time on the sea, they tend to wear light armor that won't impede a swimmer. It's common for the people of {@b Darguun} to wear armor in everyday life; each clan has its own style, but medium armor is common, especially different forms of scale mail; like Karrnath, Darguul arms and armor are often designed to intimidate. The people of the {@b Eldeen Reaches} use natural materials taken from supernatural creatures, making them stronger than one would expect; as such, the Eldeen equivalent of plate armor could be made from the hide and bones of a demon-spawned bear. Meanwhile, the people of {@b Zilargo} prefer not to wear armor in everyday life—after all, thanks to the Trust, they have no fear of violence—though light armor can be incorporated into casual fashion."
 											]
 										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Mundane Weapons, Magical World",
+							"page": 14,
+							"entries": [
+								"Moving from armor to arms, many of the same questions and considerations apply. Given the overall sophistication of Eberron, it can seem strange that people use medieval weapons like crossbows. Though wandslingers are formidable and growing in number, becoming one requires specialized training, so you can't just hand a peasant a wand. In a world of airships and warforged, why haven't people created more effective personal weapons?",
+								"As discussed earlier in this chapter, the simplest answer to this question is that Eberron's weapons aren't medieval—just because D&D calls a weapon a crossbow doesn't mean it's the same as medieval crossbows from our world. Keep in mind that while the following sections focus on crossbows, similar concepts could be applied when envisioning any ranged or melee weapon.",
+								{
+									"type": "entries",
+									"name": "When Is a Crossbow Not a Crossbow",
+									"page": 14,
+									"entries": [
+										"When we consider ranged weapons that would fit well in Eberron, we're looking for an affordable weapon anyone can use without training. Though it should be better than a medieval crossbow, it doesn't need to match a modern firearm; in general, Eberron's advances are closer to the late nineteenth century than to the twentieth century.",
+										"In truth, the {@item light crossbow|PHB} in the {@i {@book Player's Handbook|PHB}} is already more efficient than a medieval crossbow; the crank method for reloading a medieval crossbow allowed for around two shots per minute, and even the 1861 Springfield rifle—a common weapon in the American Civil War—could only fire 2-4 shots per minute. By contrast, a light crossbow in D&D can fire ten bolts per minute with enough damage to drop a commoner with one shot. So while it's no match for modern automatic weapons, the light crossbow is far from medieval.",
+										"If you don't like the crossbow aesthetic, you could introduce gunpowder to the Five Nations—it can certainly be both accessible and deadly—and this option is discussed later in this chapter. But let's first consider ways to describe crossbows (or any weapon) in a way that fits Eberron and its emphasis on magic instead of technology.",
+										{
+											"type": "entries",
+											"name": "Keep it Medieval",
+											"page": 15,
+											"entries": [
+												"One way to highlight the efficiency of the modern crossbow is to occasionally have adventurers encounter weaponry that's more medieval in design. The soldiers of Galifar I used medieval-style crossbows, with more limited range and a slow crank to reload; the superior crossbows used today are the result of centuries of engineering. Similarly, the Dhakaani and the Five Nations use highly effective modern crossbows, but when out in some Lhazaar backwater or fighting the Carrion Tribes, adventurers might encounter inferior weapons. You could represent this simply through how you describe a weapon's aesthetics; or if you want to represent it mechanically, perhaps reloading such a crossbow requires a bonus action, and you can't move and reload on the same turn. An even more limited design could reflect a slow crank mechanism by requiring an action to reload rather than a bonus action, reinforcing that this weapon is inferior to what the adventurers are used to."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Mundane Weapon, Supernatural Materials",
+											"page": 15,
+											"entries": [
+												"Some modern crossbows maintain the same general design as a classic crossbow—they're just better than any medieval weapon. They use superior materials and techniques that don't exist in our world, including products of manifest zones and alchemy; for example, densewood quarrels might be more aerodynamic and small enough to store in an integrated quiver. Similarly, the weapons themselves may not be magical, but the artisans building them may be guided by the {@i {@spell magecraft|ExploringEberron}} cantrip (from {@i {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}}) and use transmutation techniques to enhance their work. The fact that the light crossbow can be loaded in 6 seconds, with no strength requirement or limitation on movement, reflects exceptional engineering. Light crossbows like the Brelish SAC-12 and the Dhakaani Aram'kron (see \"{@book Crossbows of the Five Nations|ChroniclesofEberron|7|Crossbows of the Five Nations}\" ) are broadly similar in appearance to a classic crossbow, aside from innovations like integrated clips or bayonets."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Arcane Science",
+											"page": 15,
+											"entries": [
+												"The crossbow isn't a magic weapon, but it can still operate using magical principles. In Eberron, magic is a science, and this manifests in many ways beyond arcane spells. Magic can generate kinetic force—what if those principles were used to add force to a physical bolt instead of generating a bolt of pure force?",
+												"Consider the line of crossbows produced by House Cannith (see \"{@book Crossbows of the Five Nations|ChroniclesofEberron|7|Crossbows of the Five Nations}\"). Cannith's crossbow barrel interior and quarrels are both engraved with arcane sigils. When the quarrel moves against the barrel, the symbols create an arcane interaction—a formula that adds kinetic energy to the bolt. With this in mind, the only force the bow itself has to provide is the initial push of the bolt down the barrel, a spark that triggers the arcane interaction. It's much easier to reload a Cannith crossbow than a medieval one because Cannith's bow itself is actually weaker; the weapon's power needn't depend on the tension of the bow.",
+												"This also means Cannith's crossbow doesn't look like a crossbow as we're used to it. It's closer to a rifle—the longer the barrel, the longer the arcane interaction. Thus the Spark hand crossbow has a shorter range, while the Thunderbolt heavy crossbow is the largest and longest weapon. In these crossbows, the \"bow\" is a relatively small component of the weapon. In many ways, these weapons resemble firearms, but their force isn't coming from a chemical reaction, but an arcane one.",
+												"When using such a crossbow or other ranged weapon, there's nothing stopping you from describing it propelling its ammunition through the air via an arcane reaction. Just remember this doesn't change a crossbow's game mechanics; it's not a magic weapon, so it doesn't bypass damage resistance or register on the {@i {@spell detect magic}} spell. (If you take the existence of a minor enchantment to its logical conclusion, an {@i {@spell antimagic field}} spell would theoretically suppress the magical reaction and render the weapon useless in that area—but this 8th-level spell is far beyond the everyday magical effects the people of Khorvaire expect to encounter, so this isn't something crossbow manufacturers are worried about.)"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Crossbows of the Five Nations",
+									"page": 15,
+									"entries": [
+										"The crossbow is a mainstay across the Five Nations. Thranish soldiers typically used bows, and by the end of the war, Aundairians were deploying wandslingers on a wider scale, but the crossbow remained the common infantry weapon. The light crossbow was most popular, due to its simplicity and ease of use, while the heavy crossbow was used by elite troops. Countless models of crossbows are found across Khorvaire, but the following models stand out. By default, these all use normal crossbow statistics in combat, but if you'd like to reflect further innovation, consider applying some of the improvements from the \"{@book Crossbow Advancements|ChroniclesofEberron|7|Crossbow Advancements}\" section.",
+										{
+											"type": "entries",
+											"name": "The SAC-12",
+											"page": 15,
+											"entries": [
+												"Breland has long been noted for its industrial base. The soldiers of Galifar may have trained at Rekkenmark, but Starilaskur Arms produced their weapons. At the start of the Last War, the Starilaskur SAC-12 was the standard {@item light crossbow|PHB} used by the armies of the Five Nations; while each nation now produces their own weapons, they're still modeled on the classic \"Sack.\" The SAC-15— or the \"Big Sack\"—is the standard {@item heavy crossbow|PHB}. Over the last decade, Karrnath has sought to improve on the SAC with the Korth-Atur Tactical Crossbow—KATC, or \"Cat-C\"—but many Karrns still prefer the standard SAC."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cannith Crossbows",
+											"page": 16,
+											"entries": [
+												"During the Last War, House Cannith pioneered the line of crossbows mentioned in \"Arcane Science\"—weapons with engraved sigils that use an arcane interaction to add force to the bolt. The standard weapons in this line are the Spark ({@item hand crossbow|PHB}), the Lightning ({@item light crossbow|PHB}), and the Thunderbolt ({@item heavy crossbow|PHB}). During the Last War, Aundair and Cyre both made extensive use of these weapons, while Karrnath and Breland held to the more mundane design of the SAC-12.",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0013.webp"
+													},
+													"credit": "Robert Moody (Lightning and Spark) | Rinehart Appiah (Thunderbolt)"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Passage Pistol",
+											"page": 16,
+											"entries": [
+												"Aundair has a long history of dueling. While members of wizard circles use magic in duels, the Passage Pistol was developed as an alternative for other duelists. While this {@item hand crossbow|PHB} has spread across the Five Nations, it's still commonly associated with Passage and dueling."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Aram'kron",
+											"page": 16,
+											"entries": [
+												"The standard crossbow of the Heirs of Dhakaan is a compact design employing superior alloys and sophisticated engineering. Its power is comparable to the SAC-15 in a smaller and more streamlined package. The standard Aram'kron is a {@item heavy crossbow|PHB} with a retractable {@item bayonet, heavy|ChroniclesofEberron|bayonet}. {@item Light crossbows|PHB} are rarely seen among the Heirs of Dhakaan, though the Khesh'dar employ the {@item Sar'ka|ChroniclesofEberron}, a {@item hand crossbow|PHB} designed with Reload 4."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Crossbow Advancements",
+									"page": 16,
+									"entries": [
+										""
 									]
 								}
 							]
