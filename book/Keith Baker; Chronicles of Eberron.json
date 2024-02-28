@@ -1359,7 +1359,7 @@
 											"name": "Mundane Weapon, Supernatural Materials",
 											"page": 15,
 											"entries": [
-												"Some modern crossbows maintain the same general design as a classic crossbow—they're just better than any medieval weapon. They use superior materials and techniques that don't exist in our world, including products of manifest zones and alchemy; for example, densewood quarrels might be more aerodynamic and small enough to store in an integrated quiver. Similarly, the weapons themselves may not be magical, but the artisans building them may be guided by the {@i {@spell magecraft|ExploringEberron}} cantrip (from {@i {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}}) and use transmutation techniques to enhance their work. The fact that the light crossbow can be loaded in 6 seconds, with no strength requirement or limitation on movement, reflects exceptional engineering. Light crossbows like the Brelish SAC-12 and the Dhakaani Aram'kron (see \"{@book Crossbows of the Five Nations|ChroniclesofEberron|7|Crossbows of the Five Nations}\" ) are broadly similar in appearance to a classic crossbow, aside from innovations like integrated clips or bayonets."
+												"Some modern crossbows maintain the same general design as a classic crossbow—they're just better than any medieval weapon. They use superior materials and techniques that don't exist in our world, including products of manifest zones and alchemy; for example, densewood quarrels might be more aerodynamic and small enough to store in an integrated quiver. Similarly, the weapons themselves may not be magical, but the artisans building them may be guided by the {@i {@spell magecraft|ExploringEberron}} cantrip (from {@i {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}}) and use transmutation techniques to enhance their work. The fact that the light crossbow can be loaded in 6 seconds, with no strength requirement or limitation on movement, reflects exceptional engineering. Light crossbows like the Brelish SAC-12 and the Dhakaani Aram'kron (see \"{@book Crossbows of the Five Nations|ChroniclesofEberron|7|Crossbows of the Five Nations}\") are broadly similar in appearance to a classic crossbow, aside from innovations like integrated clips or bayonets."
 											]
 										},
 										{
@@ -1572,7 +1572,12 @@
 								"What does it mean to be a noble? In most of the nations of Khorvaire, nobles actively govern a region, whether large or small. They collect taxes, maintain lands, and manage tenants. Nobles may not personally administer justice, but within their domains, they're still responsible for maintaining the courts, sustaining the forces of the law, and ensuring justice is done. In the wake of the Last War, nobles continue working to repair the damage to their domains, to reintegrate soldiers into civilian life, to deal with the impact of casualties, and to address the needs of refugees seeking shelter in their lands. But with great power comes great responsibility ... and as such, few landed nobles have time to go on adventures.",
 								"It's not impossible to create a player character who is both an adventurer and ruler of their lands; perhaps you have a younger sibling or remarkable steward who's doing all the work in your absence. But it's more likely that as a \"noble\" adventurer, you're just a scion of a powerful family, an heir who doesn't yet hold a significant title. Your blood grants you prestige, but you neither carry the responsibilities of your rank nor have access to the full resources of your domain.",
 								"In fifth edition, this status can be reflected by the benefits of the noble background. As a noble, you don't have an army at your beck and call, nor a treasury filled with coffers of coin—after all, you're not the one who does the work of collecting those taxes. What you do have is a handful of proficiencies, your family's signet ring, a set of fine clothes, 25 gp in your pocket ... and a feature called Position of Privilege:",
-								"\"Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.\"",
+								{
+									"type": "quote",
+									"entries": [
+										"Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to."
+									]
+								},
 								"This underscores that while the precise duties and powers of nobles vary by nation, the defining practical benefit is {@i respect}. As a player character with this background, you're treated as a peer by aristocrats (even outside your home nation) and generally accommodated by \"common\" folk—though the latter may be due to self-preservation rather than admiration. You're not above the law. You can't get away with murder. But people are inclined to think the best of you, expecting you'll uphold the honor and dignity of your rank.",
 								"Within the Five Nations, your rank is recognized even when you hold no actual authority in a region—or when you're in another nation entirely. This is tied to the romantic notion that Galifar may someday be restored; all nobles treat those of other nations with respect, because someday they may all be one kingdom again. Even in Darguun and the Mror Holds, pragmatism ensures your connections will have an impact; though this might simply mean enemies are more inclined to ransom you than kill you.",
 								{
@@ -1649,6 +1654,244 @@
 												}
 											]
 										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Traditions of Galifar",
+							"page": 21,
+							"entries": [
+								"The culture of the Five Nations blends the united traditions of Galifar with the preserved traditions of each nation. The Last War was fought not for independence from Galifar, but in an attempt to reunite it and determine who would rule the united kingdom. With a few notable exceptions (Thrane's theocracy, the Code of Kaius), the Five Nations intentionally preserved the traditions of Galifar, always hoping that within a few years, their ruler would be the sovereign of the reunited Galifar.",
+								"While Galifar was a united kingdom, it wasn't a monolithic culture. Throughout its history, the people of Galifar maintained pride in their individual cultures, thinking of themselves as distinct nationalities even while considering themselves citizens of Galifar. A millennium ago, King Galifar Wynarn I—then king of Karrnath—began his campaign to unite the Five Nations by conquering the neighboring kingdom of Metrol. There, Galifar displaced existing nobles and instituted new systems, drastically transforming (and renaming) it as he made Cyre the heart of his new kingdom of Galifar. The other three nations were ultimately brought into Galifar by diplomacy, not by absolute conquest—though Galifar's clear military superiority was the iron fist that drove these negotiations. Galifar I instituted changes at the highest levels of society, appointing his children as the rulers of each nation; but rather than displacing the existing nobility, he generally married his children into the current ruling families.",
+								"Galifar built on the existing feudal structures of the Five Nations, but restructured them so it was clear all power ultimately flowed from the sovereign. Over time, he streamlined systems and added new universal concepts, such as expanding education and instituting the Galifar Code of Justice. Meanwhile, he nationalized and advanced the role of institutions such as the Arcane Congress, the King's Citadel, and Rekkenmark. He instituted a standardized currency—the crown-sovereign-galifar-dragon values still used today—and established the Karrnathi dialect as the Common tongue. So all the nations of Galifar were united by a vital set of shared customs and laws, but they also maintained their own unique traditions and quirks, highlighted in the \"{@book Nations and Nobles Today|ChroniclesofEberron|8|nations and nobles today}\" section.",
+								{
+									"type": "entries",
+									"name": "Sovereigns and Sovereigns",
+									"page": 21,
+									"entries": [
+										"The faith of the Sovereign Host played a crucial role in the foundation of the united kingdom. Galifar I believed he was guided by Aureon and fulfilling a destiny laid out by that Sovereign; given the king's remarkable successes, it's entirely possible he was a paladin of the Host, possibly even a subtle aasimar. The belief that the Wynarn bloodline is blessed by Aureon is a vital cornerstone of the Galifar monarchy. This bedrock principle has stood against uprisings, would-be usurpers, and consorts seeking to claim the crown. In the present day, this belief doesn't come up often and modern monarchs vary in their piety, but it still underlies the traditions of Galifar. The Galifar Code of Justice invokes Aureon, and other aspects of law similarly assume a casual faith in the Sovereigns.",
+										"While the faith of the Sovereign Host permeates the Five Nations, it has never been an institution wielding monolithic power like the Church of the Silver Flame does in Thrane. But just as nobles are required to maintain courts, collect taxes, and levy troops within their domains, they're required to sustain the Vassal faith. Depending on the size of a community, this could involve maintaining a grand temple, a small temple with a single priest, or just a small shrine. Most nobles of Galifar viewed this not as a hardship, but an opportunity to display piety; they might lavish resources on their favored temples, raise monuments or shrines to a particular Sovereign, or compete to lure the most accomplished scholars to their seminaries. Within the Sovereign faith, anyone seen as guided by the Nine can fill the role of priest, so some renowned nobles have even acted as priests of the Sovereign Host.",
+										"Throughout the untold history of Galifar, some zealous nobles sought to stamp out divergent sects—hunting down and publicly executing followers of the Dark Six (real or imagined) or persecuting \"heretics.\" However, despite his deep faith, Galifar never sought to force his beliefs on others. His kingdom's principles presumed simple faith in the Sovereigns and nobles were required to support the faith—but they and their people weren't required to actually practice it. Following his legacy, the Five Nations are largely tolerant to this day (and many of its monarchs aren't particularly devout), but the principle of Aureon's Blessing remains at the heart of the myth of Galifar."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Role of the Nobility",
+									"page": 22,
+									"entries": [
+										"When Galifar was founded, each of the Five Nations practiced forms of medieval feudalism. Nobles governed lands tended by tenant farmers in exchange for collecting taxes and providing military service to the leader of the nation. In many nations, the nobility was also responsible for the administration of justice. Galifar was built on this framework. All power and authority flowed from the sovereign, through the princes and princesses who governed the land, down to local nobles and administrators. Throughout the united kingdom of Galifar, the nobility remained its foundation. They were still responsible for maintaining their territory, including collecting taxes and raising levies for military and national service.",
+										"Under the Galifar Code of Justice, nobles didn't administer justice personally, but it was their duty to maintain the system, which included appointing justices and managing the local courts. As the kingdom expanded and life became increasingly more complicated, this produced a class of dedicated civil servants and landowners—initially ennobled viscounts and crown reeves, but ultimately expanding into gentry and merchant classes. But at the start of the Last War, most lands were still associated with a noble's domain, and the local lord still appointed justices, mayors, and other officials. A crown reeve was responsible to their count, the count to their duke, the duke to their prince, and the prince to their king.",
+										"As noted earlier, some titles are courtesy titles, carrying respect and prestige, but nothing more; an important administrator might be granted a courtesy title to reflect their service, but no land would be tied to that title. These are a great option for a DM to award to player characters, allowing them to enjoy the status of being a count or shield of the realm without having to give up adventuring and begin maintaining roads and collecting taxes. Meanwhile, substantive titles are associated with land and the duties of maintaining it."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Military Service",
+									"page": 22,
+									"entries": [
+										"Under Galifar's traditions, each duchy was obliged to contribute a certain number of soldiers to the army of Galifar. As soldiers were paid a fair wage, this quota could often be met with volunteers. If not, the duke was responsible for making up the shortfall through whatever methods necessary. While conscription was practiced in the kingdom's early days (a task often delegated to the counts of a duchy), in time, it became common practice for nobles in peaceful regions to pay for Karrnathi troops to enlist in their name. As Karrnath had a tradition of mandatory military service, this worked out well for all sides.",
+										"With the outbreak of the Last War, sovereigns continued to rely on nobles to levy troops. Thrane and Karrnath had little trouble meeting quotas, but other nations fell back on conscription when necessary. In the present day, most nations are reducing their active military forces, so nobles are primarily responsible for maintaining the local watch in their domains. They're also entitled to maintain a limited household guard of their own (with the size varying by nation)."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Noble Ranks and Titles",
+									"page": 22,
+									"entries": [
+										"Galifar I instituted a series of noble titles, which remain the common ranks of nobility to this day. The list below describes this hierarchy in descending order; beyond mere status, the order also reflects the practical reality of land ownership and chain of command.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 22,
+											"items": [
+												{
+													"type": "item",
+													"name": "King/Queen",
+													"entries": [
+														"In current usage, the monarch of any of the Five Nations. Under the united kingdom of Galifar, only the monarch of Galifar held this title; they reigned from Thronehold, the island in Scion's Sound."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Prince/Princess",
+													"entries": [
+														"In current usage, a child of the king or queen. Under the united kingdom of Galifar, the nations didn't have individual monarchs, so the prince or princess governing each nation used a title including their nation, like \"Princess of Breland.\""
+													]
+												},
+												{
+													"type": "item",
+													"name": "Archduke/Archduchess",
+													"entries": [
+														"A duke or duchess married to a prince or princess. (See \"{@book Princes and Archdukes|ChroniclesofEberron|8|Princes and Archdukes}.\")"
+													]
+												},
+												{
+													"type": "item",
+													"name": "Grand Duke/Duchess",
+													"entries": [
+														"A duke or duchess governing a palatinate. (See \"{@book Grand Dukes|ChroniclesofEberron|8|Grand Dukes}.\")"
+													]
+												},
+												{
+													"type": "item",
+													"name": "Duke/Duchess",
+													"entries": [
+														"The ruler of a duchy (each nation was subdivided into several duchies). Reports to the ruler of their nation. Originally synonymous with \"Warlord,\" though some nations now appoint warlords to office."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Shield",
+													"entries": [
+														"Ruler of a county considered a dangerous border. Formally addressed as \"Shield of [County],\" but commonly addressed as \"Count\" or \"Countess.\" Though technically peers with other counts, they're afforded extra respect."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Count/Countess",
+													"entries": [
+														"Ruler of a county (a region within a duchy)."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Viscount/Viscountess",
+													"entries": [
+														"A nonhereditary appointed title, typically granted by a count or duke for performing important administrative duties within their domain."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Crown Reeve",
+													"entries": [
+														"Administers territory within a county (sometimes as a hereditary title, other times tied to service). Commonly addressed as \"Lord\" or \"Lady.\" This is the lowest rank of nobility, roughly equivalent to the use of \"Baron\" in medieval history."
+													]
+												}
+											]
+										},
+										"Anyone holding one of the above titles is allowed to use the ir' prefix with their surname. The children of these nobles use this prefix as well—this applies even if their parent holds a courtesy title, though that title is usually tied to the holder and can't be transferred to heirs.",
+										"The eldest child of a duke can use the title of count, and their second heir has the title of viscount; all other children of nobles are known as lords or ladies. These titles are mere courtesies since heirs have no actual authority. A noble's spouse generally doesn't take on their title; they're instead known as the noble's consort, and commonly addressed as lord or lady. (See \"Gaining a Title: Elevation, Inheritance, and Marriage\" for details.)",
+										{
+											"type": "entries",
+											"name": "Princes and Archdukes",
+											"page": 22,
+											"entries": [
+												"The succession traditions of Galifar are a tangled web, and it's a miracle the united kingdom endured as long as it did. The basic order of succession went like this (for conciseness, the below titles use the male form, but nobles of any gender could hold them):",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 23,
+													"items": [
+														{
+															"type": "item",
+															"name": "Monarch of Galifar",
+															"entries": [
+																"When the monarch of Galifar died, their eldest child took the throne of Thronehold. If none of the monarch's heirs had come of age, their eldest sibling (or that sibling's heir) governed the kingdom as regent until an heir came of age."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Rulers of the Nations",
+															"entries": [
+																"When the five eldest children of the current Wynarn ruler of Galifar came of age, they each assumed rulership of one of the Five Nations. This position was traditionally sealed by them marrying into one of that nation's duchies; in so doing, they were formally acknowledged as prince of that nation."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Former Rulers",
+															"entries": [
+																"Princes were always tied to duchies. When the monarchy changed and the heirs of the new monarch were appointed as princes, the previous princes remained in their nations as dukes. If there wasn't a new prince—because the monarch hadn't produced five heirs—the previous prince and their heirs would continue to hold the title."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Archdukes",
+															"entries": [
+																"When a prince married the leader of a duchy, their new spouse became the archduke of that nation, potentially taking this title from its previous holder in another duchy. Should death create a vacancy with no Wynarn heir of age to rule as prince, the archduke would rule that nation until an heir came of age."
+															]
+														}
+													]
+												},
+												"These traditions resulted in regular shifts in the balance of power between duchies, as the rise of a new monarch ultimately displaced the current prince or princess (and often the current archduke or archduchess as well). Though the Last War was sparked by resistance to the order of succession, that certainly wasn't the first time a nation or duchy resisted this change. Today, archdukes no longer shift with the rulers of each nation. Rather, archdukes hold that title by merit of ruling whatever duchy a prince or princess was ruling from when the Last War began—so Fairhaven, Korth, Wroat, and Sigilstar are now permanently ruled by archdukes."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Grand Dukes",
+											"page": 23,
+											"entries": [
+												"Grand dukes are rulers of palatinates, often referred to as grand duchies. These regions hold a degree of independence from the surrounding nation, and they have the right to enforce local laws and practice customs that might be at odds with those of the surrounding nation. The first palatinate was the Grand Duchy of Atur in Karrnath, but the most significant palatinates are in Zilargo. When the armies of Galifar passed the Howling Peaks, they were met by Zil diplomats. These envoys negotiated the incorporation of the region into the overall mantle of Breland, but as three grand duchies— with the net result that the Zil became part of Galifar while still maintaining nearly complete autonomy. The three grand duchies of Zilargo were Zolanberg, Trolanport, and Korranberg; however, during the Last War, Zilargo declared independence from Breland. It's up to the DM to decide whether there are any other grand duchies in Khorvaire.",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0016.webp"
+													},
+													"credit": "Júlio Azevedo"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Gaining a Title: Elevation, Inheritance , and Marriage",
+											"page": 23,
+											"entries": [
+												"Under the traditions of Galifar, a hereditary title passes to the oldest child of that noble. If there is no living heir, the title passes to the noble's siblings or the siblings' heirs; failing that, the noble who oversees the deceased's domain has the power to reassign it, though that appointment must be ratified by the sovereign. Several noble lines were lost in the Last War (or convicted of treason and stripped of rank), so there are dukes with counties to dispense and counts in need of qualified crown reeves.",
+												"In most of the Five Nations, marriage doesn't convey title (other than the prewar practice of elevating the ruler of a duchy to archduke or archduchess when they married a prince or princess). This stems from the principle that only a Wynarn can rule; when the Wynarn monarch dies, their consort has no claim to the throne. Often, a noble consort is granted a courtesy title, as seen with Queen Etrigani of Karrnath; but if Kaius III were to die, the crown of Karrnath would immediately pass to his eldest heir, not to Etrigani. This principle generally holds throughout the ranks. Someone who marries into a noble family is a consort. They may be granted a courtesy title (see \"{@book Honors and Offices|ChroniclesofEberron|8|Honors and Offices}\"), but they're not the equal of their noble spouse—and if they're a player character, it's up to the DM to decide whether their status is sufficient to justify a Position of Privilege. This largely depends on public perception: do the nobles and common folk respect the consort ?",
+												"While many nobles limit themselves to a single consort, this isn't enforced by law. A monarch could have multiple consorts, and any child with an official consort (whether by marriage or simple royal decree) is considered an heir. For hundreds of years, it was accepted tradition for a reigning sovereign to have a consort from each of the Five Nations, in part to spread out the burden of producing five heirs. In the wake of the Last War, some nobles have continued this tradition. For example, Kaius III of Karrnath maintains a harem; only Etrigani carries the formal title of queen, but it's possible Kaius has named other partners as consorts. By contrast, Queen Aurala of Aundair has a single consort, but hasn't granted him the title of king.",
+												"In most nations of Khorvaire, only the sovereign can create a new title. However, many domains have a set of existing courtesy titles (see \"{@book Honors and Offices|ChroniclesofEberron|8|Honors and Offices}\") that can be dispensed at the discretion of the local noble. For example, the Count of Threeshadows may have the authority to appoint a Viscount Threeshadows and two knights—but these titles aren't passed on to heirs.",
+												"In most nations, it's illegal for anyone to sell a title, whether it's their own or a domain within their jurisdiction; Breland is a notable exception to this rule."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Honors and Offices",
+									"page": 24,
+									"entries": [
+										"In addition to the noble titles above, the Five Nations use many other titles that are honors or offices. Similar to the courtesy titles of nobility, these titles signify status but aren't hereditary and don't bestow land.",
+										"For example, knighthood (discussed further below) is an honor, not a title of nobility. Traditionally, a duke or higher noble can appoint a knight to reward them for their service to the nation. While there were Karrnathi nobles among the original Order of the Emerald Claw, many knights of the order came from the gentry. On the other hand, among the Karrnathi chivalric orders, the Order of the Inviolate Way only accepts members who are also of noble blood.",
+										"Offices include titles like \"Minister of Magic\" or \"Warlord.\" For example, in Aundair, Darro ir'Lain is the Duke of Passage and Second Warlord of the Realm. His title of duke is hereditary, but his second title is an office he currently holds, not something he carries for life. If he fell out of favor with Queen Aurala, there would soon be a new Second Warlord.",
+										{
+											"type": "entries",
+											"name": "Knights and Knighthood",
+											"page": 24,
+											"entries": [
+												"By the traditions of Galifar, knights are associated with orders. A knight isn't just a knight; they're a Knight of the Order of the Emerald Claw, or a Knight of the Order of the Inviolate Way. Knightly orders serve three functions. First, a knighthood is an honor reflecting the favor of a sovereign, duke, or lesser noble granted the privilege of appointing knights. Additionally, knightly orders are fraternal orders, and members are expected to support one another in both war and peace. Finally, knightly orders are also elite military units.",
+												"Though knights usually serve as elite warriors, that's not always the case; this is similar to how most nobles have substantive titles (with formal responsibilities), whereas others are titled as a courtesy. The Duchess of Karrlakton might appoint one woman as a Knight of the Order of the Blackened Sky because she's an exceptional combat alchemist whose skills will serve Karrnath well on the battlefield. Meanwhile, the duchess might appoint another man to the same order for entirely different reasons: he's an influential citizen of Karrlakton, and she wants both to honor his service and connect him to other members of the order, even though she understands he's not a soldier and will never serve the order on the battlefield.",
+												"Sometimes a knighthood comes with an annuity, making it a concrete reward that can help support a non-noble knight. But beyond that, the knighthood's function as a supportive fraternal order comes into play. In the example given above, the combat alchemist may not be a noble nor have significant wealth. Meanwhile, the second knight is wealthy and could serve as a patron to the alchemist. The orders are designed to bring the finest citizens together, people who might normally be split by class lines. Knighthood allows nobles to elevate and forge connections with gifted commoners without actually raising them to the nobility. ({@i Forge of War} presents the most detailed description of knightly orders in canon material, describing six Karrnathi orders on page 54.)"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dragonmarks and the Nobility",
+											"page": 24,
+											"entries": [
+												"The Korth Edicts prevent members of dragonmarked houses from owning land or holding titles. A noble can marry a dragonmarked heir, but one of them must completely sever all legal ties to their family. For example, a Deneith heir who chooses to marry into a noble family must cut all ties to their house, including their family name; if their noble lover instead chooses to marry into House Deneith, the noble must renounce their title and rights. Of course, this doesn't prevent such a union from having important diplomatic implications, as the original {@i Eberron Campaign Setting} observes:",
+												{
+													"type": "quote",
+													"entries": [
+														"Some tension exists between the houses and the crown since the marriage of Queen Aurala to Sasik of House Vadalis. Traditionally, the dragonmarked houses and the royal families have avoided mixing to maintain a division between rulership and commerce. Even though Sasik, as the royal consort, has severed his claims to the House Vadalis fortune, he nevertheless maintains ties that make the other houses nervous about what advantages Vadalis might be gaining in its dealings with Aundair."
+													],
+													"from": "Eberron Campaign Setting"
+												},
+												"It's also the case that not all nations care about the Korth Edicts. For example, the elves of Valenar are effectively appointing Lyrandar heirs to the duties of viscounts, though they aren't using that title; these Lyrandar administrators don't sever ties to their houses. To date, this has gone unchallenged, in part because it's not entirely clear who would challenge it and in what forum.",
+												"Further complicating matters, though dragonmarked heirs have to abandon house ties to marry into noble families, they bring their blood with them—and consequently, there have been nobles who carried dragonmarks. That said, dragonmarks appear most frequently in the dragonmarked houses due to intentional mingling of strong dragonmarked bloodlines. If someone from those bloodlines marries an outsider, a dragonmark is far less likely. As a result, foundling marks are quite rare, and someone who unexpectedly develops a mark may not even realize that they had a connection to a house in their history. So while dragonmarked nobles are possible, they're by no means common."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Citizenship",
+									"page": 25,
+									"entries": [
+										"Citizens of the Five Nations are protected by the Code of Galifar. But how does one become a citizen? Keeping in mind that Galifar is based on feudal principles, most nations still require would-be citizens to attend an audience with a local noble. There, the applicant swears fealty to the nation, its ruler, and that local noble; in turn, the noble formally accepts them as a subject. In doing so, the noble accepts responsibility for that individual, and the individual promises to obey that noble, pay taxes, answer any call for conscription, and respect the laws of the land.",
+										"Nobles don't have to accept an offer of fealty, and most won't unless the potential subject intends to reside within their domain. For example, a Brelish noble might refuse to accept the fealty of an ogre from Droaam—perhaps because they don't believe the ogre will uphold the laws, or because they don't believe the ogre intends to remain within their domain. And without an accepted oath of fealty, you have none of the privileges of a citizen. Long before the people of the Barrens established Droaam, Galifar I declared the land to be part of Breland's domain—but the region's monstrous inhabitants had never sworn fealty to any Brelish lord. As a result, they weren't considered citizens, and from Galifar's perspective, they were outlaws squatting in Brelish land.",
+										"In the modern age, much of the citizenship process is streamlined and standardized by bureaucracy, especially when granting citizenship to children of existing citizens. In some regions, there are annual ceremonies where each youth swears an oath to the local lord before being recognized as an adult. In a populous region like Sharn, the parents file paperwork when the child is born, and when the child becomes an adult, they file their own statement. But the underlying principle remains the same: {@i someone} needs to make a decision on behalf of the local lord as to whether to accept the offer of fealty, based on the applicant's residence, reputation, family, and other factors."
 									]
 								}
 							]
