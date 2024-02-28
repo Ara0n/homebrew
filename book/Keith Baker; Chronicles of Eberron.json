@@ -1542,6 +1542,113 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Nobility of Galifar",
+					"page": 18,
+					"entries": [
+						"When you're making a char acter and you take the noble background, what does that actually mean? What titles are used within the Five Nations? Is a noble title purely hereditary, or can it be purchased? Do nobles have duties, or is the position largely symbolic? This chapter answers these questions and more, exploring the practical impact of noble birth and the role of the nobility in the Five Nations (and in other nations that inherited the traditions of Galifar).",
+						{
+							"type": "section",
+							"name": "A Changing World",
+							"page": 18,
+							"entries": [
+								"As mentioned in the previous chapter, from the very beginning of the Eberron setting, one of the goals was to make sure the experience of adventuring in this new world still felt like D&D. Knights in plate armor still fight using swords and crossbows, and many nations are ruled by monarchs. At the same time, we wanted to highlight the steady rise of industrial power and the shifting balance of power between the dragonmarked houses and the established aristocracy. So while D&D is stereotypically medieval, our goal was to present a vision of a world that's actively evolving and straining against the past. Breland is already shifting well away from the medieval version of monarchy—and depending on how your story unfolds, other nations might be close behind.",
+								"When making history, you always want to know why it matters. We wanted adventurers to be caught in the middle of these changes, to have to deal with the Swords of Liberty and overreaching houses, to have to decide whether to challenge tradition or defend it. So while the many medieval trappings of the Five Nations may seem incongruous, that's the intent— Eberron is a world actively caught between the traditional medievalism associated with D&D and the pull of social and industrial evolution. Galifar's semi-feudal status quo certainly hasn't remained unchallenged for the last thousand years; though prior books don't discuss much of what happened in that millennium, it had its share of uprisings, social experiments, and other remarkable events. As {@i {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}} mentions in the \"Untold History\" section of {@book chapter 1|ExploringEberron|1}, the world's history is full of vast periods that were intentionally left unwritten, letting the DM decide what story to tell.",
+								"For example, if it suits your story, it's entirely possible there was a thirty-year period in which Aundair broke away and existed as the Republic of Thaliost before being pulled back into Galifar; this early rebellion might've laid the foundation for the more successful secession of the Eldeen Reaches in the tenth century. As of 998 YK, there are still traces of medieval flavor in the culture of Galifar, but you can change these or explore untold moments of history if it makes your campaign more interesting."
+							]
+						},
+						{
+							"type": "section",
+							"name": "Position of Privilege",
+							"page": 18,
+							"entries": [
+								"What does it mean to be a noble? In most of the nations of Khorvaire, nobles actively govern a region, whether large or small. They collect taxes, maintain lands, and manage tenants. Nobles may not personally administer justice, but within their domains, they're still responsible for maintaining the courts, sustaining the forces of the law, and ensuring justice is done. In the wake of the Last War, nobles continue working to repair the damage to their domains, to reintegrate soldiers into civilian life, to deal with the impact of casualties, and to address the needs of refugees seeking shelter in their lands. But with great power comes great responsibility ... and as such, few landed nobles have time to go on adventures.",
+								"It's not impossible to create a player character who is both an adventurer and ruler of their lands; perhaps you have a younger sibling or remarkable steward who's doing all the work in your absence. But it's more likely that as a \"noble\" adventurer, you're just a scion of a powerful family, an heir who doesn't yet hold a significant title. Your blood grants you prestige, but you neither carry the responsibilities of your rank nor have access to the full resources of your domain.",
+								"In fifth edition, this status can be reflected by the benefits of the noble background. As a noble, you don't have an army at your beck and call, nor a treasury filled with coffers of coin—after all, you're not the one who does the work of collecting those taxes. What you do have is a handful of proficiencies, your family's signet ring, a set of fine clothes, 25 gp in your pocket ... and a feature called Position of Privilege:",
+								"\"Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.\"",
+								"This underscores that while the precise duties and powers of nobles vary by nation, the defining practical benefit is {@i respect}. As a player character with this background, you're treated as a peer by aristocrats (even outside your home nation) and generally accommodated by \"common\" folk—though the latter may be due to self-preservation rather than admiration. You're not above the law. You can't get away with murder. But people are inclined to think the best of you, expecting you'll uphold the honor and dignity of your rank.",
+								"Within the Five Nations, your rank is recognized even when you hold no actual authority in a region—or when you're in another nation entirely. This is tied to the romantic notion that Galifar may someday be restored; all nobles treat those of other nations with respect, because someday they may all be one kingdom again. Even in Darguun and the Mror Holds, pragmatism ensures your connections will have an impact; though this might simply mean enemies are more inclined to ransom you than kill you.",
+								{
+									"type": "entries",
+									"name": "Noble Background Variants",
+									"page": 19,
+									"entries": [
+										"While the Position of Privilege feature represents benefits that might come from your position, not all nobles receive such recognition. If you're a noble from Cyre, you no longer have your estate or your fortune. You might still have your Position of Privilege if your family was so beloved or connected that the respect lingers, but most Cyran nobles aren't treated this way. In situations like this, you might choose the Retainers feature instead (from the \"{@background Variant Noble (Retainers)|PHB|Variant Feature: Retainers}\" sidebar in the {@i {@book Player's Handbook|PHB}}). Perhaps your estates were lost to the Mourning, but you still have three loyal servants who are sworn to follow you to the bitter end. Or if your influence and retainers are all lost, but people with ties to your family's legacy still look kindly on you, you might choose the background of a displaced noble, presented in this chapter's \"{@background Variant Noble (Displaced)|ChroniclesofEberron|Variant Noble: Displaced}\" sidebar.",
+										{
+											"type": "list",
+											"style": "list-bullets",
+											"columns": 0,
+											"page": 19,
+											"name": "",
+											"items": [
+												"{@background Variant Noble (Displaced)|ChroniclesofEberron|Variant Noble: Displaced}"
+											]
+										},
+										"However, you don't have to stick with the noble background just because you're playing a noble. You can customize any background, mixing and matching other background features and benefits. For example, if you were an earl of Cyre who turned to crime after losing your fortune, you might choose the {@background criminal} background—or simply substitute its Criminal Connections feature in place of Position of Privilege. From a story perspective, you were once a noble with land and a title to match, but you don't receive any practical benefits from your lineage. Similarly, if you're a Cyran noble who has fought to help other Cyran refugees, you might instead be a {@background folk hero} who can find shelter in any refugee community.",
+										"So whether you were a Lhazaar prince driven from your throne by a treacherous sibling, or the former Lord of Stubborn (the Brelish settlement in Droaam now known as Stonejaw), you can take whichever feature you wish, including the variant features in this chapter.",
+										{
+											"type": "entries",
+											"name": "When Is a Noble Not a Noble ?",
+											"page": 20,
+											"entries": [
+												"Just as you can be a noble without the noble background, you can also take the noble background or its Position of Privilege feature even if your character isn't part of the nobility. This is an especially good option for wealthy or influential members of dragonmarked houses. As a dragonmarked \"noble,\" you're either close to house leadership or part of an especially wealthy or powerful branch of the family—and people know it. You're treated as an equal by nobles, you can request an audience with local authorities, and common folk are generally impressed by you."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Gaining Priviledge...",
+											"page": 20,
+											"entries": [
+												"Just as adventurers can become soldiers or criminals during a campaign, it's possible for them to be raised to the nobility. The traditions associated with this are described in later sections, but what's the practical impact of this elevation? Does a new noble gain the benefits of Position of Privilege? What are their duties and responsibilities?",
+												"An adventurer could gain a noble title as a reward for service, or in some nations, a soldier could win their title through battle. This might be a substantive title—one that grants land and subjects, which can be passed down to heirs—or simply a courtesy that doesn't carry lands or duties. Being granted a knighthood may not confer the benefits of Position of Privilege, but it also probably won't prevent you from further adventuring. On the other hand, becoming a Lhazaar prince might grant that privilege, but it also complicates your adventuring life significantly! You'll either need to manage your principality or employ people to do it for you (the Valenar method) and hope they do a good job.",
+												"When you grant player characters substantive titles as part of a campaign you're DMing, you may wish to make the management and defense of their domain an integral part of the campaign moving forward. On the other hand, if Boranel grants someone the title of Shield of the East, it's a symbolic courtesy that carries significant weight with Brelish nobles (as it reflects the favor of the king), but it bestows no actual responsibilities and doesn't have the impact of Position of Privilege in other nations.",
+												"The \"{@background Variant Noble (Newly Risen)|ChroniclesofEberron|Variant Noble: Newly Risen}\" sidebar presents a background variant you might select if your character's meteoric rise draws attention from people who hope to benefit from your newfound influence. Alternatively, a DM might consider granting the Rising Star feature to a character who rises to the nobility during a campaign.",
+												{
+													"type": "list",
+													"style": "list-bullets",
+													"columns": 0,
+													"page": 19,
+													"name": "",
+													"items": [
+														"{@background Variant Noble (Newly Risen)|ChroniclesofEberron|Variant Noble: Newly Risen}"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "... And Losing Priviledge",
+											"page": 20,
+											"entries": [
+												"Just as a lowborn character can gain a noble title, a highborn one can lose it. The simplest path to being stripped of a title is to be convicted of treason. However, in the Five Nations, nobles have duties, and a family who fails in those might be stripped of their title and property by their monarch. In the Lhazaar Principalities, a character could lose their title because someone else takes it by force. And countless Cyran nobles lost their holdings in the Mourning, then the Treaty of Thronehold effectively stripped them of their privileges. The following table provides inspiration for ways an adventurer's family might've lost their title; while the table assumes an ancestor lost the title, it's also possible the adventurer themself lost it.",
+												{
+													"type": "statblock",
+													"tag": "table",
+													"source": "ChroniclesofEberron",
+													"name": "How Did You Lose Your Title ?",
+													"page": 20,
+													"style": "inset"
+												},
+												"Should a player character be stripped of their title during a campaign, it's up to the player and DM to decide how this affects their Position of Privilege. If the character is widely known and beloved, it's possible the benefit lingers based solely on that goodwill. As a DM, if I removed the benefits of Position of Privilege, I'd grant a new feature to replace it, based on the circumstances of its loss. Was the noble convicted of treason because they opposed a tyrant? They might lose their Position of Privilege but gain the Rustic Hospitality feature of a {@background folk hero}... or perhaps the infamy of their deeds earns them the Bad Reputation of a pirate. The \"{@background Variant Noble (Disgraced)|ChroniclesofEberron|Variant Noble: Disgraced}\" sidebar presents a background variant a DM could grant during a campaign, or that a player could choose for a new character who recently fell from grace.",
+												{
+													"type": "list",
+													"style": "list-bullets",
+													"columns": 0,
+													"page": 19,
+													"name": "",
+													"items": [
+														"{@background Variant Noble (Disgraced)|ChroniclesofEberron|Variant Noble: Disgraced}"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
