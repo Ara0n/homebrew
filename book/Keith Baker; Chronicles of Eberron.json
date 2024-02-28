@@ -1,5 +1,8 @@
 {
 	"_meta": {
+		"internalCopies": [
+			"item"
+		],
 		"sources": [
 			{
 				"json": "ChroniclesofEberron",
@@ -1481,6 +1484,157 @@
 					"10",
 					"The skyline of Sharn with tiny moving skycoaches."
 				]
+			]
+		}
+	],
+	"item": [
+		{
+			"name": "Sar'ka",
+			"source": "ChroniclesofEberron",
+			"page": 16,
+			"baseItem": "hand crossbow|PHB",
+			"type": "R",
+			"rarity": "none",
+			"weight": 3,
+			"value": 7500,
+			"weaponCategory": "martial",
+			"property": [
+				"A",
+				"RLD"
+			],
+			"range": "30/120",
+			"reload": 4,
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"ammoType": "crossbow bolt|phb",
+			"entries": [
+				"The Sar'ka is the hand crossbow used by the Heirs of Dhakaan."
+			]
+		},
+		{
+			"name": "Bayonet (light)",
+			"source": "ChroniclesofEberron",
+			"page": 16,
+			"type": "M",
+			"rarity": "none",
+			"weight": 1,
+			"value": 200,
+			"weaponCategory": "simple",
+			"property": [
+				"2H",
+				"S"
+			],
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Using Bayonets",
+					"page": 16,
+					"entries": [
+						"You have disadvantage on attacks made with a bayonet that isn't attached to a crossbow. It takes an action to attach or remove a bayonet from a weapon."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bayonet (heavy)",
+			"source": "ChroniclesofEberron",
+			"page": 16,
+			"type": "M",
+			"rarity": "none",
+			"weight": 1,
+			"value": 300,
+			"weaponCategory": "martial",
+			"property": [
+				"2H",
+				"S"
+			],
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Using Bayonets",
+					"page": 16,
+					"entries": [
+						"You have disadvantage on attacks made with a bayonet that isn't attached to a crossbow. It takes an action to attach or remove a bayonet from a weapon."
+					]
+				}
+			]
+		},
+		{
+			"name": "Crossbow Silencer",
+			"source": "ChroniclesofEberron",
+			"page": 16,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This small magical band can be clamped to or removed from the stirrup of any crossbow as an action. While the silencer is attached to a weapon, Wisdom ({@skill Perception}) checks to hear the weapon firing are made at disadvantage.",
+				"In addition, if you are hidden when you make an attack roll using the silencer's attached weapon, you can activate the silencer (no action required) to remain hidden, and your attack doesn't give away your location. Once this property is used, it can't be used again for 10 minutes."
+			]
+		},
+		{
+			"name": "Spellbolt (Cantrip - 1st Level)",
+			"source": "ChroniclesofEberron",
+			"page": 17,
+			"baseItem": "crossbow bolt|phb",
+			"type": "A",
+			"rarity": "common",
+			"entries": [
+				"A spellbolt is a crossbow bolt imbued with a single spell of 3rd level or lower from the wizard spell list, which is activated by corresponding arcane sigils engraved into most modern Cannith-issued crossbows. The imbued spell must require a ranged or melee spell attack when the spell is cast, and have a range other than self.",
+				"As an action, you can load the spellbolt into a Cannith-made crossbow and cast the spell imbued in the bolt, using the crossbow in place of the spell's components. When you do, the range of the spell is equal to the crossbow's range instead of the spell's usual range. In place of each spell attack, make a ranged weapon attack using the crossbow against a target within range; on a hit, apply the spell effects in place of weapon damage. If the spell requires a saving throw in addition to the spell attack, its save DC is 13. Once the imbued spell is cast, the spellbolt is destroyed and turns to dust."
+			]
+		},
+		{
+			"name": "Spellbolt (2nd - 3rd Level)",
+			"source": "ChroniclesofEberron",
+			"page": 17,
+			"rarity": "uncommon",
+			"_copy": {
+				"name": "Spellbolt (Cantrip - 1st Level)",
+				"source": "ChroniclesofEberron"
+			}
+		}
+	],
+	"itemGroup": [
+		{
+			"name": "Bayonet",
+			"source": "ChroniclesofEberron",
+			"page": 16,
+			"type": "M",
+			"rarity": "none",
+			"weight": 1,
+			"items": [
+				"Bayonet (light)",
+				"Bayonet (heavy)"
+			],
+			"property": [
+				"2H",
+				"S"
+			],
+			"dmgType": "P",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Using Bayonets",
+					"page": 16,
+					"entries": [
+						"You have disadvantage on attacks made with a bayonet that isn't attached to a crossbow. It takes an action to attach or remove a bayonet from a weapon."
+					]
+				}
+			]
+		},
+		{
+			"name": "Spellbolt",
+			"source": "ChroniclesofEberron",
+			"page": 17,
+			"baseItem": "crossbow bolt|phb",
+			"type": "A",
+			"rarity": "varies",
+			"items": [
+				"Spellbolt (Cantrip - 1st Level)|ChroniclesofEberron",
+				"Spellbolt (2nd - 3rd Level)|ChroniclesofEberron"
 			]
 		}
 	]
