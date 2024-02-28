@@ -3,6 +3,11 @@
 		"internalCopies": [
 			"item"
 		],
+		"dependencies": {
+			"background": [
+				"PHB"
+			]
+		},
 		"sources": [
 			{
 				"json": "ChroniclesofEberron",
@@ -1705,6 +1710,42 @@
 					"The skyline of Sharn with tiny moving skycoaches."
 				]
 			]
+		},
+		{
+			"source": "ChroniclesofEberron",
+			"name": "How Did You Lose Your Title ?",
+			"caption": "How Did You Lost Your Title ?",
+			"page": 20,
+			"colLabels": [
+				"d6",
+				"Reason for Loss"
+			],
+			"rows": [
+				[
+					"1",
+					"Your ancestor attempted to kill the sovereign and failed. Do you know what drove them to attempt this crime ?"
+				],
+				[
+					"2",
+					"Your ancestor was framed by rivals who now hold your rightful title and lands. What crime were they framed for ?"
+				],
+				[
+					"3",
+					"Your domain was lost to an enemy during the Last War. Who holds it now ?"
+				],
+				[
+					"4",
+					"Your ancestor worked with an enemy during the Last War and was convicted of treason. What were they trying to accomplish ?"
+				],
+				[
+					"5",
+					"Your domain was abandoned after being seized by a supernatural force. Is it haunted by deadly undead or held by aberrations from Khyber? Was your ancestor responsible for this situation ?"
+				],
+				[
+					"6",
+					"Your ancestor refused to uphold the laws of the land. Were they decadent, corrupt, or negligent? Or were they taking a principled stand ?"
+				]
+			]
 		}
 	],
 	"item": [
@@ -1856,6 +1897,164 @@
 				"Spellbolt (Cantrip - 1st Level)|ChroniclesofEberron",
 				"Spellbolt (2nd - 3rd Level)|ChroniclesofEberron"
 			]
+		}
+	],
+	"background": [
+		{
+			"name": "Variant Noble (Displaced)",
+			"source": "ChroniclesofEberron",
+			"page": 19,
+			"_copy": {
+				"name": "Noble",
+				"source": "PHB",
+				"_mod": {
+					"entries": [
+						{
+							"mode": "replaceArr",
+							"replace": "Feature: Position of Privilege",
+							"items": {
+								"name": "Feature: Remembered Loyalty",
+								"type": "entries",
+								"entries": [
+									"Many people still remember the old days. When you arrive in a new settlement, talk to your DM about creating an NPC you know from your old life. If you make contact, they treat you favorably and offer you food and shelter. This NPC might be a member of your household or a commoner who used to live under your aegis, or you can roll on the table below to choose.",
+									{
+										"type": "table",
+										"page": 19,
+										"colLabels": [
+											"d8",
+											"NPC"
+										],
+										"rows": [
+											[
+												"1",
+												"Household guard"
+											],
+											[
+												"2",
+												"Farmer or brewer"
+											],
+											[
+												"3",
+												"Court magewright"
+											],
+											[
+												"4",
+												"Chamberlain or treasurer"
+											],
+											[
+												"5",
+												"Valet or butler"
+											],
+											[
+												"6",
+												"Chaplain or priest"
+											],
+											[
+												"7",
+												"Groom or horsemaster"
+											],
+											[
+												"8",
+												"Smith or armorer"
+											]
+										]
+									}
+								],
+								"data": {
+									"isFeature": true
+								}
+							}
+						},
+						{
+							"mode": "insertArr",
+							"index": 1,
+							"items": {
+								"name": "Variant Noble (Displaced)",
+								"type": "entries",
+								"entries": [
+									"The Mourning and the Treaty of Thronehold have remade the borders of the Five Nations and beyond. Your home estates have been annexed, gifted to another family, or enveloped by the dead-gray mists. Unfortunately, you can no longer enjoy the direct benefits of your titles, but your family's legacy lives on."
+								]
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"name": "Variant Noble (Newly Risen)",
+			"source": "ChroniclesofEberron",
+			"page": 20,
+			"_copy": {
+				"name": "Noble",
+				"source": "PHB",
+				"_mod": {
+					"entries": [
+						{
+							"mode": "replaceArr",
+							"replace": "Feature: Position of Privilege",
+							"items": {
+								"name": "Feature: Rising Star",
+								"type": "entries",
+								"entries": [
+									"Your name is known among monied individuals in your home country. You generally enjoy the utmost respect of non-aristocratic upper and middle classes. You can expect reasonable accommodations and inside information from such people in return for a simple non-monetary favor, such as passing their name or details of their business along to another noble."
+								],
+								"data": {
+									"isFeature": true
+								}
+							}
+						},
+						{
+							"mode": "insertArr",
+							"index": 1,
+							"items": {
+								"name": "Variant Noble (Newly Risen)",
+								"type": "entries",
+								"entries": [
+									"Your family has risen to the aristocracy very recently. Service to the crown, a heroic deed, or an extraordinarily generous donation may have contributed to your success. Though older and more entrenched noble families meet their obligations toward you, they may still look on you with disdain. Meanwhile, there is no shortage of other folks looking to ride your coattails to a new and better life."
+								]
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"name": "Variant Noble (Disgraced)",
+			"source": "ChroniclesofEberron",
+			"page": 21,
+			"_copy": {
+				"name": "Noble",
+				"source": "PHB",
+				"_mod": {
+					"entries": [
+						{
+							"mode": "replaceArr",
+							"replace": "Feature: Position of Privilege",
+							"items": {
+								"name": "Feature: Scandalous",
+								"type": "entries",
+								"entries": [
+									"Your family name and your alleged failures are known far and wide. Nobles and loyal commoners may put up a polite front as propriety demands, but they are inclined to think the worst of you. Meanwhile, there are plenty who seek to capitalize on your position. You can always seek a secret meeting with a noble who is not the current head of their house, or with a local criminal leader."
+								],
+								"data": {
+									"isFeature": true
+								}
+							}
+						},
+						{
+							"mode": "insertArr",
+							"index": 1,
+							"items": {
+								"name": "Variant Noble (Disgraced)",
+								"type": "entries",
+								"entries": [
+									"Though you're a member of the aristocracy, your family has lost favor with its peers. The source of your disgrace might be a debt or defeat shared between all members of your house, or a particular family member might've been accused or convicted of heinous crimes."
+								]
+							}
+						}
+					]
+				}
+			}
 		}
 	]
 }
