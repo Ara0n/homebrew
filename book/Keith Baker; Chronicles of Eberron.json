@@ -1423,7 +1423,120 @@
 									"name": "Crossbow Advancements",
 									"page": 16,
 									"entries": [
-										""
+										"Once we embrace the idea of the crossbow as a modern weapon that's actively evolving, there are many ways one could improve on it. Consider the following ideas that DMs can introduce to their games.",
+										{
+											"type": "entries",
+											"name": "Bayonets",
+											"page": 16,
+											"entries": [
+												"During the Last War, the crossbow was the common infantry weapon in many of the Five Nations. While bayonets aren't as effective as a stand-alone melee weapon, they provide crossbow-wielders with an attack they can use in close quarters without dropping their crossbow.",
+												"The Bayonets table presents two new weapons, which are available from most weapons vendors in the Five Nations. The light bayonet is a simple weapon that can be attached to a light crossbow, while the heavy bayonet is a martial weapon that can be attached to a heavy crossbow. Each bayonet uses the following special rule:",
+												{
+													"type": "entries",
+													"name": "Using Bayonets",
+													"page": 16,
+													"entries": [
+														"You have disadvantage on attacks made with a bayonet that isn't attached to a crossbow. It takes an action to attach or remove a bayonet from a weapon."
+													]
+												},
+												{
+													"type": "list",
+													"columns": 0,
+													"page": 16,
+													"name": "Bayonets",
+													"items": [
+														"{@item Bayonet (light)|ChroniclesofEberron}",
+														"{@item Bayonet (heavy)|ChroniclesofEberron}"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Reloading",
+											"page": 16,
+											"entries": [
+												"Standard crossbows in fifth edition already have an impressive rate of fire; you could easily justify this by describing them as having an integrated clip. However, if you want to reflect further innovations, you could introduce a crossbow model with the reload property (originally from the \"{@book Firearms|DMG|9|firearms}\" section of the {@i Dungeon Masters Guide}) instead of the loading property:",
+												{
+													"type": "entries",
+													"name": "Reload",
+													"page": 16,
+													"entries": [
+														"A limited number of shots can be made with a weapon that has the reload property. You must then reload it with ammunition using your choice of an action or a bonus action."
+													]
+												},
+												"Perhaps Starilaskur Arms has developed a hand crossbow with Reload 6 for the King's Dark Lanterns, or maybe Cannith East has developed a version of the Thunderbolt heavy crossbow with Reload 15 that's currently being tested by Karrnath's elite forces. While these weapons won't significantly shift the balance of encounters, they can slightly increase a character's damage output; keep that in mind when deciding how easy it is for adventurers to acquire such weapons."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Silencers",
+											"page": 16,
+											"entries": [
+												"Illusion magic can create or dampen sound, so it's easy to imagine a magical device attached to a crossbow, eliminating the sound produced by firing or loading the weapon. This {@i {@item crossbow silencer|ChroniclesofEberron}} would prevent people from hearing the shot from a distance, and in combat, make it difficult for foes to locate a hidden archer."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Spellbolts",
+											"page": 17,
+											"entries": [
+												"Developed by House Cannith near the end of the Last War, a {@i {@item spellbolt|ChroniclesofEberron}} functions as a sort of magical grenade. Each {@i {@item spellbolt|ChroniclesofEberron}}'s arcane payload is triggered by the kinetic formula of a Cannith crossbow, allowing an archer to shoot a target and affect them with a spell. Effectively, a {@i {@item spellbolt|ChroniclesofEberron}} is like a scroll or potion—a consumable magic item holding a single charge of a spell—with the advantage of delivering that effect at a longer range. These bolts are a recent innovation, and House Cannith has thus far only created {@i {@item spellbolt|ChroniclesofEberron}} using spells of up to 3rd level from the wizard spell list. Though {@i {@item spellbolt|ChroniclesofEberron}} aren't widespread in the Five Nations, they have the same cost and rarity as a scroll of the same spell."
+											]
+										},
+										{
+											"type": "list",
+											"columns": 0,
+											"page": 16,
+											"name": "Spellbolt",
+											"items": [
+												"{@item Spellbolt (Cantrip - 1st Level)|ChroniclesofEberron}",
+												"{@item Spellbolt (2nd - 3rd Level)|ChroniclesofEberron}"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "But What About Gunpowder ?",
+									"page": 17,
+									"entries": [
+										"Sure, crossbow innovations are interesting, but what about actual firearms? After all, if something exists in D&D, there's a place for it in Eberron—and the {@book Dungeon Master's Guide|DMG} includes rules for firearms!",
+										"In developing Eberron, the design team made an intentional choice not to include gunpowder-based firearms in the world. We wanted to explore magic as a form of science, with people finding arcane solutions to the problems our world solves with mundane science. So rather than adding gunpowder on top of the Five Nation's arcane innovations, we chose to create a world where people use magic to fight from afar, whether via wandslingers or Cannith's kinetic formula. But at the end of the day, that's largely a semantic and stylistic choice. As a DM, if you want to use the firearms in the {@book Dungeon Master's Guide|DMG}, here are a few easy ways to do it.",
+										{
+											"type": "entries",
+											"name": "Magical Firearms",
+											"page": 17,
+											"entries": [
+												"There's no reason that firearms have to use gunpowder. You could use firearm statistics but describe how they're driven by Cannith's arcane formula—perhaps the SAC-12 is a light crossbow, but the Cannith Thunderbolt is a musket. Or you could introduce Zil elemental firearms rthat use a bound earth elemental to project the stone bullets, or an Aereni firearm powered by a harnessed poltergeist. The rules are a set of concrete statistics for a weapon, but nothing requires these weapons use gunpowder (and notably, futuristic firearms already don't)."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cultures with Gunpowder",
+											"page": 17,
+											"entries": [
+												"If you want firearms with actual gunpowder but don't want their existence to impact the development of the Five Nations, you could give that science to an isolated culture that followed a different path. My personal choice would be the Kech Hashraac—a Dhakaani clan specializing in artillery. Such tools could either be unique to the Kech Hashraac or used by all of the Heirs of Dhakaan. This can highlight how the Dhakaani are an advanced culture that followed a different path than the Five Nations, and the difference in weaponry could make for interesting conflicts between the Dhakaani and the Five Nations. Meanwhile, if a player character wanted to use guns, they could have a connection to the Kech Hashraac or another isolated and technologically advanced culture—one unusual choice would be to give firearms to Riedra!"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Unique Invention",
+											"page": 17,
+											"entries": [
+												"If an artificer wants to use firearms, perhaps they personally developed these unique weapons unknown to the wider world. This artificer might use gunpowder, or they could've developed an even more unconventional principle the world doesn't yet accept—\"My nightmare gun is powered by dreams and shoots bullets of pure fear!\" Again, the firearm mechanics in the {@i {@book Dungeon Master's Guide|DMG}} are simply a foundation; you decide how those rules {@i feel} in the world of Eberron. Whatever the design, these weapons are peculiar prototypes that require constant maintenance; the character's ability to keep them working is a reflection of their remarkable skill."
+											]
+										},
+										{
+											"type": "inset",
+											"page": 17,
+											"name": "Firearms and Balance",
+											"entries": [
+												"I personally prefer to stick with enhanced crossbows, maintaining the game's balance while still presenting the party's crossbows as advanced weapons. If you do introduce firearms into a D&D game, here are some balance considerations.",
+												"The {@filter Renaissance firearms|items|source=|type=renaissance|category=} are reasonably balanced against weapons from the {@book Player's Handbook|PHB}; for example, the {@item musket} deals more damage than the {@item heavy crossbow|PHB} but with a significantly shorter range. However, the Modern and Futuristic weapons significantly outshine standard weapons. The Modern hunting rifle inflicts twice the damage of a {@item heavy crossbow|PHB}, and a single shot from the Futuristic {@item antimatter rifle} deals as much damage as a 3rd-level {@spell inflict wounds} spell.",
+												"With that in mind, if I added firearms to my campaign, only the {@filter Renaissance weapons|items|source=|type=renaissance|category=} weapons would be widespread. I'd treat {@filter Modern weapons|items|source=|type=modern|category=} like uncommon magic items (though notably, their damage doesn't bypass damage resistance like a magic weapon would), and give these weapons to the more technologically advanced cultures in Eberron. Perhaps Aerenal's elite Cairdal Blades have firearms driven by ectoplasm, or the tiefling lords of the Venomous Demesne use firearms harnessing the flames of Fernia. Meanwhile, the incredibly powerful {@filter Futuristic weapons|items|source=|type=futuristic|category=} would be unheard of, and as hard to come by as a very rare magic item."
+											]
+										}
 									]
 								}
 							]
