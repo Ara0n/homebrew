@@ -1895,6 +1895,281 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "Nations and Nobles Today",
+							"page": 25,
+							"entries": [
+								"So far, we've explored the standard traditions of Galifar that most nations share. However, even while Galifar was united, the nations had their own unique customs, and these changes have only accelerated over the last century.",
+								{
+									"type": "entries",
+									"name": "Aundair",
+									"page": 25,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0017.webp"
+											},
+											"credit": "Matthew Johnson"
+										},
+										"Aundair has held closely to the old traditions of Galifar, and its people have a romantic view of the nobility. These tendencies may be due in part to the influence of Thelanis, but whatever the reason, Aundairians have always embraced the notions of noblesse oblige and chivalry. The common folk value self-reliance and ambition, but alongside that, most have believed throughout history that the Aundairian nobility is noble in all senses of the word, that their leaders will do what's best for the country and for their people.",
+										"Their idealism doesn't extend to foreign nobles, however; Aundairians have long believed that their people—both nobles and commoners—possess a dignity and decency beyond their neighbors. Over the last two centuries, a rift has also formed between the farmers of Aundair's west and the grand cities of its east. This division led first to the west's embrace of the Pure Flame sect and eventually culminated in the secession of the Eldeen Reaches. Nonetheless, most remaining Aundairians are proud of their rulers and feel a bond to their local lords.",
+										{
+											"type": "entries",
+											"name": "Noble Ranks",
+											"page": 25,
+											"entries": [
+												"Aundair uses the standard noble ranks of Galifar. Accomplished arcane spellcasters often add a title describing their primary school of magic, along with an indication of the highest-level spell they can cast; so a noble might be introduced as \"Alara ir'Lain, Countess of Askelios, Diviner of the Fourth Circle.\" (Bear in mind that NPC spellcasters may not have the full capabilities of a PC class; while Countess Alara is capable of casting at least one 4th-level divination spell, that doesn't mean she has all the versatility of a 9th-level wizard; she might even be limited to casting her spells as rituals, like a magewright.)"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Playing an Aundairian Noble",
+											"page": 25,
+											"entries": [
+												"Aundairians have high expectations of their nobles. Aundair is a land that values wit, knowledge, and arcane talent, and a noble is expected to possess all of these. Nobles may not be accomplished spellcasters, but if you can't at least cast a cantrip, your peers will chuckle and your parents will push you to study harder. Similarly, Aundairian nobles have high standards of honor and duty, and crass or selfish behavior reflects poorly on your family.",
+												"The {@background noble} background is a logical choice for any noble character, but if you're a second child or further down the line, both {@background soldier} and {@background sage} are good Aundairian choices; many Aundairian officers were drawn from noble families. You could also be one of the \"Lost Lords,\" nobles whose domains were lost in the secession of the Eldeen Reaches. While a few Lost Lords still have enough influence to justify a Position of Privilege, this is a sound basis for taking the {@background Variant Noble (Retainers)|PHB|Retainers} feature instead; if your retainers are members of longlived ancestries, they might even have served your family long before the Eldeen rebellion.",
+												"Aundair has a significant population of elves and Khoravar, and these are folded into its noble families; there are also a few noble families comprised of gnomes. A significant number of noble estates are close to manifest zones tied to Thelanis, and many of the oldest families claim to have ancient agreements with fey; such agreements could range from a formal pact with an archfey to a simple understanding with a dryad who dwells in the local wood. It's also the case that {@creature Sul Khatesh|ERLW} is bound beneath Aundair, and some families have secret ties to the Queen of Shadows. In creating an Aundairian noble, consider whether your family has any ancient compacts in their history—if so, is this a point of public pride or a secret?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Breland",
+									"page": 26,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0018.webp"
+											},
+											"credit": "Matthew Johnson"
+										},
+										"The kingdom of Wroat was founded by reavers and bandits, and its rulers held their power through a blend of charisma, cunning, and force. This collection of city-states, loosely aligned under Wroat, was once the greatest power in the region—but it was clear from the start of Galifar's invasion that Wroat would ultimately fall to Galifar's disciplined forces. Those leaders who wisely chose to ally with their invaders became the nobles of the newly forged Breland.",
+										"While Breland accepted the feudal structure of Galifar, its people never fully embraced the nobility. It's always been said that a Brelish farmer sees themselves as the equal of any king. Brelish commoners accepted that the nobles had the power, but they never bought into romantic ideals of divine bloodlines. Breland was an active frontier, and its people were more concerned with practical protection than with who was doing the protecting. When Galifar was formed, the lands west of the Dagger were still home to ogres and gnolls, while goblins and gnomes held the lands to the east. Zilargo's grand duchies were quickly incorporated into the united kingdom, but it took centuries for Breland to achieve its current borders. The shield lords of the west were far more practical than the grand lords of Aundair; the common folk relied on the nobles to direct military action and to bring the resources of the crown to bear, while the lords relied on the people to be more self-directed than in other nations. Brelish communities chose their own reeves and lesser officials, and even simple matters of justice were resolved by the people instead of going to the courts.",
+										"So throughout the history of Breland, nobles had to earn (and maintain) the respect of their subjects instead of merely relying on tradition to keep them in their place. When Brelish respect their leaders, the people are known for their pride and loyalty—but Breland has also seen more minor uprisings than the other Five Nations.",
+										{
+											"type": "entries",
+											"name": "Prliamentary Rule",
+											"page": 26,
+											"entries": [
+												"The Brelish Parliament was established before the Last War as a representative body that advised the Prince of Breland, and at the outbreak of the Last War, Princess Wroann ir'Wynarn promised to make Breland a place where \"people would be judged by word and deed instead of social class.\" In 895 YK, Wroann granted greater powers to the Brelish Parliament, and it wields the same authority to this day; the parliament makes the laws, and the crown enforces them (as well as overseeing foreign affairs and national security). King Boranel is an exceptionally popular ruler, but a strong movement believes that the Brelish monarchy should end with Boranel's reign—or at least be relegated to a purely symbolic position."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Noble Ranks",
+											"page": 26,
+											"entries": [
+												"Breland uses the traditional ranks of Galifar, but an unusually high number of its counties are ruled by shields, especially west of the Dagger. Even though most of these counties have been secure for centuries, the shield lords still take pride in their titles and the deeds of their ancestors. Most cities and large communities have a council that manages local affairs, and in many counties, viscounts are actually appointed by this council, rather than by the noble lord; a canon example of this is the Lord Mayor of Sharn, a viscount appointed by the city council.",
+												"Breland is the only one of the Five Nations that allows nobles to sell their titles and domains—notably, this is how Antus ir'Soldorak of the Aurum obtained his \"ir.\" Any such transaction must be approved by the sovereign, and the crown takes a cut of the proceedings. The new noble is required to fulfill the duties of their position, and should they fail, the title can be stripped away."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Playin a Brelish Noble",
+											"page": 26,
+											"entries": [
+												"Brelish nobles need to be popular with their people to rule effectively. If you're a noble with a Position of Privilege, what's the foundation of your popularity ?",
+												"Are you charismatic, or have you or your family performed great deeds to earn the love of your people? Is there a song local bards sing about you? Can your family trace its roots back to the foundation of Galifar, or did they buy their title? Are you from a core county that's always been part of the realm, or are you a shield lord whose ancestors took your lands from the so-called monsters of the west? Is your domain secure now, or are your lands on the border with Droaam— and if the latter, why are you adventuring instead of standing with your people?",
+												"If you don't want a traditional {@background noble} background, it's possible your lands were west of the Graywall mountains but were lost in the rise of Droaam; perhaps Graywall itself was your family's domain! Or if you're a minor Brelish noble popular with the people, you might take the {@background folk hero} background; your support of the common folk is so well known that you're celebrated even in other nations. Alternatively, if you're from a small county with relatively little influence, it might be interesting to take the {@background criminal} background—is it because your noble family has deep dealings with the criminal community? Or are your family criminals who bought a minor title?",
+												{
+													"type": "inset",
+													"page": 27,
+													"name": "Noble Families of Sharn",
+													"entries": [
+														"Twenty-five noble families are represented in Sharn; together with thirty-five other powerful (but common) families, they make up the Sixty, the \"social nobility\" of Sharn. However, these nobles don't rule Sharn itself. Though Sharn lies within the Duchy of the Hilt, the city is governed by the Lord Mayor, a viscount appointed by the elected city council; beyond the mayor's rule, the city's other actual leaders are city councilors and Watch captains.",
+														"Some of Sharn's aristocratic families are landed nobles who maintain estates in the city but govern lands elsewhere in Breland; even if the actual lord is rarely in residence, their heirs might be in Sharn to enjoy the season. Others merely hold courtesy titles. Notably, the ir'Tain family—generally seen as the crown jewel of the social scene—draws their influence from vast wealth. While ir'Tains have served as Lord Mayor, the family doesn't actually govern lands. So there are many nobles in Sharn, but their domains—if any—lie outside the city."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Cyre",
+									"page": 27,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0019.webp"
+											},
+											"credit": "Matthew Johnson"
+										},
+										"The conquest of Metrol was Galifar I's first step in establishing his united kingdom. The realm was his bitterest enemy and the one most completely transformed in defeat. The nobles of central Cyre, each hand-picked by Galifar, were devoted to the ideals of the united kingdom. They believed they embodied those ideals, confident that \"what our dreams imagine, our hands create.\" Some folk argue that these dreamers were decadent and soft; in truth, they were devoted to arts, sciences, and philosophy—though their contemplative pursuits avoided challenging the concept of the monarchy itself. To central Cyrans, the crown was the bedrock foundation of Galifar, and all their dreams were built on that foundation.",
+										"Of course, things were quite different for the nobles of southern and eastern Cyre. To realize his dreams for central Cyre, Galifar divided the best lands of old Metrol among his new, hand-picked nobles, while resettling the original nobles in the lands to the south and east. The lands to the south were inhabited by goblins, and the distant region across the Blade Desert by farmers who traced their roots back to the Khunan region of Sarlona. Neither of these forces were organized into nations nor had the power to resist Galifar; he claimed both regions by conquest, then granted their lands to Metrol's displaced nobles. While he forbade outright slavery, he was willing to overlook the excesses of feudal serfdom. As a result, Central Cyre may have embodied the ideals of Galifar, but eastern Cyre was its antithesis. Due to its isolation, the region was simply ignored by the rest of the united kingdom, its nobles allowed to rule their petty fiefdoms as they wished.",
+										"Following the outbreak of the Last War, the Cyrans continued to hold to the traditions of Galifar; after all, they were the rightful heirs of the true kingdom and were fighting to defend it. Eastern and southern Cyre were lost in the uprisings that formed Valenar and Darguun, then central Cyre fell in the Mourning. Today, most surviving Cyran nobles have little but their pride. The Treaty of Thronehold established Cyre as a fallen nation, giving its nobles no voice in shaping the treaty. While Boranel has granted Prince Oargev the land now known as New Cyre, the only power Cyran nobles now wield is what others choose to give them.",
+										{
+											"type": "entries",
+											"name": "Noble Ranks",
+											"page": 27,
+											"entries": [
+												"Cyre used the standard ranks of Galifar. Counties in southern Cyre were often ruled by shields, as the land was taken from the goblins; the centuries that followed were filled with ongoing conflicts over that land."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Playing a Cyran Noble",
+											"page": 27,
+											"entries": [
+												"The earlier \"Position of Privilege\" section discusses several background options for Cyran nobles, including a new background feature for {@background Variant Noble (Displaced)|ChroniclesofEberron|displaced nobles}. Beyond background, consider the following when developing the story of a Cyran noble.",
+												"Was your family's domain within central Cyre (now the Mournland)? Or are you from southern Cyre (now Darguun) or eastern Cyre (now Valenar)? Valenar and Darguun were lost almost four decades ago, and if you're human, you may have never known these lands. But unlike the lands lost to the Mournland, your family's land still exists; do you yearn to reclaim it from the elves or goblins?",
+												"While it's usually most practical for adventurers to be heirs as opposed to actively holding a title—explaining why you're not bound by the duties of your rank and why you don't have access to its resources—it's simple to adventure as a titled noble if you're playing a Cyran! It could be you were the Duchess of Eston and part of Dannel's councils—and now, you're a refugee with only three loyal retainers left to show for it. As discussed earlier, your Cyran title probably means little to the rest of Khorvaire; once you may have been Duchess of Eston, but now you're just a woman with a well-worn sword and the skills to use it."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Karrnath",
+									"page": 28,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0020.webp"
+											},
+											"credit": "Matthew Johnson"
+										},
+										"The Karrns are a hard people who have always valued martial discipline and strict order. Karrn the Conqueror's deeds eventually secured human dominance over Khorvaire— albeit a thousand years after his death—and Galifar I himself was from Karrnath. While Cyrans believe they're the rightful heirs of Galifar because of the traditions of succession, Karrns know it was their people who created Galifar, and their language that became the common tongue. If Kaius III can't reclaim the throne of the united kingdom, perhaps another capable Karrnathi warlord will be the next Galifar and start the cycle anew.",
+										"In Karrnath, the Galifar Code of Justice has been supplanted by the harsh Code of Kaius, a form of martial law. Enacted at the start of the Last War, the code met little resistance and remains in place today, in part because it reflects the overall character of the Karrns and their culture, which stood long before Galifar I crafted a more enticing foundation for his united kingdom. While there are certainly exceptions, most Karrns are proud of their strict laws and view the other nations as soft and corrupt. All Karrns serve a term in the military, further cementing their respect for order and the chain of command. One might ask what Karrnath needed with such a sizable army, especially during the most peaceful years of Galifar; in truth, the Karrnathi army fills many noncombat roles within the nation. Local law enforcement is largely provided by soldiers, with a small corps of career officers who maintain continuity of service. Soldiers also perform public works. A term in the army is a term of service to the nation—you must be prepared to go in harm's way for the good of your people, but the precise form of your service is up to your sovereign and the warlord.",
+										{
+											"type": "entries",
+											"name": "Grand Duchy of Atur",
+											"page": 28,
+											"entries": [
+												"Karrnath is notable for its Grand Duchy of Atur. This region's independence was negotiated long ago, recognizing its work containing the dangerous influence of the powerful Mabaran manifest zone at the heart of the region. During the Last War, Kaius I affirmed this independence in exchange for the support of Atur's elite necromancers. This allowed Atur to remain a public stronghold of the Blood of Vol even after Regent Moranna and Kaius III turned against the faith. Atur is still home to the finest necromancers in the nation, and most of Karrnath's undead troops are stored in its vaults. Some warlords despise the Blood of Vol or fear that the undead it maintains could be turned against Karrnath. But these nobles know that seizing Atur would prove disastrous without the knowledge to contain the power of the manifest zone, and so the City of Night remains inviolate."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Noble Ranks",
+											"page": 28,
+											"entries": [
+												"Karrnath uses the standard ranks of Galifar. It's common for dukes to use the title of warlord, but the titles are interchangeable. Counts along the new southeastern borders of the nation take pride in the title of shield. Nobles are expected to levy a specific number of troops for the service of the crown, but they may maintain additional forces as they see fit within their realms; likewise, when troops are levied, it's understood that they're merely on loan to the crown, and those troops retain their loyalty to their duke."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Playing a Karrnathi Noble",
+											"page": 28,
+											"entries": [
+												"As a Karrnathi noble, consider whether you want the {@background noble} or {@background soldier} background. Like other Karrns, all nobles serve in the military, often as officers (if they actually possess the skills to lead). The Position of Privilege feature reflects greater diplomatic influence, whereas the Military Rank feature reflects respect earned on the battlefield, deeds recognized even by enemy soldiers. Which is a better fit for your noble Karrn?",
+												"You'll also want to decide where you stand on the Blood of Vol and the use of undead. The faith has always had deep roots in Karrnath. It spread when it was embraced by the crown earlier in the war, then withered when Regent Moranna turned against it two decades ago. Are you from a proud Seeker family, perhaps tied to the Grand Duchy of Atur? If so, how has the nation's rejection of the faith affected your family? Did your family once embrace the faith only to abandon it—and if so, are you still a believer in spite of your faithless forbearers? Or are you a true Vassal devoted to Dol Dorn and the Sovereigns, confident that proud Karrnath can dominate the battlefield without using undead?",
+												"Another question is where you stand on Kaius III and his efforts to strengthen peace. Do you believe the current peace is best for all? Do you trust your king is doing what's best for the nation, even if you hope it's merely a stratagem in a longer game? Or do you believe Kaius is squandering Karrnathi might and hope a new warlord will lead your nation to greatness? Do you think you could be that warlord, given time?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Thrane",
+									"page": 29,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0021.webp"
+											},
+											"credit": "Matthew Johnson"
+										},
+										"Even before becoming Thrane under Galifar I, the city-state of Daskara was devoted to worship of the Sovereign Host, reflecting the influence of ancient Pyrine (and to a lesser extent, Irian). Just as Karrnath has powerful manifest zones tied to Mabar, Daskara has a few noteworthy zones tied to Irian, which inspire hope and encourage faith; notably, one of these zones is in the region where Flamekeep now stands. Like Galifar I's belief in the Wynarn family's right to rule, the people of Daskara believed their own rulers were blessed by the Sovereigns and governed with divine right. This faith was shaken by their defeats at the hands of Galifar's forces, but he was able to convince most that his united kingdom was part of the divine plan, that their blessed lords were meant to kneel to the Wynarn monarch. Galifar further strengthened this by establishing Daskara as the seat of the Grand Temple of the Host, the greatest temple in the lands. However, divine will was called into question when the dragon Sarmondelaryx ravaged the newly christened Thrane, killing its prince and burning the Grand Temple.",
+										"These challenges strained the faith of the Thranes, but it took the overlord Bel Shalor to shatter it. Neither a prince nor the Sovereigns saved the nation from his terror, but a warrior of lowly birth, strengthened by courage and the power of the Silver Flame. In the years and centuries that followed, the people of Thrane largely abandoned the Sovereign Host and embraced the Silver Flame. Bel Shalor's forces had destroyed the Grand Temple of the Host, and the people chose to replace it with the citadel of Flamekeep. This moved the seat of the Vassal faith out of Thrane and to the Cathedral of the Sovereign Host in Metrol.",
+										"These changes left the nobles of Thrane in an odd position. They had long touted their supposed divine blessing, but now their people were shifting away from the faith that supported it. Many nobles responded to this by embracing the Silver Flame, sharing the faith of the people, and acknowledging the power that saved their nation. Others sought to balance both traditions; after all, even if the Grand Temple was never rebuilt, the faith of the Silver Flame didn't actually deny the possibility the Sovereigns might exist and might have blessed the noble lines. And a few nobles clung bitterly to the old ways, refusing to acknowledge the new faith and struggling to limit the power of its church within their domains.",
+										{
+											"type": "entries",
+											"name": "Theocratic Rule",
+											"page": 29,
+											"entries": [
+												"Following the death of King Thalin in 914 YK, Thrane officially became a theocracy led by the Keeper of the Silver Flame and the Council of Cardinals. The lands once held through the crown were now considered the property of the church, and the church claimed authority over most civil and military matters previously administered by nobles. The roles of viscounts and blood regents were dissolved and taken over by church functionaries. Higher nobles were allowed to retain a single manor and estate, but no more.",
+												"Many nobles chose to work with the church, helping with the transition and earning a place within the theocracy through faith and service. Others were willing to remain in a decorative ceremonial role—a position Queen Diani ir'Wynarn finds herself in today. In theory, she is the Blood Regent and serves as advisor to the Keeper and the Cardinals. In practice, she is largely ignored. While she smiles at the services she attends, Diani believes that Aureon and Dol Arrah have plans for her, and there are loyalists—known as Throneholders— who dream of restoring Thrane's monarchy to its rightful place."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Noble Ranks",
+											"page": 29,
+											"entries": [
+												"The Thrane nobility uses standard ranks, but there are no viscounts or crown reeves. Only an eldest heir receives a courtesy title. Thrane nobles can't create titles or take any action that would've once required the approval of the sovereign. Most have no authority beyond their estates unless they also serve in the church."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Playing a Thrane Noble",
+											"page": 29,
+											"entries": [
+												"If you want to play an influential character in Thrane, whether of noble blood or otherwise, the {@background acolyte} and {@background soldier} backgrounds are an excellent choice. An {@background acolyte} is the equivalent of a civil servant, and its Shelter of the Faithful feature gives you the same sort of influence among the faithful and within the church that Position of Privilege gives with nobles. As a {@background soldier}, the Military Rank feature reflects your role with the templars or general army of Thrane; either way, your deeds were significant enough that you're respected even by the soldiers of other nations. What did you do to earn this respect? What was your most noteworthy battle?",
+												"Should you wish to play a disenfranchised noble, the {@background Variant Noble (Retainers)|PHB|Retainer} feature (or the {@background Variant Noble (Displaced)|ChroniclesofEberron|Displaced} background from earlier in this chapter) is probably a better fit than Position of Privilege. Beyond your retainers, your family still has an estate you can return to, but they have little influence or resources to spare. As a noble of Thrane, are you devoted to the Silver Flame, supporting the nation's new direction? Or are you a bitter Throneholder determined to restore the old order? For a more dramatic twist, you might believe you were chosen by one or more of the Sovereigns for some divine purpose; is this purpose the restoration of the nobility, or do the Sovereigns have a plan for you that doesn't place you at odds with the church?"
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"page": 30,
+									"name": "Succession, Inheritance, and Resurrection",
+									"entries": [
+										"How does the Code of Galifar handle succession and inheritance when a noble dies... and then comes back? {@i Sharn: City of Towers} establishes that the Code of Galifar doesn't consider undead to be citizens, and undead nobles can't hold property. However, in a world with the {@i {@spell revivify}} spell, it's extreme to say that if someone is dead for less than a minute, they lose all their privileges. With this in mind, the common practice in the Five Nations is to observe a two-week grace period while the soul of the dead person is passing through Dolurrh. During these two weeks, they aren't legally dead. A dead noble's heir may immediately take up office to ensure the system keeps running, but a noble raised from the dead during that time retains all their rights and privileges.",
+										"On the other hand, after a person has been dead for two weeks, they're legally dead, and the laws regarding inheritance and succession come into effect. A noble returned to life after this period is considered to be a new person with no claim to their old titles or property. So if Queen Wroaan ir'Wynarn were brought back to life, she wouldn't displace King Boranel, though in recognition of her deeds, she might be granted quarters at the castle and a courtesy title like \"Queen-Posthumous.\""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Other Nations",
+									"page": 30,
+									"entries": [
+										"While most other nations of Khorvaire have their own unique traditions of nobility, a few have inherited elements from Galifar, and these are briefly addressed below.",
+										"If you want to play a character who wields great power within one of these nations, keep in mind that the {@background noble} background's Position of Privilege feature reflects a broad recognition of your authority—an authority you likely don't have outside your region. So if you wield great power within a Lhazaar principality but don't have any influence beyond it, the {@background sailor} or {@background Variant Sailor (Pirate)|PHB|pirate} background might fit better than the {@background noble} one. Your background feature usually reflects the aspect of your background that you want to most regularly come into play; but if you just want to have an interesting story hook about your noble heritage, even if it might never come up in the campaign, that simply requires the approval of your DM.",
+										{
+											"type": "entries",
+											"name": "The Eldeen Reaches",
+											"page": 30,
+											"entries": [
+												"The Eldeen Reaches seceded from Aundair in 958 YK, and its people swore their fealty to the Great Druid Oalian. The Eldeen Charter affirmed that the land now belonged to the Eldeen people and that the titles and claims of the nobility of Aundair were no longer recognized. Many nobles weren't in residence at the time (which was part of the reason for the secession). Others fled to Aundair, becoming the Lost Lords. But a few chose to stay with the people and to start a new life, working to be good community leaders even without the titles and privileges of their former lives.",
+												"Because of the time frame, a human adventurer likely wouldn't have held power in the Eldeen Reaches before the uprising. But as an elf or Khoravar, you could easily have been a {@background noble} in what is now the Reaches. Are you a Lost Lord hoping to reclaim your birthright? Or have you embraced your new nation and worked to strengthen it ?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Q'barra: New Galifar",
+											"page": 30,
+											"entries": [
+												"In the early years of the Last War, Ven ir'Kesslan of Cyre founded the first human settlement in the land of Q'barra. Ven, who was once duke of the Dollen region of Cyre, named his colony New Galifar and declared his intention to recreate the noble model of Galifar in this untamed land. The former duke thus became the first king of New Galifar, despite not being tied to the Wynarn bloodline. The few counts who had supported his cause were named dukes, and wealthy donors who had funded the expedition became counts.",
+												"Today, New Galifar remains small, though actively expanding. Newthrone is the royal seat, and the only two actual duchies are Whitecliff and Adderport. Nobles who rule small villages hold the generous title of count, though such domains would barely justify a crown reeve in the Five Nations. Most Q'barran nobles are \"claim lords\"— they've been granted titles and parcels of land by the King of Q'barra, but they haven't actually claimed or cultivated those lands. Adderport and Newthrone together have a kingdom's worth of dukes and counts, but most only rule over a handful of retainers and a small city estate.",
+												"A Q'barran title currently means little in the wider world, and it's unlikely that a Q'barran noble would have a Position of Privilege unless through another office, such as being an appointed ambassador. With your DM's approval, your character could be a claim lord, regardless of your actual background; as such, you have a title and some influence when you're actually in Newthrone, but no real significance elsewhere. While this wouldn't give the benefits of a Position of Privilege, your king could direct you to perform services in the name of New Galifar."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Valenar",
+											"page": 30,
+											"entries": [
+												"As far as the outside world can tell, the Valenar warclans known as the Host of Valenar seized the lands of eastern Cyre, drove out the Cyran nobility, and replaced them as feudal overlords. High King Vadallia granted the fiefs to his war leaders, so there is a Count of Moonshadow and a Duke of Pylas Maradal. However, this was largely a show for the rest of the world; the Valenar have never cared about holding land or titles, as the ancestors they emulate didn't rule petty fiefdoms. The Valenar nobles are rarely found in their supposed domains, and Khoravar immigrants (including many from House Lyrandar) administer justice and civil services in the name of Valenar.",
+												"There's little logical basis for using the {@background noble} background for a character from Valenar. Being the Count of Moonshadow won't get you the benefits of a Position of Privilege in the wider world. If you want to be a person of influence among the Tairnadal, the {@background soldier} background carries far more weight than a noble title. If you want to be a former Cyran lord yearning to reclaim your lands, you could take the {@background Variant Noble (Displaced)|PHB|Displaced} background from this chapter or the {@background Variant Noble (Retainers)|PHB|Retainers} feature (bearing in mind that Valenar was seized forty-two years ago), or you could choose another background and simply work with your DM to establish that your family has claim to a title in Valenar."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Zilargo",
+											"page": 31,
+											"entries": [
+												"As described earlier in this article, when the forces of Galifar advanced to conquer the lands beyond the Howling Peaks, they were met by gnome negotiators. After lengthy discussions and a wide array of Zil offers and enticements (many of which were later discovered to favor the gnomes more than they originally appeared), Galifar recognized the region of Zilargo as the Grand Duchies of Korranberg, Trolanport, and Zolanberg. The region was governed by triumvirate with a representative from each duchy. While ostensibly part of Breland, their status as grand duchies allowed them to largely remain autonomous. However, \"grand duke\" is a symbolic role that the Zil largely ignore, except during special interactions with nobles of Galifar. The actual positions of authority within Zilargo are elected offices, though these elections are often decided by vast webs of intrigue. In practicality, the Triumvirate, the Councils of Nine, and the Trust actually maintain the nation.",
+												"In the wake of the Treaty of Thronehold, the grand dukes are even more toothless than they were before. To this day, heirs of the three noble families in Zilargo—the ir'Korrans, the ir'Trolans, and the ir'Zolans—happily compete for the title of grand duke with elaborate duels and games; once a winner is chosen, they hold extravagant coronations ... then they repeat the process again a year later. While these families are among the most powerful families in Zilargo, the title of grand duke is considered little more than a toy."
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
