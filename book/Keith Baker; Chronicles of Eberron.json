@@ -2170,6 +2170,74 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "Notable Nobles",
+							"page": 31,
+							"entries": [
+								"In developing Eberron, we chose not to create a heavy burden of history, freeing each DM to add details that are important for the story they want to tell. The precise details of the thousand-year history of Galifar don't matter in most campaigns! If you do find yourself wanting to create historical events, the Untold History table in {@book chapter 1|ExploringEberron|1} of {@i {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}} can help.",
+								"For further inspiration, this section presents stories of six members of the royal family: kings, queens, and princes whose deeds are still celebrated or cursed in the present day. However, their stories intentionally exclude dates; Cyre and Galifar the Dark are already loosely set in canon, but the other characters are designed to be dropped into the untold history of Galifar wherever you need them to be. The story suggests that the Sun Queen inspired Tira Miron—but was Queen Hala the daughter of Galifar the Dark, or was she still alive when Tira first took up her sword? These characters serve as examples of what the rulers of Galifar could be: scholars, paladins, tieflings, traitors. Each one suggests ways their stories could matter—how adventurers might encounter their relics or tales in the present day.",
+								{
+									"type": "entries",
+									"name": "Cyre of the Five Faces",
+									"page": 31,
+									"entries": [
+										"Casual students of history may be confused by the contradictory accounts of the namesake of Cyre. In some accounts, Cyre ir'Wynarn was Galifar's oldest daughter, mere minutes ahead of her twin sister Aundair. In others, Cyre is described as Galifar's youngest son, who ruled as king after his father stepped down. Both accounts are true; as Princess Cyre, her vision of unity shaped her father's kingdom, and as King Cyre, he ascended to his throne.",
+										"Galifar's twins, Aundair and Cyre, were the most mystically gifted of the Wynarns. Aundair specialized in evocation and conjuration; she negotiated with celestials and fiends, and brought down her enemies with storm and fire. Cyre was devoted to divination, illusion, and transmutation; their interest was always in understanding the true nature of a thing and exploring the ways it could be expressed. Where Aundair was bold and often reckless, Cyre was thoughtful and empathetic. The Cyran national motto is \"What our dreams imagine, our hands create\"—and this was Cyre ir'Wynarn's motto long before it was the nation's. They sought to understand the people of the Five Nations, and it was Cyre's vision of all five working together—of harnessing the best in all of them—that drove both the development of the nation and the foundation of the united kingdom of Galifar.",
+										"Cyre's mastery of transmutation was unprecedented in the Five Nations. Their greatest creation was {@i Cyre's Mantle}, which used principles of transmutation and divination both to alter the form of the wearer and imbue them with new knowledge. Cyre didn't use the mantle as a disguise, but to create unique personas reflecting different aspects of their identity. Their subjects grew used to the \"Five Faces of Cyre,\" and Cyre considered each face to be as much their true nature as the one they were born with. Few who knew Cyre were surprised they chose to rule as King Cyre; this face's confident, decisive persona embodied his strongest leadership qualities. After his coronation, King Cyre used the mantle less often; he wanted the people to have a clear and consistent image of him as king, and only used other personas in private or with close advisors.",
+										"Those who are familiar with changeling cultures may recognize elements of traveler philosophy in Cyre's use of personas. While the truth is buried beneath centuries, some tales relate Cyre's great respect for the Children of Jes as he helped them establish havens across the united kingdom. In some of these tales, Cyre didn't actually create {@i Cyre's Mantle}, but received it as a gift from the Traveler. Whatever the truth, both {@i Cyre's Mantle} and some of his advisors disappeared after the king's natural death; various legends tell of the mantle being used at various points in history, but its current location remains a mystery."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Prince Dyran ir'Wynarn : Clever Dyran",
+									"page": 32,
+									"entries": [
+										"Dyran ir'Wynarn was a Khoravar born of the Duchess of the Duskwood and the King of Galifar. As a child, he spent much time on his mother's estates; Cyrans whispered that he was visiting his grandmother, an archfey whose domain lay on the other side of the Duskwood. Whatever the truth, there is no question that Dyran was remarkable. When he was appointed as governing Prince of Aundair, he was an Enchanter of the Third Circle; many believe that his true power was greater still, but he chose to conceal it. Dyran was a brilliant orator, blending natural charisma and supernatural gifts. He strengthened the Arcane College considerably during his reign, but his life's work was tracking down and identifying Thelanian manifest zones, evaluating obscure tales and walking forgotten paths. Aundairian bards know countless tales of Clever Dyran—how he won the crown of the Count of the Barren Marches, danced with Lady Perilous in the Palace of the Moon, and stole arcane secrets from the Mother of Invention. Some say he surely could've stolen the throne of Galifar from his human brother Dolan, except Clever Dyran had no desire to rule. He disappeared when he was 111 years old; the tales say he surely went to claim a seat in the Palace of the Moon, and he might still be there today.",
+										"While the details aren't known to history, Prince Dyran certainly negotiated with many of the archfey of Thelanis, both on his own behalf and for the good of his nation. If found, Dyran's journals could provide insight both into Thelanian manifest zone locations and secrets of the archfey; perhaps he made bargains that could still be invoked today. His vaults surely included treasures of Thelanis, and an unusual trinket could turn out to be a fey heirloom of Clever Dyran."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "King Galifar ir'Wynarn II: Galifar the Dark",
+									"page": 32,
+									"entries": [
+										"Young Galifar II was born in Vult, on the darkest night of Long Shadows. The common story says that both his mother and the attending Jorasco chirurgeon were found dead in the birthing room, the silent child still cradled in his mother's arms. The servants whispered that the child was cursed, that plants withered in his shadow. But it seemed Galifar could sense those who carried death in their heart; when a would-be assassin sought to kill King Cyre, the boy called out the killer's name and the assassin fell dead at Cyre's feet. While others still feared the prince, Cyre embraced him and the two were inseparable until Cyre's death.",
+										"This is a popular legend, but as with so many elements of history, the concrete facts are shrouded in mystery. Many scholars believe Galifar was a tiefling with ties to Mabar; others credit his powers to a concealed aberrant dragonmark. It's said that when Galifar the Dark looked at someone, he knew exactly when and how they would die. But while these eerie gifts and his cold demeanor earned Galifar his sobriquet, he was a good ruler who strengthened the bonds between the Five Nations. He reinforced the Galifar Code of Justice and overhauled the calendar, establishing the Year of the Kingdom system still used today.",
+										"{@feat aberrant dragonmark|ERLW|Aberrant dragonmarks} were rarer in Galifar II's time than in the present day. If Galifar the Dark's \"gift\" was an aberrant dragonmark, it was a strong one. He may have done research into these marks during his reign; it's possible he sheltered other aberrants or developed focus items for aberrant marks. If aberrantmarked adventurers in the present day could find conclusive evidence of Galifar's mark—or a cache of journals or tools—it could have interesting repercussions for House Tarkanan and the Twelve."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Queen Hala ir'Wynarn: the Sun Queen",
+									"page": 32,
+									"entries": [
+										"As fourth child of the king, Hala ir'Wynarn never expected to be Queen of Galifar. She devoted herself to Dol Arrah, studying the arts of war and vowing to live a virtuous life; when she came of age, she was appointed Princess of Thrane. Soon after, cruel fate slew Hala's older siblings and placed her on the throne of Galifar. She began her reign by purging corrupt elements within the royal court and the army of Galifar. She quickly turned her attention to the ongoing conflicts in southern Cyre and western Breland, and insisted on personally leading campaigns against ogres and worgs. The young Sun Queen was particularly celebrated by the common folk of Breland and advanced the borders of that nation.",
+										"When Hala was twenty-four years old, stories say her younger brother convinced her to pursue a grander threat than a mere ogre or troll. At that time, Sora Maenya had been credited with destroying several small villages on the edge of Aundair. Hala led an elite force of trackers and hunters into the Towering Wood to finally end this threat ... but she never returned. As Hala had produced no heirs, her brother claimed the throne when she was finally declared to be dead. Today, Hala ir'Wynarn remains a legendary champion and an inspiration for paladins, and Tira Miron was likely following the example of the Sun Queen.",
+										"Only Sora Maenya knows Hala's final fate; it's possible the hag still has Hala's arms and armor, or they might be hidden somewhere in the Towering Wood. A gruesome possibility is that Maenya has bound Hala's soul and has the queen's skull among her trophies; adventurers could be charged to recover the relic and finally allow Hala to rest."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Queen Marala ir'Wynarn: the Hand of Aureon",
+									"page": 32,
+									"entries": [
+										"Serving first as Princess of Aundair then ascending to be Queen of Galifar, Marala ir'Wynarn devoted herself to strengthening the Arcane Congress, but also to improving schools and universities across the united kingdom. Many of Galifar's traditions of education are the direct result of Marala's efforts, leading the people to call her the Hand of Aureon.",
+										"In addition to her public works, Queen Marala took great pride in her personal library, collecting tomes from across Eberron. Her library included rare texts and {@i {@item spellshard|ERLW|spellshards}} from Aerenal and Ohr Kaluun, and even a massive codex written by a Cul'sir wizard of ancient Xen'drik. Tales say her library was hidden in an invisible tower, which modern scholars believe was probably a variant of the {@i {@spell magnificent mansion}} spell. She died under mysterious circumstances, and her trove of texts wasn't accounted for in her will; it's quite possible her invisible tower is still out in the ether, waiting to be found."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "King Sarath ir'Wynarn: the Serpent King",
+									"page": 33,
+									"entries": [
+										"Sarath, Prince of Breland, was last in line to ascend the throne of Galifar ... and yet, one by one, his four older siblings fell to misfortune. In {@i The Serpent and the Crown}, playwright Miala Shol claims Sarath orchestrated all of these deaths, even working with a shapeshifting fiend to clear his path to the throne. Sarath's culpability in the earlier deaths is conjecture, but when his final sibling—Laeran, a Khoravar—took the throne, Sarath stepped into the spotlight. Sarath asserted that no half-elf could claim the mantle of Galifar, and though Laeran was well-loved in Thrane and Aundair, Sarath succeeded in poisoning the minds of many. While Laeran's Khoravar blood was an early pretext, Sarath amplified other fault lines that had formed in the kingdom over the centuries, using the anger and frustration of the people to strengthen his position. These schemes ultimately brought down Laeran and set Sarath on the throne—but in the end, Sarath reaped what he had sown. The fires of hatred that Sarath had lit continued to burn. Uprisings sparked across Breland, and his reign was finally brought to an end by a swift civil war led by the archdukes of Thrane and Aundair.",
+										"Sarath is just one example of the many Wynarns who placed personal power and ambition above the public good. His short reign is surely invoked by the Swords of Liberty and others to demonstrate the monarchy does more harm than good, and the poisonous lies he spread are still told by those who hate the Khoravar.",
+										"A critical question is whether he was working with the Lords of Dust, as Miala Shol suggested in her play. Bel Shalor revels in the suffering of innocents, and Eldrantulku would delight in a brother murdering his siblings and sowing strife across his kingdom. It's quite possible that Sarath claiming the throne was a crucial point in the Draconic Prophecy, and securing the power of the Serpent King was a victory for one of the overlords—but did Sarath's fall undo that triumph, or was this just one piece of a plot that'll finally come to fruition in the present day ?"
+									]
+								}
+							]
 						}
 					]
 				}
