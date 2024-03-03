@@ -1210,7 +1210,7 @@
 							"name": "Armor and Fashion",
 							"page": 12,
 							"entries": [
-								"Magic is a part of life—and very much a part of fashion. {@item Glamerweave|ERLW} (presented in {@book Eberron: Rising from the Last War|ERLW}) is commonly used to imbue clothing with illusion magic. A sorcerer may wear a cloak lined with a starry sky, or the armor of a former soldier could be etched with glowing sigils representing the service medals bestowed on them. The Glamerweave Designs table provides inspiration for illusion magic you might see in the fashions of the Five Nations.",
+								"Magic is a part of life—and very much a part of fashion. {@item Glamerweave|ERLW} (presented in {@book Eberron: Rising from the Last War|ERLW}) is commonly used to imbue clothing with illusion magic. A sorcerer may wear a cloak lined with a starry sky, or the armor of a former soldier could be etched with glowing sigils representing the service medals bestowed on them. The {@table Glamerweave Designs|ChroniclesofEberron} table provides inspiration for illusion magic you might see in the fashions of the Five Nations.",
 								{
 									"type": "statblock",
 									"tag": "table",
@@ -2238,6 +2238,188 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "Using the Nobility",
+							"page": 33,
+							"entries": [
+								"As with any element of lore, a key question remains: why does any of this matter? Why should player characters care about the laws of inheritance or the difference between a grand duke and an archduke? Here are a few examples of how the traditions of nobility might affect a character's story.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"page": 33,
+									"items": [
+										{
+											"type": "item",
+											"name": "Assault on Atur",
+											"entries": [
+												"An adventurer who follows the Blood of Vol could have ties to the Grand Duchy of Atur. The grand duke fears that the warlords are preparing to formally conquer the duchy and assimilate it into Karrnath. Can the adventurers prevent this conflict from occurring?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Climbing the Ladder",
+											"entries": [
+												"The adventurer is involved in a romance or business affair that can't proceed unless the character acquires a title (even if it's just a courtesy title). What can they do to gain status?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Common Ties",
+											"entries": [
+												"If a commoner character is from the Five Nations, they grew up in the domain of a noble. Who was their lord? What's the adventurer's relationship with them? Were they a fair ruler the party might try to help or seek as a patron? Or does the adventurer want to expose the noble's cruelties or crimes?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Iron Hand",
+											"entries": [
+												"For service to the crown, an adventurer is granted a title and domain ... but this land was seized during the war, and the adventurer is expected to quell the ensuing unrest. How will they handle this? Can they justify and enforce their sovereign's claim to the region?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Juggling Act",
+											"entries": [
+												"When a noble character comes into their inheritance, they're suddenly responsible for maintaining their domain. How will they balance this with their adventuring life? Will they find a steward to administer the lands in their name? And if so, can the steward be trusted? Will they abdicate the title to a younger sibling?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Lost Title",
+											"entries": [
+												"Perhaps an adventurer's family used to hold a title or land within a nation, but lost it due to treason, war, or treachery. Does the character want to reclaim their title? If so, what would it take?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Villains and the Law",
+									"page": 33,
+									"entries": [
+										"Many questions can arise when a DM is designing an adventure around an aristocratic antagonist. How much freedom do individual nobles have, and how much does the nobility vary between regions and nations? If a noble behaves badly, why do adventurers need to respond instead of their feudal lord? (And even when a noble isn't behaving badly, but there's a problem in their domain, why aren't they dealing with it instead of the adventurers?)",
+										"The answers to these questions can vary dramatically based on the story you want to tell. Eberron is designed for stories across a spectrum from pulp adventure to noir intrigue, and every adventure falls somewhere in between the two.",
+										{
+											"type": "entries",
+											"name": "Pulp and Noir Villains",
+											"page": 34,
+											"entries": [
+												"Pulp adventure thrives on over-the-top nefarious villainy. This is why Eberron includes villains like the Order of the Emerald Claw; when adventurers encounter the Emerald Claw, they don't have to stop and think about it, because they know fighting the Emerald Claw is the right thing to do. So if the local noble is a pulp villain, they should be clearly terrible. They should be starving their people, hanging dissenters, or holding Human Sacrifice Night on Tuesdays (but only if you know your players are comfortable with these themes! See {@book chapter 9|ChroniclesofEberron|15} for advice on covering this during session zero).",
+												"By contrast, noir intrigue thrives on shades of gray, uncertainty, and questions that have no simple answers. If your noble is a noir villain, they might still be hanging villagers—but it's because they lost their children to an Aundairian attack in the Last War, they're convinced there are Aundairian spies in the village ... and they might be right. If the noir lord has Human Sacrifice Night, it's because the town is on a manifest zone to Thelanis and if they don't sacrifice one person, five more innocent people will die. The noir lord may be terrible, but are you so sure that if you remove them, the next lord won't be worse?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Plausible Villains",
+											"page": 34,
+											"entries": [
+												"Regardless of where your adventures fall on the pulp versus noir spectrum, adventures are most entertaining if they feel plausible. At the same time, you don't want to get mired in being \"faithful\" to lore—it's there to inspire you, not prevent you from telling a good story. As DM, if your story needs a noble to act in a manner that seems un-Galifaran, here are a few ideas for how to justify it.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 34,
+													"items": [
+														{
+															"type": "item",
+															"name": "The Grand Duchy",
+															"entries": [
+																"Palatinates are largely independent, and grand dukes can ignore traditions and override the laws of the land. There's not very many of them, but if you need a noble who's acting openly against the Code of Galifar, you can make them a grand duke. If a grand duke wants to have Human Sacrifice Tuesdays, there's no one to say no."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Welcome to Karrnath",
+															"entries": [
+																"Thanks to the Code of Kaius, Karrnath has harsh laws that place near-absolute power in the hands of each local warlord. If you want to tell a story about a tyrannical aristocrat, consider setting it in Karrnath."
+															]
+														},
+														{
+															"type": "item",
+															"name": "The Backwater",
+															"entries": [
+																"If your town has a {@item speaking stone|ERLW} station and a lightning rail stop, people should be able to report the nefarious activities of a cruel noble—and if things get bad enough, residents can just get on the train and move. On the other hand, a small town might not have these things. Perhaps your town isn't on the lightning rail, and the stone station closed three years ago—or the stonespeaker is in the pocket of Bad Lord Boggle and they only send messages that support him. If the adventurers can bring the matter to the attention of the duchess, she might do something about it ... but first they'll have to survive three nights in Boggleton, and get the proof they need to convince the duchess."
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Broken Ladder: Adventurers and the Law",
+											"page": 34,
+											"entries": [
+												"Continuing with that last example, let's say your campaign revolves around the villainy of Bad Lord Boggle. The players decide to call on the duchess and demand she do something about the situation. It's possible this is exactly what they should do—if the system works. Perhaps if these brave adventurers can reach her with proof of what's going on, the duchess will arrive with an army, bring down Boggle, and reward the adventurers for their actions. That's the pulp scenario; the problem is now solved, justice is restored, and we can ride off into the sunset knowing the people of Boggleton are saved.",
+												"On the other hand, one of the basic principles of noir is that the system is unreliable—either corrupt, incompetent, or simply lacking power. In a story like that, the duchess could be Boggle's mother, or perhaps she's taking a cut from Boggle's heavy taxes. When the adventurers come calling, she may refuse to hear their complaint ... or worse yet, accuse them of treason— slandering a peer of the realm!—and threaten to arrest them. Even if the duchess is a virtuous noble, she might not listen to a random group of adventurers. She may not know if the adventurers have a reliable reputation—they could be just a bunch of armed vigilantes and professional tomb robbers. Are they all from the local nation, or might some of them be enemy spies? Do they have one of those untrustworthy warforged? (It's a well known local fact that the duchess hates warforged because of that incident at Orcbone at the end of the war.)",
+												"In situations where a noble {@i should} be dealing with a problem but you want the adventurers to have to deal with it on their own, the {@table Why Can't the Duke Help?|ChroniclesofEberron|Why Can't the Duke Help} table provides excuses (which work just as well for counts and kings!).",
+												{
+													"type": "statblock",
+													"tag": "table",
+													"source": "ChroniclesofEberron",
+													"name": "Why Can't the Duke Help?",
+													"page": 34,
+													"style": "inset"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Killing Noble Villains",
+											"page": 35,
+											"entries": [
+												"Imagine the adventurers come to town and discover the crown reeve is a cultist and up to no good. Rather than taking this to the count, they decide to terminate the reeve with extreme prejudice. What happens next?",
+												"As always, this ultimately depends what type of story you're telling as DM and what you want to happen next. Everyone is entitled to justice under the Galifar Code, and that definitely includes the crown reeve; unless the adventurers are appointed justiciars, a bunch of random vigilantes killing a noble could end very badly. However, here are a few ways to handle it.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 35,
+													"items": [
+														{
+															"type": "item",
+															"name": "Justice with Murder",
+															"entries": [
+																"If the reeve's crimes are extreme, the evidence is entirely clear, and the public is on the side of the adventurers, it's entirely reasonable for the locals to cover the adventurers' tracks. Similarly, the law might not care about hunting them down because it's clear they did a good thing."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Justice without Murder",
+															"entries": [
+																"The reeve has committed crimes. There's tons of evidence. But legally, he should be brought to justice, not killed—and the adventurers would be aware of the potential consequences, even if their players momentarily forget. So as a character lands the killing blow (or even afterward), you can check in with the players: \"if you kill this noble, you'll all be on the run from Sentinel Marshals until you're hauled in front of Brelish justice … would you like to shift the campaign in that direction, or would you rather knock them unconscious?\" Keep in mind that in fifth edition rules, a melee attack can be used to knock a foe unconscious instead of killing them. And even beyond that, a downed foe isn't necessarily dead; as DM, you can give any NPC death saving throws, allowing the adventurers time to stabilize them."
+															]
+														},
+														{
+															"type": "item",
+															"name": "No Justice, No Murder",
+															"entries": [
+																"If you're going full noir, it's entirely possible the adventurers {@i can't} bring the reeve to justice... but if they kill the reeve, they'll still be hunted down as murderers. Or perhaps the noble's death would cause the Mabaran manifest zone adjacent to town to expand and kill everyone. Or perhaps the noble has {@item blast disk|ExploringEberron|blast disks} (from {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}) on a dead man's trigger. And if the adventurers don't kill them, there's no evidence and no justice will be done. This can create an interesting story, but there should still be a satisfying conclusion for the adventurers—even if they can't get the answer they want, can they get an answer they can live with? Is there an outcome that gives the players pride in having done the best they possibly could? And keep in mind that adventurers have free will, so if you set up a scenario like this, it's possible the adventurers will kill the noble anyway. This isn't your story, it's everyone's story; so if the players say \"we don't care about the blast disks, we're killing the damn reeve,\" are you actually prepared to go through with it? Or was it a bluff?"
+															]
+														},
+														{
+															"type": "item",
+															"name": "Forget it, Jake. It's Callestan",
+															"entries": [
+																"Depending where the adventurers are, it's possible the law simply doesn't apply there. This isn't to say that actions won't have consequences, but the corrupt count and the local watch might not give a damn whether you kill the crown reeve... though the Boromar Clan, who he was working for, might.",
+																"Basically, this is a stylistic question that you should work out with your players in advance. This knowledge might allow the adventurers to make wise decisions—or enable their players to enjoy making bad ones! Is this a world in which the player characters can get away with murder, or will killing a noble in cold blood end with the adventurers facing justice? The goal of all of this is for people to have fun, and while I'd like to believe that people can have fun without murder, the DM and the players need to be on the same page about the kind of game they're playing."
+															]
+														}
+													]
+												},
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0022.webp"
+													},
+													"credit": "Camille Kuo"
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
@@ -2330,6 +2512,58 @@
 				[
 					"6",
 					"Your ancestor refused to uphold the laws of the land. Were they decadent, corrupt, or negligent? Or were they taking a principled stand ?"
+				]
+			]
+		},
+		{
+			"source": "ChroniclesofEberron",
+			"name": "Why Can't the Duke Help?",
+			"caption": "Why Can't the Duke Help?",
+			"page": 34,
+			"colLabels": [
+				"d10",
+				"Reason"
+			],
+			"rows": [
+				[
+					"1",
+					"The duke is too far away, and time is of the essence!"
+				],
+				[
+					"2",
+					"The duke is in the capital city for the season, and the steward can't handle this."
+				],
+				[
+					"3",
+					"The duke is part of the plot or being bribed by the villain to look the other way."
+				],
+				[
+					"4",
+					"The duke is related to the villain by blood or marriage and won't act against them."
+				],
+				[
+					"5",
+					"The duke is being blackmailed by the villain."
+				],
+				[
+					"6",
+					"The duke is under some form of curse or enchantment. Is this the work of the villain, or is it completely unrelated?"
+				],
+				[
+					"7",
+					"The duke doesn't care about the problem. They might be petty, ineffective, or simply don't understand the threat posed by the villain."
+				],
+				[
+					"8",
+					"The duke has recently died. Their heir is too young to hold office and the steward-regent can't deal with this."
+				],
+				[
+					"9",
+					"The duke's being manipulated by an advisor who's in league with the villain."
+				],
+				[
+					"10",
+					"The duke was the real villain all along!"
 				]
 			]
 		}
