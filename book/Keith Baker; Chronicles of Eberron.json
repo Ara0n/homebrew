@@ -134,7 +134,7 @@
 					},
 					"headers": [
 						"Reasons to Play",
-						"Telling Their Stories",
+						"Telling Their Story",
 						{
 							"depth": 1,
 							"header": "Aarakocra"
@@ -2557,6 +2557,253 @@
 													]
 												}
 											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Telling Their Story",
+							"page": 38,
+							"entries": [
+								"The basic principles I've suggested above can be applied to creatures from any ancestry. They could be created by Mordain or the daelkyr, magebred by House Vadalis, twisted by the Mourning, or discovered in Xen'drik or a Khyber demiplane. Or to take a simpler approach, any anthropomorphic creature could simply be an unusual type of shifter. I've never personally used tabaxi, harengon, or many other non-Eberron ancestries in my campaign. But what would I suggest if a player {@i did} want to play one of these ancestries in my game? Here are some stories you could add to your world.",
+								{
+									"type": "entries",
+									"name": "Aarakocra: the Dragonhawk Battalion",
+									"page": 38,
+									"entries": [
+										"The dragonhawk is the symbol of Aundair. In the final decade of the Last War, Queen Aurala and her consort Sasik d'Vadalis established Project Dragonhawk, a cooperative venture between the Arcane Congress and House Vadalis. This program blended cutting-edge transmutation magic with Vadalis magebreeding, permanently transforming a group of volunteers into {@race aarakocra|MPMM}—avian humanoids with the features of dragonhawks. While Project Dragonhawk was ultimately successful, its expensive and difficult program couldn't be replicated on a large scale. Nonetheless, the dragonhawks were lauded as symbols of Aundair and of its arcane might. Instead of serving in a single unit, most were spread among existing forces, serving both as flying scouts and celebrated mascots.",
+										"As a member of the Dragonhawk Battalion, you're recognized and likely admired throughout Aundair. If you choose the {@background soldier} background, you served with distinction and your rank is still respected among fellow soldiers. If you're a {@background folk hero}, you may have had trouble adhering to military discipline, but the people consider you a hero of Aundair. Or perhaps you went into the {@background Entertainer|PHB|entertainment} business after the war, performing feats of aerial acrobatics. Are you still recognized as a living symbol of Aundair? Or did you let your nation down? Perhaps you became a {@background criminal}, or were otherwise a grave disappointment; in this case, you might replace any background feature with the {@background Variant Sailor (Pirate)|PHB|pirate}'s Bad Reputation."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Centaurs: Horse, Tribex, and Fey",
+									"page": 38,
+									"entries": [
+										"Fifth edition presents two very different sorts of centaurs: their NPC {@creature Centaur|MM|stat block} says they're Large Monstrosities, but their playable {@race Centaur|MPMM|statistics} present them as Medium Fey. In my campaign, these are unrelated creatures with completely different histories and cultures.",
+										{
+											"type": "entries",
+											"name": "Monstrous Centaurs",
+											"page": 39,
+											"entries": [
+												"Khorvaire has two distinct ancestries of monstrous centaurs. While these use the centaur NPC stat block, you could certainly build a character from one of these cultures using the playable centaur statistics:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 39,
+													"items": [
+														{
+															"type": "item",
+															"name": "Kaan'dar",
+															"nameDot": false,
+															"entries": [
+																"—\"Horse People\"—are equine centaurs who were nearly exterminated by the Dhakaani Empire during the Age of Monsters. The surviving Kaan'dar became nomads in the Barrens, allying with the peaceful Gaa'ran orcs but often clashing with other chibs. In modern-day Droaam, the Kaan'dar have forged an alliance with the Daughters of Sora Kell, and Maenya's Fist includes an elite force of centaur cavalry. The Kaan'dar have recently begun working with House Tharashk, serving as mercenaries with the Dragonne's Roar."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Trascalando",
+															"nameDot": false,
+															"entries": [
+																"—\"People with the Thundering Hooves\" in the Talenta tongue—are a blend of humanoid and tribex rather than humanoid and horse. They sport bone headplates and short horns, though these aren't strong enough for an effective gore attack. The Trascalando are nomads who usually travel with herds of tribex. Though they prefer their isolation and usually have little interest in the world beyond the Talenta Plains, most Trascalando bands are friendly toward the Talenta halflings and have a long tradition of trade and storytelling. The Valenar incursions have disrupted this long peace, and the Trascalando are deeply suspicious of elves."
+															]
+														}
+													]
+												},
+												"These two peoples are the native centaurs of Khorvaire, but the other continents may well hold more—either of these ancestries or new ones. Both the Kaan'dar and the Trascalando are unique ancestries with a distinctive appearance—they are half-{@i humanoid}, not half-{@i human}. Humans would consider their features to be somewhat animalian, especially the horned Trascalando."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fey Centaurs",
+											"page": 39,
+											"entries": [
+												"Khorvaire's fey centaurs trace their roots to powerful Thelanian manifest zones. In particular, a few tribes of centaurs in the southern Eldeen Reaches have ancient ties to the Twilight Demesne. Fey centaurs are neither limited to being half-horse nor half-human, and different tribes can vary drastically. For example, in the Eldeen Reaches, one tribe of centaurs is half-human, halfhorse—but another is half-deer, half-elf. If you look long enough, you might even find a tribe that's half-gnome, half-wolf! These cosmetic details don't affect their statistics, and aren't limited by genetics; while each tribe tends toward a common form, variations aren't unheard of, so the child of an elf-stag centaur could be a gnome-wolf.",
+												"These centaurs of the Towering Wood are relatively rare, far fewer in number than the shifters who inhabit the same forest, but they play a similar role. Over the last century, some have chosen to work with the Wardens of the Wood, and centaur cavalry supported the Eldeen secession. However, others prefer to remain in the deep woods and the Twilight Demesne, ignoring the violence and brutality of the world beyond the woods.",
+												"Whichever path you take, as a centaur character, your ancestry is unusual but not unheard of. Why have you left your herd behind and chosen to walk on the hard roads of the two-footed? You could be associated with one of the druidic sects, carrying out a mission for the Wardens of the Wood or dealing with threats to Eldeen independence. Or you could just be driven by curiosity; as a centaur bard, you could be chasing a song you can't quite hear, but you know it's out there somewhere."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Changelings: Fey or Humanoid ?",
+									"page": 39,
+									"entries": [
+										"Though {@book Eberron: Rising from the Last War|ERLW} presents changelings as {@race Changeling|ERLW|Humanoid}, the more recent {@book Monsters of the Multiverse|MPMM} describes them as {@race Changeling|MPMM|Fey} instead—and expands their shapechanging to encompass both Small and Medium forms. Does this mean Eberron's changelings are fey, and if so, do they come from Thelanis ?",
+										"Regardless of changeling origins, I'm happy to accept that they can take smaller forms. While it's a shift from previous rules, it grants changelings greater flexibility— and it means gnomes and halflings are no longer safe from changeling intrigue.",
+										{
+											"type": "entries",
+											"name": "Native Changelings",
+											"page": 39,
+											"entries": [
+												"In my campaign, the changeling's new fey origin doesn't impact their previously established history, including their mythic ties to the Traveler and their historic ties to Ohr Kaluun. However, changeling history has always included the story of their bargain with the Traveler. As they are an ancestry defined by a story, they could be native fey—and their chaotic and magical nature causes spells to affect them differently from humanoid creatures. But they are natives of Khorvaire, they have no ties to archfey, and denizens of Thelanis don't see them as cousins; they're just immune to {@spell charm person} and vulnerable to {@spell magic circle} because of their innately magical nature."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Changelings of Thelanis",
+											"page": 39,
+											"entries": [
+												"On the other hand, it's possible another unrelated type of changelings {@i do} come from Thelanis. These could be mortals of other ancestries who were taken to Thelanis as children and altered by this supernatural childhood. Or perhaps they're members of the supporting cast of Thelanis—spirits who shift to fit the needs of a story—who have somehow been cast out of Thelanis to find a story of their own. Such a player character would be extremely rare and have no ties to Eberron's native changelings; with this in mind, I'd give them a different natural form inspired by their backstory."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dhampirs: Sworn to the Keeper",
+									"page": 39,
+									"entries": [
+										"A {@race dhampir|VRGR} is a living creature with vampiric traits and a consuming hunger, reflecting their connection to the plane of Mabar. Much like tieflings, a dhampir can be born when a child is conceived in a Mabaran manifest zone; there's at least one dhampir noble family in Karrnath, though they couldn't reproduce if they moved away from that zone. Some legends claim dhampirs can be created when an unborn child survives their parent being slain by a vampire. Others say dhampirs can be created by forging a pact with the Keeper or the overlord Katashka—creatures killed by the dhampir's Vampiric Bite empower their patron, and if the dhampir doesn't supply a steady stream of victims, their own life is forfeit.",
+										"Whether you're a dhampir warlock, sorcerer, or another class, you could flavor your class abilities as coming from such a bargain. You needn't have ongoing interactions with the force that created you—but their power is part of you, and you learn to manipulate it in ever more effective ways. An interesting twist would be if your character unintentionally forged such a pact; perhaps you were delirious from plague and had a vision, only later learning what you truly committed to. Can you feed your appetite (and your patron) with the blood of evildoers, or will innocents suffer so you can survive ?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fairies and Satyrs : Wanderers and Envoys",
+									"page": 40,
+									"entries": [
+										"{@race Satyr|MPMM|Satyrs} and {@race fairy|MPMM|fairies} are found throughout Thelanis and its manifest zones. As lesser fey, most are swept up in endless celebration, paying no heed to the passage of time or the mortal world. As a player character, what has drawn you away from these revels and compelled you to become part of mortal machinations?",
+										"Perhaps you're the personal envoy of an archfey, tasked with a mission in the wider world; even if you choose a different character class, you can still describe your relationship as that of an Archfey warlock with an ongoing connection to your patron.",
+										"On the other hand, it could be that something gave you a story of your own, changing who you are. Perhaps a dying mortal pressed a locket into your hand and begged you to take it to their beloved, and you're still searching for them. Perhaps you're writing a song, and you just can't find the inspiration—but you know it's out there somewhere in the world, and you can't rest until you've found it. As you pursue your quest, how does your character evolve from a lesser fey and add depth to their story? In the mortal world, you're likely to encounter many moments of sheer wonder—what mortal customs are strangest or most marvelous to you ?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Firbolgs: Children of the Forest Queen",
+									"page": 40,
+									"entries": [
+										"A great forest once stretched from the Blackcaps to Scion's Sound. First the Dhakaani goblins and then humanity hacked away at the vast forest—but even then, there were regions most mortals feared to tread, places soaked in primal power and guarded by the archfey known as {@creature the Forest Queen|ExploringEberron}. Today, these shunned woods survive as the Harrowcrowns, the Greenhaunt, and the Imistil, all feared by the people of the Five Nations. However, {@race firbolg|MPMM|firbolgs} have long called these forests home— and called themselves the children of the Forest Queen.",
+										"Though firbolgs aren't fey, primal power is in their blood; they hear the whispers of root and leaf, and they delight in the darkness of the deep woods. The firbolgs of the Greenhaunt and the Imistil are largely friendly to travelers and serve much the same role as the Wardens of the Wood in the Eldeen Reaches—protecting their forest from outsiders while protecting outsiders from the dangers of their forest. The firbolgs of the Harrowcrowns are a harder lot; they blame civilization for the destruction of their Queen's Wood—the vast forest lost to time—and use their powers of stealth to prey on outsiders who dare to enter the deep woods.",
+										"Firbolgs have always been few in number, and even the friendly guardians of the Imistil have little interest in the world beyond their woods. If you're playing a firbolg, you're one of the first of your kind to venture into the wider world. Are you driven purely by curiosity, or did something else cause you to leave your comforting, whispering woods for the lands of steel and fire? Perhaps you found the pack of someone who died during the Last War, and you're determined to deliver the letters that they were carrying. Maybe you've had a vision of a threat to your home forest, and you know the answer lies beyond your woods. Or perhaps you've been given a quest by the Forest Queen herself!",
+										"Firbolgs follow a primal tradition that shares some similarities with the Greensingers and the Wardens of the Wood, but their practices developed independently. Along with their druids and rangers, firbolgs also have bards and warlocks who draw on the magic of the Forest Queen. The warriors of the Harrowcrowns are fiercer than their cousins in Imistil, and their ranks include more barbarians and fighters."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Genasi: Touched by the Wild",
+									"page": 40,
+									"entries": [
+										"Some manifest zones tied to Lamannia surge with elemental energy. These zones can be quite dangerous, with exceptionally strong winds and quickly sparked wildfires. But sometimes determined settlers dwell there, drawn by fertile soil and fresh water. When a child is conceived in such a region—especially if Lamannia is coterminous— there's a tiny chance they'll be infused with elemental energy. \"{@race Genasi|MPMM}\" is the academic term for such people, coined by the Arcane Congress after Galifar the Dark ordered research into the phenomenon. However, most folk call them ‘touched—Flametouched, Stormtouched, Stonetouched. The gifts of the genasi aren't reliably hereditary, and even in primal lands, it's rare to find a community with more than a handful of ‘touched.",
+										"Few people have ever seen a genasi, as most choose to stay in their hometowns where they are known and celebrated. But most people have heard of folktales like {@i The Boy Who Was Born in the River} and {@i The Girl with Hair Aflame}. It's these stories—plus the research of Arcanix—that separate genasi from tieflings in the common understanding. People consider tieflings dangerous, tied to malefic powers... while genasi are considered natural, so there's little worry that a fire genasi might burn down the barn. Genasi draw attention wherever they go and people surely remember them, but people aren't usually hostile toward the ‘touched.",
+										"While genasi can be naturally born, they can also be artificially produced. Zilargo is constantly experimenting with elemental binding, and the Arcane Congress and the Twelve are also intrigued by this field of study. If you're a wizard, artificer, or sage, you might've personally conducted the research that transformed you into a genasi, or you could've been a test subject, voluntary or otherwise. Is the program that created you still active, or was it shut down—or possibly sabotaged by agents of the Trust ?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Goblins: Fey Ancestry ?",
+									"page": 41,
+									"entries": [
+										"Much like changeling statistics were updated in {@book Monsters of the Multiverse|MPMM}, goblins, bugbears, and hobgoblins gained new fey-related traits (though their creature type remains Humanoid). In my campaign, these traits don't impact on how I present the goblins or their history—my dar have no connections to Thelanis or the fey.",
+										"However, trait names aside, I like the new goblinoid statistics; I'd just explain them differently. The Fey Ancestry trait gives advantage against being charmed, and in the case of Eberron's goblins, this can easily reflect their disciplined minds. Similarly, the hobgoblin's Fey Gift trait significantly expands the benefits of the Help action; this can represent how goblins work exceptionally well in groups, due in part to instinctive discipline combined with the lingering impact of the Uul Dhakaan."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Goliaths: the Syrkarn Eneko",
+									"page": 41,
+									"entries": [
+										"Goliaths—better known as eneko, or Children of the Sand—are found in the Syrkarn deserts and steppes of Sarlona. Many outsiders say the eneko descended from the ogres of Borunan and the humans of the steppes. However, the eneko say their roots run deeper, claiming they carry the blood of giants who roamed the desert long before the rise of any human civilization. {@book Chapter 21|ChroniclesofEberron|27} of this book presents information on Sarlona, and you can learn about the eneko in {@i Secrets of Sarlona}.",
+										"While the Syrkarn eneko are well known in Sarlona, they don't sail and have almost no contact with the people of Khorvaire. As a player character, what has drawn you from your home? If you're a warrior, you might be searching for ever-greater challenges; if you're a storyteller, you could be researching the truth of a mysterious merchant's tale. Or perhaps you seek revenge after a loved one was killed by outsiders who sought an ancient artifact—you've followed them to Khorvaire, but you fear they're mere agents of a greater power, so you hone your skills and gather allies while pursuing the truth.",
+										"If you'd rather not play an eneko, you could also use the goliath statistics to play a young ogre from Droaam. As the runt of the litter, you were always the butt of jokes among your people—but now you've traveled east, where you can be the biggest and the strongest.",
+										{
+											"type": "inset",
+											"page": 41,
+											"name": "Desert Born",
+											"entries": [
+												"To reflect the eneko's adaptation to the desert climate, you can replace the goliath's Mountain Born trait with the following.",
+												{
+													"type": "entries",
+													"name": "Desert Born",
+													"page": 41,
+													"entries": [
+														"You have resistance to fire damage. You also naturally acclimate to hot climates and aren't adversely affected by extreme heat."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Grungs: Marsh and Myre",
+									"page": 41,
+									"entries": [
+										"Legend says the daelkyr Kyrzin created {@race grung|OGA|grungs} by fusing orcs and frogs. The Gatekeepers say the grungs were servants of Kyrzin and deadly foes, while grungs say the Gatekeepers sought to wipe out their ancestors without cause. There has been a deep antipathy between the two ever since. Today, grungs live throughout the Shadow Marches in communities known as pods. Grung mystics use hallucinogens to commune with a totemic force they call the Myre; the Gatekeepers maintain this is Kyrzin, but grungs believe the Myre is the collective spirit of the swamp.",
+										"While grung pods usually shun outsiders, the Aashta line of House Tharashk has forged an alliance with the sizable Mrrga Pod. In addition to Aashta's collaboration with grung apothecaries—who excel at the creation of poisons, antidotes, and hallucinogens—the Dragonne's Roar brokered the services of a few units of grung amphibious commandos during the last days of the war. As a grung adventurer, did you work with Tharashk and serve in the war, or did you find your own way out into the world ?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Harengons: Holondon Holt",
+									"page": 41,
+									"entries": [
+										"The sprawling burrow-hall known as Holondon Holt lies a short distance from the Blackwater Lake, along the illdefined border between the Shadow Marches and what's now known as Droaam. {@race harengon|MPMM|Harengons} have fought off the raids of the Gaa'aram orcs for many generations, and they have a long and bitter feud with the Great Pack of the Watching Woods. Though these struggles have kept the Holondon harengons from expanding to new communities, Holondon Holt has held against all attacks and continues to thrive. The reputation of Holondon harengons drew the attention of House Tharashk, and in the last decade of the Last War, a squad of Holondon scouts known as the Sar'taashi—Swift Razors—were a celebrated part of the Dragonne's Roar. However, these bold deeds also drew the attention of the Daughters of Sora Kell, who have recently offered the Holt the chance to join with Droaam under the oni warlord Drul Kantar. The Holondon harengons have no great love for Drul Kantar, but they fear that refusing the offer could mark them as enemies of Droaam, and they've been perseverating and drawing out the discussions for as long as possible.",
+										"The origins of the Holondon harengons are shrouded in mystery. According to their own tales, Holondon Holt has been their home for \"as long as long can be.\" However, contemporary accounts from the people of the Watching Woods and the Shadow Marches suggest that the Holt appeared approximately two centuries ago— recently enough for reliable records, but long enough that there are no living harengons to tell the tale. Harengons haven't been encountered anywhere else on Khorvaire... so where did they come from? One possibility is that they fell directly out of Thelanis, much like the feyspires; perhaps Holondon Holt is an archetypal children's story that one day became real. On the other hand, Holondon Holt isn't far from Blackroot, the infamous hall of Mordain the Fleshweaver—could Mordain have transformed a warren of mundane rabbits into harengons? And if so, does he have any further plans for his creations? The harengons themselves have never felt any need to find the answer; Holondon Holt is their home, always was, and always will be. Perhaps you'll stumble on the truth in your travels!",
+										"As a Holondon harengon, you may have encountered the wider world as part of the Sar'taashi or through other service with House Tharashk. Are you still serving as a mercenary? Are you hoping to find allies or resources that could help Holondon Holt? Or have you left your burrow behind to search for your own adventures?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Kenku: Forgotten Exiles",
+									"page": 42,
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Once upon a time, the archfey known as the Forgotten Prince found a clutch of raven eggs. Their mother had been slain and the eggs forgotten, so the Prince took them back to the Castle of Lost Things, where he raised the ravens as if they were his own children. As the ravens grew, they wandered the halls and explored all that was lost. When they came of age, the Prince asked them each to prove their unique talents. The first raven sang a beautiful song. The second told an intriguing story. The third cast a remarkable spell, and the fourth dueled cleverly with a blade. Yet with each impressive feat, the Prince grew ever more angry. For while the ravens presented these achievements as their own, the Forgotten Prince recognized them. Each was the creation of a mortal of Khorvaire, each abandoned and taken to the vaults of the Castle of Lost Things. Despite the ravens' skills, the Prince could not abide both the plagiarism and the lies, and he cast his children out into the world. \"Go, and do not return until you have a true marvel of your own devising.\""
+											]
+										},
+										"This tale is told of the {@race kenku|MPMM}. Like many tales of Thelanis, the story defies time; this version is shared in Aundair, but a different version of the tale was told by the Dhakaani dirge singers, and yet another form can be found in the scrolls of the Cul'sir giants. This story plays out time and time again, and each time it takes root, a new clutch of kenku is cast into the world to seek redemption.",
+										"As a kenku character, you and your brethren likely inspired the most recent version of that tale. You've since been thrown into the Five Nations to atone for your lie and to seek an accomplishment to call your own. When exactly were you cast out? That's up to you, as Thelanis has a casual relationship with time. What's important is that you have been shamed, and you can only undo that shame by mastering the path you previously mimicked and creating a truly unique technique.",
+										"There are only a handful of kenku in Khorvaire, and each follows a different path. If you're a wizard, you must create a marvelous spell; if you're a rogue, you're likely bound to a more shadowy pursuit. You know your fellow kenku, but you each have your own task, and it's up to you and the DM whether you're friends or rivals. The kenku warlock could be an interesting outlier, as your patron might be the Forgotten Prince himself, and your task is to monitor your brethren. On the other hand, your challenge might be to become the perfect warlock— whoever your patron is initially, you're expected to find a new and better patron as part of your journey of discovery. But in short, your goal is to improve your skills, which you can best do through adventure—and at some point, to create a unique technique within your chosen field to earn a place of honor in Thelanis."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Warforged: Full Constructs ?",
+									"page": 42,
+									"entries": [
+										"Rules are always evolving. During the early years of fifth edition, designers were reluctant to give player characters any type aside from Humanoid. Thus warforged were Humanoids, not Constructs; similarly, even though eladrin stat blocks were Fey, their playable statistics were Humanoids. Recent books have loosened this restriction; with this in mind, I add the below traits to warforged characters in my campaign.",
+										{
+											"type": "inset",
+											"page": 42,
+											"name": "Living Construct",
+											"entries": [
+												"To reflect the warforged's dual nature, you can add the following traits to your warforged character.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 42,
+													"items": [
+														{
+															"type": "item",
+															"name": "Creature Type",
+															"entries": [
+																"You are a Construct."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Living Construct",
+															"entries": [
+																"The livewood and alchemical fluids in your body allow you to benefit from several spells that preserve life but normally don't affect Constructs: {@spell cure wounds}, {@spell healing word}, {@spell mass cure wounds}, {@spell mass healing word}, and {@spell spare the dying}."
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0024.webp"
+											},
+											"credit": "GAOZ"
 										}
 									]
 								}
