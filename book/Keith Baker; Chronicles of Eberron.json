@@ -2817,6 +2817,393 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "The Tairnadal Elves",
+					"page": 43,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The lives of the Tairnadal elves are shaped by those of their patron ancestors. When an elf comes of age, the Keepers of the Past read the signs to determine which of the patron ancestors has laid claim to the child. From that point forward it is the sacred duty of the child to become the living avatar of the fallen champion, mastering his or her skills and living by her code. The people of the Five Nations know little about the Tairnadal, and their general assumptions often don't make sense. Ask ten people in Sharn, and you'll hear that the Valenar are bloodthirsty brutes who love to pillage the weak; that they seek glory in battle and won't fight a weaker foe; that they are bound by a strict code of honor; that they have no honor; that every Valenar is bound to a horse; and so on. In fact, no one rule applies to every Tairnadal, for every ancestor demands a different role of his or her descendants. A child chosen by Maelian Steelweaver will spend his or her days forging swords instead of wielding them. One chosen by Silence will spend life in the shadows. War is the common thread that unites the Tairnadal, because the wars against giants, dragons, and goblins were what produced these legendary heroes. As such, the Tairnadal seek conflicts that will let them face the same odds and fight in the same style as their ancestors. Nowadays a child of Vadallia can't fight giants, because the Cul'sir Dominion has fallen, but they must search for a foe that is equally challenging and then defeat it in the same way Vadallia would, thus creating new legends in Vadallia's name."
+							],
+							"from": "Dragon 407, \"Eye on Eberron: Vadallia and Cardaen\""
+						},
+						"The island of Aerenal is home to two distinct elven cultures, both of which cling tightly to tradition and the past. The Aereni, ruled by the Undying Court, remain isolated on Aerenal. On the northern steppes of the same island, the nomadic Tairnadal roam—but during the Last War, one of their armies laid claim to the nation of Valenar in Khorvaire, and a sizable Tairnadal contingent remains there today. Driven to emulate their legendary ancestors, Tairnadal elves from either continent can be compelling adventurers. This chapter discusses the patron ancestors that define Tairnadal faith and explores other aspects of Tairnadal society.",
+						{
+							"type": "section",
+							"name": "Tairnadal Faith",
+							"page": 43,
+							"entries": [
+								"Tens of thousands of years ago, the Tairnadal came to Aerenal as soldiers—fresh from fighting against the giants of Xen'drik and their minions—and never stood down. Warriors who'd served with fallen champions were determined to honor their heroes by following in their footsteps. Those who were most devoted to this path swore they felt a connection to their idols and believed the spirits of their champions were guiding them. Over the centuries that followed, Tairnadal religious traditions and the Keepers of the Past evolved, but the patron ancestors were with the elves from the start.",
+								"Today, the Tairnadal remain driven and defined by their devotion to their patron ancestors. They believe they preserve these ancestors by emulating their lives, and in doing so, the living Tairnadal receive spiritual guidance. So their faith thrives not only because the Tairnadal want to fulfill their duty to their ancestors, but because they gain practical benefits from that devotion: each elf benefits from the guidance of their patron ancestor, and society benefits from these effective citizens and communal ancestral wisdom.",
+								"When an elf comes of age, the Keepers of the Past determine which ancestor has chosen them. From then on, that elf has a sacred twofold duty: first, to preserve an ancestor through devotion, living as that ancestor did; and second, to allow that champion to walk the world again, acting through the living \"revenant\" and guiding them. According to Tairnadal doctrine, you can only receive this guidance after an ancestor personally chooses you—and if you refuse that bond, you deny your entire community the chance to benefit from that ancestor's supernatural guidance. The Tairnadal believe you'll never be as useful on your own as you could be if you embraced the path of your patron ancestor, and refusing to follow that path is deadly arrogance and selfishness.",
+								{
+									"type": "entries",
+									"name": "Patron Ancestors",
+									"page": 43,
+									"entries": [
+										"The first patron ancestors fought their giant oppressors during the Age of Giants, battling to liberate their fellow elves then helping them flee when Xen'drik was doomed. However, the Tairnadal didn't exist yet; these first patron ancestors came from various cultures of the time, long before the Tairnadal culture evolved on the island of Aerenal. The patron Vadallia was a warrior queen, said to have been born in the saddle; many martial traditions of the modern Tairnadal were drawn from her people. In contrast, the patron Cardaen was enslaved and raised in the Cul'sir Dominion; he learned magic in captivity and turned this power against his masters. The first patron ancestors include warriors, slaves, gladiators, and even a feral druid raised by animals in the wild. Some were legendary horsemen and others never rode. As described in this chapter's opening quote, some of these first heroes had codes of honor and chivalry, while others were infamously cruel—and modern Tairnadal believe their duty is to emulate how their ancestor would act in any situation, whether it forces them to be chivalrous or cruel.",
+										"The first patrons were the champions of ancient Xen'drik, but over the tens of thousands of years since the giants fell, new heroes have arisen. Some Tairnadal patrons fought the Dhakaani goblins when the elves first explored Khorvaire, and others fought dragons who attacked Aerenal. With over twenty thousand years of history to work with, Tairnadal could have fought daelkyr, exposed the schemes of the Lords of Dust, battled sahuagin or krakens, or defeated a plague of undead from Aerenal's Mabaran manifest zones.",
+										{
+											"type": "entries",
+											"name": "Creating a Patron",
+											"page": 44,
+											"entries": [
+												"In developing a patron ancestor—whether as a player or DM—consider that they are a celebrated, legendary figure. Why do the elves want to ensure this patron is never forgotten? Patrons don't have to be directly related to the modern elves they choose, though after many thousands of years, most Tairnadal elves are related to many of the patron ancestors. Unlike the kalashtar, you don't expect your family members to be chosen by the same patron; instead, it's believed an ancestor chooses you based on your skills and potential. Young Tairnadal essentially spend their youth auditioning for the ancestors; you might've honed your skills at stealth in hopes you'll be chosen by Falaen, or focused on magic expecting to be selected by Cardaen. But ultimately, the patron chooses the elf, and their choice can't be questioned. As a child with an aptitude for archery, you might expect to be chosen by a legendary archer, only to end up being picked by a brave swordsman—perhaps for your bravery or another aspect of your character you didn't see as an asset. As you create a patron ancestor for your character, consider how their story will affect your own.",
+												{
+													"type": "entries",
+													"name": "Legend",
+													"page": 44,
+													"entries": [
+														"The Tairnadal patrons are legends. They become patrons because the elves believe their deeds must not be forgotten and others should follow their example. What did your patron do to earn this devotion? Why are they celebrated and admired? What was their greatest achievement? Did they have a legendary weapon, tool, or treasure they were known for (and if so, are you working to find it)? What was their signature move, spell, or other distinctive thing you can emulate?"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Personality",
+													"page": 44,
+													"entries": [
+														"As a Tairnadal, you're expected to pattern your personality after your ancestor—including both their strengths and challenges. However, an elf wouldn't be preserved as a patron ancestor unless their virtues significantly outweighed their flaws. If one of the champions of Xen'drik was known for their cruelty, their positive aspects would have to vastly outweigh it so the Tairnadal are willing to not only overlook this cruelty, but to reenact it to preserve the ancestor's spirit.",
+														"Despite being beloved and preserved in memory, what were your ancestor's notable flaws? What about their personality traits, ideals, and bonds? Keep in mind how those might impact your own: has cultivating their traits come easily to you, or are you constantly trying to overcome your own inclinations? For example, if your flaw is your overconfidence, you might be naturally so—or you might {@i try} to be overconfident, because that's something your ancestor was known for."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Class Features",
+													"page": 44,
+													"entries": [
+														"Patrons are supposed to share their skills with their revenants. Do you see your ancestor as the source of any of your class features—either those you have now or those you'll eventually gain? For example, if you're a ranger, your Favored Enemy and Fighting Style features likely reflect your ancestor's influence, and when you cast {@spell hunter's mark}, you might feel your ancestor guide your aim. As a rogue or bard, your expertise is likely tied to the skills your ancestor was celebrated for. If you're a sorcerer or druid, your patron likely was as well, and they probably specialized in similar spells. If you're a warlock, you might serve the same patron as your ancestor; if you're a Hexblade, your otherworldly patron might be the weapon your ancestor carried."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Relationship with Your Ancestor",
+													"page": 44,
+													"entries": [
+														"Consider what you felt about your patron ancestor when you came of age and were chosen by them. Were you proud to follow in their footsteps? Had you hoped you'd be chosen by them, or did you always imagine you'd be chosen by a different patron? And beyond that, consider what your relationship is like today. Do you value their guidance and believe you'll create new legends together? Do you feel their presence guiding you, perhaps even having visions while trancing? A strong sense of guidance is especially appropriate for Tairnadal paladins, clerics, or warlocks, but regardless of your class, you might believe the ancestor has a concrete purpose for you.",
+														"As always, work with your DM on how your ancestor's influence shapes your goals. How will your patron fit into the campaign? Are you trying to find their legendary weapon? Are you driven to defend the innocent or hunt down a particular type of creature? As a Tairnadal, you have a story you're trying to relive; ideally, it fits into the campaign your DM has in mind, not clashes with it."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Rivals",
+													"page": 44,
+													"entries": [
+														"There are many more elves than patrons, so most patron ancestors have multiple elves following in their footsteps. How well represented is your patron among the Tairnadal? Are you one of a few, or are there dozens or even hundreds of elves following in their footsteps? What makes you stand out from the others? Do you have a particular rival who's determined to be a better revenant than you?"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Living Revenants",
+									"page": 44,
+									"entries": [
+										"Any Tairnadal elf who's bound to a patron ancestor can be referred to as a revenant, based on the idea that the ancestor lives on through them. Once an elf undergoes the rite to determine which ancestor chooses them, it's their duty as a revenant to emulate this ancestor, perfecting their skills and following in their footsteps.",
+										"Elite revenants who've honed this connection and can use it to produce supernatural effects are given the special title of revenant blades; you could create a revenant blade character using the paladin Oath of Veneration presented later in this chapter, or you can describe any class's features as supernaturally empowered by your ancestor.",
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0026.webp"
+											},
+											"credit": "Mark Turner"
+										},
+										{
+											"type": "entries",
+											"name": "Trappings of a Revenant",
+											"page": 45,
+											"entries": [
+												"Every devout Tairnadal wears an amulet known as a zaelshin—\"spirit bond\"—that bears the sigil of their ancestor. Some Tairnadal carry a version called the zaelshin tu; this special heirloom contains a relic tied to their patron, such as a sliver of bone, a scrap of cloth, or a tiny piece of a broken blade.",
+												"When performing heroic deeds, a revenant covers their lower face with a veil known as a zaelta, or \"spirit mask.\" In so doing, the revenant signals to their enemies (and others who see them) that the honor of their achievement goes to the ancestor rather than the living elf. However, most Tairnadal still dream of one day—through their ancestor's guidance—having their own story become legend. Such living legends still wear the zaelshin of their patron, but they may abandon the zaelta in recognition that their own legend is celebrated as well. Usually, this is done only with the guidance of a Keeper of the Past; it would be extremely arrogant for a Tairnadal to unilaterally decide they're now the equal of an ancestor."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Voice of the Ancestors",
+											"page": 45,
+											"entries": [
+												"How exactly does a patron ancestor communicate with a living elf, whether with a Keeper of the Past or a revenant blade? It's not a straightforward conversation; Shaeras Vadallia couldn't chat with the spirit of Vadallia about whether to conquer Valenar. However, a patron's voice can manifest in several ways:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 45,
+													"items": [
+														{
+															"type": "item",
+															"name": "Insticts",
+															"entries": [
+																"Revenants believe their ancestors are guiding them, and intuition and instinct are considered the hand of the ancestor nudging them in a particular direction. As with many aspects of religion, this is about faith—but the high skill level of the typical Tairnadal warrior suggests that this is more than mere superstition. When a Tairnadal lets instinct guide them, it usually works out well."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Trances",
+															"entries": [
+																"Tairnadal elves often interact with their patron ancestors in their trance meditations. They might have visions of training with the ancestor, or they could experience a moment from the ancestor's memories. Usually this is a passive experience, not unlike a dream; the revenant remembers it when the trance ends, but they can't stop the training montage to ask Falaen her opinion about current events. However, the context of such a vision could itself be a message; if a revenant keeps having trance-visions about Taeri's final battle, this might hint at the resting place of his legendary double scimitar."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Spells",
+															"entries": [
+																"As suggested earlier, Tairnadal spells and class abilities often reflect ancestral guidance. A Tairnadal wizard may feel as though Cardaen is guiding her as she casts her {@spell fireball} or studies her spellbook. A paladin could believe the ancestor is guiding their hand when they smite or reaching through to inspire their allies when they cast {@spell bless}. Spells like {@spell augury} and {@spell divination} reflect a more direct interaction with the spirit, though these are likely still conveyed through instinct or vision rather than a mundane conversation."
+															]
+														}
+													]
+												},
+												"So as a Tairnadal adventurer, you don't usually talk directly to your ancestor. Instead, you regularly ask yourself, \"what would Vadallia do in this situation?\" And when you do, you truly believe she guides you through instinct. And as a DM, you could signal something important to a Tairnadal character via their instincts: \"you have a really bad feeling about that Deneith soldier\" or \"you feel a strong desire to test this minotaur's strength.\" You might even describe a specific vision the character has, but these moments are rare and remarkable."
+											]
+										},
+										{
+											"type": "inset",
+											"page": 45,
+											"name": "Tairnadal Burial",
+											"entries": [
+												"Tairnadal culture is nomadic. They're effectively always engaged in battle and on the move, and they don't particularly value physical monuments. Likewise, they don't place much importance on corpses—they're far more concerned with that person's spirit, and they believe that spirit can live on through devoted followers. For revenant blades of Cardaen, Cardaen's spirit is with them at all times; it doesn't matter where his bones are.",
+												"Because of this belief, Tairnadal burial practices are more practical than religious in nature. The common practice is to burn the dead, then to collect ashes, teeth, and slivers of bone that survive the fire. You don't want to leave something behind that an enemy could desecrate—but beyond that, these remnants can be carried by other members of the fallen elf's warband and possibly passed on to the Keepers of the Past. A mere sliver is enough to serve as a beacon to their spirit, and these relics are often embedded in the zaelshin tu amulets discussed in \"{@book Trappings of a Revenant|ChroniclesofEberron|10|trappings of a revenant}.\""
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Keepers of the Past",
+									"page": 46,
+									"entries": [
+										"The elves of ancient Xen'drik didn't emulate their ancestors as the Tairnadal do today. The people were devoted to their legendary champions and swore to preserve their memories, but it wasn't until later that some elves gradually came to believe that the ancestors were still with them, that it was possible to hear the voices of the ancestors and call on them for guidance. These elves were the first Keepers of the Past—the clerics and priests of the Tairnadal—and over time, they evolved rituals for recognizing the bonds between living elves and their patrons, developing the path of the revenant.",
+										"Unlike revenants who emulate a single patron ancestor, the Keepers of the Past can hear all the ancestors and potentially channel any of their gifts. Keepers don't work to preserve one ancestor; they strive to protect all ancestors and ensure all Tairnadal benefit from their gifts. Despite their central role in Tairnadal society, however, the Keepers of the Past are guides, not rulers. As such, the Tairnadal culture isn't truly a theocracy; though its foundations rest on a shared faith, the Tairnadal are formally led by lords known as shan (discussed in the \"{@book Tairnadal Hierarchy|ChroniclesofEberron|10|Tairnadal Hierarchy}\" section).",
+										"In addition to their religious duties, Keepers of the Past often serve as entertainers; one of their duties is to share the stories of all the ancestors and ensure they're remembered.",
+										{
+											"type": "entries",
+											"name": "Creating a Keeper of the Past",
+											"page": 46,
+											"entries": [
+												"{@book Eberron: Rising from the Last War|ERLW} suggests Nature and War as cleric domains for the Keepers of the Past, and these are sound choices for Keepers who choose to ride with a warband. But for those who live among the zaelantar (see \"{@book War and Peace|ChroniclesofEberron|10|War and Peace}\") and guide the young, there are other options. The Knowledge domain reflects a Keeper who can draw on the memories of the ancestors, with Knowledge of the Ages reflecting channeling an ancestor's skill. Alternatively, the Life domain fits the priest who sees all Tairnadal as their children and strives to protect them all. When playing a Keeper of the Past, consider attributing different spell effects and class features to specific ancestors; you may call on Vadallia to inspire your allies with bless, while you ask Cardaen to smite them with a {@spell guiding bolt}. Neither of these ancestors have power on their own, but they can act through you. A Keeper of the Past could also be a bard, likely of the College of Spirits; again, the primary role of the Keeper is to inspire others and to share the stories of the ancestors.",
+												"When you play a Keeper of the Past as a player character, it's reasonable to ask why you've left your people. Your duty is to guide and inspire the Tairnadal and to preserve the memory of the ancestors; how are you doing that by walking among strangers? Especially if you're a young Keeper, it's possible you've been given a sacred quest. Perhaps you've been sent to recover an artifact of one of the ancestors, or to learn the final fate of a champion who disappeared in the Age of Monsters. Or perhaps you've been given a quest by the ancestors themselves, a vision you don't yet fully understand. Given the long lifespan of the elves, it's not unreasonable for you to plan on spending a few decades on your quest before returning to your people.",
+												"Ultimately, as a Keeper of the Past, your purpose in your adventuring party includes helping your friends achieve their full potential. You seek to preserve your ancestors, but that's in part because that ancestral guidance helps Tairnadal become heroes themselves. Even if you're traveling with non-elves, you may still feel driven to help them become the best versions of themselves."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tairnadal Without Ancestors",
+									"page": 46,
+									"entries": [
+										"The Keepers of the Past aren't selected by any one ancestor; as described earlier in this section, a central part of their role is their ability to hear many ancestors. But are there other Tairnadal who don't have a patron ancestor?",
+										"ere other Tairnadal who don't have a patron ancestor? Most elves receive an ancestor at around 60, after they undergo a few decades as zaelantar. If you're a Tairnadal elf of this age (who doesn't have the gift of the Keepers) but you haven't been chosen by an ancestor, you essentially haven't \"graduated\" yet—so work another decade as zaelantar and try again. Your fellow Tairnadal would assume that if you're not picked, it's because you haven't yet displayed enough value to be chosen; though you're a disappointment, that doesn't mean you deserve to be shunned. You simply need to go back to work and {@i do better}.",
+										"Though highly unusual, it's possible that a particular elf might not be picked because {@i all} the ancestors wanted them and couldn't reach an agreement. Perhaps the Tairnadal have a tale of the elf who was thought to be shunned by the ancestors, but who was in fact the most exceptional of all—or perhaps they'll tell that tale about your player character! But in the overwhelming majority of situations, an unpicked elf would simply continue on as zaelantar until an ancestor eventually chose them."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ancestors of Legends",
+									"page": 46,
+									"entries": [
+										"When deciding on your character's patron ancestor, there are dozens throughout elven history who might choose your character as a revenant. The \"{@book Creating a Patron|ChroniclesofEberron|10|Creating a Patron}\" section gives ideas for how to create your own patron if you'd like them to fit a particular mold—a legendary archer, a perfect paladin—or you can draw inspiration from one of the patrons presented below.",
+										{
+											"type": "entries",
+											"name": "Vadallia: Queen of Swords",
+											"page": 46,
+											"entries": [
+												"As described in {@i Dragon 407}, \"Vadallia was one of the finest warlords of the Age of Giants. She was a gifted equestrian and a deadly warrior, but her greatest talents were her grasp of strategy and her ability to inspire others. She united rival clans and convinced stubborn heroes to join together beneath her banner. She was driven by her passion and her love of the elven people, yet her love was tempered by a lack of compassion for any other creature except her horse.\"",
+												{
+													"type": "entries",
+													"name": "Personality",
+													"page": 46,
+													"entries": [
+														"The Tairnadal expect Vadallia revenants to be leaders, inspiring their comrades and devising clever strategies to defeat their enemies. While Vadallias are expected to be utterly devoted to their warband and their people, they are known for ruthless expediency with enemies. This can be seen in the actions of High King Shaeras Vadallia, who betrayed Cyre's trust and seized what's now Valenar ... but in so doing, brilliantly secured the land for the elves. If you play a Vadallia revenant, do you agree with Shaeras's decision and believe Vadallia herself would've done the same thing? Or do you believe the High King's actions show him to be an imperfect avatar of the Queen of Swords?"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Character Options",
+													"page": 47,
+													"entries": [
+														"Vadallia revenants are typically martial characters. A Battle Master fighter might highlight her strategic brilliance, while an Oath of Veneration {@class paladin|PHB|Oath of Veneration|Veneration|ChroniclesofEberron} paladin (presented later in this chapter) showcases her skill with horses and in inspiring allies."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Artifacts",
+													"page": 47,
+													"entries": [
+														"It's said that one of Vadallia's eyes was a diamond through which she could see glimpses of the future. Her double scimitar is also a legendary weapon, and would be a remarkable artifact for a revenant to discover. Currently Shaeras Vadallia is seen as the predominant avatar of the Queen of Swords, but someone who acquires one of these might be able to challenge the High King."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cardaen",
+											"page": 47,
+											"entries": [
+												"{@i Dragon 407} paints Cardaen as \"an arcane prodigy, raised by giants and taught to love magic above all else. In his early life, he was completely absorbed with study. He had no interest in how the rituals he crafted were used; he simply sought to push the laws of magic to their limits. After Vadallia's death, he realized that magic was pointless if it didn't have purpose. He dedicated his life to vengeance, hunting down and punishing those who brought suffering to his people.\"",
+												{
+													"type": "entries",
+													"name": "Personality",
+													"page": 47,
+													"entries": [
+														"Cardaen is widely considered to be one of the greatest elf wizards of history, commanding respect from the Aereni and Tairnadal alike. Some Cardaens are cold and dispassionate, while others see beauty in magic, but all are known for their intellectual pursuits. Some Tairnadal say that to be a true revenant of his, an elf must begin with an innocent love of magic and be hardened by a terrible loss. Following his legacy, Cardaen revenants may choose two very different paths—that of zaeltairn or zaelantar, war or peace, as discussed in the \"{@book Tairnadal Society|ChroniclesofEberron|10|Tairnadal Society}\" section. Those who choose to be warriors tend to embrace Cardaen's vengeful nature in defense of their people. But others choose the settled life and focus on arcane research in the few cities of the Tairnadal. While \"peaceful\" by comparison, such revenants are typically cold-blooded in their use of magic."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Character Options",
+													"page": 47,
+													"entries": [
+														"Many of Cardaen's revenants are wizards and sages, as Cardaen's greatest strength was his towering intellect; a Cardaen might focus on developing spells and arcane weapons to support the warbands. While it would be unusual, an Artillerist artificer could certainly draw inspiration from him. Other Cardaen revenants who wield magic on the battlefield could be Bladesingers, War wizards, or even Hexblade warlocks."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Artifacts",
+													"page": 47,
+													"entries": [
+														"Cardaen died in Xen'drik before the exodus, and his spellbook has never been found; it's possible it contains spells he never shared with others. His staff was a powerful magical weapon, and it is also lost to time. Over the centuries, explorers and scholars have occasionally found spell scrolls written by this great wizard, and one might surface in Xen'drik or elsewhere."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Falaen: the Silence",
+											"page": 47,
+											"entries": [
+												"Falaen was the deadliest assassin of the Age of Giants, known as \"the Silence\" both for her skills at stilling tongues and for her taciturn persona. Much about her is a mystery, as suits a figure who lived in the shadows. Falaen grew up among the drow and was trained to kill her own kind; most stories say the drow took her after they killed her family, but some maintain she was at least part drow herself. What's certain is that she turned against the drow and their giant masters, and that during the Silence's war in the shadows, she brought down countless drow and struck deep inside enemy lines.",
+												{
+													"type": "entries",
+													"name": "Personality",
+													"page": 47,
+													"entries": [
+														"By all accounts, Falaen was ruthless but never cruel; she viewed her work as necessary but took no joy in killing, and her revenants usually share that perspective. She was endlessly patient, and similarly, her revenants sometimes wait weeks or months until seizing the perfect moment to bring down their prey. Unlike many Tairnadal, Falaen revenants usually avoid horses, as she had no love for the creatures."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Character Options",
+													"page": 47,
+													"entries": [
+														"Falaen revenants tend to be Assassin rogues or Gloom Stalker rangers, but some follow other paths. While a Tairnadal warband might have a single Falaen revenant who serves as a Scout rogue, there are also several \"Silent Bands\" comprised entirely of her revenants, specializing in long-term covert operations."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Artifacts",
+													"page": 47,
+													"entries": [
+														"Falaen specialized in two light blades, and either her weapons, her mask, or her legendary cloak of shadows would be prized artifacts for a revenant to recover."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Taeri",
+											"page": 47,
+											"entries": [
+												"Where Vadallia was known for her strategy, Taeri is celebrated for his sheer prowess on the battlefield. Some scholars liken him to an elf analogue of Dol Dorn, emphasizing the virtues of courage and skill. Taeri was a master of melee combat in all its forms, but he is particularly celebrated as the greatest wielder of the double scimitar who's ever lived; most modern scimitar forms are still drawn from his teachings. Though renowned for his skill with melee weapons, Taeri is said to have never touched a bow.",
+												"While Taeri is exceptional, there are certainly other patrons who follow his mold—ancestors renowned for their courage and skill with a particular weapon, whose revenants are always seeking greater challenges to prove themselves. Quite a few of Taeri's revenants have become patrons themselves: Daealyth was a Taeri revenant who accomplished great deeds in her battles with the Dhakaani goblins, while Haetar Taeri fought dragons and is one of the primary patrons of the Draleus Tairn.",
+												{
+													"type": "entries",
+													"name": "Personality",
+													"page": 48,
+													"entries": [
+														"Many modern Tairnadal stereotypes are rooted in Taeri's legacy: he's known for always seeking a greater challenge and refusing to take advantage of a weaker foe. On more than one occasion, he let an opponent live when they threw down their weapons and refused to fight him. While celebrated for his skill, Taeri is notably not known for his cunning; stories tell of him being outwitted by clever drow, or being the lone survivor of an ambush that Vadallia would have surely anticipated."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Character Options",
+													"page": 48,
+													"entries": [
+														"Taeri's revenants could be fighters, rangers, paladins, or even monks; several legends tell of a disarmed Taeri defeating his enemies with his bare hands. However, he's celebrated first and foremost for his skill with the double scimitar (as presented in Eberron: Rising from the Last War), and most of his revenants are skilled with that or similar martial weapons."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Artifacts",
+													"page": 48,
+													"entries": [
+														"Anyone who could recover Taeri's legendary double scimitar would secure a place in song and story. His chainmail was shattered and scattered, but many Taeri revenants carry a link of his armor."
+													]
+												},
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0027.webp"
+													},
+													"credit": "Cheto See"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Vaela the Wolf",
+											"page": 48,
+											"entries": [
+												"There are many legendary druids and rangers among the Tairnadal. One of these, Maezan the Thunderhand, raised the briar walls of Taer Valaestas during the Age of Monsters. Maezan was himself a revenant of the druid Shal; meanwhile, Shal was inspired by Vaela the Wolf, whose legends date back to the earliest days of that age.",
+												"When Vaela was only a child, their village was destroyed by giants and their people were taken as prisoners. Vaela alone escaped into the jungle. They should've died, but they forged a bond to the beasts of the wild; it's said that when they encountered a pack of wolves, Vaela instinctively became a wolf, and grew up among them. As Vaela the Wolf grew older, they shifted from form to form, living with every beast in the jungle and learning their secrets. Eventually, Vaela came upon another band of giant raiders who were hunting elves. Vaela slaughtered the giants and joined the elves, assuming an elven form just as they'd assumed so many beast forms in the past. Along the way, Vaela remembered their past and realized they were elven, though it took them a long time to decide what that meant and who Vaela the Elf would be. Vaela taught many elves the secrets of the wild; some became rangers, while others followed more closely in Vaela's footsteps and became the first of the Gyrderi druids.",
+												{
+													"type": "entries",
+													"name": "Personality",
+													"page": 48,
+													"entries": [
+														"Though druid revenants of later generations—including those of Shul and Maezan—have shifted away from their feral roots, Vaela is pure and primal. Their revenants prefer to live surrounded by untamed nature, and for them, concepts like gender, family, and national identity are often fluid, though they still deeply value their Tairnadal heritage and strive to preserve Vaela's spirit. One Silaes Tairn warband, formed entirely of Vaela revenants, functions much like a pack of wolves. However, it's not uncommon for Vaela revenants to leave their warband for a time to learn the ways of another culture, or even to live alongside a particular beast and learn its ways."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Character Options",
+													"page": 48,
+													"entries": [
+														" Their revenants tend to be Circle of the Moon druids, more comfortable in beast form than on two legs; however, some become Beast Master rangers, Totem Warrior barbarians, or other classes closely tied to primal nature."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Artifacts",
+													"page": 48,
+													"entries": [
+														"Vaela trusted their teeth and hide over weapons and armor. Vaela's teeth are infused with their power and, if they still exist, would be highly sought after by their revenants."
+													]
+												}
+											]
+										},
+										{
+											"type": "inset",
+											"page": 48,
+											"name": "Patron Ancestors and Resurrection",
+											"entries": [
+												"Why don't the Tairnadal resurrect their beloved ancestors? Simply put, they don't because they can't. Even if you have a sliver of their bone, the {@spell resurrection} spell and similar magic require a spirit to be \"free and willing\"—and the ancestors' spirits faded from Dolurrh long ago.",
+												"No one knows what lies beyond Dolurrh. Vassals believe that noble souls join the Sovereigns in some higher realm, while the Church of the Silver Flame teaches that virtuous spirits are preserved in the Silver Flame. Meanwhile, the Blood of Vol maintains that nothing lies beyond Dolurrh, and death is oblivion. The Tairnadal share a similar belief that once a spirit fades from Dolurrh, it's gone forever—but they believe the spirit can be preserved by the memories and actions of the living. So while you can't resurrect a patron ancestor or find one of them lingering in Dolurrh, the ancestors continue to exist spiritually because of the actions and devotion of those who remember them."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Paladin: Oath of Veneration",
+									"page": 49,
+									"entries": [
+										{
+											"type": "list",
+											"page": 49,
+											"items": [
+												"{@class paladin|PHB|Oath of Veneration|Veneration|ChroniclesofEberron}"
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
