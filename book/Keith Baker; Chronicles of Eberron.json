@@ -6,6 +6,9 @@
 		"dependencies": {
 			"background": [
 				"PHB"
+			],
+			"race": [
+				"ERLW"
 			]
 		},
 		"sources": [
@@ -2706,7 +2709,7 @@
 									"name": "Goliaths: the Syrkarn Eneko",
 									"page": 41,
 									"entries": [
-										"Goliaths—better known as eneko, or Children of the Sand—are found in the Syrkarn deserts and steppes of Sarlona. Many outsiders say the eneko descended from the ogres of Borunan and the humans of the steppes. However, the eneko say their roots run deeper, claiming they carry the blood of giants who roamed the desert long before the rise of any human civilization. {@book Chapter 21|ChroniclesofEberron|27} of this book presents information on Sarlona, and you can learn about the eneko in {@i Secrets of Sarlona}.",
+										"{@race Goliath|MPMM|Goliaths}—better known as {@race Goliath (Variant; Eneko)|ChroniclesofEberron|eneko}, or Children of the Sand—are found in the Syrkarn deserts and steppes of Sarlona. Many outsiders say the eneko descended from the ogres of Borunan and the humans of the steppes. However, the eneko say their roots run deeper, claiming they carry the blood of giants who roamed the desert long before the rise of any human civilization. {@book Chapter 21|ChroniclesofEberron|27} of this book presents information on Sarlona, and you can learn about the eneko in {@i Secrets of Sarlona}.",
 										"While the Syrkarn eneko are well known in Sarlona, they don't sail and have almost no contact with the people of Khorvaire. As a player character, what has drawn you from your home? If you're a warrior, you might be searching for ever-greater challenges; if you're a storyteller, you could be researching the truth of a mysterious merchant's tale. Or perhaps you seek revenge after a loved one was killed by outsiders who sought an ancient artifact—you've followed them to Khorvaire, but you fear they're mere agents of a greater power, so you hone your skills and gather allies while pursuing the truth.",
 										"If you'd rather not play an eneko, you could also use the goliath statistics to play a young ogre from Droaam. As the runt of the litter, you were always the butt of jokes among your people—but now you've traveled east, where you can be the biggest and the strongest.",
 										{
@@ -2767,7 +2770,7 @@
 									"name": "Warforged: Full Constructs ?",
 									"page": 42,
 									"entries": [
-										"Rules are always evolving. During the early years of fifth edition, designers were reluctant to give player characters any type aside from Humanoid. Thus warforged were Humanoids, not Constructs; similarly, even though eladrin stat blocks were Fey, their playable statistics were Humanoids. Recent books have loosened this restriction; with this in mind, I add the below traits to warforged characters in my campaign.",
+										"Rules are always evolving. During the early years of fifth edition, designers were reluctant to give player characters any type aside from Humanoid. Thus warforged were {@race warforged|ERLW|Humanoids}, not {@race Warforged (Variant; Construct)|ChroniclesofEberron|Constructs}; similarly, even though eladrin stat blocks were Fey, their playable statistics were Humanoids. Recent books have loosened this restriction; with this in mind, I add the below traits to warforged characters in my campaign.",
 										{
 											"type": "inset",
 											"page": 42,
@@ -3261,6 +3264,66 @@
 							}
 						}
 					]
+				}
+			}
+		}
+	],
+	"race": [
+		{
+			"name": "Warforged (Variant; Construct)",
+			"source": "ChroniclesofEberron",
+			"page": 42,
+			"creatureTypes": [
+				"construct"
+			],
+			"_copy": {
+				"name": "Warforged",
+				"source": "ERLW",
+				"_mod": {
+					"entries": {
+						"mode": "insertArr",
+						"index": 0,
+						"items": [
+							{
+								"type": "entries",
+								"name": "Creature Type",
+								"entries": [
+									"You are a Construct."
+								]
+							},
+							{
+								"type": "entries",
+								"name": "Living Construct",
+								"entries": [
+									"The livewood and alchemical fluids in your body allow you to benefit from several spells that preserve life but normally don't affect Constructs: {@spell cure wounds}, {@spell healing word}, {@spell mass cure wounds}, {@spell mass healing word}, and {@spell spare the dying}."
+								]
+							}
+						]
+					}
+				},
+				"raceName": "Warforged",
+				"raceSource": "ERLW"
+			}
+		},
+		{
+			"name": "Goliath (Variant; Eneko)",
+			"source": "ChroniclesofEberron",
+			"page": 41,
+			"_copy": {
+				"name": "Goliath",
+				"source": "MPMM",
+				"_mod": {
+					"entries": {
+						"mode": "replaceArr",
+						"replace": "Mountain Born",
+						"items": {
+							"type": "entries",
+							"name": "Desert Born",
+							"entries": [
+								"You have resistance to fire damage. You also naturally acclimate to hot climates and aren't adversely affected by extreme heat."
+							]
+						}
+					}
 				}
 			}
 		}
