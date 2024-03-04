@@ -2422,6 +2422,147 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Adding Ancestries to Eberron",
+					"page": 36,
+					"entries": [
+						"There are well over fifty official playable ancestries in fifth edition, and that's not counting variants and lineages, let alone third-party publications and homebrew. Eberron has defined roles for familiar folk—{@race elf|PHB|elves}, {@race gnome|PHB|gnomes}, {@race orc|ERLW|orcs}, {@race goblin|ERLW|goblins}, {@race dwarf|PHB|dwarves}, even {@race gnoll|ExploringEberron|gnolls}. But how do {@race harengon|MPMM|harengons} fit into Eberron? What about {@race kenku|MPMM} or {@race goliath|MPMM|goliaths}? \"Where does this ancestry fit into Eberron?\" is the most common question I'm asked, both by DMs who want to incorporate a new creature into a story and players who want to use new options",
+						{
+							"type": "section",
+							"name": "Reasons to Play",
+							"page": 36,
+							"entries": [
+								"There's room for almost anything in Eberron, but what's going to make the most interesting story? If a player wants to play an {@race owlin|SCC}, you could say there's an undiscovered nation of owlin in the Eldeen Reaches—or the character could be an archmage's owl familiar magically transformed into an owlin. Do you want to add a nation of these creatures, or do you just need an explanation for a unique player character? When helping a player fit their character idea into Eberron, my priority is that the elements of the world and their story should both feel significant. While there's a place for everything in Eberron, I don't want to force something that doesn't add a compelling thread to the story I'm telling. So my first goal is to identify what story my player wants to tell, and how it fits with mine. Let's look at the three most common answers to \"why do you want to play this ancestry?\"",
+								{
+									"type": "entries",
+									"name": "Mechanical Benefits",
+									"page": 36,
+									"entries": [
+										"Often, the question comes down to \"I want my character to use those mechanics.\" Why play a {@race tabaxi|MPMM} instead of a {@race shifter|ERLW}? Sometimes, it's not related to the ancestry's story at all; the tabaxi simply has the Feline Agility trait, and it's a perfect fit for the player's new ranger idea. And there's nothing wrong with that! But you don't need to add an entirely new culture into the setting—giving them territory and considering their role in both history and the current political balance—in order for a ranger to use Feline Agility. Here are a few ways to handle it.",
+										{
+											"type": "entries",
+											"name": "Reskin Them",
+											"page": 36,
+											"entries": [
+												"You can reskin any statistics and describe them as one of Eberron's existing ancestries. If the player wants the traits of a tabaxi but doesn't mind being part of shifter culture, you can call the character a shifter. In your story, they're an unusual swiftstride shifter; they can even describe their character as \"shifting\" when they use their Feline Agility, though it doesn't grant other mechanical advantages or disadvantages of shifting. The player gets the abilities they want, but in your story, they're part of an ancestry that already has an established place in the world."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Make Them Unique",
+											"page": 36,
+											"entries": [
+												"If the player doesn't want their character to be part of an existing culture or community, they could be unique: they're the only tabaxi in Eberron. Perhaps they were mutated by the Mourning, or they might've been created by a daelkyr, Mordain the Fleshweaver, or a House Vadalis experiment. Their abilities could result from the curse of an archfey or exposure to a manifest zone's energies. Similarly, an owlin could've once been the owl familiar of an archmage teaching at Arcanix; when this wizard died, their last act was to give their faithful familiar independence and a humanoid form. In these examples, the player gets the abilities they want without the DM adding a new culture to the setting. This approach gives the opportunity to explore the character's relationship with their creator: Why did Mordain the Fleshweaver create a tabaxi? Was the character once his feline familiar? Did the character escape from Mordain, or were they released into the wild, and do they know why?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Small Batch",
+											"page": 36,
+											"entries": [
+												"The downside to making a character with a unique ancestry is that they don't have an opportunity to interact with other members of their ancestry. If a player wants their character to have connections to other creatures like them, but they don't want their culture to play a major role in the world, you can take the small batch approach. Perhaps an entire village was caught in the Mourning and all its inhabitants transformed into tabaxi. Maybe House Vadalis magebred a unit of goliath supersoldiers during the war; the character escaped, but most of their kin are still held in a secret Vadalis facility. Or it's possible there are only a dozen kenku—they were servants of the archfey known as the {@creature The Forgotten Prince|ExploringEberron|Forgotten Prince}, and as punishment for a crime, he stole each kenku's voice and exiled them all to Eberron.",
+												"A small batch ancestry is fun because it automatically gives you a story hook to work into the game. If you're one of only twelve kenku, you know them all—are you working together, or are you rivals? Are you seeking revenge against the kenku who betrayed you and your allies to the prince, or are you the traitor responsible for their exile? Similarly, if you're a goliath supersoldier, what do you do when another goliath asks for help freeing your kin from a Vadalis facility?",
+												"Being part of a small batch means that you don't have a nation or culture to fall back on, but every member of your ancestry is significant. If {@race tortle|MPMM|tortles} have a principality in Lhazaar, you're just one of many tortles. But if you and your three siblings are actual turtles transformed into tortles by the Mourning, then you're the only four tortles in the world, which makes you quite remarkable!",
+												{
+													"type": "insetReadaloud",
+													"page": 37,
+													"name": "Cats at the Circus",
+													"entries": [
+														"The Carnival of Shadows is in town! Attendees at the opening show marveled at the acrobatic displays of these performers with feline grace and feline features! From a distance, the acrobats might be mistaken for shifters, but from the front rows, it was clear these remarkable athletes are more fully feline than our usual fuzzy friends. We managed to speak to the manager, Halaer d'Thuranni, who informed us these performers are truly miraculous—their troupe of elf acrobats was in Cyre on the Day of Mourning, but instead of being slain, they were transformed by the mists. We hope these acrobats have nine lives, because they've certainly used up their first one!"
+													]
+												},
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0203.webp"
+													},
+													"credit": "S. Tappin"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Played Them Before",
+									"page": 37,
+									"entries": [
+										"It's common for a player to say, \"I like playing this character in another setting and I want to play them in Eberron.\" They always play tabaxi, and they just want to play that character again. In this situation, the player usually has a very concrete idea of what tabaxi are like and doesn't want the DM to change their culture to better fit the setting. They want to play this character the same way they've always played it. They don't want to play a Qaltiar drow, they want to play a drow ranger from the Forgotten Realms.",
+										"Personally, my answer is usually to say, \"Okay, your character has come to Eberron from another world.\" The far traveler background works well for this, representing that nobody has ever seen anything like you. This doesn't mean you have to make travel between settings commonplace within your campaign. This character could be a bizarre fluke brought to Eberron by the Mourning, the Draconic Prophecy, or a planar convergence that won't happen again for thousands of years. Or they could be like the gith—a fragment of a previous version of reality that somehow survived into this one. Either way, the player gets to play this character exactly the way they want to, and the DM doesn't have to bend the setting into strange shapes trying to fit this character into it.",
+										"In this situation, make sure the player understands their character is alone in this world: their drow ranger from Faerûn can talk about the cultures in their very forgotten realms, but nobody will have any context for what they're talking about, and the drow they meet in Eberron will be Umbragen and Qaltiar. Usually this isn't a problem, and the player is more focused on the experience of the character rather than their culture. On the other hand, if that's not the case..."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Meaningful Place",
+									"page": 37,
+									"entries": [
+										"Sometimes it's not just about a specific player wanting to play a single character of a particular ancestry. Either a player or DM might say, \"I love this ancestry's story and want it to have a meaningful place in the world.\" So what are some ways to handle this without rewriting the entire setting?",
+										{
+											"type": "entries",
+											"name": "Replace Something",
+											"page": 37,
+											"entries": [
+												"Have you ever used the Znir gnolls of Droaam? Do you plan to? If not, you could say that tabaxi, not gnolls, are the founders of the Znir Pact. Or if you don't like goblins, you could say the Empire of Dhakaan was a goliath empire and the Heirs of Dhakaan are goliath clans. This allows you to make use of existing lore and relationships with a slight change of focus. The world doesn't become a cluttered kitchen sink, because you've taken something out before adding something in.",
+												{
+													"type": "entries",
+													"name": "Previously Unnoticed",
+													"page": 37,
+													"entries": [
+														"When adding the dragonborn in fourth edition, we took the \"they've always been there, you just never noticed\" approach. In third edition, the setting already established the presence of reptilian humanoids in Q'barra and the tension between them and the colonists. So we just said, \"we previously mentioned lizardfolk, but there are dragonborn in Q'barra as well; humans just didn't understand the difference between them.\" Then we added further history, describing how the dragonborn had an empire that once covered the Talenta Plains and fought the Dhakaani, but had to retreat to their strongholds in Q'barra to fight the Poison Dusk. This allows players to play dragonborn with a homeland to return to, but we didn't have to redraw the maps or change recent history. The dragonborn have always been here, but they are an isolated culture with little contact with the Five Nations.",
+														"The map holds many isolated places that work for this approach. It's entirely possible tribes of tabaxi live alongside shifters in the depths of the Towering Woods, just as lizardfolk and dragonborn coexist in Q'barra; it's up to the DM to decide whether they have a unique culture that humanity simply hasn't encountered, or if they are integrated into the druidic sects. The Lhazaar Principalities can work for this as well—if no one's ever met the Cloudreavers in your campaign, you can declare that they're goliaths (and always have been). They're rare enough that people don't know them in the Five Nations, and they didn't have a huge impact on the Last War, but they have an island, they have ships, and they're known across the Principalities. And Xen'drik is a vast blank slate intentionally designed for this purpose, where you could easily add a loxodon nation in Eberron that no one's encountered. (Speaking of loxodons, I've also seen DMs place them in the Tashana Tundra or the Frostfell as mammoth-folk, which I think is a great way to use them and adds flavor to regions that are largely unknown.)"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "New in Town",
+													"page": 38,
+													"entries": [
+														"We took the \"new in town\" approach when adding the eladrin in fourth edition. We established that the eladrin lived in feyspires that moved back and forth between Thelanis and Eberron. These feyspires usually only remained in Eberron for short periods, but following the Mourning, they were trapped in Eberron and stripped of their defensive magics. As a result, eladrin haven't played a more significant role in history because they haven't been on the Material Plane until now. You can do the same with any ancestry, saying they were previously secluded and hidden from the rest of the world but have been thrust into contact.",
+														"Being new in town allows your ancestry to have a deep culture—and potentially possess magic or other advancements that should make an impact on Khorvaire—while explaining why your people haven't affected Eberron's history to this point. While others may not have encountered your ancestry before, you're a significant part of the story now. For example...",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"page": 38,
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Khyber's demiplanes",
+																	"nameDot": false,
+																	"entries": [
+																		"are strange and wondrous miniature worlds. An unusual ancestry could've evolved in a demiplane without interaction with Eberron—until the Mourning fractured the demiplane and caused your city to be transported somewhere on Eberron. What was the impact on the world when your city appeared in the world four years ago? If it's in a remote place— the Shadow Marches, the Eldeen Reaches—it might not be a problem. But if the city appeared in the Five Nations, how is that nation reacting? Has this new city-state been recognized by the locals? Do your people want to go home, or are you settling in for the long haul?"
+																	]
+																},
+																{
+																	"type": "item",
+																	"name": "Remote Regions",
+																	"nameDot": false,
+																	"entries": [
+																		"of Eberron could be threatened by an existential threat. Perhaps your people are from the Frostfell, Xen'drik, or Khyber, but you fled to the Five Nations. Perhaps an unleashed overlord claimed your homeland or a daelkyr drove you up from Khyber. Are your people content to be refugees, or is your character determined to rally allies to reclaim your homeland?"
+																	]
+																},
+																{
+																	"type": "item",
+																	"name": "The planes of Eberron",
+																	"nameDot": false,
+																	"entries": [
+																		"could have countless marvelous denizens. Your people may be from Fernia or Kythri, but a planar convergence or conflict within the plane forced you to flee—much like the eladrin and their feyspires. Have your people been transformed by this experience? If you want fire genasi to be refugees from Fernia, it could be that while in Fernia, your people were immortal spirits of flame, but the mystical effect that stranded you on Eberron also stripped you of your immortality and much of your power. You might have been an efreet prince in Fernia—but now you're just a low-level fire genasi on Eberron."
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
