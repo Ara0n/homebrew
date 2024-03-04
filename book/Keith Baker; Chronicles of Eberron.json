@@ -140,51 +140,55 @@
 						"Telling Their Story",
 						{
 							"depth": 1,
-							"header": "Aarakocra"
+							"header": "Aarakocra: the Dragonhawk Battalion"
 						},
 						{
 							"depth": 1,
-							"header": "Centaurs"
+							"header": "Aarakocra: the Dragonhawk Battalion"
 						},
 						{
 							"depth": 1,
-							"header": "Changelings"
+							"header": "Changelings: Fey or Humanoid ?"
 						},
 						{
 							"depth": 1,
-							"header": "Dhampirs"
+							"header": "Dhampirs: Sworn to the Keeper"
 						},
 						{
 							"depth": 1,
-							"header": "Fairies and Satyrs"
+							"header": "Fairies and Satyrs: Wanderers and Envoys"
 						},
 						{
 							"depth": 1,
-							"header": "Firbolgs"
+							"header": "Firbolgs: Children of the Forest Queen"
 						},
 						{
 							"depth": 1,
-							"header": "Genasi"
+							"header": "Genasi: Touched by the Wild"
 						},
 						{
 							"depth": 1,
-							"header": "Goliaths"
+							"header": "Goblins: Fey Ancestry ?"
 						},
 						{
 							"depth": 1,
-							"header": "Grungs"
+							"header": "Goliaths: the Syrkarn Eneko"
 						},
 						{
 							"depth": 1,
-							"header": "Harengons"
+							"header": "Grungs: Marsh and Myre"
 						},
 						{
 							"depth": 1,
-							"header": "Kenku"
+							"header": "Harengons: Holondon Holt"
 						},
 						{
 							"depth": 1,
-							"header": "Warforged"
+							"header": "Kenku: Forgotten Exiles"
+						},
+						{
+							"depth": 1,
+							"header": "Warforged: Full Constructs ?"
 						}
 					]
 				},
@@ -2666,7 +2670,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Fairies and Satyrs : Wanderers and Envoys",
+									"name": "Fairies and Satyrs: Wanderers and Envoys",
 									"page": 40,
 									"entries": [
 										"{@race Satyr|MPMM|Satyrs} and {@race fairy|MPMM|fairies} are found throughout Thelanis and its manifest zones. As lesser fey, most are swept up in endless celebration, paying no heed to the passage of time or the mortal world. As a player character, what has drawn you away from these revels and compelled you to become part of mortal machinations?",
