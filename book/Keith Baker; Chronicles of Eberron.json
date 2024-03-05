@@ -3192,6 +3192,7 @@
 									"name": "Paladin: Oath of Veneration",
 									"page": 49,
 									"entries": [
+										"At 3rd level, a paladin gains the Sacred Oath feature, which offers the choice of a subclass. This section presents a new oath option, which can be played by a Tairnadal character or by anyone who channels a revered ancestor.",
 										{
 											"type": "list",
 											"page": 49,
@@ -3717,6 +3718,191 @@
 					}
 				}
 			}
+		}
+	],
+	"subclass": [
+		{
+			"name": "Oath of Veneration",
+			"source": "ChroniclesofEberron",
+			"page": 49,
+			"className": "paladin",
+			"classSource": "PHB",
+			"shortName": "Veneration",
+			"subclassFeatures": [
+				"Oath of Veneration|Paladin||Veneration|ChroniclesofEberron|3",
+				"Aura of the Paragon|Paladin||Veneration|ChroniclesofEberron|7",
+				"Exemplar Companion|Paladin||Veneration|ChroniclesofEberron|15",
+				"Perfect Avatar|Paladin||Veneration|ChroniclesofEberron|20"
+			],
+			"casterProgression": "1/2",
+			"spellcastingAbility": "cha",
+			"additionalSpells": [
+				{
+					"prepared": {
+						"5": [
+							"enhance ability",
+							"find steed"
+						],
+						"13": [
+							"find greater steed|XGE"
+						]
+					}
+				}
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Oath of Veneration",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"Paladins who are called to follow in the footsteps of a great hero take the Oath of Veneration. The Tairnadal are the most common culture in Eberron to keep these ideals, taking up arms in hopes of emulating the patron ancestor assigned to them by the Keepers of the Past. However, this path isn't limited to the elves. A goblinoid warrior might choose to emulate ancient Dhakaani heroes, or a human of the Five Nations might consider themself the inheritor of Karrn the Conqueror's will.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Tenets of Veneration|paladin||Veneration|ChroniclesofEberron|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Oath Spells|paladin||Veneration|ChroniclesofEberron|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Channel Divinity|paladin||Veneration|ChroniclesofEberron|3"
+				}
+			]
+		},
+		{
+			"name": "Tenets of Veneration",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"The tenets of the Oath of Veneration challenge a paladin to uphold the legend of a treasured ancestor.",
+				{
+					"type": "entries",
+					"name": "Respect the Past",
+					"entries": [
+						"The deeds and legends of our ancient ancestors are our greatest treasure."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Emulate Your Patron",
+					"entries": [
+						"Keep your patron ancestor's stories alive by reliving their victories."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fight for Your Future",
+					"entries": [
+						"Resist the tyranny your ancestors devoted their lives to defeating."
+					]
+				}
+			]
+		},
+		{
+			"name": "Oath Spells",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"When you take this oath, choose the following class that best represents your venerated ancestor: {@filter artificer|spells|class=artificer}, {@filter bard|spells|class=bard}, {@filter cleric|spells|class=cleric}, {@filter druid|spells|class=druid}, {@filter ranger|spells|class=ranger}, {@filter sorcerer|spells|class=sorcerer}, {@filter warlock|spells|class=warlock}, {@filter wizard|spells|class=wizard}. When you gain this feature, choose one 1st-level spell from your ancestor's class spell list. That spell is an oath spell for you. When you reach certain levels in this class— 5th level, 9th level, 13th level, and 17th level—you gain another oath spell of your choice from your ancestor's class spell list. When you gain a paladin level, you can choose one of these spells and replace it with another spell from your ancestor's class spell list. See the Sacred Oath class feature for how oath spells work.",
+				"Additionally, you add the {@spell enhance ability}, {@spell find steed}, and {@spell find greater steed|XGE} spells to your oath spells."
+			]
+		},
+		{
+			"name": "Channel Divinity",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.",
+				{
+					"type": "entries",
+					"name": "Ancestral Recall",
+					"page": 49,
+					"entries": [
+						"As a bonus action, you can use your Channel Divinity to call to mind a great deed of your ancestor. Choose one skill and choose one tool or language that your ancestor was skilled in during their life. For the next 10 minutes, you are proficient in any chosen skill or tool, and your proficiency bonus is doubled for each ability check you make using a chosen proficiency. If you choose a language, you can speak, read, and write that language for the duration."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ancestral Companion",
+					"page": 49,
+					"entries": [
+						"You call on the spirit of one of your ancestor's most treasured allies, manifesting the spirit as a loyal mount or imbuing an ally with its favor. You cast either {@spell enhance ability} or {@spell find steed} as an action without expending a spell slot. When you reach 15th level in this class, you add {@spell find greater steed|XGE} to the list of spells you can cast in this manner."
+					]
+				}
+			]
+		},
+		{
+			"name": "Aura of the Paragon",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 7,
+			"entries": [
+				"You emanate an aura that evokes the storied history of your patron ancestor, filling you and your companions with hope and drive. When you use your Divine Smite, friendly creatures within 10 feet of you can use their reaction to gain your ancestor's favor until the end of their next turn. Creatures with your ancestor's favor deal an extra {@dice 1d4} radiant damage the next time they hit with an attack.",
+				"When you reach 18th level in this class, the range of this aura increases to 30 feet."
+			]
+		},
+		{
+			"name": "Exemplar Companion",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 15,
+			"entries": [
+				"While a creature is affected by your {@spell enhance ability} spell, or while you control a creature that you summoned, animated, or created with magic, that creature becomes an exemplar companion. Your Aura of the Paragon extends to the area around each exemplar companion as if you were in that creature's space.",
+				"Additionally, when an exemplar companion gains your ancestor's favor, the extra damage it deals increases by {@dice 1d4} for each spell level higher than 1st that you expended with your Divine Smite."
+			]
+		},
+		{
+			"name": "Perfect Avatar",
+			"source": "ChroniclesofEberron",
+			"className": "paladin",
+			"classSource": "PHB",
+			"page": 49,
+			"subclassShortName": "Veneration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 20,
+			"entries": [
+				"As a bonus action, you reach your spiritual apotheosis and embody your patron ancestor's spirit completely. You and your Exemplar Companion creatures gain the following benefits for 1 minute:",
+				{
+					"type": "list",
+					"items": [
+						"You have advantage on all ability checks.",
+						"When you take the {@action Attack} action on your turn, you can do one of the following as part of that action: take the {@action Dash}, {@action Help}, or {@action Use an Object} action, or attempt to {@action shove} a creature, {@action grapple} a creature, or {@action escape a grapple}.",
+						"When you regain hit points, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you."
+					]
+				},
+				"Once you use this feature, you can't do so again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+			]
 		}
 	]
 }
