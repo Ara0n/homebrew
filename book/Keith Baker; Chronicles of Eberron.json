@@ -3203,6 +3203,313 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "Tairnadal Society",
+							"page": 50,
+							"entries": [
+								"The people of the Five Nations are used to dealing with the Tairnadal as individuals, whether as lone mercenaries or members of a warband. Yet even while they are spread across the world, the Tairnadal are still part of a single nation. Here are some key elements of Tairnadal society that shape their lives on Aerenal and beyond it.",
+								{
+									"type": "entries",
+									"name": "War and Peace",
+									"page": 50,
+									"entries": [
+										"Tairnadal culture is based on people emulating the lives of their patron ancestors. But these ancestors became legends by fighting a guerrilla war, and to follow their example, the Tairnadal elves have been engaging in complex wargames for tens of thousands of years. While Tairnadal combatants spare enemies when possible—you don't finish off a fallen foe—there is no point to a battle that doesn't truly test the skills of the combatants, so battles are fought with deadly spells and steel. Building on this foundation, Tairnadal civilization has developed into two basic aspects: peace and war, zaelantar and zaeltairn.",
+										{
+											"type": "entries",
+											"name": "Zaelantar",
+											"page": 50,
+											"entries": [
+												"The zaelantar—\"peaceful souls\"—maintain the civilian infrastructure, raising and training both young elves and beasts of war and burden. They craft weapons and tools, and they maintain the settled communities of the steppes. The bulk of the zaelantar are young elves— Tairnadal elves receive a patron ancestor when they come of age, which usually doesn't happen until an elf is at least sixty. Before that, Tairnadal spend decades of their lives training in basic skills, studying Tairnadal history, and maintaining their community, including caring for younger elves. Through this process, each elf is effectively auditioning to the patron ancestors. The young elf who excels at hunting expects to be chosen by a legendary archer or stalker, while the elf who becomes a community leader hopes to be chosen by one of the great leaders of the past.",
+												"While waiting for a patron to choose them, these elves spend at least four decades of what humans would consider adult life working in a zaelantar community, performing necessary tasks until they're set on a different path. Other zaelantar include former zaeltairn who are unable to fight due to age or infirmity, but who can teach the young. The Keepers of the Past are largely zaelantar, serving to train and guide. And finally, the zaelantar include adults chosen by patron ancestors whose legendary skills are tied to the civic sphere: fabled smiths, legendary teachers, the Siyal Marrain (druids who tend the beasts), and so on."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Zaeltairn, the community",
+											"page": 50,
+											"entries": [
+												"Meanwhile, the zaeltairn—\"warrior souls\"—serve in an army and fight the Tairnadal's endless war, emulating their ancestors in the field. Zaeltairn are split into armies, each of which is further divided into clans and bands. These assignments and duties aren't temporary; once assigned to an army, Tairnadal serve until they die or until they retire (or are forced to retire) to train the young. A Tairnadal army effectively functions as a nomadic city-state; most patron ancestors were guerrilla soldiers and mobility was vital, thus most Tairnadal armies are nomadic, following migratory paths across the steppes. A few armies remain settled, however, based on the specialties of the ancestors represented by the army. Notably, each of the great jungles of the region—around Shae Thoridor and Var-Shalas—is home to an army, whose members specialize in jungle warfare and commando operations."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tairnadal Cities",
+									"page": 50,
+									"entries": [
+										"Among the Tairnadal, the zaeltairn are nomadic while the zaelantar live in village communities. Three great Tairnadal cities stand in the northern region of Aerenal:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 50,
+											"items": [
+												{
+													"type": "item",
+													"name": "Var-Shalas",
+													"nameDot": false,
+													"entries": [
+														"is the largest city of the Tairnadal, surrounded by walls of bronzewood thorns (similar to Taer Valaestas in Valenar). In addition to being the stronghold of the Keepers of the Past, the Shanutar conducts council business here (see \"{@book Shanutar: Council of Lords|ChroniclesofEberron|10|Shanutar: Council of Lords}\")."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Shae Thoridor",
+													"nameDot": false,
+													"entries": [
+														"is the greatest city of the zaelantar. It is smaller than Var-Shalas, though similar in construction, but is nonetheless an important seat of the Keepers of the Past and an industrial center for the goods required by the armies."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Taer Senadal",
+													"nameDot": false,
+													"entries": [
+														"is a stone fortress—but an unusual one. Rather than being built to defend the region from attack, this fortress is designed to be {@i attacked}. Taer Senadal is defended by youths in the late stages of their training, and it lives up to its name, loosely translated as \"fortress of whetstone.\" Here, armies take turns attacking the fortress, allowing the youths to hone their skills as they defend it, while the army practices assaulting fortifications."
+													]
+												}
+											]
+										},
+										"The Tairnadal elves known as the Valaes Tairn have also laid claim to Valenar in Khorvaire. There, they occupy the cities of Taer Valaestas and Pylas Maradal, though their warbands remain largely nomadic. You can learn more about Valenar in {@book Eberron: Rising from the Last War|ERLW|5|Valenar}."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tairnadal Hierarchy",
+									"page": 50,
+									"entries": [
+										"The Aereni are ruled by the Undying Court and the Sibling Kings, while Valenar has a \"High King.\" But what of the Tairnadal of Aerenal? No single monarch or high priest leads the Tairnadal, and as mentioned earlier, the culture isn't strictly a theocracy, despite being founded on faith. Instead, the basic leadership role within the Tairnadal is the shan, loosely translated as \"lord.\" Each rank of shan can be held by any Tairnadal, with no restrictions on gender or blood.",
+										{
+											"type": "entries",
+											"name": "Civilian Hierarchy",
+											"page": 51,
+											"entries": [
+												"Among the zaelantar, the title tar-shan—\"peace lord\"—is used for either a village leader or someone who oversees a district of one of the great cities. In the cities, the tarshans of each district confer on matters affecting the full city, rather than appointing a single city leader. On a smaller scale, a band of youths is guided by one of their peers known as an an-shan—\"young lord.\""
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Military Hierarchy",
+											"page": 51,
+											"entries": [
+												"While the structure of Tairnadal society is relentlessly martial, they don't have a complex hierarchy of ranks. Most Tairnadal armies follow a similar structure to the model described for Valenar in the original {@i Eberron Campaign Setting}.",
+												{
+													"type": "entries",
+													"name": "Armies and Var-Shans",
+													"page": 51,
+													"entries": [
+														"Among the zaeltairn, the highest recognized rank is the var-shan—\"great lord\"— who leads an entire army. The people of the Five Nations often characterize Shaeras Vadallia as a \"High King,\" but this is largely a translation error. Shaeras is actually a var-shan, making him the Great Lord of the Army of Valenar. As the only var-shan in Khorvaire, Shaeras is the highest-ranking Tairnadal on the continent, but each Tairnadal army has a var-shan of its own. (See \"{@book Valaes Tairn, Silaes Tairn, and Draleus Tairn|ChroniclesofEberron|10|Valaes Tairn, Silaes Tairn, and Draleus Tairn}\" for a bit more information about the different armies of the Tairnadal.)"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Warclans & Shans",
+													"page": 51,
+													"entries": [
+														"The Army of Valenar has fortyfive warclans in Khorvaire, each of which has several hundred elves. The clan leaders are known simply as shans. At any given time, twenty of these clans are under the direct command of var-shan Shaeras Vadallia, while the rest are active in the field. The same is true for the armies in Aerenal: each army has a core of clans that remain close and under the direct command of the var-shan, while others follow general directions but operate independently."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Warbands & Lu-Shans",
+													"page": 51,
+													"entries": [
+														"Within each clan, some bands remain under the direct command of the shan, while others may be dispersed on independent operations like scouting or harrying enemies. Each band is led by a lu-shan—\"band lord.\"",
+														"Warbands (discussed further in the \"{@book Families and Warbands|ChroniclesofEberron|10|Families and Warbands}\" section) are essentially families whose members serve together indefinitely. When there is a split-second military decision to be made, the lu-shan commands and their word can't be questioned. But if there are other issues, the band debates them around the campfire and consensus generally rules; the lu-shan has the final say, but it's rare for a lu-shan to veto the decisions of the band without clear military reason. And on the rare occasions they do veto, the band respects the decision not for the title alone, but because they respect the lu-shan as a person—and as a revenant of a particular ancestor."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Ancestral Authority",
+													"page": 51,
+													"entries": [
+														"Those appointed to leadership roles are elves channeling the spirits of legendary leaders. Within a clan, of course the Vadallia revenant is the lu-shan, because she's channeling Vadallia! Taeri is a peerless swordsman, but he's not a leader; who would even think of appointing a Taeri as shan? Beyond the authority of an individual leader, the word of another respected revenant carries a great deal of weight in matters related to that ancestor's expertise. For example, a Vadallia lu-shan is generally a good war leader, but when planning an ambush, they may defer to the Falaen revenant, trusting their expertise in matters of stealth and cunning.",
+														"This overall structure flows upstream. If a clan's shan issues a command, it must be obeyed—but unless it's an urgent matter, the shan first seeks the consensus of their lu-shans. Or if it isn't a question of war, they seek the guidance of Keepers of the Past or even the local tar-shan. Beyond this, each army dispatches two clans to VarShalas and one to Shae Thoridor. These clans protect the cities, but the shans also represent their army in the Shanutar."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Shanutar: Council of Lords",
+											"page": 51,
+											"entries": [
+												"Var-Shalas is home to the Shanutar—the Council of Lords—which brings together both zaelantar and zaeltairn leaders. This isn't a ruling body, but a place for the lords of the armies and villages to share news and resolve grievances. The Keepers of the Past mediate the Shanutar; each village's tar-shan has a place on the council, and each army is represented by the two shans whose clans are stationed at Var-Shalas."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Consensus in Leadership",
+											"page": 51,
+											"entries": [
+												"So ultimately, who leads the Tairnadal? When decisions must be made in a moment, the present ranking leader's word is absolute, regardless of whether they're the varshan, shan, or lu-shan. In other matters, the Tairnadal seek consensus—whether a lu-shan consulting with their band, a shan seeking consensus from the lu-shans, or the var-shan consulting the shans. Beyond this, people respect the ancestors that are channeled; they look to those guided by ancient leaders to channel that wisdom."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Internal Differences",
+									"page": 51,
+									"entries": [
+										"Tairnadal culture has little room for internal dissent. It's effectively a highly disciplined army that's further united by deep devotion to a shared religion, compounded by the overall elven dedication to tradition. This is reflected by the fact that the civilization has stood, virtually unchanged, for over twenty thousand years. On the one hand, this reflects unity and stability; on the other hand, it also reflects the general stagnation of Aerenal.",
+										"The Tairnadal are effectively an army, broken into a clearly defined system of warclans and warbands. The endless training exercises conducted between these units provides an outlet for competition within the culture, as does the rivalry between revenants striving to be the best avatars of their patron ancestors. There's potential for tension between revenants based on the morals of their ancestors—the chivalrous defender of the weak and the ruthless assassin—but these stories are well known and shans are careful to assign such revenants to different bands. So there is friendly competition within the confines of the culture, but people who truly don't fit in are expelled from the society, typically fostered to the Aereni (see the \"{@book Aereni and Tairnadal|ChroniclesofEberron|10|Aereni and Tairnadal}\" sidebar).",
+										{
+											"type": "entries",
+											"name": "Valaes Tairn , Silaes Tairn, and Draleus Tairn",
+											"page": 52,
+											"entries": [
+												"The Tairnadal do have some philosophical divisions, and canon identifies three significant Tairnadal subcultures (though there could be more if it suits your story):",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 52,
+													"items": [
+														{
+															"type": "item",
+															"name": "The Valaes Tairn",
+															"nameDot": false,
+															"entries": [
+																"seek glory in battle; this subculture is the one most Five Nations people think of when you say \"Tairnadal.\" They comprise the majority of the Tairnadal; they're represented by at least three armies within Aerenal, and the large army occupying Valenar is also Valaes Tairn."
+															]
+														},
+														{
+															"type": "item",
+															"name": "The Silaes Tairn",
+															"nameDot": false,
+															"entries": [
+																"believe that true glory can only be found in Xen'drik; their single army has twenty-one warclans, most of which remain in Aerenal, but at any given time there are four Silaes warclans active in Xen'drik. The giants of Xen'drik are no longer the mighty enemies their ancestors fought, but Silaes warriors pit their skills against the deadliest threats Xen'drik has to offer, and search for artifacts and relics of their patron ancestors."
+															]
+														},
+														{
+															"type": "item",
+															"name": "The Draleus Tairn",
+															"nameDot": false,
+															"entries": [
+																"are the smallest army, with only five warclans, but they are widely believed to be the deadliest warriors of all. Aerenal has suffered many draconic attacks over the centuries, and the Draleus Tairn are always preparing—and yearning—for the next battle. Some say that the Draleus Tairn hunt rogue and feral dragons across Eberron, and there are even stories of Draleus champions venturing into the vast plains of Argonnessen."
+															]
+														}
+													]
+												},
+												"These long-established sects have coexisted for millennia and share many traditions. However, there is one major point of conflict, especially within the Valaes Tairn: \"do you support the Valenar initiative?\" While warclans from every Valaes Tairn army joined Shaeras's expedition, many other warclans chose to remain in Aerenal and disapprove of his actions. As a Tairnadal elf, do you serve in the Army of Valenar? If not, do you oppose Shaeras Vadallia, and why?"
+											]
+										},
+										{
+											"type": "inset",
+											"page": 52,
+											"name": "Aereni and Tairnadal",
+											"entries": [
+												"While the Aereni and the Tairnadal have quite different beliefs and traditions, the two cultures have always been allies. Their ancestors fought the same enemies, and both respect the shared blood that flows through their veins. The Tairnadal and the Aereni stand together when their island comes under attack, and Tairnadal may serve as mercenary marines on Aereni vessels. Because of this, it's also possible for elves to move between the two cultures. Children who can't adapt to the harsh life of the Tairnadal are fostered among the Aereni, and some Aereni feel the call of a patron ancestor drawing them to the Tairnadal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Valenar Atrocities ?",
+											"page": 52,
+											"entries": [
+												"Some canon sources lay significant atrocities at the feet of the Valenar elves. In particular, {@i Forge of War} describes Valenar warriors massacring countless Cyran civilians fleeing the Mourning. How does this incident fit with any of the other ideas presented in this chapter? The short answer is that it doesn't, because canon is inconsistent. Many different authors have worked on Eberron over the years, and inconsistencies occasionally arise when authors were unaware of details established in prior canon or intentionally changed them. A core principle of Eberron is that canon should inspire you, not hold you back; use what makes sense to you and ignore what you don't.",
+												"In the case of the Valenar, the ancestors they seek to emulate were rebels who rose up against tyrants and cruelty. Tairnadal revenants don't want to conquer or oppress; they want to {@i fight} conquerors and oppressors. Even now, the Tairnadal don't directly rule Valenar, instead leaving administration to the Khoravar. In my Eberron, the Valenar don't actually want a kingdom; what they want is to provoke a powerful nation into attacking them because that's what can most closely replicate the conflict with the giants—guerrillas fighting against overwhelming odds. I believe they've claimed Valenar solely because they want Karrnath or Darguun to try to take it from them.",
+												"Could the Valenar have slaughtered a massive number of civilians? Small-scale atrocities happen in Eberron, just as in wars throughout our history, because people—elf or human—can do terrible things. So this massacre is possible if it helps drive your story, but I'd want to know why. Did they mistakenly see the refugees as a threat, perhaps thinking they caused Mourning? Were the refugees truly helpless civilians, or had they already been corrupted by the Mourning into a horde of mutated ghouls? Or could the Valenar have been struck by a form of the infamous Du'rashka Tul curse of Xen'drik, driving them into a murderous frenzy? So while it's possible the slaughter was set in motion by revenants whose ancestors were known for cruelty, even Vadallia was ruthless only in protecting her people—so why were these refugees a threat?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Families and Warbands",
+									"page": 52,
+									"entries": [
+										"Given the relentlessly martial nature of Tairnadal society, it's reasonable to wonder how families work within the Tairnadal. Do parents carry their children with them in a warband? Are familial relations important? The answers to these questions are \"no\" and \"not very.\"",
+										{
+											"type": "entries",
+											"name": "Family Ties",
+											"page": 52,
+											"entries": [
+												"Who your parents are is far less important than who your patron ancestor is. Tairnadal don't maintain property, so you're not passing your holdings down to a child. And the Tairnadal don't use family names: each Tairnadal elf uses a given name followed by the name of their patron ancestor. So Shaeras Vadallia may have been the son of Jael Cardaen and Sol Taeri, but ultimately, that doesn't matter. A child is given to the zaelantar to be raised, and they become an adult when chosen by a patron ancestor.",
+												"With that said, the Keepers of the Past keep records, and most Tairnadal know who their parents are; given their long elven lives, it's even possible that a freshly trained warrior could be assigned to a warband that contains a relative. So as a Tairnadal, you might serve with a relative and feel a strong attachment, but on a societal level, your personal lineage isn't as significant as your spiritual lineage."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Warbands",
+											"page": 53,
+											"entries": [
+												"The people you're closest to are the other members of your warband, who you may serve alongside for many decades or even centuries. Warbands (composed of eight to twelve warriors) are trained to be self-sufficient, and given the nomadic nature of Tairnadal life, the other members of a warband are the only reliable social contact a Tairnadal has through much of their existence. Members of a warband are essentially fighting an endless war, so they have to be able to work together and to trust one another. The band works together to settle any feuds and disagreements internally.",
+												"Though warbands can be made up of elves with the same spiritual lineage, this practice is very rare. Keep in mind that ancestors are essentially military specialties: Vadallia is a leader, Cardaen provides arcane support, and Taeri specializes in melee. You'll rarely find a warband that has more than one Vadallia, because what's the point of having two leaders? Most warbands have a versatile blend of patron ancestors that serve the needs of the unit. A warband with a highly specialized function—a band of archers or a commando unit specializing in urban infiltration—may have multiple elves that follow the same ancestor because that overlap of skills is desirable for that purpose.",
+												"The shans are very careful in who they assign to which warband, in part because some patron ancestors have stories that are fundamentally at odds; you don't want to put someone whose patron is known for chivalry and honor in the same warband with a patron known for ruthless cruelty. This contributes to the conflicting impressions of the Valenar within the Five Nations: some say they adhere to a strict code of honor, while others say they are brutal and cruel. Both stories are true; they're just describing warbands driven by different patron ancestors."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Where's Your Warband ?",
+											"page": 53,
+											"entries": [
+												"The warband is the basic social unit of the Tairnadal. If you're playing an adult Tairnadal elf, your warband is your family. So why are you traveling around with a group of adventurers instead of serving with your warband? As an adventurer, you can use the Where's Your Warband table to inspire reasons for why you've left your warband behind.",
+												{
+													"type": "statblock",
+													"tag": "table",
+													"source": "ChroniclesofEberron",
+													"name": "Where's Your Warband ?",
+													"page": 53,
+													"style": "inset"
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Half-Elves and the Tairnadal",
+											"page": 53,
+											"entries": [
+												"Though uncommon, some half-elves live among the Tairnadal; the Tairnadal attitude toward these Khoravar is that they're children who can never grow up, due to no fault of their own. The Tairnadal believe that no Khoravar can channel a patron ancestor—and thus far, they've never been proven wrong. Khoravar are seen as having a connection to their people, and they're happy to have Khoravar serve as zaelantar, performing civilian tasks in the peaceful cities. But these half-elves can never be chosen by an ancestor, and thus they can never be zaeltairn. Even the most gifted of Khoravar warriors is considered a child in training. Of course, if any Khoravar could prove this wrong and channel an ancestor, it would be a player character!"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tairnadal Animals",
+									"page": 54,
+									"entries": [
+										"The Valenar are known for their amazing horses with seemingly supernatural attributes—potentially including sapience. Despite House Vadalis's best efforts, they've never been able to breed these horses in captivity. In {@book Eberron: Rising from the Last War|ERLW}, we expanded on this concept in the \"Valenar Animals\" section (though it'd be more accurate to call them \"Tairnadal animals,\" as they exist on Aerenal and predate the nation of Valenar by tens of thousands of years).",
+										{
+											"type": "entries",
+											"name": "Channeling Ancestors",
+											"page": 54,
+											"entries": [
+												"The reason Vadalis hasn't been able to replicate the abilities of Valenar animals is that their attributes aren't purely genetic. The Siyal Marrain do breed exceptional horses as a baseline, but Tairnadal horses go above and beyond this. You may well find an elite cavalry warband in which all the horses are Tairnadal animals, but it's not the case that {@i every} Valenar soldier's horse is such an animal. A true Tairnadal animal is channeling the spirit of a legendary ancestor, much as a Tairnadal elf is. In some cases, the animal itself has a legendary ancestor; the Gyrderi elves were trapped in beast form during the wars against the giants but continued to fight alongside their kin. In other cases, the animal can channel the spirit due to their revenant's bond to an ancestor. The legends of Vadallia include her remarkable horse, while Falaen has a scouting hawk and Vaela often travels with a faithful wolf.",
+												"When a Vadallia revenant forms a strong attachment to a horse, it can become a Tairnadal animal channeling her spirit ... but should the horse be separated from the revenant for more than a few days, the spirit usually chooses to leave it. House Vadalis hasn't given up on replicating Valenar animals. But their attempts are likely to remain unsuccessful, as the spirit only manifests when an animal is bound to a Tairnadal companion; when that same animal is bred in captivity away from the Tairnadal people, the spirit won't manifest and offspring are born as mundane beasts, not fey."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Bonds Beyond Death",
+											"page": 54,
+											"entries": [
+												"As a Tairnadal, once you've established a bond to your Tairnadal animal, this connection transcends death. If your companion is killed, you can restore its spirit by finishing a long rest in the company of a friendly nonmagical beast of the appropriate species—but once you've formed a connection to a Tairnadal animal, you can't just trade it in for a different kind of animal. For example, if you've established that your story is recreating Vadallia's bond to her horse, you can't swap your horse out for a Tairnadal hawk over a long rest.",
+												"Not every revenant has a Tairnadal animal, as it's a reflection of a revenant's special connection to their ancestor. As a new player character, you're unlikely to start with a Tairnadal animal companion, but as you gain experience, your DM may decide your existing animal companion becomes a Tairnadal animal—because you've strengthened your bond to Vadallia, your horse becomes sapient. From a mechanical perspective, this is much like receiving a supernatural gift or boon, as described in {@book chapter 7|DMG|7|Supernatural Gifts} of the Dungeon Master's Guide."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tairnadal Animals and Non-Elves",
+											"page": 54,
+											"entries": [
+												"{@book Eberron: Rising from the Last War|ERLW} suggests that a Valenar animal could bond to a non-elf adventurer. This would be exceptionally remarkable and meaningful—so why did it happen? Do you have a distant blood tie to the ancestor? Do you have a spiritual connection to them? Could you be an elf reincarnated in human form? Or has the spirit simply judged you to be a worthy companion?"
+											]
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0028.webp"
+											},
+											"credit": "Fred Hooper"
+										}
+									]
+								}
+							]
 						}
 					]
 				}
@@ -3347,6 +3654,50 @@
 				[
 					"10",
 					"The duke was the real villain all along!"
+				]
+			]
+		},
+		{
+			"source": "ChroniclesofEberron",
+			"name": "Where's Your Warband ?",
+			"caption": "Where's Your Warband ?",
+			"page": 53,
+			"colLabels": [
+				"d8",
+				"Warband Fate"
+			],
+			"rows": [
+				[
+					"1",
+					"Your warband is in Aerenal. You left because of a vision from your patron ancestor, and you plan to return once you've fulfilled this mission."
+				],
+				[
+					"2",
+					"Your warband was sent on a suicide mission. You're believed to have died on that mission, and you need to lay low until you can expose the powerful shan who sent your band to their deaths."
+				],
+				[
+					"3",
+					"You believe you're to blame for the death of your warband, and you can't return until you've redeemed yourself."
+				],
+				[
+					"4",
+					"Your warband was betrayed by one of your fellow soldiers. The traitor escaped, and you can't return until you have tracked this villain down."
+				],
+				[
+					"5",
+					"Your warband was targeted by a specific organization—the Order of the Emerald Claw? the Royal Eyes of Aundair?— and you've sworn that you won't return until you've avenged them. Are you hunting the specific individuals involved in the ambush, or are you planning to destroy the entire organization ?"
+				],
+				[
+					"6",
+					"Your warband is active in Valenar. After you disagreed with Shaeras Vadallia's actions, you were dishonorably discharged and banished from Valenar. Did you conflict because he betrayed Cyre, or was it something more personal?"
+				],
+				[
+					"7",
+					"Your warband is active in Valenar, but you've been given a covert assignment by the var-shan. Elves play long games; it may be that you're expected to take decades to accomplish this mission. Are you tasked with acquiring an artifact, killing a particular enemy, or subtly driving a powerful force to attack Valenar ?"
+				],
+				[
+					"8",
+					"Your warband is active in Valenar, but you've gone AWOL. Is your desertion driven by a personal disagreement? By your patron ancestor? Or did you stumble upon a conspiracy within the army itself, which you couldn't reveal to your warband without placing them in danger? If so, you hope to one day return, but you'll need powerful allies to help you defeat this hidden enemy."
 				]
 			]
 		}
