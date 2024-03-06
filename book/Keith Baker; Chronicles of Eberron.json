@@ -3512,6 +3512,273 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Gnomes of Lorghalan",
+					"page": 55,
+					"entries": [
+						"The Lhazaar island of Lorghalan lay uninhabited for countless centuries, until a group of Zil gnomes chose it as their new sanctuary. They not only braved its elemental dangers, but found a way to live in harmony with them. Today, the Lorghalan Principality has a small but fierce fleet, and the Lorghali have mastered a new magical tradition of stonesinging. This chapter tells their story.",
+						{
+							"type": "section",
+							"name": "Zil Dissidents",
+							"page": 55,
+							"entries": [
+								"Two years after the founding of Zilargo, gnomes across the nation awoke to find mysterious pamphlets explaining the existence of the Trust and the role it would play in the nation moving forward. It concluded with these words: \"To those who follow the proper path, we shall be as invisible as any ghost. Trust that we have your best interests at heart. Trust that we will act only when we must. Trust that we will always look after the needs of our great family, and that we need your aid as much as you need ours.\" Today, the Trust is universally accepted as part of Zilargo, and it's estimated that at least a third of the population works for the Trust in some capacity.",
+								"Despite what the Triumvirate would have you think, not all early Zil embraced the Trust with open arms. Some demanded accountability, insisting this Trust be drawn into the light. Others called it a coup, urging their families to end the experiment of Zilargo and return to their prior independence. But few spoke out against the Trust for long—deadly accidents and unlikely misfortune quickly stilled any voices that challenged this new order. It seemed it was too late for those who opposed the Trust to remove it from their new nation ... And so, most dissidents chose to remove themselves instead, leaving their nation behind.",
+								{
+									"type": "entries",
+									"name": "Immigrants to the Five Nations",
+									"page": 55,
+									"entries": [
+										"Many of the dissident Zil immigrated into the Five Nations, usually abandoning their old ways and fully embracing their new nations. Those gnomes who remained in Zilargo can be easily identified by name, as Zil gnomes use three names: a personal name, family name, and house name. Gnomes with distant blood connections to a Zil family don't use these names, as they aren't part of a Zil house and have no direct ties to Zilargo. So if you meet a gnome sage in Aundair named Talia Lorridan Lyrris, you know she considers herself Zil (she's \"Talia of the Lorridan family in House Lyrris\"); on the other hand, if she simply goes by Talia Lorridan, she's likely Aundairian."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Explorers to New Frontiers",
+									"page": 55,
+									"entries": [
+										"Other dissidents had grander aspirations and took to the sea. The gnomes had long been accomplished sailors, and while they were uninterested in colonizing new territory, they'd explored the coasts and noted interesting and unclaimed lands. Now these sailors dreamed of creating their own new havens whose glories might one day outshine the land they left behind.",
+										"Sadly, most of these rebel colonies came to bad ends. Tolanen was established in the Shadow Marches; some years after its founding, a trading vessel docked to find the town completely depopulated. While the travelers blamed pillaging orcs, accounts later confirmed there were no signs of conflict, and the only looting was committed by the merchants themselves. New Zolanberg was constructed on the coast of Xen'drik, near the modern settlement of Zantashk, and it prospered and grew for decades ... and then, within the span of a week, its people tore the town and each other to pieces—a notable example of the curse that's come to be called the Du'rashka Tul. There were a handful of other settlements, but only one still thrives to this day: the principality of Lorghalan."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Island of Lorghalan",
+							"page": 55,
+							"entries": [
+								"Glancing at a map of the Lhazaar Principalities, you might wonder why Lorghalan was uninhabited when the gnomes claimed it. This tropical island seems far more inviting than the icy mountains of Orthoss and Farlnen ... but names tell a story. To the island's west, the Tempest Strait is lashed by storms as powerful as any found in the Thunder Sea. To the southwest, Dreadwood Isle lies close to Mabar and Dolurrh, and strange ghosts and hungry shadows lurk in the depths of its Dreadwood. Lorghalan's northern coastline is lined with hidden reefs and unusual stone outcroppings, and even the most careful of captains can find their ship unexpectedly dashed against the rocks—thanks to the many water elementals that dwell along the coast.",
+								"The safest landing is at Hammer Bay to the south, but to get there, ships must pass the island that shares its name ... and the Hammer isn't a natural island, but a massive earth elemental. It never ventures far from its mapped position, but it has no love of ships; any vessel that draws too close may be shattered by a hurled stone or a mighty fist. Though it's possible airships might reach the island safely, they've only been in operation for about a decade—and airships rely on docking towers that the gnomes, quite happy with their fleet, have proven uninterested in constructing.",
+								{
+									"type": "entries",
+									"name": "Exploring Lorghalan",
+									"page": 56,
+									"entries": [
+										"Gnome explorers had chronicled the island's threats long ago, so the gnomes who sailed east knew what they were heading into. The Lorghalan expedition included several sages specializing in elementals and Lamannia, in hopes they could convince the Hammer to let them land safely. And so they did, establishing the town of Cornerstone on the shore of Hammer Bay.",
+										"Exploring the island, the gnomes found it was poised on the edge of Lamannia. The land was bountiful, fresh water was plentiful, and much of the island was {@i alive}. Apart from the wild zones of Sarlona, Lorghalan has the most intense concentration of elementals found anywhere on Eberron. Stones roll of their own accord. The earth intermittently rumbles. What seems to be a peaceful pond might unexpectedly move to a new location. Most elementals on Lorghalan are spirits of earth and water, but some are storms that follow paths of their own choosing or pits of endless fire. These elementals are creatures of Lamannia, pure and inhuman; there are no dao or marids here. The deep jungle is home to megafauna beasts, and off the coast of Lorghalan, sailors occasionally spot rocs hunting whales."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Claiming Lorghalan",
+									"page": 56,
+									"entries": [
+										"In light of these discoveries, it's not surprising that the island was never colonized before; what city could survive the ravages of an avalanche of earth elementals? But the colonists came prepared. The expedition's leaders had long studied elementals, convinced they could reason with these alien creatures—and using these techniques, the gnomes succeeded in securing the region around Cornerstone. Over generations, they developed and honed these techniques, learning how to live in harmony with elementals, and even convincing the spirits and beasts of the land to work with them.",
+										"Lorghalan isn't a blissful island paradise, and daily life comes with its challenges, but to the gnomes, it has truly become home. Cornerstone is the only large city on the island; on the rest of the island, the Lorghalan gnomes keep to their family estates along the coast or on the jungle's edge. The deep jungles of Lorghalan are left to the primal forces. The gnomes know what they can harvest without upsetting the balance, and they are careful not to push these limits."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Fleet of Lorghalan",
+							"page": 56,
+							"entries": [
+								"After a few minor clashes with Lhazaar fleets, the gnomes of Lorghalan were recognized as one of the Lhazaar Principalities. Today, the small Lorghalan fleet is known and respected within the Principalities, but the Lorghali remain largely unknown beyond it.",
+								"Their fleet primarily focuses on merchant trade within the Principalities, allowing other traders to carry their goods to distant lands. Many unusual plants grow in the jungles of Lorghalan, and from these the gnomes produce medicines, drugs, and potent spirits. Lorghalan wood is exceptionally strong, rivaling the densewood and bronzewood of Aerenal; while the Lorghali don't export lumber, they sell fine wooden goods. Their fleet has relatively few ships, but other Lhazaar tread lightly around Lorghalan vessels; not only are the hulls of their ships exceptionally strong, but most vessels are accompanied by one or more water elementals. These friendly spirits help propel the vessel, allowing Lorghalan ships to match the capabilities of Lyrandar elemental galleons.",
+								{
+									"type": "entries",
+									"name": "Lorghalan Cannonballs",
+									"page": 56,
+									"entries": [
+										"In battle, Lorghalan ships are known for launching small earth elementals at opposing ships. At a glance, these {@creature Lorghalan cannonball|ChroniclesofEberron|Lorghalan cannonballs} appear to be simple boulders ... until they start rolling toward you. Though limbless, these living missiles can wreak havoc after impacting an enemy ship. In the wild, these elementals spend much of their time embedded in soil, as they can easily pass through earth and stone.",
+										{
+											"type": "list",
+											"items": [
+												"{@creature Lorghalan cannonball|ChroniclesofEberron|Lorghalan cannonballs}"
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "People of Lorghalan",
+							"page": 57,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0030.webp"
+									},
+									"credit": "Carolina Cesario"
+								},
+								"Gnomes comprise the vast majority of the island's population, though a few other folk have immigrated there over the years. Lorghalan gnomes share some traits with their Zil cousins: they love clever oratory and prefer to solve their problems with words instead of swords. But where the gnomes of Zilargo dive deep into intrigue, Lorghalan bases its society on freedom and honesty. The founders of Cornerstone swore there would be no secrets on their island: all knowledge would be shared and all problems drawn into the light, not eliminated in the shadows.",
+								{
+									"type": "entries",
+									"name": "Lorghalan Names",
+									"page": 57,
+									"entries": [
+										"The island's settlers dissolved their ties to previous Zil houses, and today, Lorghalan gnomes consider themselves to all be one house; a gnome of the island might introduce themself as Tara Tan Lorghalan."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lorghalan Society",
+									"page": 57,
+									"entries": [
+										"Though the Lorghali dissolved their ties to Zilargo, local family units remain important to them. Each family maintains an estate—a farming village based around a central communal building. Every estate specializes in different crops and skills, and Cornerstone is where they all come together. The island economy is largely driven by barter and the exchanging of favors, though families do maintain funds for dealing with the world beyond Lorghalan. All families have lodging in Cornerstone, and each family has three representatives on the Cornerstone Council, which governs the island and mediates disputes.",
+										"Like other principalities, Lorghalan has its own prince, but they hold significantly less power among their people than do other Lhazaar princes. The gnomes recognize the Prince of Lorghalan as the cleverest on the island, and as such, someone whose voice should always be heard and opinion considered. But the prince has no power beyond that, and any Lorghali can claim the title by defeating the current prince in a series of duels of wit and strategy. Sometimes decades go by with no challenges; other times, challenges are a weekly or daily occurrence. The young Prince Shasi Stormlyn recently claimed the title, and she's been urging a dramatic course of action, but the DM must decide just what this is: does Shasi want to work more closely with Rygar to establish a powerful, united Lhazaar? Does she want to see a new High Prince rise to power? Or does she want the Lorghali to shun political change?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Stonesingers",
+									"page": 57,
+									"entries": [
+										"The Lorghali produce excellent mediators, apothecaries, and farmers, but what makes them truly remarkable is their tradition of stonesinging—a form of primal magic—and their relationship with the elementals of the region. Lamannian elementals are alien creatures whose thought processes and perception of reality are quite different from the humanoids of Eberron. Rather than binding elementals, as is common throughout Khorvaire, Lorghalan stonesingers influence elementals and natural forces by communing directly with each spirit and convincing it to help. A simple stonesinging effect, such as one produced by {@spell druidcraft}, is hardly more complicated than singing a few words in Primordial. More significant requests require deeper communion with the spirits, including both concentration and an expenditure of will in addition to the song—{@i urging} the spirit to comply and impressing the request onto it. (As such, stonesinging follows the same rules as other forms of spellcasting.)",
+										"A stonesinger's most frequent and important work is with elementals. On a Lorghalan ship, a stonesinger literally sings to the elemental associated with the ship, encouraging it to move the vessel swiftly. If a ship's stonesingers are killed, the elemental still recognizes the vessel as friendly, but it can't be compelled to perform any particular action and may simply wander off. On the island, stonesingers negotiate with elementals to establish which territories the gnomes can build within, as well as convincing earth elementals to plow their fields and water elementals to irrigate the crops. Especially remarkable stonesingers can manipulate elemental and natural forces in more subtle ways—charming beasts, encouraging plants to grow, even conjuring fire or calling lightning from a clear sky. Others learn the melodies that define their own bodies, learning how to heal injuries or even change their shape.",
+										"Almost every Lorghali knows at least a few simple songs, but those who can work greater magics—usually those with the powers of bards or druids (see \"{@book Variant Rules|ChroniclesofEberron|11|Variant Rules}\")—are greatly respected. While stonesinging is a unique tradition that plays a central role in Lorghalan culture, the gnomes have nothing against other forms of magic; in particular, Lorghalan alchemists perform many wonders using the unusual plants of their island. The original immigrant families included a handful of dissidents from House Sivis, and while the Lorghali have made no particular effort to cultivate the Mark of Scribing, a few gnomes in each generation still manifest the mark; such gnomes often become the most gifted wizards of the island."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lorghalan Religion",
+									"page": 58,
+									"entries": [
+										"The gnomes of Lorghalan live in a land that's literally alive with spirits, so it's little surprise their traditions are practical and center on animism. The Lorghali refer to the world beyond the island as the \"deadlands\"; they find it depressing to wander in realms where the wind and waves aren't singing back to them. The gnomes interact with exceptionally powerful entities, including elementals like the Hammer and legendary megafauna beasts. So the Lorghali don't believe in distant, abstract deities; instead, they focus on concrete, local spirits.",
+										"They respect nature, but more concretely so than a druid who reveres Eberron as a whole; after all, the Lorghali have a personal relationship with the well that provides their water and the boulder that rolls by every day. They likely have festivals in which the greater spirits are invoked, but none of their practices focus on \"faith\"—theirs is a practical, concrete relationship, and spellcasters tend toward primal magic instead of divine. They have a very relaxed attitude toward death and the afterlife, focused instead on living their best life; when it's over, it's over, and whatever happens next will happen. Their traditions are essentially the opposite of Aerenal and the faiths that are obsessed with avoiding Dolurrh; at the end of the day, the Lorghali don't care what happens after death, as long as they live a good life."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lorghalan and the World",
+									"page": 58,
+									"entries": [
+										"The gnomes of Lorghalan generally have little interest in dealing with the outside world, and they consider it to be a dangerous place driven by greed and dishonesty. However, some gnomes are drawn beyond the island either by sheer curiosity, the challenge of matching wits with a dangerous world, or the need to obtain resources or techniques unavailable on Lorghalan. Most Lorghali strive to remain true to the principles of their culture even in hostile lands, solving problems through open discussion rather than treachery and subterfuge. But they aren't fools; a Lorghalan gnome won't spill every secret to a stranger, and if they don't want to lie, they don't have to say anything at all. But they usually prefer {@skill Persuasion} over {@skill Deception}, believing that reason can convince an enemy of the proper path. Intimidation is also an acceptable tool, but this is largely a matter of tone—not making idle threats, but ensuring an enemy understands just how dangerous the wrong decision could be.",
+										"Because of the dangers posed by the Hammer, the primary way to reach Cornerstone is on a Lorghalan ship. The Lorghali are largely gracious hosts and curious gnomes are often eager to talk to outsiders, but the gnomes are aware that outsiders don't share their traditions of honesty, so they watch strangers with both eyes. Over the last century, an increasing number of Zil have reached out to Lorghalan. The islanders are especially suspicious of their cousins and do not trust the Trust, but they've cautiously engaged in cultural exchange; notably, Lorghalan stonesinging techniques fascinate some Zil, leading to the rise of the Power of Purity movement in Zilargo."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Lorghalan Adventures",
+							"page": 58,
+							"entries": [
+								"As with anything in Eberron, why does Lorghalan matter? What does the island and its culture add to your game that you can't find anywhere else? Here are a few ideas of what might bring adventurers to this isolated island or cause a stonesinger to cross their path.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"page": 58,
+									"items": [
+										{
+											"type": "item",
+											"name": "Elemental Rights",
+											"entries": [
+												"The Lorghali have forged an alliance with the Power of Purity and the Ashbound druids, launching a concerted effort to disrupt Zilargo's elemental binding industry and sabotage elemental vessels. Is this just a matter of principle, or do they know a terrible secret that could lead to a far worse catastrophe?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "It's a Jungle Out There",
+											"entries": [
+												"The deep jungles of Lorghalan hold many wonders: megafauna beasts, massive elementals, plants charged with the energies of Lamannia. Adventurers are sent to Lorghalan to obtain something—perhaps a Cannith alchemist needs a legendary berry, or an Aurum showman wants them to capture a megafauna beast. Can they get past the Hammer? Will the Lorghali interfere with their quest?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Lamannian Gateway",
+											"entries": [
+												"When adventurers stumble through a manifest zone to Lamannia, they reemerge in Lorghalan. What do they find as they seek a way home?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Mysterious Marauder",
+											"entries": [
+												"The Lorghali dislike deception and rarely engage in piracy—but a Lorghalan warship has begun terrorizing the region around the Dreadwood, supported by a host of elementals. Who is this pirate and what are their motives?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Princemakers",
+											"entries": [
+												"While Lorghalan's fleet is small, its ships are fast and powerful. Lorghali don't usually concern themselves with the politics of the Lhazaar Principalities, but in the wake of the Treaty of Thronehold, what role might they play in securing the position of the High Prince?"
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Lorghalan Characters",
+							"page": 59,
+							"entries": [
+								"When creating a Lorghalan adventurer, consider what calls you away from home. Most islanders are quite content in their elemental paradise—what's driven you into the deadlands of Khorvaire? The {@table Leaving Lorghalan|ChroniclesofEberron} table provides inspiration.",
+								{
+									"type": "statblock",
+									"tag": "table",
+									"source": "ChroniclesofEberron",
+									"name": "Leaving Lorghalan",
+									"page": 59,
+									"style": "inset"
+								},
+								"Sea-related backgrounds are excellent choices for any Lorghalan character. Lorghalan {@background Variant Sailor (Pirate)|PHB|pirates} are rare, but {@background sailor|PHB|sailors}, fishers, and shipwrights are all common on the isle. If you're an {@background entertainer}, you might become the first stonesinger to perform on the stages of the Five Nations. Or as a {@background hermit}, you could discover something about Lamannia or elementals—perhaps a terrible secret about the elemental binding industry!",
+								"While stonesingers are the most distinct aspect of Lorghalan culture, a Lorghalan gnome could pursue any class. An Alchemist artificer likely makes potions using strange herbs and elemental ores brought from the island. The Lorghali aren't especially religious and don't see an abstract divine hand at work in nature, but a Lorghali paladin could present their Oath of the Ancients as being tied to Lamannia.",
+								{
+									"type": "entries",
+									"name": "Variant Rules",
+									"page": 59,
+									"entries": [
+										"You can play a gnome from Lorghalan using standard rules—but if both DM and player agree, you might enjoy using the following variants instead.",
+										{
+											"type": "entries",
+											"name": "Stonesinger Druids",
+											"page": 59,
+											"entries": [
+												"The stonesingers of Lorghalan aren't druids in the traditional sense. Rather than channeling the power of Eberron, stonesingers channel Lamannia's energies—and they wield this power through song and force of personality rather than faith. Few have the ability to change shape, and they generally don't speak Druidic. You could create a stonesinger druid with one of the following variants:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 59,
+													"items": [
+														{
+															"type": "item",
+															"name": "Druidic Bard",
+															"entries": [
+																"Use the rules for the bard class, but substitute the druid spell list instead of the bard spell list. When picking spells, keep in mind that stonesingers have no particular knack for illusion or enthralling humanoids; they use their songs to charm the elements themselves. The College of Eloquence and the College of Lore are both sound choices for stonesingers."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Primordial Druid",
+															"entries": [
+																"Use the rules for the druid class with the following changes: Stonesingers can learn the Primordial language instead of Druidic, and when choosing class skills, add {@skill Performance} to the list of options. Shapeshifting stonesingers are rare, but stories tell of those who can sing new shapes and assume elemental forms, so the Circle of the Moon is a reasonable choice."
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Variant Gnome: Lorghalan",
+											"page": 59,
+											"entries": [
+												"You can use any gnome statistics when playing a Lorghali character; forest gnomes are common, along with a rare few with the Mark of Scribing. However, {@race Gnome (Lorghalan)|ChroniclesofEberron|Lorghalan gnomes} are known more for their charisma than their intellect, and for working with nature as opposed to weaving illusions.",
+												"The \"{@variantrule Customizing Your Origin|TCE}\" rules from {@book Tasha's Cauldron of Everything|TCE} allow you to easily increase your gnome character's Charisma instead of Intelligence. Additionally, if you're using forest gnome statistics, your DM might allow you to replace the Natural Illusionist trait with the following trait:",
+												{
+													"type": "entries",
+													"name": "Song of the Elements",
+													"page": 59,
+													"entries": [
+														"You know the druidcraft cantrip. Charisma is your spellcasting ability for it. In addition, you can speak, read, and write Primordial."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
@@ -3698,6 +3965,50 @@
 				[
 					"8",
 					"Your warband is active in Valenar, but you've gone AWOL. Is your desertion driven by a personal disagreement? By your patron ancestor? Or did you stumble upon a conspiracy within the army itself, which you couldn't reveal to your warband without placing them in danger? If so, you hope to one day return, but you'll need powerful allies to help you defeat this hidden enemy."
+				]
+			]
+		},
+		{
+			"source": "ChroniclesofEberron",
+			"name": "Leaving Lorghalan",
+			"caption": "Leaving Lorghalan",
+			"page": 59,
+			"colLabels": [
+				"d8",
+				"Reason"
+			],
+			"rows": [
+				[
+					"1",
+					"{@b Curiosity.} After growing up on an isolated island, you want to see {@i everything}. You're delighted by new experiences."
+				],
+				[
+					"2",
+					"{@b Accident.} You never intended to leave Lorghalan, but an accident involving a Lamannian manifest zone stranded you far from home."
+				],
+				[
+					"3",
+					"{@b Following the Wind.} You're guided by whispers of elemental spirits. You're not entirely sure what they're trying to tell you, but you need to do {@i something} far from home."
+				],
+				[
+					"4",
+					"{@b Servant of the Council.} You're an envoy of the Council of Cornerstone. Are you gathering information about Khorvaire? Seeking allies? Searching for trade opportunities?"
+				],
+				[
+					"5",
+					"{@b Fame.} You deserve to be known and celebrated for your achievements—and one day, you're sure you will be."
+				],
+				[
+					"6",
+					"{@b The Zil Connection.}  You're pursuing a quest tied to your ancient Zil roots. Are you working with the Power of Purity? Trying to reconnect with your Zil family? Investigating a Trust scheme targeting Lorghalan?"
+				],
+				[
+					"7",
+					"{@b Following the Song.} You're working on a song and you need to travel to find your inspiration. Once it's done, you'll return home, but that could take years."
+				],
+				[
+					"8",
+					"{@b Exile.} You were exiled to the deadlands after committing an unforgivable crime. What did you do? Are you seeking redemption or revenge?"
 				]
 			]
 		}
@@ -4069,6 +4380,41 @@
 					}
 				}
 			}
+		},
+		{
+			"name": "Gnome (Lorghalan)",
+			"source": "ChroniclesofEberron",
+			"page": 59,
+			"ability": [
+				{
+					"cha": 2,
+					"dex": 1
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"gnomish": true,
+					"primordial": true
+				}
+			],
+			"_copy": {
+				"name": "Gnome (Forest)",
+				"source": "PHB",
+				"_mod": {
+					"entries": {
+						"mode": "replaceArr",
+						"replace": "Natural Illusionist",
+						"items": {
+							"type": "entries",
+							"name": "Song of Elements",
+							"entries": [
+								"You know the druidcraft cantrip. Charisma is your spellcasting ability for it. In addition, you can speak, read, and write Primordial."
+							]
+						}
+					}
+				}
+			}
 		}
 	],
 	"subclass": [
@@ -4253,6 +4599,117 @@
 					]
 				},
 				"Once you use this feature, you can't do so again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Lorghalan Cannonball",
+			"source": "ChroniclesofEberron",
+			"page": 56,
+			"size": [
+				"S"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 26,
+				"formula": "4d6 + 12"
+			},
+			"speed": {
+				"walk": 30,
+				"burrow": 30
+			},
+			"str": 14,
+			"dex": 8,
+			"con": 16,
+			"int": 5,
+			"wis": 10,
+			"cha": 5,
+			"vulnerable": [
+				"thunder"
+			],
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from non magical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"unconscious"
+			],
+			"senses": [
+				"darkvision 60ft",
+				"tremorsense 60ft"
+			],
+			"passive": 10,
+			"languages": [
+				"Terran"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Earth Glide",
+					"entries": [
+						"The cannonball can burrow through nonmagical unworked earth and stone. While doing so, the cannonball doesn't disturb the material it moves through."
+					]
+				},
+				{
+					"name": "False Appearance",
+					"entries": [
+						"While the cannonball remains motionless, it's indistinguishable from a stone boulder."
+					]
+				},
+				{
+					"name": "Siege Monster",
+					"entries": [
+						"The cannonball deals double damage to objects and structures."
+					]
+				},
+				{
+					"name": "Fire!",
+					"entries": [
+						"If the cannonball moves at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 9 ({@dice 2d8}) bludgeoning damage. If the target is a creature, it must succeed on a {@dc 12} Strength saving throw or be knocked prone."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 4} to hits, reach 5ft., one target. {@h} 7 ({@damage 1d8 + 2}) bludgeoning damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Ready, aim...",
+					"entries": [
+						"When an outside force (like another creature or a siege weapon) moves the cannonball at least 20 feet in a straight line, the cannonball makes a Slam attack against a creature, object, or structure within its reach."
+					]
+				}
 			]
 		}
 	]
