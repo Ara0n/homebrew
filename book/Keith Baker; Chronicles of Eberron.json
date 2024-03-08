@@ -3779,6 +3779,238 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Gnomes of Pylas Pyrial",
+					"page": 60,
+					"entries": [
+						"The Glamerwind River connects the Zil city of Oskilor to the Thunder Sea. Only a few small villages lie along the Glamerwind's banks, but if you choose the right time to sail down it, you may hear ethereal music coming from the Shimmerwood. At night, you might see swarms of glimmering lights dancing among the trees—flights of pixies creating dazzling displays of illusion. And if you abandon your boat to follow, you may stumble upon a vast clearing, and in it, a massive spire of glowing white stone entwined with threads of gleaming gold. This is Pylas Pyrial, the Gate of Joy—a citadel of the Faerie Court, a wonder from Thelanis momentarily in the mortal world.",
+						{
+							"type": "section",
+							"name": "Gate of Joy",
+							"page": 60,
+							"entries": [
+								"The feyspire of Pylas Pyrial usually rests in the Moonlit Vale of Thelanis, but at certain times, it's drawn into Eberron. Usually this occurs when the moon Rhaan is full, but this alone isn't the determining factor; according to Shan Pyrial, ruler of the spire, \"tides of joy\" draw her spire to the Material Plane. Even when the feyspire is present on Eberron, it can't always be found; enraptured travelers have wandered in the Shimmerwood for days, trying to follow the music yet never finding it. This is typical of most feyspires—they can be found only by chance, remain hidden from the nations that surround them, and are known only from stories; you can learn more about these citadels in the fourth edition {@i Eberron Campaign Guide}.",
+								{
+									"type": "entries",
+									"name": "Family Secret",
+									"page": 60,
+									"entries": [
+										"Pylas Pyrial has been known to the gnomes since long before Zilargo was founded, and unusually, the majority of this feyspire's inhabitants are gnomes. Many Korranberg scholars believe that the gnomes of Eberron most likely descended from gnomes who left Pylas Pyrial long ago. This theory explains the natural talents for illusion and wild speech that many gnomes develop, as both of these are common among the gnomes of Pylas Pyrial. But why did these ancient gnomes leave Pylas Pyrial in sufficient numbers to create a beachhead for a new ancestry on Eberron? And why does Shan Pyrial refuse to discuss this exodus? (The \"{@book Pyrial Adventures|ChroniclesofEberron|12|Pyrial Adventures}\" section suggests possible answers to these mysteries.)",
+										"While Pylas Pyrial is known to the Zil, they haven't spread the news of its existence widely. It's generally seen as a family secret among the Zil, told as a story they know is real—but given how sporadically the feyspire appears, one can't ever be sure of finding it. The region of the Shimmerwood surrounding the tower is a powerful Thelanian manifest zone, and people who've tried to clear the forest or build too close to the spire have always suffered disasters. Furthermore, those who come to the spire driven by greed can't pass through its gates. A few villages along the Glamerwind maintain ties with the spire, their people rejoicing when it returns ... and agents of the Trust live in these villages to monitor the tower and make sure the fey don't pose a threat to the nation. But by and large, Pylas Pyrial is allowed to be a wonder. While the feyspire is labeled on maps in our Eberron books, the Zil don't mark it on the standard maps they produce; after all, most of the time, it's not there!"
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Gnomes of Joy",
+							"page": 60,
+							"entries": [
+								{
+									"type": "quote",
+									"entries": [
+										"When the Prince of Summer was betrayed by his lover, his heart froze and he became the Prince of Frost. So bitter was he that he tore the sun from the sky, swearing there should be no light in the vale while there was no light in his heart. None of the lords of the court challenged him—some remained silent out of fear, but most found they preferred to live in moonlight. And so the Moon Court found its name. But a gnome who loved to dance under the sun sought a respite from the somber shadows. She went to the prince's palace of frozen tears, but found the doors frozen shut. The clever gnome sang a happy song, and as the notes rose to the sky, she caught them, carrying her to the highest tower. When the prince's servants barred her path, the gnome danced with them and melted their frozen hearts. She found the prince on his glittering throne and begged him to return the sun. In response, the prince challenged the gnome to dance for him, to maintain her high spirits while he spoke of every tragedy of the past and of those yet to come. The prince was certain her heart would freeze as his had, but the gnome held fast to her hope and her light. At last the prince relented, telling her: \"You shall be the Prince of Joy, keeper of the Summer Sun. But you must keep the sun within your own tower until all the lords of the Moon Court ask for its return. And you must keep joy bright in your heart, for if it ever fades, the sun will fade with it.\""
+									]
+								},
+								"Forest gnomes are generally quick and curious, with a talent for illusions, the ability to speak with small beasts, and a love for life—and so are the gnomes of Pylas Pyrial that they're said to be descended from. In dealing with a Pyrial gnome, imagine they've stepped right out of a folktale—because in a very real sense, they have. These gnomes live in a world defined by storybook logic, one where a good heart and noble intent allow the reckless hero to overcome those who would do them harm. Some Pyrial gnomes are idealistic, naive, and easily deceived; however, others are far more clever than their enemies expect, affecting trust to convince an enemy to lower their guard. However, even such cunning gnomes are never cruel or driven by selfish goals—for joy is the defining principle of Pylas Pyrial. The spire and its people celebrate life, embracing the brightest moments and pushing through the dark.",
+								{
+									"type": "entries",
+									"name": "Happiest Place in the World ?",
+									"page": 61,
+									"entries": [
+										"If this sounds extremely optimistic for the noir-touched world of Eberron, it's because it is. Pylas Pyrial isn't a mortal city, but an idea, a story about the happiest place in the world. It's a place where sunlight never fades, always filled with music and laughter. Everyone looks out for each other, concerned as much for the happiness of a neighbor as their own. The gardens always produce a surplus. The golden light of the feyspire's Summer Sun banishes disease. Most of its people have never experienced hardship or bitter loss. Some are artisans, creating the wonders that are part of everyday life in the spire. Some are entertainers, tasked to sing and dance, raising the spirits of those around them. Some lovingly tend the gardens or the kitchens, for in Pylas Pyrial, every day ends with a grand feast and celebration. Regardless of their position, the people of Pylas Pyrial love what they do and love bringing happiness to those around them. If it's hard to imagine how this works, the answer is to not look at it too closely—because again, on a certain level, it's not real.",
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0032.webp"
+											},
+											"credit": "Sternfahrer"
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Shan Pyrial: Prince of Joy",
+									"page": 61,
+									"entries": [
+										"Shan Pyrial is the ruler of the Gate of Joy. She appears as a Medium-sized gnome, but in truth, she is the spire itself. She is an immortal archfey, and Pylas Pyrial is her story. As described earlier, her story begins with the gnome who danced for the Prince of Winter and earned the stewardship of the Summer Sun. The spire isn't always a part of her story, but she always keeps a comforting light and offers hope to those fighting despair. Sometimes she's in a cheerful cottage with a warm hearth; sometimes she tends a campfire in the dark woods. Wherever Pyrial appears, she offers hope and a warm cup of tal or cocoa.",
+										"In her role as lord of the spire, Shan Pyrial tends the Summer Sun and usually watches the people from the top of the spire. However, she descends if she senses anyone is truly in need of inspiration. Pyrial warmly listens to adventurers' tales, and while she rarely offers magical assistance, she always offers good advice and common sense. Even in the most trying times, Shan Pyrial can find a path to the light.",
+										"As Prince of Joy, Shan Pyrial isn't only immune to fear, she can also banish fear from any creature that can see or hear her. A powerful {@spell sanctuary} aura around her makes it nearly impossible to target her with any harmful effects, and she relies on spells like {@spell calm emotions} and {@spell charm monster} to defuse any combat around her."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Visiting the Spire",
+							"page": 62,
+							"entries": [
+								"Pylas Pyrial typically only appears in Zilargo for a few days each year. Its people welcome guests, but visitors carrying greed, cruelty, or evil intent in their hearts can't pass through the Gate of Joy. This is a trait of the gates themselves, not something its guards can control; generally, the gnomes at the gates talk with those who can't enter, trying to learn what burdens them and help them to find a path to joy. Once within the spire, strangers are celebrated. The people of Pylas Pyrial are always curious to learn more about the Sunlit World (their name for Eberron, in contrast to the Moonlit Vale where the spire spends most of its days). Visitors are encouraged to tell stories or display whatever talents they might possess, and entertainers find an enthusiastic audience. Each day ends with a glorious {@spell heroes' feast}.",
+								"The spire itself is a vast hollow cylinder, surprisingly reminiscent of a great tower of Sharn; people live on ledges around the edges, crossed with many platforms and bridges. At a glance, the top of the spire seems to hold the sun itself, but closer examination reveals a golden cage containing a marvelous crystal globe about the size of a wagon wheel. The Pyrials call this the Summer Sun, saying the prince plucked it from the sky in Thelanis.",
+								"Throughout the spire, flights of pixies and sprites fill the air. Music is ever-present, yet it can dramatically change from platform to platform. The temperature is perfect, and delightful scents waft in the air... but both scents and temperature vary to please each person experiencing them. On some platforms, people play games; on others, they dance, dine, or contemplate things of beauty.",
+								{
+									"type": "entries",
+									"name": "Wonders of Pylas Pyrial",
+									"page": 62,
+									"entries": [
+										"During Pylas Pyrial's time in Zilargo, its people trade with local villagers, and it's possible to obtain wonders here; common magic items truly are commonplace, and more powerful items can be obtained. But the Pyrial gnomes have no need of gold and no interest in profit. Seeking things that bring joy, they may be willing to trade a magic item for a fantastic joke or an heirloom that has brought delight to many despite having little monetary value. The gnomes may also trade things in exchange for promises—a promise to spread joy or to help those dwelling in darkness. But visitors should bear in mind that Pylas Pyrial is on the edge of Thelanis, and l promises made here carry great weight. While the spire can be a source of wonderful magic items, the creations of Pylas Pyrial can't easily be replicated in the Sunlit World of Eberron; Zil artificers have long tried to reverse engineer these gifts, but the magic woven into them is tied to Thelanis and defies all logical arcane science.",
+										"The {@table Trinkets from Pylas Pyrial|ChroniclesofEberron} table inspires wondrous items the adventurers might trade for (or be gifted) in the feyspire; it's also likely that a character from Pylas Pyrial would carry a trinket like these as a memento of home.",
+										{
+											"type": "statblock",
+											"tag": "table",
+											"source": "ChroniclesofEberron",
+											"name": "Trinkets from Pylas Pyrial",
+											"page": 62,
+											"style": "inset"
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Departing the Spire",
+									"page": 62,
+									"entries": [
+										"Many visitors from the Sunlit World wish to remain forever, but few can. Most find themselves left behind when the spire departs, suddenly standing in the Shimmerwood. Those visitors who do remain within find it easy to be lost in the endless celebration, losing track of time and goals alike. However, those who keep their wits about them can venture out of the feyspire into the Moonlit Vale. In this way, Pylas Pyrial can provide both a passage to Thelanis and a safe haven for adventurers who wish to explore the plane or negotiate with the Moon Court ... but the feyspire needn't be safe at all. If you explore the plots in the \"{@book Pyrial Adventures|ChroniclesofEberron|12|Pyrial Adventures}\" section, it could instead be a tragic location as its optimistic denizens are forced to deal with harsh reality."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Pyrial Adventures",
+							"page": 62,
+							"entries": [
+								"At a glance, Pylas Pyrial is a magical wonderland, a literal embodiment of joy. Its gates keep out those who come with evil intent, such as greed or cruelty. This has nothing to do with the alignment written on your character sheet; the Gate of Joy rejects visitors based on their {@i intent}. For example, an \"evil\" character could enter if they truly mean no harm to the spire and have no desire to profit from their visit, while a \"good\" character is barred from entry if they plan to resell the feyspire's magic items for profit. You can't come into the spire if you intend to cause harm, spread sorrow, or to take advantage of the spire or its people; it's about purity of purpose, not just alignment.",
+								"Though would-be visitors can't cross the feyspire's threshold with evil intent, it's still possible to challenge the joy of Pylas Pyrial. Consider these ideas if you'd like to introduce some trouble in paradise:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"page": 63,
+									"items": [
+										{
+											"type": "item",
+											"name": "Hidden Serpents",
+											"entries": [
+												"Powerful magic prevents those with evil intent from entering Pylas Pyrial, but that magic isn't impervious. Some evil force could have taken root inside the citadel, possibly in the form of rival fey: the Prince of Frost may still yearn to see Shan Pyrial thrown into despair, and his agents could try to trick adventurers into being their tools. Perhaps a rogue dragon has plans for the tower. Perhaps the Trust has managed to get a foothold, not realizing their malign intentions could poison the spire itself. Or perhaps someone seeks to steal the feyspire's Summer Sun; if someone removed this artifact, the spire could be doomed without its power source."
+											]
+										},
+										{
+											"type": "item",
+											"name": "Secret History",
+											"entries": [
+												"Did the first gnomes come to Eberron through Pylas Pyrial? A Korranberg scholar intends to get to the bottom of this mystery, and they hire the adventurers to help with the investigation. But why is Shan Pyrial determined to hide the truth? Why would the gnomes of the past choose to leave the Gate of Joy? Were they driven from the feyspire by a bitter feud? Could it be that they were pawns in a terrible bargain, perhaps a deal with the overlord Tul Oreshka—that in order for the feyspire to endure in joy, some of its people had to be sacrificed to live out their lives in the misery of the mortal world? Or is the reverse true—that the first gnomes of Pylas Pyrial were kidnapped from the Material Plane? Some questions may be best left unanswered..."
+											]
+										},
+										{
+											"type": "item",
+											"name": "Stranded on Eberron",
+											"entries": [
+												"The {@i Eberron Campaign Guide} suggests that a number of feyspires have been trapped on Eberron since the Mourning. The cataclysm also stripped the towers of the defenses that kept them hidden—possibly destroying the enchantments that kept those of evil intent from entering the spire. In the past, the people of Pylas Pyrial knew that visitors had good intent and would only remain for a few days, but now the spire is trapped, possibly forever. And the longer it remains, the more its fairytale magic may also begin to fade. What will its people do if their gardens begin to fade and they don't have enough food for their endless feasts? Can hope sustain the Gate of Joy even without magic? Will they join the Triumvirate—and if so, will they accept the Trust or defy it?"
+											]
+										},
+										{
+											"type": "item",
+											"name": "Wounded in War",
+											"entries": [
+												"During the Last War, Aundair launched a sneak attack against Zilargo, targeting a facility in the Shimmerwood that was producing alchemical weapons for Breland. This force— including ground troops, siege staffs, and a team of bombardiers on skystaffs—successfully made it up the Glamerwind, but mistook Pylas Pyrial for the target. The spire withstood the fierce siege, but it sustained damage before it disappeared, and several residents of the spire who'd been wandering in the woods were left behind in Zilargo. Shan Pyrial was injured in this attack and her wound won't heal. Some fear the vision of war has marred her joy— should that fade entirely, the tower will crumble, and perhaps the sun itself will be extinguished. Has the spire remained in the Moonlit Vale since this attack? Or if it has returned to Eberron, do its inhabitants refuse to open the gates?"
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"page": 63,
+									"name": "Pylas Pyrial and the Trust",
+									"entries": [
+										"Most Zil assume the Trust has infiltrated Pylas Pyrial, though doing so wouldn't be a simple matter; agents have to get past the gate without evil intent. It's possible agents who just want to protect Zilargo have entered the spire to observe it—after all, protecting Zilargo is the Trust's mission—but agents who hoped to steal the power of the spire or profit from it would be barred from entry. Complicating the Trust's clandestine efforts, they can't be sure their agents would remain with the spire when it returns to Thelanis; they could easily be left behind in the Shimmerwood. And those agents who are taken with the spire risk being swept up in the spire's infectious joy; many would-be spies have likely forgotten their original missions entirely.",
+										"Regardless of whether the Trust has agents inside Pylas Pyrial, they certainly monitor the feyspire from the outside and have agents in surrounding Glamerwind villages. So a player character who obtains a remarkable Pyrial magic item or has other unusual dealings with the spire could be intercepted by Trust agents after leaving Pylas Pyrial."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Pyrial Characters",
+							"page": 63,
+							"entries": [
+								"While gnomes make up a significant portion of the feyspire's population, characters don't have to be gnomes to have a connection to Pylas Pyrial. The spire is also home to eladrin and a wide range of fey. Beyond that, a bard or warlock could be drawn to the spire and go with it to Thelanis, learning their skills from fey mentors or patrons. Regardless of heritage or class, keep the following ideas in mind when creating characters associated with Pylas Pyrial.",
+								{
+									"type": "entries",
+									"name": "Pyrial Names",
+									"page": 63,
+									"entries": [
+										"Unlike the gnomes of Zilargo, who have naming conventions involving house and family, Pylas Pyrial names follow no discernible system. The feyspire has a very small population, and its residents are more likely to have names like \"Big Halan\" (because there are only two Halans and he's the big one) or \"Jala the Butcher's Daughter.\" This compounds the chicken and egg mystery of whether Zil gnomes were originally immigrants from (or to) the feyspire, as they can't use names to trace their family lines."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Hopeful Characters",
+									"page": 64,
+									"entries": [
+										"Pyrial gnomes are defined by their optimism and fey worldview. While they understand that evil and greedy people exist—most stories have a villain, after all—they cling to hope and believe the world is a place of wonder and joy. Even when outwitting or battling a foe, a Pyrial gnome is never cruel. They're deeply disturbed by selfish and vicious behavior from those they consider friends, though they may try to draw such friends to a brighter path rather than simply abandoning them.",
+										"This all stems from Pyrial gnomes being accustomed to a world that meets their expectations—but the longer they dwell in the Sunlit World, the more they must come to terms with life's cruelty and suffering. The question is whether hope and optimism will prove stronger than despair, or whether the gnome will be broken by the misery of the mortal world. A Pyrial gnome who's been overcome by despair could serve as an interesting villain, as they seek to steal the hopes of others."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Storybook Characters",
+									"page": 64,
+									"entries": [
+										"Pyrial gnomes carry a touch of Thelanis with them. They're used to operating under storybook logic ... and mysteriously, that logic often continues to work even beyond their spire. This is especially relevant with Pyrial artificers, who likely use the approach {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} describes as \"Magical Thinking.\" Such an Alchemist might use cook's utensils as a spellcasting focus, producing baked goods with magical effects (have you ever seen someone killed by a {@spell catapult|XGE} pie?). An Artillerist might use painter's tools to paint {@spell fire bolt|PHB|firebolts} that become real. An artificer who lives on the streets might even use tinker's tools to create things out of garbage—things that logically shouldn't work, yet somehow do.",
+										"While artificers are an obvious example of this, Pyrial gnomes can follow many other paths. The gnomes of Pylas Pyrial are gifted illusionists; though they generally use magic to entertain others, not harm them, a Pyrial illusionist will happily use their magic to trick those who would harm others. A rogue can describe their class abilities as being tied to remarkable luck—perhaps they stood in the perfect place, or an enemy stumbling, or other unusual coincidences that tell the story of the lucky gnome. Alternatively, a Pyrial gnome could easily be an Archfey warlock—especially if they're following the path of the Agent of Joy. Regardless of which class you pick, the Pyrial gnome provides an opportunity to play a character who's literally out of this world— someone who stepped out of a fairy tale and expects the world to act like one."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Reason for Adventuring",
+									"page": 64,
+									"entries": [
+										"In creating a character from Pylas Pyrial, you'll want to decide why you've left the Gate of Joy to walk the decidedly unjoyful world. Consider these possibilities...",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 64,
+											"items": [
+												{
+													"type": "item",
+													"name": "Agent of Joy",
+													"entries": [
+														"Shan Pyrial has charged you with a mission vital to the safety of the spire. If your game follows the \"Wounded in War\" plotline, you could be searching for a way to cure the wounded shan. If you're \"Stranded on Eberron,\" you might be trying to return your home to Thelanis ... perhaps by unraveling the mystery of the Mourning itself. Alternatively, you could be trying to recover a treasure stolen from the spire by some clever mortal. How urgent is your quest—is it the driving force of the campaign, or do you have time to explore the world and pursue other quests while you keep your eyes open?"
+													]
+												},
+												{
+													"type": "item",
+													"name": "Curiosity",
+													"entries": [
+														"You're that storybook hero whose curiosity draws them into endless danger. You've always been fascinated by the Sunlit World and chose to leave the spire of your own free will. You may have a particular mystery you want to see or solve—Have tea with a dragon! Find a stolen fey artifact! Meet every monarch in the world!—or you may have no agenda at all, merely trusting the road to lead you where you need to go."
+													]
+												},
+												{
+													"type": "item",
+													"name": "War Orphan",
+													"entries": [
+														"Following the \"Wounded in War\" plotline, you could've been stranded on Eberron during the siege of Pylas Pyrial. You might've fled from Aundairian forces, or even been captured and taken back to Aundair as a prisoner. Or perhaps you were just a child when you were stranded; though you grew up as an urchin, you faintly remember the Gate of Joy, and you still can weave its storybook logic into your spells or class features. You may hope to return to Pylas Pyrial, but you've realized something's keeping the spire from returning to Thelanis. Can you maintain your optimism even in the face of unrelenting adversity?"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"page": 64,
+									"name": "Pyrial Gnomes: Humanoid or Fey?",
+									"entries": [
+										"What type of creatures are the gnomes of Pylas Pyrial? Well, the answer depends on where they are! Mortal denizens of Thelanis become more mortal when they leave it—so it stands to reason that Pyrial gnomes would be Fey while they're in the feyspire, but when they leave to walk the Sunlit World, they use the standard traits of Humanoid gnomes.",
+										"As far as their languages go: in my campaign, Pyrial gnomes speak Sylvan and Common, and Sylvan is closely related to Elvish. Sylvan speakers and Elvish speakers can understand one another, but depth and detail may be lost."
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
@@ -4009,6 +4241,58 @@
 				[
 					"8",
 					"{@b Exile.} You were exiled to the deadlands after committing an unforgivable crime. What did you do? Are you seeking redemption or revenge?"
+				]
+			]
+		},
+		{
+			"source": "ChroniclesofEberron",
+			"name": "Trinkets from Pylas Pyrial",
+			"caption": "Trinkets from Pylas Pyrial",
+			"page": 62,
+			"colLabels": [
+				"d10",
+				"Trinket"
+			],
+			"rows": [
+				[
+					"1",
+					"A pouch of luminescent marbles of various sizes, colored to resemble the moons."
+				],
+				[
+					"2",
+					"A wooden spoon that adds a delightful flavor when placed in porridge—and only porridge."
+				],
+				[
+					"3",
+					"A copper locket containing a painting of a cheerful dog; when held, you hear faint, happy barking in the distance."
+				],
+				[
+					"4",
+					"A battered deck of playing cards depicting archfey on the face cards."
+				],
+				[
+					"5",
+					"A brass key bearing the image of the sun; when held, you remember a happy moment from a sunny day."
+				],
+				[
+					"6",
+					"A perfectly preserved butterfly with wings that slowly and constantly change pattern and color."
+				],
+				[
+					"7",
+					"A small copper rattle that makes a slightly different sound each time you shake it."
+				],
+				[
+					"8",
+					"A well-worn stuffed toy chimera with heads that each make a different sound when squeezed."
+				],
+				[
+					"9",
+					"A brass spinning top in the shape of a dancing pixie."
+				],
+				[
+					"10",
+					"A piece of purple chalk that's restored to its original size at each dawn; if broken, only the largest piece retains this power."
 				]
 			]
 		}
