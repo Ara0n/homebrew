@@ -4646,22 +4646,39 @@
 		{
 			"name": "Goliath (Variant; Eneko)",
 			"source": "ChroniclesofEberron",
+			"resist": [
+				"fire"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
 			"page": 41,
 			"_copy": {
 				"name": "Goliath",
 				"source": "MPMM",
 				"_mod": {
-					"entries": {
-						"mode": "replaceArr",
-						"replace": "Mountain Born",
-						"items": {
-							"type": "entries",
-							"name": "Desert Born",
-							"entries": [
-								"You have resistance to fire damage. You also naturally acclimate to hot climates and aren't adversely affected by extreme heat."
+					"entries": [
+						{
+							"mode": "replaceArr",
+							"replace": "Mountain Born",
+							"items": {
+								"type": "entries",
+								"name": "Desert Born",
+								"entries": [
+									"You have resistance to fire damage. You also naturally acclimate to hot climates and aren't adversely affected by extreme heat."
+								]
+							}
+						},
+						{
+							"mode": "removeArr",
+							"names": [
+								"Languages"
 							]
 						}
-					}
+					]
 				}
 			}
 		},
