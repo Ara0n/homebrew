@@ -4303,6 +4303,14 @@
 							"page": 71,
 							"entries": [
 								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0035.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
+								{
 									"type": "quote",
 									"entries": [
 										"When I found my lover murdered, I gave myself to the Fury. I don't remember the rest of the night. But I regret nothing, and I thank the Dark Lady that justice was done."
@@ -4315,14 +4323,6 @@
 										"You know what you want to do. You know what you need to do. But you bury your heart with your fears and your logic and your laws. You are afraid to be what you truly are, to take the path that comes without thinking. Follow it now. Think no more. Feel and act."
 									],
 									"by": "Sarvus'kor, kobold priestess"
-								},
-								{
-									"type": "image",
-									"href": {
-										"type": "external",
-										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0035.webp"
-									},
-									"credit": "Matthew Johnson"
 								},
 								"{@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} describes the Fury as \"a silent whisper that can drive you to doubt or despair. She is reckless rage and all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control.\"",
 								"As with all the Dark Six, Vassals who worship the Sovereign Host acknowledge the Fury. To them, she's the source of any unbalanced emotion; someone consumed by despair is carrying the Fury on his shoulders, while someone who lets anger drive her to rash action has given the reins to the Fury. Though love is commonly considered a positive emotion, in the hands of the Fury, it is wild and dangerous. Just as there are Three Faces of War, there are Three Faces of Love: Boldrei is the love that binds, Arawai is the love that brings life, and Szorawai—the Fury—is the love that burns.",
@@ -4437,14 +4437,6 @@
 											]
 										}
 									]
-								},
-								{
-									"type": "image",
-									"href": {
-										"type": "external",
-										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0381.webp"
-									},
-									"credit": "Matthew Johnson"
 								}
 							]
 						},
@@ -4453,6 +4445,14 @@
 							"name": "The Keeper",
 							"page": 74,
 							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0381.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
 								{
 									"type": "quote",
 									"entries": [
