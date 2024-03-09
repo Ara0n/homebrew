@@ -4583,6 +4583,99 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Lord of the Hoard",
+									"page": 77,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0036.webp"
+											},
+											"credit": "Scott Roller"
+										},
+										"Kol Korran is the patron of commerce and honest trade—by contrast, his brother is patron to those who put their own personal gain above all else. The Keeper reflects the darker aspects of commerce, inspiring avarice, conspicuous consumption, and insatiable greed. Though these can lead to murder or theft, greed and hoarding are defining aspects of the Keeper—death is simply the tool he uses to add souls to his hoard.",
+										{
+											"type": "entries",
+											"name": "Greed and Guile",
+											"page": 77,
+											"entries": [
+												"Several of the Sovereigns and Six have a relationship to greed and guile. The Mockery guides those who use deception to spill blood, but if your deception is in the pursuit of gold, you'll instead call on the Keeper. Similarly, criminals and rogues who consider themselves altruistic or heroic are likely to look to Olladra for good fortune, but if you're willing to acknowledge your own greed, you pray to the Keeper instead. After all, the Keeper helps the liar and the cheat.",
+												"This sort of worship is typically a personal thing. Many members of the Boromar Clan offer prayers to the Keeper, but the clan doesn't maintain a shrine to him. A swindler who is especially skilled at separating people from their riches may be said to be blessed by the Keeper, just as a skilled blacksmith may be thought to be favored by Onatar; such a scoundrel likely doesn't have the trappings of a priest, but others may still ask for (and pay for) their blessing. On the other hand, a priest of the Keeper could run their own guild of thieves, typically seeing their congregation as a tool to further their own greed. The {@class cleric|PHB|Trickery|Trickery|PHB} domain is excellent for a cleric following this aspect of the Keeper, but this path is just as appropriate for any rogue, criminal, or charlatan."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Talons: Bargaining with the Keeper",
+											"page": 77,
+											"entries": [
+												"The Keeper is always searching for new treasures to add to his hoard, and these can include souls or memories as well as material goods. A bargain with the Keeper can get you wealth, magic items, the powers of a warlock, or more. While the gifts of the Traveler often have unexpected consequences, the goods of the Keeper are generally exactly what they appear to be... but the Keeper never makes a deal unless the price is in his favor. Whatever you get from the Keeper, you'll have to give up something of even greater value.",
+												"How do bargains with the Keeper work? The Six don't walk the world, so you have to find a Talon—an intermediary who can make a bargain on behalf of the Keeper. Anyone who believes they have a strong connection to the Keeper could serve in this priestlike capacity—whether a Keeper's Fang, a priest of the Restful Watch, a Pennyroyal, or even a random grifter convinced their talents are a gift from the Lord of the Hoard. Despite all of these options, mortal Talons are exceptionally rare, and those with established track records are even rarer. A Talon is defined by their string of successes; to attract business, people have to believe they can speak for the Keeper. But the Keeper acts in his own time and in his own way.",
+												"As a result, working with a Talon is entirely a matter of faith. The petitioner comes with a request, and the Talon establishes the exact terms. Payment is often abstract: the most common fee is the assurance that the Keeper will claim the petitioner's soul after death, often with an added limitation on maximum lifespan (\"Should you live to be forty years of age, the Keeper will end your life and claim his rightful prize\"). But payment could also be something unique that the petitioner possesses, whether physical or metaphysical. The only constant is that the Kefeper never makes a bargain unless the price is in his favor; the cost is always dear.",
+												"If a Talon's bargain has a material cost, they take the goods on behalf of the Keeper, but they don't fulfill the bargain themself, and there's no guarantee as to {@i when} the Keeper will uphold his end of it. So an aspiring merchant could make a deal to acquire wealth and success in exchange for the only picture of her mother and a shortened forty-year lifespan; the Talon takes the picture and the merchant goes on her way. Within the year, the merchant has a run of good fortune, or finds a wealthy investor, or stumbles on buried treasure that allows her to set up her business. Is this the result of the bargain, or just coincidence? Will she die when she's forty, or is that also just superstition? Through the eyes of a skeptic, a Talon's bargain is highly suspect; but few people are skeptical enough to try to cheat a Talon, as being wrong would prove far too costly.",
+												"Metaphysically, many believe the Keeper is able to bestow the more abstract gifts on people through imbuing them with an element of one of the souls in his hoard. For example, the Keeper might grant musical talent by imbuing the seeker with the soul of a renowned bard. In some ways, this is similar to channeling a Tairnadal patron ancestor—but Pyrinean priests suggest that it's a horrible experience for the subject soul, which is said to be bound helplessly to the beneficiary, forced to watch as the bargainer uses their knowledge but unable to act or influence the world in any way. Again, there's a reason people aren't encouraged to make these deals! Since the Keeper depends on souls in his hoard to empower many of his bargains, there are limitations to his gifts. He can give material wealth, specific treasures, skills, or knowledge—but he can't offer knowledge no mortal has discovered, nor skill no mortal could possess. This is a critical difference between the Keeper and the Shadow. In exchange for your soul, the Keeper can give you the skills of someone who's died. The Shadow, however, can offer secrets no mortal has ever known—likely at the high cost of using that knowledge to hurt others.",
+												{
+													"type": "inset",
+													"page": 78,
+													"name": "Immortal Talons",
+													"entries": [
+														"The Sovereigns and Six don't manifest physically, but immortals and other powerful creatures can act on their behalf. Consider the following entities that could offer dangerous deals in your campaign, whether on behalf of the Keeper or otherwise:",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"page": 78,
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Golden",
+																	"nameDot": false,
+																	"entries": [
+																		"is the Dominion of Greed in Syrania. She spends most of her time in the Immeasurable Market, but occasionally comes to Eberron to negotiate an interesting deal— whether of her own volition or in service to the Lord of the Hoard, who she believes grants her divine guidance."
+																	]
+																},
+																{
+																	"type": "item",
+																	"name": "Hazaresha Salazan",
+																	"nameDot": false,
+																	"entries": [
+																		"is an {@creature amnizu|MPMM} devil in Daanvi who loves to negotiate complex contracts. Like Golden, he considers himself faithful to the Keeper and often serves as a Talon."
+																	]
+																},
+																{
+																	"type": "item",
+																	"name": "Shining Olazaryx",
+																	"nameDot": false,
+																	"entries": [
+																		"is a gilded dracolich from Argonnessen. He believes that upon his final death, he'll become the Keeper, and seeks to emulate his actions in the meantime."
+																	]
+																},
+																{
+																	"type": "item",
+																	"name": "The Merchant of Misthaven",
+																	"nameDot": false,
+																	"entries": [
+																		"is an archfey from Thelanis whose story revolves around making dangerous bargains; she's not devoted to the Keeper in any way, but she's another possible source of similar deals."
+																	]
+																},
+																{
+																	"type": "item",
+																	"name": "Mazyralyx",
+																	"nameDot": false,
+																	"entries": [
+																		"is the first dracolich, created during the Age of Demons. He serves as the prakhutu of the overlord Katashka the Gatekeeper. Mazyralyx doesn't engage in general bargaining but has collected many souls over the millennia, using tools like the {@item Keeper's fang|ExploringEberron|Keeper's fangs}; if adventurers need to bargain for a particular lost soul, they could seek out Mazyralyx in the Lair of the Keeper in the Demon Wastes."
+																	]
+																}
+															]
+														},
+														"All five of these beings are very powerful, very real beings who could negotiate bargains with concrete and immediate benefits, as opposed to the take-it-on-faith deals of most mortal Talons. They could also serve as a patron for a warlock who'd like to have a more active relationship with their patron— though again, the Merchant of Misthaven isn't actually tied to the Keeper."
+													]
+												}
+											]
+										}
+									]
 								}
 							]
 						}
