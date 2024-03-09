@@ -4011,6 +4011,45 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "The Dark Six",
+					"page": 65,
+					"entries": [
+						"Across the Five Nations, people lift their voices to sing the praises of the nine Sovereigns and to curse the Dark Six. Vassal priests say the Sovereigns are always with us, always ready to offer their guidance. Onatar steadies the hand of the smith, Dol Dorn offers courage to the soldier, Aureon gives insight to the sage. According to the priests, all that is good flows from the Sovereigns. But all is not good in the world … and the Vassal priests place the blame for all evil at the feet of the Dark Six. Just as the Sovereigns are always ready to guide us, the Dark Six are always with us, forever playing on our darkest impulses. The Keeper fuels our greed, whispering to us of the things that could and should be ours. The Mockery urges us to be cruel, telling us that the only path to victory is to abandon honor and mercy. The Fury overwhelms us with anger and passion. Where the Sovereigns lift us up, the Shadow seeks to pull us down into the darkness.",
+						"These are the stories told by Vassal priests in the temples of Five Nations. But it's not the only way to see the Dark Six. This chapter explores the Dark Six from various perspectives, expanding on the information presented in {@book chapter 3|ExploringEberron|3} of {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}. Faithful adherents of the Dark Six can be fascinating enemies, allies, or even player characters; keep in mind that people who honor one of these deities aren't necessarily evil or cruel. At the end of this chapter, you'll find new character options linked to the Dark Six. This includes three new subclasses: the {@class bard|PHB|College of the Fury|Fury|ChroniclesofEberron} bard, the {@class cleric|PHB|Aspiration domain|Aspiration|ChroniclesofEberron} cleric, and the {@class rogue|PHB|Dark Petitioner|Dark Petitioner|ChroniclesofEberron} rogue. This section also includes a {@feat Shadow's Metamagic|ChroniclesofEberron|feat} and five {@filter Metamagic|optionalfeatures|source=ChroniclesofEberron|feature type=mm} options reflecting forbidden magic of the Shadow, along with {@filter six new spells|spells|source=ChroniclesofEberron}—one for each of the Six.",
+						{
+							"type": "section",
+							"name": "The Cazhaak Faith",
+							"page": 65,
+							"entries": [
+								"The Sovereigns and Six can be found in countless cultures throughout history, and every interpretation has its own unique elements. It's never been a monolithic faith, even within the Five Nations; a Boromar enforcer in Sharn might whisper a prayer to Bally-Nur when starting a hunt, instead of praying to the more common Balinor. However, most Vassals of the Five Nations follow the Pyrinean Creed—a form of the faith that arose in the old Sarlonan nation of Pyrine, and that was carried to Khorvaire when humans settled the land.",
+								"Due to the influence of the Pyrinean Creed, the people of the Five Nations largely condemn the Dark Six as forces of evil. Those who respect or revere the Six do so in secret, whether alone or in cults like the Three Faces. However, beyond the Five Nations, there are places where the Dark Six are openly celebrated. These traditions often cast the Six as embodying primal forces of the world—frightening, perhaps, but the storm is as much a part of the world as the gentle rain.",
+								"Droaam is one such place where the Six are revered openly. This young nation's tapestry has been woven together from wildly diverse cultures, many of which have their own unique and ancient traditions. The Last Dirge harpies worship the Fury, asserting that she was born from Eberron's cry in birthing the world. Meanwhile, the minotaurs worship the Horned King (a title usually associated with the fiendish overlord Tol Kharash), but interpretations vary; depending on the clan, the minotaurs are effectively worshiping the Mockery, Dol Dorn, or Dol Arrah. However, following the recent unification of Droaam, the traditions of Cazhaak Draal have effectively become the state religion. People still hold to their own traditions, but the Voices of the Shadow—typically medusas or oni—are recognized as spiritual authorities.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0034.webp"
+									},
+									"credit": "Laura Hirsbrunner"
+								},
+								"In the Cazhaak faith, all members of the Dark Six are worshiped by their common titles (the Shadow, the Fury, the Keeper, the Mockery, the Devourer, the Traveler) ... though usually in Goblin. While the Cazhaak Six are seen in a more positive light than the Pyrinean Six, they still embody the same core ideas; it's simply that the values of Droaamite civilization are very different from those of the Five Nations, so the Six are seen as positive forces for civilization. In Droaam, there's no distinction between vengeance and justice, and victory in battle is more important than honor. It's a meritocracy where having the talent to take power is more important than following a system of laws. Meanwhile, the Sovereigns are seen as the cruel and petty gods of the people of the East. The general Cazhaak assertion is that the Sovereigns want to keep their subjects small and weak, but the Shadow rebelled and broke free from Aureon, giving gifts to its creations. So while a Vassal farmer might make a sacrifice to the Devourer to ward off a storm, followers of the Cazhaak faith never call on the nine Sovereigns.",
+								"There are many different ways to invoke the Dark Six, but the Cazhaak faith has the widest reach and provides a strong general foundation. Its perspective is presented throughout this chapter.",
+								{
+									"type": "entries",
+									"name": "Cazhaak Priests",
+									"page": 66,
+									"entries": [
+										"Most Cazhaak priests are devoted to a single deity and lead or provide services tied to that god—for example, in Graywall, a priestess of the Keeper performs funerary services. However, a Voice of the Shadow (discussed in \"{@book The Shadow|ChroniclesofEberron|13|The Shadow}\") reveres all members of the Six and invokes them when appropriate.",
+										"The Cazhaak faith is the dominant faith of Droaam, but other traditions—the Horned King, the First Song, and others—are allowed to flourish. Graywall's Street of Shadows includes a host of shrines and idols to various obscure sects. The Daughters haven't sought to stamp out these traditions, but they also won't condone any actions that threaten the good of a city or of the nation. Regardless of an individual Droaamite's beliefs, those who don't adhere to the Cazhaak faith are usually familiar with its ideas; a harpy who sings to the First Song still treats a Voice of the Shadow with respect.",
+										"Even beyond Droaam, Pyrinean and Cazhaak priests know of each other's rival faiths; they don't typically seek to directly silence or harm their counterparts, but each asserts that the other's interpretation is flawed. The Voice of the Shadow pities the fool who worships Aureon—\"how good can your god be, when he didn't even give you eyes that can see in the dark?\" Meanwhile, the Sovereign priest dismisses the Shadow-worshiper as a servant of the Tempter, both deceiver and deceived. So it's possible for a Cazhaak cleric to visit Sharn, or even to be in the same party of adventurers as a Vassal paladin ... but while they may not come to blows, each likely thinks the other is a fool."
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
