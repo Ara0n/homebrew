@@ -4048,6 +4048,254 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "The Devourer",
+							"page": 66,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0345.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"In the dawn of time, the Sovereigns of the natural world chose to share their gifts with mortals, teaching us to harness the natural world. Arawai instructed the first farmers, woodworkers, and herbalists, while Balinor demonstrated how to hunt game and work with horse and hound. Together, Arawai and Balinor sought to lift us up, but another sought to tear us down. The Devourer despised the first people and their civilization, seeing them only as prey. This struggle continues to this day. Arawai showed us how to harness the wind for sail and mill, while the Devourer sends winds that snap masts and shatters buildings. Kol Korran taught us to build ships, while the Devourer delights in sinking them. Onatar showed us how to harness fire, while the Devourer smiles when the uncontrolled flame engulfs a city. The Sovereigns guide us when we work with nature—but we must always be careful and cautious, for the Devourer is ever ready to bring the power of the wilds down upon us."
+									],
+									"by": "Phthaso Mogan, High Priest of Sharn"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"You humans see the wilds as a thing that must be tamed. You fight it, caging it in your fields and binding it with leash and chain. We embrace the storm, running with the wind and dancing through the fire. We know flame paves the way for new growth, and culling the weak strengthens the pack. You fear the Devourer; we {@b are} the Devourer."
+									],
+									"by": "Khaar'kala of the Great Pack"
+								},
+								"{@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} describes the Devourer as \"the tsunami that overwhelms the tallest ship, the wildfire that consumes the grandest castle, the earthquake that levels the most glorious city. He is the vast and primordial power of nature, a force that will break any chain and wear down the strongest wall. The Devourer is the glorious cruelty that drives the predator, the cry of the hawk and the howl of the wolf. He is all that is wild, savage, and unknowable. He is the deepest ocean, a force that can be crossed but never controlled.\"",
+								"Arawai and Balinor embody mortal dominion over the natural world; Arawai grants power over flora, while Balinor grants power over fauna. But the Devourer reminds us that the wild can never be truly bound. We must never grow too arrogant or complacent; we must never forget to respect the power of nature. Because if we do, the Devourer will be there with wind, with flame, with tooth and claw.",
+								{
+									"type": "entries",
+									"name": "Nature's Wrath",
+									"page": 67,
+									"entries": [
+										"As shown in this section's opening quote from Phthaso Mogan, the Pyrinean Creed asserts that the Sovereigns showed their earliest Vassals how to control the natural world. Arawai guides those who harvest, while Balinor guides those who hunt, both reflecting our power to impose our will on nature. Through this lens, the Devourer reflects that we can't ever fully control nature and its disasters and tragedies. It's the Devourer who sinks ships and levels villages with wildfires and hurricanes. It's the Devourer who guides the wolves who prey on our sheep.",
+										"Under the Pyrinean Creed, there is no benevolent aspect to the Devourer. The Devourer, Arawai, and Balinor are differentiated by the outcome, not by the tool that produces that outcome. It's common for Vassals to associate Arawai with gentle rains and the Devourer with scouring storms—but if overabundant gentle rains cause devastating floods, they're a tool of the Devourer, and if a region relies on monsoons to irrigate land, Vassals see those nurturing storms as gifts of Arawai. A shepherd curses predatory wolves as teeth of the Devourer, but they might well guard their flock using a magebred wolf domesticated by House Vadalis; whether a wolf is associated with Balinor or the Devourer depends on the outcome of interacting with it.",
+										"Though this view attributes nothing benevolent to the Devourer, he's still part of everyday Vassal life and faith. The farmer who thanks Arawai for her guidance equally fears the Devourer's wrath, and Vassals who regularly deal with dangerous natural forces often make placatory offerings to the Devourer. A common Vassal saying is that \"the Devourer will have his due.\" If you benefit from the natural world, the Devourer eventually comes to even the scales—but if you make an offer willingly, he may accept it and pass you by. Vassals typically burn a fraction of the yield after a harvest; skeptics simply burn the dross, while the devout base the burn on their own prosperity and what they have to lose. Vassal sailors trust Kol Korran to guide them, but many also cultivate a relationship with the Devourer and make an offering when their vessel reaches deep water. This offering could be anything from a single crown to a lock of hair, a poem, or something more precious; it depends on the perceived danger of the voyage and where they feel they stand with the Lord of the Depths. Again, there is no thought of benevolence here. Many sailors essentially view it as playing poker with a deadly opponent—how well do you know your enemy and what can you get away with on this voyage? Though this superstition is common, some captains won't abide it on their ships; they may assert it's a foolish waste of resources, or simply believe that making offerings to the Devourer is more likely to draw his attention than placate him.",
+										{
+											"type": "entries",
+											"name": "Vassal Champions of the Devourer",
+											"page": 67,
+											"entries": [
+												"Beyond the Three Faces and placatory offerings, there's little worship of the Devourer within the Five Nations; he's a force to be feared and placated, not idolized. As a result, champions of the Devourer are rare, remarkable, and often dangerous.",
+												{
+													"type": "entries",
+													"name": "The Storm Herald",
+													"page": 67,
+													"entries": [
+														"On rare occasions, wandering priests of the Devourer travel through agricultural regions. When such a Storm Herald comes to a community, they call together the Vassals and have them organize a communal feast. At this feast, the Herald calls on people to discuss their profit and loss, the blessings they've received from the Sovereigns, and what is owed to the Devourer. Sacrifices are made both through the feast itself and through additional burnt offerings at the feast. In so doing, the community hopes the Storm Herald helps them buy a period of prosperity, carrying disaster away when the herald leaves. Storm Heralds are extremely rare, mainly known through stories. Some of these tales depict them as good people who are truly trying to help innocents avoid disaster, while others tell of extortionists running supernatural protection rackets—\"unless I'm satisfied, there {@i will} be a disaster.\""
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Lightning Rod",
+													"page": 67,
+													"entries": [
+														"Typically only encountered in stories or plays, the lightning rod is a figure blessed or cursed by the Devourer. Wherever they go, they draw disaster, and are constantly plagued by predators, bad weather, spontaneous fires, and other minor phenomena. The longer they stay in one place, the worse these manifestations get. In stories, some lightning rods manage to weaponize this effect, becoming Storm sorcerers or Ancients paladins—but even these champions need to keep moving, lest the disasters that dog their heels destroy the people they care about."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Zealot",
+													"page": 67,
+													"entries": [
+														"Zealots of the Devourer are extremists who wield supernatural power and who despise civilization and industry. A typical zealot becomes infuriated by a particular manifestation of civilization—a new Tharashk mine, a Vadalis ranch, a lightning rail line driving across their field, or even just local farmers cutting down a tranquil grove—and their intense devotion to their target's destruction unlocks divine power. Devourer zealots generally have more in common with cults of the Dragon Below than with druidic sects; if they band together with fellow zealots or accumulate followers, such a sect typically lacks organization or deep tradition. Should a zealot achieve their goal, they might snap out of that obsession and return to normal life... or they might latch onto a new and even greater obsession—having destroyed the Orien ranch near their village, they're now determined to destroy the house enclave in the nearby city, continually escalating until they finally fall in battle. While zealots can be tied to the Three Faces of the Wild, they're characterized by their ever-growing obsession with destroying their target and the degree of supernatural power they wield; a Three Faces sect might try to negotiate with an environmental offender or to otherwise find a peaceful solution, while a zealot sees themself as the vengeful hand of the wild."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Nature and Tempest",
+											"page": 68,
+											"entries": [
+												"Champions of the Devourer can take many forms. One zealot might have the gift of wild shape and run with a pack of wolves—drawing on the Moon druid for inspiration—while another might be more like a Storm sorcerer, wielding {@spell shocking grasp} and {@spell lightning bolt|PHB|lightning bolts}. But what's the difference between a druid, cleric, or paladin of the Devourer, versus one devoted to Arawai (or Balinor)?",
+												"Remember that the Devourer isn't the Sovereign of Storms; he's the Sovereign of the destructive power of nature, while Arawai is nature harnessed in the service of civilization. As such, their followers could wield very similar divine magic, but with a different {@i feeling} and to a different end. For example, a servant of Arawai could smite an enemy with lightning or unleash a tidal wave, but for them, this is no different from the ability to plant a seed or to harness an ox to a plow; they've been granted dominion over nature as a tool to serve the greater good. Such a character is typically calm—even serene—when using their powers, and they strive to minimize collateral damage. On the other hand, the champion of the Devourer teaches us that nature cannot be controlled. They revel in the wild and primal nature of the powers that flow through them and make no effort to avoid collateral damage; after all, they were granted these powers to make people fear the power of nature.",
+												"So even if two clerics are casting the exact same spell, it should feel different depending on whether it's tied to Arawai or to the Devourer. Arawai's {@spell lightning bolt} is focused and precise, while the Devourer's is wild and intimidating, as if the caster is barely in control of the bolt. Keep in mind that the spells wielded by player characters don't have to reflect the absolute limits of mystical power. It's possible that an NPC Storm Herald can curse a community with a promise of a devastating hurricane—and follow through on the threat. Similarly, the death of a champion of the Devourer might trigger a devastating flash flood. Neither of these effects have the precision or speed of {@spell control weather} or {@spell tidal wave}... but that very unpredictability is what makes them interesting. If a DM and player agree, it's possible that even a player character who's tied to the Devourer could be a lightning rod, drawing disasters wherever they go unless they ensure that the people around them make sufficient sacrifices."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Primal Power",
+									"page": 68,
+									"entries": [
+										"In Droaam, nature has a single face, and it's both beautiful and cruel. Ghaal'gantii—the Devourer—speaks through the storms that lash the land, through the fangs of the worg, through the stone beneath the hands of the medusa. This isn't a tradition of shepherds; it's the faith of the wolves. There's no need to split the roles of hunter and predator, and no interest in a deity to bless the harvest; outside of the Gaa'ran orcs, widespread agriculture is all but unknown. The Devourer embodies a view of a world that's red in tooth and claw. He is the hunger that drives us to survive, but he places deadly obstacles in our way; those who overcome the challenges of the Devourer grow strong and prosper, while the weak are swept away to make room for the strong.",
+										"For most who follow the Cazhaak faith, the Devourer is a force to be endured rather than celebrated. He'll test you with a hurricane or a wildfire, lash you with thorns, and his hand is in the deadly currents of the rapids. You can certainly offer a prayer or a sacrifice, but what he wants is your strength. Survival isn't something he gives in exchange for a paltry offering; he has already given you tooth and claw, and he wants you to use them. Because of this, many peoples of Droaam acknowledge the Devourer, but they rarely invoke him or make offerings as the Vassals do.",
+										"The worgs and the lycanthropes of the Great Pack—the purest predators of the region—are a notable exception to this. They call on the Devourer to sharpen their senses and their fangs, not as a petition, but an offer: \"join me in my hunt, that you may share my joy in victory.\" The Cazhaak Devourer has no need of weaklings who require his aid to survive; but a worthy hunter can draw his eye and his favor, and their only sacrifice need be the kill itself. These devotees are often equally devoted to the Fury; the Devourer is a source of physical strength, while the Fury is the source of instinct; both are important to the hunting worg.",
+										"Beyond the predators, the Devourer also draws prayers from those who work with natural resources. Large-scale agriculture may be uncommon, but medusa stoneworkers and kobold apothecaries thank the Devourer for nature's bounty. Even here, though, the tone is different from the thanks offered by the Vassal priests of Arawai. The Cazhaak faithful know that the Devourer gives nothing; he only offers you the chance to take it. Essentially, the Devourer puts the \"hunt\" in \"hunter-gatherer.\" Whether you're an apothecary looking for bloodroot or a sculptor seeking the perfect place to strike the stone, you face a challenge; the Devourer will sharpen your eyes and give you the hunger to succeed, but you must still fight for your victory. The people of Droaam don't sail, but if they did, they would scoff at the placatory offerings of Vassal sailors. If the Devourer chooses to challenge you with a storm, he will; you honor him and earn his favor by facing that challenge without fear and surviving it. What the Devourer wants from you is strength and skill, not trinkets tossed in the water",
+										{
+											"type": "entries",
+											"name": "Cazhaak Champions of the Devourer",
+											"page": 69,
+											"entries": [
+												"Just as Vassal priests can perform services of all of the Sovereigns, a Cazhaak priestess of the Shadow can offer thanks to the Devourer. However, it's rare to find a singularly devoted priest of the Devourer in a temple in Droaam—he has little interest in cities and buildings, and his most devoted priests are the worgs running with their pack and the harpies singing high on stormwreathed peaks. Here are a few examples of devoted Cazhaak champions of the Devourer.",
+												{
+													"type": "entries",
+													"name": "The Huntmaster",
+													"page": 69,
+													"entries": [
+														"Within the Great Pack—an alliance of worgs, lycanthropes, and other predators— Huntmasters serve as equal parts bard and priest, inspiring their comrades with wolfsong and guiding them on the hunter's path."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Stormsinger",
+													"page": 69,
+													"entries": [
+														"While Huntmasters focus on the hunt, the Stormsinger embraces the furious power of hurricane and storm. Most Stormsingers are harpies, devoted equally to the Fury and to the Devourer. They dance through the winds, delighting in the deadly play of lightning. Stormsingers are ecstatic mystics who praise the Six through song and flight, but they can also call down lightning on enemies in battle, or even draw away a storm, luring it with their songs."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Stoneshaper",
+													"page": 69,
+													"entries": [
+														"Medusa architects known as Stoneshapers invoke the Shadow and the Devourer. They thank the Shadow for weaving stone into their blood and showing them the secrets of working it, while they thank the Devourer for the raw gift of stone itself. Stoneshapers are specialized adepts capable of producing effects like {@spell stone shape}, {@spell mold earth|XGE}, and {@spell meld into stone}."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The Wolfchild",
+													"page": 69,
+													"entries": [
+														"Goblins and kobolds have long been oppressed in the Barrens of Droaam, dismissed as small and weak by the ogres, trolls, and their kin. But there have always been those whose fury and determination to bring down their enemies—no matter their size—has drawn the favor of the Devourer and unlocked the predator within them. Known as the Gaa'taarka, these small champions develop the gift of wild shape. While they are most often associated with wolf form, they aren't limited to it; for example, some Gaa'taarka prefer to scout as hawks or fight as bears. The Gaa'taarka are broadly similar to Moon druids (and you could use that subclass to play a Wolfchild character), but most don't possess the full spellcasting abilities of a druid. Those that can cast spells typically possess magic tied to working with beasts—{@spell beast sense}, {@spell speak with animals}, and similar spells. In the past, Wolfchildren have often served as champions defending their kin from would-be oppressors. In the present, several Gaa'taarka have joined the Great Pack, while others serve with Maenya's Fist. Technically, any devoted creature could become a Gaa'taarka, but their gift is still primarily associated with goblins and kobolds, hence their being described as \"children.\""
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Many Faces of the Devourer",
+									"page": 69,
+									"entries": [
+										"More than any other Sovereign, the interpretation of the Devourer varies dramatically from culture to culture, driven by the relationship of culture and ancestry to the natural world. The Pyrinean interpretation of the Devourer reflects a fundamental fear of the untamed wild, while the sahuagin Sha'argon is the paragon of a culture of carnivores who believe the strong should consume the weak. The Church of the Wyrm Ascendant depicts the Devourer as a dragon turtle while Arawai and Boldrei are traditional dragons; this reflects the fact that the Sovereigns walk among humanoids and guide them, while the Devourer lurks in bitter isolation in the deepest water, sinking ships and lashing the land with hurricanes. Ultimately, a culture's perspective on the Devourer depends on whether they fear nature's wrath or seek to embrace primal power. Here are a few examples:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 69,
+											"items": [
+												{
+													"type": "item",
+													"name": "Rowa of the Jungle Leaves",
+													"nameDot": false,
+													"entries": [
+														"is revered in Xen'drik by the giants of Rushemé, and her worship incorporates aspects of both Arawai, the Fury, and the Devourer. According to {@i City of Stormreach}, Rowa is \"the goddess of life and nature. Rowa is much beloved, but she is given to fits of passion that can drive her into a rage. As a result, storms, wildfires, and other natural disasters are attributed to 'Rowa's wrath.'\""
+													]
+												},
+												{
+													"type": "item",
+													"name": "Shargon",
+													"nameDot": false,
+													"entries": [
+														"the Devourer is acknowledged by the Three Faces of the Wild as the primal force of untamed nature, as discussed in the following section. This Three Faces cult believes that Shargon commands balance between the wild forces of the world and the order civilization brings—and that Shargon must be given his due, or he will take it."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Sha'argon",
+													"nameDot": false,
+													"entries": [
+														"is honored by the sahuagin of the Eternal Dominion. They say he began as a mortal hunter who stalked, killed, and devoured the sahuagin interpretations of Arawai and Balinor, thus claiming dominion over nature. This vision of the Devourer is even more ruthless than his Cazhaak counterpart. The sahuagin razh'ash teach that Sha'argon \"sets the laws of the world, and they are cruel. Life is an endless struggle. The weak will perish in the storm or be consumed by the mighty. Those with cunning and courage can conquer the world itself, and the victor has the right to devour their vanquished foe.\""
+													]
+												}
+											]
+										},
+										"There's no limit to the number of sects that might be out there, each with its own unique interpretation of the Devourer. This diversity of tradition sparks countless perspectives on the relationship between the Devourer, Arawai, and the Fury. A Pyrinean myth suggests the Fury is the child of Arawai and the Devourer—a metaphor reflecting the anguish born when a terrible storm destroys a long-awaited harvest. On the other hand, the Rushemé faith conflates the three into a single deity, while a Droaamite myth asserts that the Fury was born of Eberron's cry of pain when she brought life into being. Priests create myths about the Sovereigns as a way to teach lessons, and those myths vary based on the culture that creates them and the lessons they're passing on.",
+										{
+											"type": "entries",
+											"name": "Three Faces of the Wild",
+											"page": 70,
+											"entries": [
+												"The Three Faces of the Wild is a mystery cult within the Five Nations. Much like its counterparts in other Three Faces cults, it honors members of both Sovereigns and Six: in this case, Arawai, Boldrei, and Shargon (the Devourer). While they acknowledge Shargon as the primal force of untamed nature, he's not considered malevolent: Shargon commands us to respect nature and to maintain the balance between nature and civilization... and should we forget, or disrupt the balance due to greed or ignorance, he will lash out and remind us of nature's might. A destructive hurricane may be punishment for foolishness, but it can also just be a reminder of the power of nature, one we would do well to respect.",
+												"Followers of the Three Faces of the Wild embrace agriculture and animal husbandry, but also assert that the wilds must be respected and preserved. Adherents generally seek balance between civilization and nature, not unlike the Wardens of the Wood. They practice free-range grazing and low-impact farming, opposing any techniques or industrial advances that they see as causing lasting harm to the world. As a result, there have been clashes between these sects and House Vadalis or House Cannith enclaves, as well as opposition to mundane damming and logging operations. While outright violence is rare, this is still a potential source of ecological conflict in the heart of the Five Nations, far from the Eldeen Reaches and the Ashbound.",
+												{
+													"type": "inset",
+													"page": 70,
+													"name": "Three Faces Cults: Secret Societies?",
+													"entries": [
+														"Alongside the Pyrinean Creed's traditional views on the Sovereign Host, several mystery cults exist throughout Khorvaire that honor the Sovereigns and Six alike. These secretive Three Faces sects each honor a member of the Six alongside two Sovereigns. Initiates believe that those three all reflect different faces of the same concept—such as Coin, Love, War, or Wild—and thus all three should be honored. These cults offer not only faith, but also fraternity, serving as secret societies even to members who are disinterested in the religious aspects. But are these \"secret\" societies truly secret? For example, Karrn himself is said to have been a member of the Three Faces of War, so why can't Karrnathi soldiers openly declare themselves to be following in his footsteps?",
+														"The reason for secrecy isn't about fear of dangerous persecution. The Three Faces honor a member of the Dark Six, yes, but in balance with two members of the Host; they are often more devout than most common Vassals. There have been a few points in history when the Three Faces have been persecuted as heretics, but in the present day, the templars and the paladins of Dol Arrah know the Three Faces aren't a threat.",
+														"As a member of the sect, you don't announce it because only those who have been initiated into its mysteries understand it, and only they {@i deserve} to know about it. Initiates understand the context of why they accept their chosen member of the Six as worthy of veneration—but they know that those who don't understand the mysteries will not. So, the first rule of the Three Faces is that {@i you don't talk about the Three Faces}."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "House Lyrandar: The Kraken's Brood",
+											"page": 70,
+											"entries": [
+												"According to House Lyrandar doctrine, the Mark of Storms is a blessing granted by Arawai and Kol Korran, a gift to help the Khoravar prosper. However, a sect within the house holds more sinister beliefs. These cultists claim that their mark is a gift of the Devourer, and that it's intended to be used as a weapon. These Lyrandar believe the Khoravar are meant to assert their dominion over Khorvaire with hurricanes and lightning.",
+												"The sect calls themselves the Kraekovar—the Kraken's Brood—and claim that their greatest visionaries have become krakens who dwell in the deepest waters and guide their followers through visions. Kraekovar heirs learn to use their dragonmarks in unusual and destructive ways with a specialization in lightning. While the Kraekovar believe their power ultimately flows from the Devourer, they don't share any common cause with the Three Faces of the Wild or with zealots. They are loyal to their own elders— whom they believe to be immortal krakens—and to their vision of a nation ruled by Khoravar storm kings.",
+												"Other Lyrandar heirs assert that the abilities of the Kraekovar represent a fundamental corruption of the dragonmark, as the mark isn't meant to be used as a weapon, and they believe this corruption drives the Kraekovar to sociopathic behavior."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Using the Devourer",
+									"page": 70,
+									"entries": [
+										"One of the simplest ways to bring the Devourer into your campaign is to talk about the weather. It's an important part of everyday life, but often ignored in adventures—and the sourcebooks don't go into much detail about what weather to expect in different parts of Khorvaire, so to some degree, you're on your own here. But if you regularly mention the gloomy rains of Sharn, you lay the groundwork for the slowly building threat of a hurricane that somehow resists the power of the Raincaller's Guild. Is a group of Devourer zealots responsible for this threat? Is it the work of the Kraken's Brood (in which case the Raincaller's Guild may have been sabotaged from within)? Can the adventurers find a Storm Herald, and if they do, what'll the herald want in return? A storm at sea, a wildfire threatening an adventurer's home village... when these moments come, will the adventurers embrace superstition and make an offering to the Devourer, or will they spit in the eye of the storm?",
+										"Followers of the Devourer provide an easy source of villains. Zealots can always turn up to shatter cities or strike at the dragonmarked houses. The Kraken's Brood uses primal force in their pursuit of power. A Droaamite worg may honor the Devourer by hunting the most dangerous prey—and they've set their sights on one of the player characters. On the other hand, champions of the Devourer don't have to be enemies. A medusa Stoneshaper could prove an invaluable ally when adventurers are trying to get into a collapsed mine. The Three Faces of the Wild could draw attention to industrial activities that truly threaten a local community. A Droaamite Huntmaster could adopt the adventurers as their temporary pack and guide the party through a dangerous region. Adherents of the Devourer can also just be mysterious—if the adventurers have business in a small community, a Storm Herald could arrive and call for the Devourer's Feast. They say this innocent action will help to protect the village from disaster. Will the adventurers help organize the feast, or will they oppose the herald—and if so, will disaster indeed strike?",
+										{
+											"type": "entries",
+											"name": "Player Characters",
+											"page": 71,
+											"entries": [
+												"Those who honor the Devourer can serve not only as allies, but as compelling player characters. The earlier sections contain many themes that can inspire a character tied to the Devourer. Here are a few more ideas:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 71,
+													"items": [
+														{
+															"type": "item",
+															"name": "Druid",
+															"entries": [
+																"An urban druid might be devoted to the Three Faces of the Wild; or if you're a goblin or kobold, you might play one of the Gaa'taarka as a Moon druid. Have you been sent out on a mission from the Daughters of Sora Kell, or are you just following your instincts?"
+															]
+														},
+														{
+															"type": "item",
+															"name": "Sorcerer",
+															"entries": [
+																"A Storm sorcerer could be a lightning rod, both cursed and blessed by the Devourer; you have power over lightning and wind, but if you stay in one place for too long, disaster follows. Can you find a way to lift this curse ... and if you do, will you lose your gifts as well?"
+															]
+														},
+														{
+															"type": "item",
+															"name": "Warlock",
+															"entries": [
+																"As a Lyrandar Fathomless warlock, you might've been raised in the Kraekovar cult; have you turned against the Kraken's Brood, or are you trying to oppose its corruption from within the system?"
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
