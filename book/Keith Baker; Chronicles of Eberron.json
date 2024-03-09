@@ -4447,6 +4447,144 @@
 									"credit": "Matthew Johnson"
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "The Keeper",
+							"page": 74,
+							"entries": [
+								{
+									"type": "quote",
+									"entries": [
+										"Never flaunt good fortune. Avoid arrogance and pride. Those who crow too loudly may catch the jealous eye of the Keeper."
+									],
+									"by": "Asta Ollen of the Restful Watch"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"What is it you desire? Fine clothes? A grand mansion? Caskets of coins and jewels? Good for you. If these things were bad, they wouldn't exist; and if they're good, what's wrong with wanting them? Why shouldn't a warrior want the strongest armor or the sharpest blade? Why shouldn't a wizard want the biggest library or the finest arcane workshop? The Keeper teaches that you should have all the things you desire—you just have to be willing to pay for them, whether with gold, sweat, or blood. So let's talk about what you desire ... and what you're willing to pay for it."
+									],
+									"by": "Copper Tom, Talon of the Keeper"
+								},
+								"Among the Dark Six, the Keeper is the deity most commonly acknowledged by Vassals. Every funeral acknowledges his presence, and it's common to think of him as the Sovereign of Death—but this is a mistake. In the myths of the Sovereign Host, the Sovereigns {@i fight} death, and they're not fighting the Keeper. He's not the Sovereign of Death, he's first and foremost the Sovereign of Greed; however, one of the things he desires most are souls, and he does use death and all the myriad ways of causing it as a way to get the souls that he desires. Wasting sickness, food poisoning, sheer bad luck—the hand of the Keeper can cause death in countless ways, but all are merely a symptom of the Keeper's greed ... and all can potentially be staved off if you placate him with other treasures.",
+								"{@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} describes the Keeper as \"the patron of those who put personal gain above all else. He guides those who use guile to gain gold, regardless of the cost to others. A rogue who invokes Olladra sees themself as the hero of the story; one who calls on the Keeper has no compunctions about being the villain. Beyond guiding those who place profit before all else, the Keeper is also known for his willingness to make deals— though his bargains are always slanted in his favor. Priests known as Talons make these deals on behalf of the Keeper, though the terms are often abstract and driven purely by faith. An entertainer could bargain with a Talon, exchanging ten years of their life for fame; even if the entertainer subsequently becomes famous, there's no way to know if this is the result of the bargain, nor to anticipate when the entertainer might suddenly die.\"",
+								"So under the Pyrinean Creed, the Keeper plays two very different roles. He's the Stealer of Souls, who must be placated at every funeral. But he's also the Lord of the Hoard, the patron of avarice who's ever ready to make a deal.",
+								{
+									"type": "entries",
+									"name": "Stealer of Souls",
+									"page": 75,
+									"entries": [
+										"As Asta Ollen says, \"those who crow too loudly may catch the jealous eye of the Keeper,\" so Pyrinean teachings encourage humility and thrift. Flaunting wealth or talent draws the attention of the Keeper, and once his eye is upon you, misfortune is sure to follow. If you're lucky, he might just steal your flaunted wealth—or worse, he may desire you, and even the mightiest hero can be laid low by disease or ill fortune. Once the Keeper pulls you down into darkness, he snatches your soul before it can reach Dolurrh and adds you to his endless hoard, where he can toy with and torment you until the end of time.",
+										"On first reading, this might not sound entirely bad. Isn't Dolurrh a place where the soul fades and memories are lost? Aren't souls taken by the Keeper being spared from oblivion? The answer is both yes and no. It's an observable fact that souls fade in Dolurrh—but the question is {@i why}. Vassals maintain that as memories fade, this reflects that soul's transition to a higher level of reality; the soul isn't lost, but joins the Sovereigns. If the Keeper steals you, he steals your chance at paradise ... or even if you don't believe that souls join the Sovereigns, you're still choosing between oblivion or eternal torment at the hands of the Keeper. So most people very reasonably prefer to avoid his grasp.",
+										"While all Pyrinean Vassals acknowledge the threat posed by the Keeper, very few worship him in this aspect; most just want to avoid him. But a few servants of the Keeper can be found in Khorvaire, including Keeper's Fangs and priests of the Restful Watch.",
+										{
+											"type": "entries",
+											"name": "The Restful Watch",
+											"page": 75,
+											"entries": [
+												"Priests of the Restful Watch specialize in embalming, overseeing funerals, and maintaining cemeteries. They can be found in every major city in the Five Nations, and some smaller towns have a devotee of the Watch tending the boneyard. However, they maintain a low profile, so unless you're planning a funeral or robbing a grave, there's little reason to interact with them.",
+												"The doctrine of the Restful Watch is based on the idea that most spirits pass through Dolurrh and into the realm of the Sovereigns, but once someone has entered the realm of the Sovereigns, they can never return. As a result, if Aureon knows that a dead hero will be needed in the future, he has the Keeper snatch the soul before it reaches Dolurrh, intending to restore that hero when the time is right. Thus, initiates of the Restful Watch present themselves first and foremost as servants of Aureon, but they understand the Keeper and help people avoid his grasp. When preparing a funeral, an initiate of the Watch helps the bereaved choose appropriate grave goods or a sacrifice to distract the Keeper and ensure that the soul reaches Dolurrh. For a simple person with few achievements, a single coin might suffice; but the more remarkable the deceased, the greater interest the Keeper will have, requiring a more significant sacrifice to distract him."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Keeper's Fangs",
+											"page": 75,
+											"entries": [
+												"While the Restful Watch operates openly across the Five Nations, others with ties to the Keeper prefer to stay in the shadows. These people feel a closer connection to the Keeper—they hear his voice, receive visions, or simply {@i know} what he wants most of all. Known as Keeper's Fangs, these assassins hunt down and slay anyone marked by the Keeper. They may also be charged to find treasures the Keeper wants to add to his hoard (though it's up to the DM to decide whether the Keeper expects a Fang to immediately sacrifice such an acquired treasure, or if the Fang can make use of the relic for a time before the Keeper claims it).",
+												"In the ancient Sarlonan nation of Pyrine, Keeper's Fangs sold death in exchange for gold. Assassination isn't sanctioned in the Five Nations, but one order of Keeper's Fangs still follows these old traditions and offers their services for coin. These Fangs are few enough in number that House Thuranni generally doesn't see them as a threat to business.",
+												"Today, most Keeper's Fangs aren't assassins, and they have an entirely personal relationship with the Keeper. They see what he wants in visions, and act in the hope of a reward from the Keeper himself. This is a logical path for a Hexblade warlock, whose shadowinfused weapons are a gift from the Keeper. However, it's just as plausible for a {@class cleric|PHB|Death|Death|DMG} cleric, {@class paladin|PHB|Oathbreaker|Oathbreaker|DMG} paladin, or {@class rogue|PHB|Assassin|Assassin|PHB} rogue.",
+												"The {@item Keeper's fang|ExploringEberron} is also a name for a weapon enchantment that prevents resurrection, as described in the {@i Eberron Campaign Setting} and {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}. Some Keeper's Fangs use these weapons in their work, while others possess a supernatural gift that mimics this ability; either way, when they kill someone marked by the Keeper, the soul never reaches Dolurrh.",
+												{
+													"type": "inset",
+													"page": 76,
+													"name": "Blessing of the Fang",
+													"entries": [
+														"According to the myths of the Dark Six, the Keeper covets the souls of the living, and his servants sometimes possess the ability to steal away a creature's soul. These myths are most commonly associated with the {@item Keeper's fang|ExploringEberron} dagger, and {@class rogue|PHB|Dark Petitioner|Dark Petitioner|ChroniclesofEberron} rogues (presented at the end of this chapter) gain a similar ability at 17th level. However, powerful fiends in service of the Keeper's ideals—or even the enigmatic god himself—might bestow loyal followers or fated individuals with the following blessing. Such supernatural gifts are discussed in {@book chapter 7|DMG|7|supernatural gifts} of the {@book Dungeon Master's Guide|DMG}.",
+														{
+															"type": "list",
+															"items": [
+																"{@reward Blessing of the Fang|ChroniclesofEberron}"
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Keeper and the Afterlife",
+											"page": 76,
+											"entries": [
+												"Does the Keeper truly snatch souls on their way to Dolurrh? As with anything tied to the divine, there's no absolute proof. But from the preponderance of myths to the concrete fact of soul-trapping {@item Keeper's fang|ExploringEberron} weapons, it's certainly possible souls might be lost in this way. Stories tell of heroes finding the Lair of the Keeper in the Demon Wastes and negotiating with a skeletal dragon to recover souls lost to {@item Keeper's fang|ExploringEberron}. Perhaps these stories are literally true. Or perhaps the \"Lair of the Keeper\" is a portal to a demiplane ruled by Mazyralyx, the first and most powerful dracolich ... and this mighty creature created the {@item Keeper's fang|ExploringEberron}. Ultimately it's up to the DM to decide—is there anything to a Talon's bargains beyond superstition and coincidence? Can souls be taken by the Keeper, and if so, how can they be recovered?",
+												"In Eberron, death presents another opportunity to bargain with the Keeper. Should a player character die early in their career, the Keeper (or a powerful dracolich or other creature posing as him) could offer resurrection—but at what cost? Alternatively, if player characters have the ability to raise the dead, the Keeper can add an unexpected obstacle. If the Keeper claims a soul, the {@spell raise dead} spell won't work unless the Keeper chooses to release the soul ... and to convince him, the cleric must make a difficult bargain."
+											]
+										},
+										{
+											"type": "inset",
+											"page": 76,
+											"name": "Necromancy and the Dark Six",
+											"entries": [
+												"Necromancy has a sinister reputation in the Five Nations. Among Vassals, arcane necromancy is associated with the Shadow, while divine necromancy (such as a cleric with the {@class cleric|PHB|Death|Death|DMG} domain) is usually tied to the Keeper. Outside the Sovereigns and Six, divine necromancy is usually associated with the Blood of Vol, and during the Last War, only Karrnath employed necromancy.",
+												"Common folk shun necromancy for many reasons—after all, undead are a real, dangerous force in the world. {@creature Ghoul|MM|Ghouls}, {@creature shadow|MM|shadows}, and {@creature wraith|MM|wraiths} are all concrete threats, and undead thus trigger instinctive fear in most people. Compounding this, many people believe that the spirits of the dead ultimately reach some form of peace beyond Dolurrh—whether with the Sovereigns or the Silver Flame—so any sort of magic that interacts with the dead may disturb that rest. Vassals also tend to inter their dead and find the manipulation of corpses to be disrespectful and revolting.",
+												"The practice of necromancy isn't illegal in the Five Nations, just unsavory. As with all magic, the crime is determined by how you use your spells. A cleric of the Blood of Vol can't be arrested for having a skeleton companion—but desecrating corpses is illegal, so guards could demand to see evidence of your claim to the corpse! The common reaction to other spells depends on the manifestation of the spell. Rationally, a {@spell ray of enfeeblement} is no more or less evil than a {@spell scorching ray} ... but if it manifests as a bolt of screeching shadows that seems to weaken its victim by sapping their soul, people will say it's the work of the Shadow or the Keeper. The {@spell scorching ray} may actually be deadlier than the {@spell ray of enfeeblement}, but at least it's good, honest fire.",
+												"Atur in Karrnath is the primary center for necromantic research in the Five Nations, but Arcanix has its own school of necromancy—albeit its smallest and least funded. This school primarily focuses on \"passive\" necromancy, such as the {@spell speak with dead} spell, rather than on offensive magic."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Grave Robbing in Khorvaire",
+											"page": 76,
+											"entries": [
+												"Since Vassals bury treasures with their dead to distract the Keeper, why isn't grave robbing widespread? For Vassals, superstition is the primary deterrent. People bury goods with a loved one's corpse so the Keeper claims the treasures instead of the soul—and if you rob that grave, you're stealing from the Keeper directly. Even though the Keeper doesn't physically snatch buried items from graves, Vassals believe he lays claim to them as part of his scattered worldwide hoard. If you steal from that hoard, he may choose to take back his treasure with interest.",
+												"As a result, tales abound of grave robbers cursed by the Keeper. Sometimes the thief contracts a wasting disease or suffers deadly bad luck (perhaps when the character rolls a 1 on an attack roll, they target themself with the attack; when they roll a 1 on a saving throw, they suffer twice the usual damage or harmful effects; and when they roll a 1 on an ability check, their failure has dangerous consequences). Other times they're targeted by random violence, often muggings or other acts driven by greed. And if a magic item is stolen, the touch of the Keeper may twist the enchantments—so if you find the tomb of Breggor Firstking and steal his legendary sword from the Keeper's hoard there, it may become a cursed {@item sword of vengeance}.",
+												"These are ways the Keeper's curse {@i could} manifest... but that doesn't mean it {@i will}. Vassals know that not everyone who steals from a grave dies horribly, but why would you take that chance? Beyond that risk, commoner graves rarely hold valuable treasures; they might have a few copper coins, but most of these grave goods are selected for their value to the deceased. A small portrait of a child might have been terribly important to the person who died, but a thief will be lucky to pawn the frame for a few galifars—is it worth the risk?",
+												"In the case of a wealthy merchant or prince, sometimes the risk is worth it. Such figures have more significant treasures in their tomb, but Vassal cemeteries are often guarded by members of the Restful Watch. Graves that contain significant wealth may also implement other protections; this could be as simple as an {@spell alarm} summoning the Restful Watch or an {@spell arcane lock} placed on the coffin, or it could be more dramatic or dangerous. A {@spell magic mouth} could address anyone who enters a crypt, sounding an alarm if they're not recognized. A {@spell glyph of warding} could {@spell summon shadowspawn|TCE}. In the case of a truly celebrated hero or noble, a crypt could hold a veritable maze of traps and wards—an adventure in the making! \"You need to get into the crypt of the first Queen of Metrol to recover the sword that was buried with her. But can you get past the many traps, and is the blade's power still intact?\""
+											]
+										},
+										{
+											"type": "inset",
+											"name": "The Keeper, the Blood of Vol, and Katashka the Gatekeeper",
+											"page": 77,
+											"entries": [
+												"On the surface, the Keeper, the Blood of Vol, and the overlord Katashka are all associated with death and necromancy. The uninformed often assume their cults would be allies, but in practice, these three are very different from one another.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 77,
+													"items": [
+														{
+															"type": "item",
+															"name": "The Blood of Vol",
+															"nameDot": false,
+															"entries": [
+																"centers around the belief that people should fight against death, not embrace it. Seekers use necromancy in part to avoid oblivion, but also because there's poetic justice in animating the dead to protect the living— \"even though their lives were lost, they rise again to protect their people.\" Seekers despise followers of Katashka and the Keeper. They believe that all Sovereigns are cruel beings who torment mortals with disease and suffering; the Keeper just does it openly."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Katashka the Gatekeeper",
+															"nameDot": false,
+															"entries": [
+																"thrives on mortal fears of death and the undead. Katashkan necromancers revel in their dominion over the dead and in the terror their spells can cause. Of these three cults, the followers of Katashka are the ones most likely to engage in unnecessary cruelty and to create horrific new forms of undead; their ability to terrify others is a source of joy."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Keeper cultists",
+															"nameDot": false,
+															"entries": [
+																"have no love for Katashka or the Blood of Vol. Priests of the Keeper typically use necromancy spells to weaken or kill enemies directly, or to speak with the dead. They can create undead—it's seen as the Keeper temporarily releasing a spirit from its hoard—but few actually enjoy the company of undead. After all, the Keeper's signature move is stealing souls, not animating corpses. And the Keeper cultists who honor him as the Lord of the Hoard may not use necromancy at all, as their interests lie in the realm of wealth, not death."
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
