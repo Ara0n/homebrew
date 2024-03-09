@@ -4969,6 +4969,197 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "The Shadow",
+							"page": 84,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0038.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"The Shadow was the first of the Dark Six. As Aureon drew words of power in the blood of Siberys, his shadow traced sigils in the blood of Khyber. As Aureon gained power, the darkness in his heart gained strength and sapience. The Shadow's whispers led the Mockery down his dark path and stoked the anger of the Devourer. The Shadow's gifts gave the harpy a voice that lures innocents to their doom, and gave the medusa her deadly gaze. For the Shadow is the maker of monsters—and it can make monsters of any of us, tempting us down evil paths. Aureon and Dol Arrah show us the path to the greater good, while the Shadow urges us to give in to our own darkness. It's up to you to walk in the light and to take the higher road."
+									],
+									"by": "Halas Molan, High Priest of Wroat"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"Eat your vegetables. Look both ways before crossing the street. Don't learn that spell, it's dangerous! Aureon, the king, the judge, the teacher ... the world is filled with people telling you what to do, people who want to impose their laws on your life. They say the Shadow urges you to do evil, but who decides what's evil? The Shadow wants you to achieve your full potential, to live your best life— not to be limited by lesser people and their laws. And if that makes you a \"monster\" in their eyes, so be it."
+									],
+									"by": "Thalanna of Sharn"
+								},
+								"{@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} describes that \"the war between the Shadow and Aureon rages in all of us. Aureon's voice tells us that we're stronger together, that it's worth it to suffer for the sake of the common good. The Shadow whispers that there is no common good—all that matters is what you need and what you can do. Why should you make sacrifices for others instead of doing what's best for yourself? Why should you give when you can take?\"",
+								"In the Pyrinean tradition of the Five Nations, the Shadow is broadly responsible for evil within the world. The Sovereigns banished and bound the overlords of the first age, but the Shadow is part of Aureon and couldn't be destroyed; metaphorically, this reflects that the potential for evil is in everyone. But as with all the Dark Six, the Shadow has different aspects: the Sovereign of Ambition, the Tempter, the Keeper of Secrets, and the Maker of Monsters.",
+								{
+									"type": "entries",
+									"name": "Ambition and Temptation",
+									"page": 85,
+									"entries": [
+										"The Shadow is the source of ambition, the voice that urges you to achieve greater things. A little ambition can be a good thing, but the Shadow is never satisfied. It embodies the hunger to succeed regardless of the cost to yourself or others. Those who revere the Shadow emphasize this as a positive trait: the Shadow will show you the path to power, how to be the best that you can be. But how far will you go? Would you murder your boss if it's the only way to advance? What if you can simply ruin their reputation with a lie? Would you employ dark magic even if you know each spell you cast takes a year off an innocent person's life? This is how ambition becomes a pathway to temptation.",
+										"But what's the purpose of temptation? Why does the Shadow want to lead you astray, and why should its followers care about you? According to the Pyrinean Creed, Dolurrh isn't the end of existence. Most Vassals believe that Dolurrh is a place where the soul transitions to a higher level of existence: the realm of the Sovereigns. Some believe that this is a true afterlife based on the concept of each Sovereign: that Arawai and Balinor govern a realm of perfect nature, while Aureon presides over a grand assembly of courts and libraries. Others believe that Vassals become part of the Sovereign they most resemble—that the soul of the sage becomes one with Aureon. But one led astray by the Shadow becomes part of the Shadow. This might mean dissolution of the soul or eternity trapped in a formless void; either way, it's not going to be fun. Of course, as with all things related to the Sovereigns, there's no absolute proof of this ... and a devotee of the Shadow will tell you followers of Aureon just use that story to control you. Are you going to let fear keep you from achieving your ambitions?",
+										{
+											"type": "entries",
+											"name": "Shadowtongues",
+											"page": 85,
+											"entries": [
+												"Those who follow this aspect of the Shadow often call themselves mentors, but others refer to them as tempters or Shadowtongues. A tempter specializes in helping others find a path to power, while always driving them toward the darkest path. While this has some overlap with a Talon of the Keeper, there are significant differences between the two. A Talon negotiates a deal with explicit terms and benefits: \"your inn will prosper, and in exchange, you'll die at the age of forty and the Keeper will take your soul.\" By contrast, a tempter doesn't make a specific promise or ask you for anything in return—they simply offer advice, helping you figure out how to solve your problem or achieve your goal yourself. But in the process, they urge you to follow darker and darker paths, driving you to become a monster.",
+												"Some tempters believe their powers are gifts from the Shadow, and the Shadow whispers to them, telling them who to corrupt. Other tempters trust that the Shadow rewards them for their work, but they don't have direct interaction with the Shadow or an immortal emissary."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Keeper of Secrets",
+									"page": 85,
+									"entries": [
+										"Aureon is the Sovereign of Knowledge, using science (arcane and otherwise) to build a better world. As the dark side of Aureon, the Shadow is also the Sovereign of Knowledge... specifically, of the knowledge you {@i shouldn't} know. The Shadow knows the evil that lurks in the hearts of mortals. It knows who killed your parents. It knows what your lover really thinks about you. And it knows secrets of magic that Aureon won't share— techniques that can provide power, but at a cost. This desire is one of the main things that can draw a Vassal to invoke the Shadow: the desire to gain knowledge they know they shouldn't seek.",
+										"In dealing with a priest of the Shadow—NPC or player character—consider that they may have gifts that aren't measured in spell slots or class abilities. A priest of the Shadow may regularly receive revelations about the people around them or the world. But unlike an {@spell augury} or {@spell commune} spell, the priest doesn't ask for this knowledge and has no control over it. Sometimes this knowledge is useful, but just as often, it reveals things you don't actually want to know—knowledge that will hurt people if you share it. People with such a connection to the Shadow often end up as fixers in the criminal underworld; are you willing to pay the price they demand for their knowledge?",
+										{
+											"type": "entries",
+											"name": "Forbidden Gifts",
+											"page": 85,
+											"entries": [
+												"As DM, you might use a revelation from the Shadow— perhaps in a dream or vision—to introduce forbidden gifts into the campaign. The \"{@book Character Options|ChroniclesofEberron|13|Character Options}\" section at the end of this chapter contains a feat that grants {@filter forbidden Metamagic|optionalfeatures|source=ChroniclesofEberron|feature type=mm} options; though a player might choose these as part of their character's standard class progression, you could also grant these benefits as a supernatural gift (discussed in {@book chapter 7|DMG|7|Supernatural Gift} of the {@book Dungeon Master's Guide|DMG}). Alternatively, the Shadow might bestow one or more additional spells on a character (perhaps from the \"{@book Spells of the Six|ChroniclesofEberron|13|Spells of the Six}\" section of this chapter). It could even grant a spellcaster the ability to increase the power of any spell they know—as if it were cast using a higher-level spell slot—once per long rest ... but every time they're used, these powers could come at a cost. The \"{@variantrule Forbidden Magic Costs|ChroniclesofEberron|Optional Rule: Forbidden Magic Costs}\" sidebar presents ideas about how such forbidden gifts might impact your game in dark and horrifying ways—if you and your players all agree that's a story you'd like to explore together.",
+												{
+													"type": "list",
+													"items": [
+														"{@variantrule Forbidden Magic Costs|ChroniclesofEberron|Optional Rule: Forbidden Magic Costs}"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Maker of Monsters",
+									"page": 86,
+									"entries": [
+										"Through temptation, the Shadow can transform anyone into a monster—but the Shadow is also infamous for unleashing monsters into the world. Though the definition of \"monster\" varies by culture, the Shadow's influence is seen when malevolent magic twists nature; thus, \"monster\" usually includes most aberrations and monstrosities, along with giants and humanoids that are seen as evil by the culture in question. Mythologically, the idea is that the Shadow took evil humanoids and transformed them into harpies, medusas, hags, and the like. A host of myths detail these monstrous origin stories. However, these aren't only myths, they're in many cases provably false; certain creatures are known to be the creations of specific overlords or daelkyr. But it isn't always possible to prove a creature's ancestral origins; many scholars assert that the daelkyr Orlaask created medusas, while the medusas themselves attribute their powers to the Shadow.",
+										"It's crucial to recognize that this view of \"monster\" reflects the casual prejudices of the Pyrinean Creed—it is a dismissive label driven by fear. In Eberron, {@creature medusa|MM|medusas}, {@creature harpy|MM|harpies}, {@creature troll|MM|trolls}, and other such \"monstrous\" creatures are no more or less evil than any human. In fact, the Cazhaak faith asserts that it's humanity who suffers in lacking the wondrous supernatural gifts of the so-called monsters. Even within the Five Nations, the work of House Tharashk and the Dragonne's Roar have brought more people into everyday contact with beings they were taught to see as monsters, and more continue to realize that this is a false and close-minded label."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Many Faces of the Shadow",
+									"page": 86,
+									"entries": [
+										"The above sections focus on the common perspective on the Shadow within the Five Nations. However, the Cazhaak tradition views the Shadow in a different light than does the Pyrinean Creed, most notably by dropping the aspect of the tempter. In Droaam, priests of the Shadow—known as Voices of the Shadow—assert that knowledge is power, that people should pursue their ambition and that there should be no limits on knowledge. But they scoff at the idea that the Shadow tempts people to do evil; that's the product of a civilization that's bound and blinded by its laws and moral codes, that fears ambition and instinct.",
+										"The various peoples of the Barrens have long had diverse interpretations of the Nine and Six, as discussed in \"The Cazhaak Faith\" at the beginning of this chapter. When Droaam was unified, the Cazhaak faith essentially became the state religion. People are free to revere whichever gods they wish, but Voices of the Shadow fill the role of spiritual leaders. These priests are typically {@creature medusa|MM|medusas} or {@creature oni}; while the position isn't restricted to them, the Cazhaak medusas are the most devout of the peoples of Droaam, while many oni believe that their powerful innate abilities prove they are favored by the Shadow. The Shadow is the foremost of the Six, and in addition to its traditional spheres of magic and knowledge, the Shadow is generally considered to be a guide and guardian to monstrous creatures. As such, a medusa cleric of the Shadow might have the {@class cleric|PHB|Life|Life|PHB} domain, because she sees the Shadow as being the bringer of life to her people.",
+										"A Voice of the Shadow reveres all members of the Six and invokes all of them when it is appropriate—though they also seek to mitigate some of the more extreme behaviors of the lesser faiths. So a medusa priestess might approach a Last Dirge harpy who's just come to Graywall and say \"I recognize your devotion to the Song. Here in Graywall, we know her as the Fury; let me teach you ways to honor her that won't get you killed.\"",
+										{
+											"type": "entries",
+											"name": "Three Faces of Knowledge",
+											"page": 87,
+											"entries": [
+												"The Three Faces of Knowledge is a cult devoted to Aureon, Onatar, and the Shadow (who the sect knows by no other name). This sect is the smallest and most secretive of the Three Faces cults. Their principles are simple: Aureon is the Teacher, who holds laws, history, articles of faith, and all the shared information that shapes a society. Onatar is the Builder, who puts knowledge to concrete purpose. And the Shadow hides those things that must be concealed, the secrets that could tear down civilization. Members of the Three Faces of Knowledge believe all things should be known—but there are secrets that should only be held by those who can use these insights wisely.",
+												"As with all the Three Faces cults, most initiates believe they are blessed by a particular Sovereign. Those tied to Aureon are often teachers, historians, or scribes; they seek to record and disseminate knowledge. Initiates of Onatar apply arcane knowledge to everyday life as magewrights, artificers, and wizards. Initiates of the Shadow are the rarest—and rarely seen. These devotees seek out secrets but also conceal them; they can often be found as archivists or librarians, positions where they can carefully bury or hide knowledge they feel must be kept secret. With that said, initiates won't risk vital knowledge being lost forever; secrets may be hidden, but they won't be destroyed.",
+												"The adventurers might encounter the Three Faces of Knowledge when the sect approaches one of them as a potential initiate—likely a character with the sage background or one who pioneers new arcane techniques. On the other hand, the adventurers might need information the Three Faces have decided must be hidden; can they expose the conspiracy in the Morgrave stacks?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Marhu Nasaar: Emperor of Night",
+											"page": 87,
+											"entries": [
+												"Worship of the Shadow has deep roots in Darguun, but the Darguul interpretation of the Shadow is different from both the Cazhaak and Pyrinean traditions. In Darguun, the Shadow is seen as a patron of all those who prosper in darkness—of those creatures and cultures who have no fear of the night or lightless tunnels. The Darguul formally call the Shadow the Marhu Nasaar, Emperor of Night.",
+												"This faith broadly aligns with the Cazhaak view of the Shadow as the patron of so-called monsters, but most Darguuls don't bother with the extended pantheon. Aside from them honoring the Mockery as the Lord of Cunning and Victory, they see the Shadow as a deity who can be invoked in any time and space—though it's well known that the blessings of the Shadow hold little weight when the sun is high and the skies are clear."
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"page": 87,
+									"name": "The Shadow and the Overlords",
+									"entries": [
+										"The Shadow has specific overlap with two of the best-known overlords of the first age of the world. Sul Khatesh is also known as the Keeper of Secrets and said to be a source of both arcane knowledge and things best kept hidden. Meanwhile, Bel Shalor is known as the Shadow in the Flame and specializes in temptation.",
+										"Some scholars assert that the myths of the Shadow are actually based on interactions between draconic champions and overlords—so the story of Aureon learning magic may actually be based on a bargain between the dragon Ourelonastrix and Sul Khatesh. It's up to the DM to decide whether there's any truth to these tales, but regardless, Sul Khatesh and Bel Shalor are concrete, very real entities that can serve in the role of the Shadow ... and warlocks or cults that believe they're dealing with the Shadow could easily be working with one of these archfiends."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Using the Shadow",
+									"page": 87,
+									"entries": [
+										"So how can you use the Shadow in a campaign? What would a villain devoted to the Shadow actually {@i want}?",
+										"In many cases, a servant of the Shadow may be an instigator as opposed to the primary villain. A tempter drives others to do evil and helps facilitate their plans. A priest of the Keeper of Secrets may serve as a general fixer in the criminal underworld, but can also set trouble in motion by revealing a secret. Combined with their knowledge of dark magic, such a character could be an interesting frenemy for a group of player characters. Consider Thalanna, a human priestess at Sharn's shrine of the Shadow. She's known as a reliable source of information about the underworld, always willing to share her knowledge ... for a price. But she may also approach the adventurers and simply tell them things. Did they know that Ilya Boromar is going to assassinate Saidan Boromar tonight? Did they know that their recently murdered friend was killed by Thora Tarkanan? Thalanna has nothing personal to gain by sharing this information, but she enjoys setting wheels in motion. And Thalanna can offer to teach a wizard character a few things they won't learn in Arcanix—these secrets are powerful, but is the character willing to pay the price?",
+										"Shadow sects can also fill the classic role of the warlock coven or the infernal bargain ... people being granted mystical power in exchange for performing malevolent actions. Often this is about ambition—getting the power you need to fulfill your darkest desires—but it can also be driven by fear. The leader of a warlock coven may play on fears of the Mourning, refugees, or even monsters. Join them and they'll teach you the magic you need to protect yourself! As mentioned in the \"The Shadow and the Overlords\" sidebar, such a cult could have connections to the Lords of Dust, either Sul Khatesh or Bel Shalor.",
+										"Another Shadow-driven villain is the wizard who is determined to unlock ultimate arcane power, regardless of cost. Such a character could even have a noble goal; for example, a wizard who believes they must unlock the power of the Mourning so they can prevent it from spreading or being harnessed by one of the Five Nations. Regardless of motives, this character becomes consumed by their ambition and doesn't care who they hurt in pursuit of their goal. Perhaps they need to open a manifest zone to Mabar in the middle of Sharn to complete a ritual or learn a secret—despite knowing this will break Sharn's connection to Syrania and bring down the towers. It doesn't matter, because the knowledge they acquire will help them save the entire world!",
+										"To be clear: these examples are extremes. There are some who offer prayers to the Shadow who aren't warlocks or wizards, who don't seek to tempt others or destroy the world. The ultimate principle of the Shadow is that nothing is forbidden, so you shouldn't let laws or the dictates of society hinder your ambition. Do you believe you'd do a better job than your boss, but it's going to take decades to get there if you follow the system? The Shadow tells you the system is the problem.",
+										"Additionally, the Shadow embraces those others call \"monsters\"—you needn't be evil to be drawn to it, simply seeking a place to call your own. While the Mockery and the Keeper can be patrons for criminals driven by greed or violence, the Shadow is a patron for anyone who feels they stand apart from Boldrei and Aureon—perhaps they haven't found a place in their community, or feel that the laws only exist to hold them back. In this, there's some overlap with the Traveler; the Traveler encourages people to challenge systems and to drive change, while the Shadow is more about pursuing personal ambition.",
+										{
+											"type": "inset",
+											"page": 88,
+											"name": "Long Shadows",
+											"entries": [
+												"{@i Sharn: City of Towers} mentions several \"holidays\" in Eberron, including Long Shadows, which spans three nights from Vult 26th–28th. It's said that during this time, the power of the Shadow is at its peak; malevolent magics are stronger and \"monsters\" are free to act (this can include those born monsters and those who have become monsters). It's up to the DM to decide what truth there is to this superstition. Perhaps saving throws against any sort of \"dark magic\" have disadvantage during this time. Maybe those who act with evil intent receive supernatural benefits like advantage on some rolls. Perhaps there are mystic rituals that can only be performed on these nights. In any case, on these three nights, good folk tend to stay inside and huddle around the fire while the forces of evil rise up and take action."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Player Characters",
+											"page": 88,
+											"entries": [
+												"The Shadow can be tied to many interesting character concepts: the scholar pursuing knowledge at any cost, the character shaped by a past bargain who now seeks redemption, or the bard who sees the Shadow as the source of knowledge and freedom, doing good but on their own terms. The \"{@book Forbidden Feat|ChroniclesofEberron|13|Forbidden Feat}\" and \"{@book Forbidden Metamagic|ChroniclesofEberron|13|Forbidden Metamagic}\" sections at the end of this chapter present new options for a spellcaster who has received secret knowledge from the Shadow. Here are some other ideas to consider.",
+												{
+													"type": "entries",
+													"name": "Driven by Ambition",
+													"page": 88,
+													"entries": [
+														"A rogue might be a casual supporter of the Shadow, asserting that laws are for other people; alternatively, you could create a more devoted rogue using the {@class rogue|PHB|Dark Petitioner|Dark Petitioner|ChroniclesofEberron} subclass at the end of this chapter. A {@class paladin|PHB|Conquest|Conquest|XGE} paladin might be willing to use the power of the Shadow to seize their ambition; this would-be tyrant believes the Shadow is giving them the power they need to achieve their ambitions... will they have a change of heart along the way? Keep in mind that what separates a paladin of the Shadow from a paladin of the Mockery is the focus on power rather than war. Where a Mockery paladin lives for conflict, the Shadow paladin is only concerned with the end result."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Monster Maker",
+													"page": 88,
+													"entries": [
+														"The Shadow is known for creating monsters—so wizards and warlocks who are seeking to create monsters themselves might gravitate toward it. The warlock Pact of the Chain can be reflavored to suggest that the character created their familiar."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Secret Seeker",
+													"page": 88,
+													"entries": [
+														"{@class cleric|PHB|Knowledge|Knowledge|PHB} clerics and {@class bard|PHB|Whispers|Whispers|XGE} bards are both sound paths for a character who pursues the arcane secrets of the Shadow. The College of {@class bard|PHB|Lore|Lore|PHB} is also a reasonable option; your Cutting Words ability can reflect your whispered knowledge of their weakness or another secret that causes them to stumble.",
+														"The Shadow is particularly known for teaching dark techniques that are shunned by good people. At a simple level, this makes the Shadow an excellent patron for warlocks who are sacrificing to gain mystical power—and who expect to use that power for malevolent purposes. Because this is about deadly power, the actual \"patron\" is flexible; {@class warlock|PHB|Fiend|Fiend|PHB} or {@class warlock|PHB|Hexblade|Hexblade|XGE} both work, and as noted above, an {@class warlock|PHB|Archfey|Archfey|PHB} warlock could reflect powers of coercion and deception as opposed to an actual tie to the fey. Like all gods of Eberron, the Shadow won't actually manifest to a warlock—but the warlock may believe they have a direct channel to the Shadow; they could have a sinister spirit acting as an emissary of the Shadow, or they might actually be working for the overlord Sul Khatesh."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tempter",
+													"page": 88,
+													"entries": [
+														"Tempters are typically villains, and they facilitate the evil actions of others. But it's a possible path for a player character, albeit a dark one. A tempter emphasizes choice and freedom; they may excel at solving problems and help other characters achieve noble goals, but as a follower of the Shadow, they believe that nothing is forbidden. Such a character could even be searching for light in the darkness—tempting in the hopes of finding someone who resists corruption.",
+														"A skilled tempter character needs to know secret paths to power and to have the charm to convince others to follow them. As such a tempter, you could be a cleric of the {@class cleric|PHB|Aspiration|Aspiration|ChroniclesofEberron} domain, presented at the end of this chapter; the {@class cleric|PHB|Knowledge|Knowledge|PHB} or {@class cleric|PHB|Trickery|Trickery|PHB} domain are also reasonable options. As a warlock, you could use the {@class warlock|PHB|Archfey|Archfey|PHB} patron to reflect a talent for beguiling others and slipping into the shadows. A bard of the Shadow would likely be of the College of {@class bard|PHB|Whispers|Whispers|XGE}.",
+														"Alternately, a player character could be haunted by a previous encounter with a tempter who helped them achieve whatever position or power they hold today. Is this character permanently tainted by the actions they took to achieve their ambition? Or can they find redemption?"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Unexpected Gifts",
+													"page": 89,
+													"entries": [
+														"The {@class sorcerer|PHB|Shadow|Shadow|XGE} sorcerer is a logical servant of the Shadow; but it's possible this power was given to you involuntarily. Perhaps your parents were Shadow cultists, and you're the result of a terrible ritual—but are you doomed to be consumed by evil, or can you use your power in the service of the light? Beyond this, any wizard can be presented as having received unexpected inspiration from the Shadow. You'd never have mastered necromancy on your own, but you woke from a dream and realized you understood it."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
