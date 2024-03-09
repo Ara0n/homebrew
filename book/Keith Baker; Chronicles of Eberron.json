@@ -4296,6 +4296,157 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "The Fury",
+							"page": 71,
+							"entries": [
+								{
+									"type": "quote",
+									"entries": [
+										"When I found my lover murdered, I gave myself to the Fury. I don't remember the rest of the night. But I regret nothing, and I thank the Dark Lady that justice was done."
+									],
+									"by": "Lady Cyra ir'Tain, at her trial"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"You know what you want to do. You know what you need to do. But you bury your heart with your fears and your logic and your laws. You are afraid to be what you truly are, to take the path that comes without thinking. Follow it now. Think no more. Feel and act."
+									],
+									"by": "Sarvus'kor, kobold priestess"
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0035.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
+								"{@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} describes the Fury as \"a silent whisper that can drive you to doubt or despair. She is reckless rage and all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control.\"",
+								"As with all the Dark Six, Vassals who worship the Sovereign Host acknowledge the Fury. To them, she's the source of any unbalanced emotion; someone consumed by despair is carrying the Fury on his shoulders, while someone who lets anger drive her to rash action has given the reins to the Fury. Though love is commonly considered a positive emotion, in the hands of the Fury, it is wild and dangerous. Just as there are Three Faces of War, there are Three Faces of Love: Boldrei is the love that binds, Arawai is the love that brings life, and Szorawai—the Fury—is the love that burns.",
+								"So people of the Five Nations typically guard against the Fury; she must be contained and controlled lest she leave your life in ruins. But she is a part of the world, and there are those who choose to embrace her. While there are priests of the Fury—especially along the path of the Revelers—most people find the Fury on their own. You don't need a priest to speak to the Fury, for she's part of you, already speaking through your rage and your sorrow. You simply need to listen.",
+								{
+									"type": "entries",
+									"name": "Sovereign of Revenge",
+									"page": 71,
+									"entries": [
+										"The Fury is there whenever you suffer pain or anguish. Aureon's laws provide a path for order in society, and Dol Arrah guides the justiciar. But perhaps you feel the forces of the law are corrupt and won't ever punish your enemy. Perhaps the wrong that's been done to you isn't legally a crime, but you still want someone to pay for the pain they've caused. Or perhaps you don't want justice—you want bitter and bloody revenge, to make your enemy suffer the pain they've inflicted on you a thousand times over.",
+										"In some cultures—certainly in parts of Droaam and Darguun—revenge and justice are seen as one and the same; it's understood that anyone who is harmed has the right to revenge, and the Fury promises that vengeance. Within the Five Nations, people don't generally revere the Fury, as they support clear laws and frown on vigilante justice ... but even such Vassals certainly acknowledge her presence and her power. She's typically seen as something you should fight against: bite back your anger, overcome your despair, and trust in the law to see that justice is done. So you're unlikely to find a priest of the Fury on the streets of the Five Nations, and even a paladin who acts as a vengeful hand (described below) may not announce that, knowing that acting in the name of the Fury doesn't let them get away with murder. But people don't need a priest of the Fury to hear her voice.",
+										{
+											"type": "entries",
+											"name": "Crimson Candles",
+											"page": 72,
+											"entries": [
+												"In the Five Nations, the crimson candle is urban legend as much as it is myth: if you've been wronged, you can engrave the name of the person you seek vengeance on into a red candle, blend a drop of your blood with the wax, and leave the lit candle in your window. This serves as a symbol that the Fury burns within you, demanding vengeance on the person you named. In some stories, this candle simply calls for the Fury to take vengeance for you, acting through environmental forces; if your target falls from a horse the next day, that's the Fury answering your prayers. Other tales claim a hidden order of assassins roam Khorvaire to fulfill the promise of the crimson candle.",
+												"In either case, when invoking the Fury, you understand that you have no control over what form the vengeance will take or how many people will be hurt in the process. After all, you don't seek justice, but vengeance—and while that comes with a price, you may not be the one who pays it. The Fury doesn't eliminate pain and suffering; she spreads it and magnifies it. Because of this, the crimson candle isn't used lightly; placing the candle in your window is a public declaration that you want revenge and you don't care about the cost or who knows it. And in so doing, the person named on the candle faces an ultimatum: will they try to make amends and convince their victim to extinguish the candle before the Fury takes notice of the plea?",
+												"Putting a crimson candle in your window is usually seen as a cry for help or an act of protest, not heresy that needs to be punished. If adventurers enter a village and find dozens of red candles burning in the windows, any character from the Five Nations would recognize it as a sign that something is terribly wrong."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Vengeful Hands",
+											"page": 72,
+											"entries": [
+												"The crimson candle is an intentional invocation of the Fury, a request for someone (or something) else to enact vengeance. But stories also tell of \"vengeful hands\"—people being terribly wronged and surrendering entirely to the Fury, abandoning moral principles and personal responsibility until vengeance is obtained. According to these tales, a vengeful hand becomes a vessel for the Fury's power and is capable of superhuman feats. It's up to the DM to decide whether there's any truth to these tales, but if so, such an occurrence would be incredibly uncommon. Anyone can claim the voice of the Fury drove them to rash action, but a vengeful hand is truly gripped by an unquenchable focus on revenge, to the exclusion of rational thought. Regardless of whether others believe such a state is divine, many sympathize with a vengeful hand and understand they wouldn't commit such horrific crimes under other circumstances—but this doesn't excuse the crimes they commit in pursuit of revenge.",
+												"When creating such a character, consider what fuels their need for vengeance and what might fulfill it. For example, if you're driven by a desire for vengeance against Erandis Vol, you might have no idea where Vol is nor possess the personal power to bring her down— in which case, you could devote yourself to fighting the entire Emerald Claw until the path to Vol is made clear. Or if a criminal killed your parents, you could devote yourself to wreaking vengeance on all criminals. If you're driven by the Fury, you don't care about the cost of revenge, and you're not seeking \"fair\" punishment; your quest is raining down pain and suffering on those who wronged you. Will you ever reach the end of that dark path? Or is your need for vengeance an allconsuming flame?"
+											]
+										},
+										{
+											"type": "inset",
+											"page": 72,
+											"name": "Vassal Offerings to the Fury",
+											"entries": [
+												"Boldrei is the patron of mediators and therapists, those who help maintain peace within a community and help people overcome negative emotions. However, not all turn to Boldrei in the midst of overwhelming emotion. Much like some Vassals make a sacrifice to the Devourer in the face of an oncoming storm, begging the Devourer to turn his rage to someone else, some do the same for the Fury. They don't expect the storm of emotions to suddenly stop; rather, they hope to burden someone else instead.",
+												"Simple altars to the Fury can be found hidden in Vassal communities. The principle is simple: if you're dealing with an emotion you can't handle, you can make a sacrifice—and if it's accepted, your pain will be given to someone else. This practice is largely reviled because it's a zero-sum game; {@i someone} will suffer your sorrow or despair. But if you're willing to pass your pain to a stranger, it's a possibility. Such an altar can also be used to beg the Fury to ignite a spark of passion in an object of affection; but as always, the love of the Fury is wild and uncontrollable, and such a prayer often leaves ashes in its wake."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sovereign of Revels",
+									"page": 72,
+									"entries": [
+										"Structured societies typically fear the Fury, seeing her influence as disruptive. However, some consider the overwhelming fervor she brings to be a virtue; this belief is more common in Droaam than in the Five Nations. This path asserts that {@i fighting} the Fury is what brings pain. Aureon's laws are chains. Break them. Let your instincts guide you, experience your emotions fully, and you'll know a freedom others can't imagine. Adherents are encouraged to act without thinking, to trust impulse and instinct. Whether you feel sorrow or anger, embrace it and follow where it leads.",
+										"Such public followers of the Fury often engage in fevered celebrations. Outsiders generally call these frenzies, describing them as a dangerous and immoral blend of celebration, orgy, and riot. But those who participate call these events revels, and themselves Revelers. One aspect of a revel is the experience of unbridled joy—for {@i all} extreme emotions are the touch of the Fury. But a Reveler's primary purpose is to shatter Aureon's chains, to experience a moment unfettered by the expectations of others... and in that moment, to find your true self."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Many Faces of the Fury",
+									"page": 73,
+									"entries": [
+										"There are many different interpretations of the Fury. Under the Pyrinean Creed, she's often said to be the child of the Devourer, though this is generally understood to be a metaphor. When a farmer's field is destroyed by a hurricane, the \"child\" of that action is rage or despair; hence, the Devourer is the father of the Fury. Meanwhile, another Pyrinean myth says that when the Devourer was bound by his enemies, his rage was so great that the Fury took on a life of her own, tearing free of him and snapping his bonds in the process.",
+										"Looking beyond the Five Nations, Cazhaak traditions don't credit any other Sovereign for creating the Fury; she was present when the first heart began to beat, and she was heard in the first child's cry. This is echoed in the traditions of the harpies of the Byeshk Mountains; all their flights agree that the harpy sings with the Fury's voice, but much like the Barrens minotaurs and the Horned King, each flight has its own interpretation. The Stormsingers say the Devourer and the Fury are one and the same, and her song shapes the storm at the same time it guides the heart. The Wind Howlers say the Fury was born from Eberron's cry of pain when she gave birth to the world. Most flights call her the Song or the First Song; meanwhile, the Wind Howlers call her the Howl.",
+										{
+											"type": "entries",
+											"name": "Three Faces of Love",
+											"page": 73,
+											"entries": [
+												"The Three Faces of Love is a mystery cult devoted to Arawai, Boldrei, and Szorawai (the Fury). Like the other Three Faces cults, this secret society recruits members seen as being touched by one of these Sovereigns. Initiates are usually people who work with people, those who see the value of community and believe they can guide its path and inspire love; mediators, bartenders, midwives, companions, and poets are all found in this cult. On one level, the cult is simply a place for these people to come together and enjoy the company of like-minded individuals; the Three Faces of Love hold remarkable salons and revels. On the other hand, cultists often share problems they've seen— whether a quarrel of a single couple or tension that threatens an entire community—and seek subtle ways to solve the problem. On a more casual level, the Three Faces of Love are also excellent matchmakers who take joy in forging strong relationships. This can happen when someone asks for help or advice, but sometimes members take it on themselves to bring people together when they recognize a perfect match.",
+												"The Three Faces of Love weave the tapestry of a community. Arawai is the {@i Love That Brings Life}, celebrated by midwives and mothers as well as herbalists and healers. Boldrei is the {@i Love That Binds}, the underlying bond that holds any family or community together; mediators, innkeepers, and others who find joy in uniting others. Szorawai is the {@i Love That Burns}, passion that is as inspiring and powerful as it is painful; she is often the patron of poets, artists, and others who work with fantasy and desire."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Using the Fury",
+									"page": 73,
+									"entries": [
+										"One of the first ways to work the Fury into a campaign is to talk about feelings. Sometimes we don't stop to think about how mechanical moments—landing a critical hit or being the victim of one, receiving Bardic Inspiration or being saved by an ally's reaction—actually feel for the character. Do you feel a moment of rage when you suffer a grievous injury? Is there a moment of doubt or despair? Or are you cold and austere, refusing to let any emotion distract your perfect focus? This doesn't have to come up in every situation; no one wants to discuss their feelings about every roll. But it can be fun to think about whether a character embraces their emotions or suppresses them, whether that could change over the course of a campaign—and whether there's any chance of them losing control.",
+										"As the Sovereign of Vengeance, the Fury can be integrated into adventures in many ways. A villain could be driven by revenge, giving themself to the Fury and refusing to consider the consequences of their actions until they've achieved their goal. This can be more interesting if the adventurers (or their players) know the villain's rage is justified; they can sympathize with the desire for revenge while still needing to prevent collateral damage or uphold the law. As an interesting twist on this, an ally of the adventurers could become a vengeful hand—complete with divine powers—after suffering a terrible tragedy that the player characters failed to prevent. How will the adventurers stop their friend, knowing the vengeful hand doesn't care about the damage they do in pursuit of revenge?",
+										"The red candles can also set a story in motion. When the adventurers arrive in a small village and see a dozen red candles in different windows, it's clear that there's trouble in this town—what will they do about it? Are all these candles tied to a tyrant who's hurting their people, or do the candles reflect a complex web of interwoven feuds, where helping any one of the victims will be seen as taking sides?",
+										"A Reveler can be an interesting ally for a party; impulsive and often reckless, brutally honest and willing to say whatever they think. If a group of adventurers tends to overthink things or to be too cautious, a little time with a Droaamite worg guide or a night at a revel can force them to face their feelings.",
+										{
+											"type": "entries",
+											"name": "Player Characters",
+											"page": 73,
+											"entries": [
+												"Characters linked to the Fury can come from any class or background—after all, the burning sense of revenge and revelry are universal emotions. Here are a few ways you could reflect a connection to the Fury in your player character.",
+												{
+													"type": "entries",
+													"name": "Reveler",
+													"page": 73,
+													"entries": [
+														"The \"Character Options\" section at the end of this chapter presents a new option for bards, the {@class bard|PHB|College of the Fury|Fury|ChroniclesofEberron}. This subclass is an excellent way to reflect a Reveler character's supernatural connection to the Fury—and in many ways, a bard makes a better Reveler priest than a cleric does. Regardless of your subclass, you likely have the ability to inspire primal emotions as a Reveler, and you encourage people to fully experience and feel their feelings. I like to think of a Fury-tied bard's spells as gifts of devotion as opposed to lore (though this doesn't have a mechanical effect). It's possible you only embrace the Fury fully when in the throes of performance, but you could also play a priest who tries to help people understand their feelings at all times ... or you could even play a priest who fights to bring down any system that seeks to compel or control peoples' thoughts and emotions. This is different, however, from the priest of the Traveler who inspires chaos and change on a societal level; the Fury is more driven by the storm within each heart.",
+														"If you'd like to play a traditional cleric of the Fury, none of the official domains reflect the flavor of a Reveler well; however, you can (perhaps counterintuitively) use the {@class cleric|PHB|Order|Order|TCE} domain by simply reversing its flavor! As written, the Order priest compels because people respect their inherent authority; for the Fury, all the compelling abilities would be about generating raw emotion. A {@spell command} might feel so right in the moment that the victim obeys; meanwhile, {@spell hold person} can reflect a paralyzing doubt and despair that the victim must shake off before they can act normally."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Vengeful Hand",
+													"page": 74,
+													"entries": [
+														"If you'd rather play a revengefocused character, such as a vengeful hand, the {@class bard|PHB|College of the Whispers|Whispers|XGE} bard is skilled at manipulating emotions and fears, both weapons in the arsenal of the Fury. Vengeance needn't always be bloody; as a bard devoted to the Fury, you could be a character assassin, carrying out missions of vengeance like any other vengeful hand but focusing on destroying the lives of your victims, as opposed to simply ending them.",
+														"For paladins of the Fury, the {@class paladin|PHB|Oath of Vengeance|Vengeance|PHB} is an obvious choice—a warrior infused with divine power to be used in pursuit of revenge. This path of vengeance works just as well for a {@class barbarian|PHB|Zealot|Zealot|XGE} barbarian, or potentially a cleric with the {@class cleric|PHB|War|War|PHB} or {@class cleric|PHB|Death|Death|DMG} domain. This could fit the idea of the vengeful hand: you were peaceful until you swore your oath of vengeance, and you've been filled with the power you need to see it through. On the other hand, you could've been granted your powers to help others take vengeance; you are the one who answers the call of the crimson candle. In either case, keep in mind the difference between this and the path of Dol Arrah: the hands of the Fury don't pursue justice, but vengeance, regardless of how much new pain and suffering is generated in the course of revenge.",
+														"Any warlock could've made their vow to the Fury, gaining power to be used in a quest for revenge—which could be personal or on behalf of others seeking vengeance. Though the gods can't be proven to exist, a warlock of the Fury needn't directly interact with their patron; they simply swore an oath and know what they must do. Or the warlock could have visions they believe are coming directly from the Fury ... but is there a way to prove these aren't just delusions? It's also possible the warlock's patron is a fiend who considers itself to be a voice of the Fury—perhaps a spirit of Mabar who enjoys the pain and death that accompanies these quests."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Other Ideas",
+													"page": 74,
+													"entries": [
+														"As a {@class paladin|PHB|Berserker|Berserker|PHB} barbarian, you might've been raised as a warrior in a community where the Fury is respected, having always embraced and cultivated your rage—an outlander or soldier from Droaam, for example. Alternatively, you might be a reserved and harmless-looking scholar of the Five Nations ... until you rage, channeling adrenaline and unleashing your fury.",
+														"Finally, you could play an interesting Moon druid as a member of the Great Pack of Droaam. This group of worgs, lycanthropes, and other predators views the Fury as a personal guide and patron—to them, instinct is more important than reason, and one should always let instinct guide action. Your powers could flow from this idea; rather than being tied to a traditional druidic sect, you're a primal predator whose form and actions are shaped by the Fury."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/001-0381.webp"
+									},
+									"credit": "Matthew Johnson"
+								}
+							]
 						}
 					]
 				}
