@@ -4707,6 +4707,110 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Using the Keeper",
+									"page": 80,
+									"entries": [
+										"You can integrate the Keeper into a campaign by introducing a Talon who offers a player character an unusual bargain in their time of need (or desire). This bargain might simply affect the story, but it's also possible the deal brings with it some mechanical benefits; it's up to the DM to decide what terms the Keeper will offer and what the practical effects will be. For example, if a character asks to give up their musical talent in exchange for a silver tongue, the DM might allow them to swap a proficiency in Performance for Deception ... but again, it's up to the DM to decide whether such a thing is possible and how to implement it.",
+										"A Talon could also approach adventurers with a specific offer. Perhaps the party has acquired the {@item Book of Vile Darkness} but they don't want to read it—and coincidentally, a Talon approaches them. The Keeper knows they have the book and he wants it; are the characters interested in acquiring a different artifact in exchange for it? The Talon doesn't necessarily possess the promised artifact themself; the characters will simply have to take it on faith that, should they give the book to the Talon, the other artifact will come to them in time.",
+										"Alternatively, next time the party needs to acquire— or dispose of—a particularly unique item or tidbit of information, you could introduce them to a Pennyroyal or other initiate of the Three Faces of Coin.",
+										{
+											"type": "entries",
+											"name": "Player Characters",
+											"page": 80,
+											"entries": [
+												"When creating a character dedicated to the Keeper, do you honor his aspect as Stealer of Souls or Lord of the Hoard? The rogue subclass—the Dark Petitioner—presented at the end of this chapter reflects a character who honors one or more members of the Dark Six, likely including the Keeper as the Stealer of Souls. Here are some other stories to inspire characters with ties to the Keeper.",
+												{
+													"type": "entries",
+													"name": "Restful Watch",
+													"page": 80,
+													"entries": [
+														"Clerics of the Restful Watch typically take the {@class cleric|PHB|Grave|Grave|XGE} domain, reflecting their balance between the light of Aureon and the darkness of the Keeper. Similarly, Watch paladins typically embrace the Oath of {@class paladin|PHB|Devotion|Devotion|PHB} or {@class paladin|PHB|Redemption|Redemption|XGE}. Consider the following ideas:",
+														{
+															"type": "list",
+															"page": 80,
+															"items": [
+																{
+																	"type": "item",
+																	"entries": [
+																		"The Watch occasionally identifies living individuals who they believe have been marked by Aureon for preservation—and they've identified one of your fellow adventurers as such. As an adventuring member of the Watch, you've been assigned to chronicle this person's life and perform the proper rituals when they die. Whether or not the person appreciates or wants your companionship is irrelevant. \"Don't mind me, I'm just going to follow you around until your heroic death. Trust me, you're going to accomplish some big things!\""
+																	]
+																},
+																{
+																	"type": "item",
+																	"entries": [
+																		"Especially gifted priests of the Restful Watch serve as exorcists and mediums, and you consider it your holy purpose to seek out the undead and lay their troubled spirits to rest."
+																	]
+																},
+																{
+																	"type": "item",
+																	"entries": [
+																		"Something was stolen from a tomb you were tasked to guard, and a plague is now sweeping the land. You're certain that the plague is the wrath of the Keeper—if you return the stolen goods to the tomb, will it end?"
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Revenant",
+													"page": 80,
+													"entries": [
+														"The Keeper's propensity for both soulsnatching and bargains presents an interesting story hook: You could be a revenant who died before the current campaign began, then made a deal with the Keeper to bring you back to the world of the living. Playing such a revenant is a fun way to explore history; you could play a character with an aberrant dragonmark who fought alongside Halas Tarkanan, or a Dhakaani warrior who died fighting the daelkyr. Be sure to collaborate with your DM, as they need to approve of your past and consider how it ties into the future of the campaign. There are many questions to answer here:",
+														{
+															"type": "list",
+															"page": 80,
+															"items": [
+																{
+																	"type": "item",
+																	"entries": [
+																		"When did you die and how long have you been dead? Were you aware of the passage of time, or does it feel as if no time has passed?"
+																	]
+																},
+																{
+																	"type": "item",
+																	"entries": [
+																		"Did you make a deal with the Keeper (or someone claiming to represent him)? Or have you been returned because you have a destiny to fulfill in the present day (which ties to the beliefs of the Restful Watch)?"
+																	]
+																},
+																{
+																	"type": "item",
+																	"entries": [
+																		" Is your current body a duplicate of your original body, or has your spirit been implanted into a new form? Are you partially undead—perhaps using the Reborn lineage from Van Richten's Guide to Ravenloft—or have you been restored to full life?"
+																	]
+																},
+																{
+																	"type": "item",
+																	"entries": [
+																		"If you were powerful in your original life, why are your powers limited to those of a low-level character now? Is it going to take time to recover your full memories? Are you still adjusting to your new body? Was this part of the bargain—you traded your skills for a second chance at life?"
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Mercenary",
+													"page": 80,
+													"entries": [
+														"While a player character could worship the Keeper as lord of greed, there's little heroic about it. Kol Korran governs the positive aspects of trade, and Olladra guides the playful trickster and bard. Meanwhile, the Keeper is patron to those concerned solely with their own personal gain, regardless of the cost to others. However, it's possible for a mercenary character to begin their career as a cold-hearted devotee of the Keeper—fighting solely for gold—then perhaps discover along the way that there are things more important than simple greed."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Keeper's Bargain",
+													"page": 80,
+													"entries": [
+														"Making a deal with a Talon is an interesting way to establish a character's backstory. Did you bargain for your remarkable talents, and if so, what was the cost? Perhaps the terms of the agreement only give you one year to live—can you find a way to break the bargain before time runs out?"
+													]
+												}
+											]
+										}
+									]
 								}
 							]
 						}
