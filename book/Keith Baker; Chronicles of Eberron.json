@@ -4813,6 +4813,162 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "The Mockery",
+							"page": 81,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0037.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"The principles of the Sovereigns are the cornerstone of our civilization. Boldrei brings us together. Aureon's laws let us coexist in peace. When peace is not an option, Dol Dorn gives us strength to defend ourselves, and Dol Arrah teaches us to use that strength compassionately and wisely. Why should the strong protect the weak? Why should warriors spare civilians and fallen foes? Because if we all live by those principles, we all prosper. War isn't just about victory—it's about being able to live with the aftermath."
+									],
+									"by": "Phthaso Mogan, Sovereign priest of Sharn"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"\"Why should the strong protect the weak?\" This question is posed by those who wish for you to believe that they are strong and you are weak, that you'd be helpless without them. These are the words of people who only know one way to play the game of war, and they're desperate for you to play by the same rules. Our lord shows the truth: the strong protect the weak because they don't want the \"weak\" to realize how strong they can be. Imagine a hundred hounds pursuing two wolves, challenging the wolves to face them in honorable combat. One of the wolves is brave: they turn and fight beneath the bright sun, but the hounds tear them into a hundred pieces. The other wolf is wise, and they know a simple truth: \"I cannot beat them at once, but in the shadows, my teeth are as sharp as any of theirs.\" Every night, the wolf comes with the shadows and kills one of the hounds. The hounds may curse the wolf's cowardly, dishonorable actions ... but in a hundred days, that wolf stands triumphant. Which wolf are you? Will you fight in the sunlight and die with honor? Or will you follow the path that leads to victory, even if it leads you through shadows?"
+									],
+									"by": "\"Redblade\" Rrac, of the Deathsgate Adventurers' Guild"
+								},
+								"In the first age of the world, three siblings challenged the Lord of Death. They rallied their forces and swore to meet Death on the battlefield at dawn. When Death came with his army of corpses, the eldest brother was nowhere to be seen; he lacked the courage to face this dreadful foe. The mortal soldiers quaked, seeing their fallen comrades now serving in the army of the dead. But the young brother filled the soldiers with courage and inspired them with his strength, scattering the forces of the dead. And the sister called on the light of the sun, blinding Death until her soldiers could safely retreat. Though the battle was lost, the champions were able to save most of their soldiers. They learned that their missing elder brother had used the distraction to steal a great treasure from the Citadel of the Dead, caring more for his personal enrichment than for the lives of his siblings, their soldiers, or his own oath.",
+								"This is the story of Dol Azur—the Mockery. It takes many forms across many cultures, and the details are always different. In the Pyrinean version of the story, Aureon orders that the Mockery be stripped of both his name and his skin, his truth laid bare for the world to see. By contrast, the Cazhaak myth tells that the elder brother fools his siblings by shedding his skin and using it as a decoy; going forward, he often strips the skin off his enemies and wears it to fool their friends. The reason for the Mockery's betrayal similarly varies. In the common Pyrinean story, the Mockery betrays his siblings due to cowardice and envy, using the opportunity to enrich himself instead; if he'd bravely stood with his siblings, Death could have been defeated. But the annals of the Three Faces of War instead say that Dol Azur believed the battle to be a fool's errand from the beginning, as it's impossible to defeat Death; rather than fighting an unwinnable battle just because he'd sworn an oath to do so, Dol Azur used the distraction to steal a mighty weapon from the enemy's citadel. So while his action was unquestionably a dishonorable betrayal, he also accomplished a tactically significant objective, rather than fighting an \"honorable\" fight that couldn't be won.Such shifting interpretations are common with the Sovereigns and Six, reflecting the values of the cultures and individuals who worship or revile them. Within Khorvaire, there are three common approaches to the Mockery. The common Vassals blame him for the excesses of war and for cruel betrayal. Some emulate him, seeking to earn his favor through acts of cruelty. And others see him not as the Lord of Betrayal, but as the Sovereign of Victory—a deity who can always show you the way to overcome your enemies, even if it is a dark path.",
+								{
+									"type": "entries",
+									"name": "Sovereign of Bloodshed and Betrayal",
+									"page": 81,
+									"entries": [
+										"As mentioned in the introduction to this chapter, the Pyrinean Creed asserts that the Dark Six embody our darkest mortal impulses. While Boldrei tells us that we're stronger as a community and Aureon teaches that laws can benefit us all, the Mockery scoffs at courage and honor, urging that our own survival and victory are the only things that matter, no matter the cost. The Mockery says we should place our own needs above anything else, and other people are solely tools to be used (or abused). Vassals believe that the Mockery— sometimes called the Sovereign of Bloodshed and Betrayal—embodies two spheres.",
+										{
+											"type": "entries",
+											"name": "Bloodshed",
+											"page": 82,
+											"entries": [
+												"On one level, the Mockery is a war god, as he encompasses the darkest elements of conflict and combat. Bloodlust, unnecessary cruelty, and dishonorable strategies are all tied to the Mockery. But he isn't confined to the battlefield. The assassin who kills without warning and the bully who beats smaller children are also guided by the Mockery. Whenever blood is shed in cowardly or cruel ways, the Mockery smiles. The Fury inspires rage, the Keeper drives greed, but when the actual blade is drawn, the Mockery guides the hand of the murderer."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Betrayal",
+											"page": 82,
+											"entries": [
+												"The Mockery also delights in betrayal. He takes the greatest pleasure when the betrayal runs deep—a sibling betraying a sibling, a lover turning on their paramour. But on the simplest level, this aspect of the Mockery centers on deception with the intent to cause pain. While the Traveler also delights in deception, it does so as Sovereign of Chaos and Change. By contrast, the Mockery uses deception in the pursuit of {@i pain}. So a changeling grifter may see the Traveler as their patron, whereas an assassin who uses {@spell disguise self} to get close to their victim is guided by the Mockery."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fear",
+											"page": 82,
+											"entries": [
+												"Another aspect of the Mockery that's not always recognized is the use of fear. Dol Dorn inspires courage in the soldier's heart; the Mockery shows them how to inflict terror on their enemies. This ties to the idea that the Mockery delights in causing pain—psychological as well as physical. To the Mockery, no weapon is too vile to use in battle, so fear and other forms of psychological warfare are certainly valid."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cruelty",
+											"page": 82,
+											"entries": [
+												"Among Vassals, the Mockery is primarily seen as an explanation for cruelty in the world. Virtuous Vassals never offer prayers to the Mockery; they pity the brutal people who are swayed by his whispers and drawn down cruel and criminal paths. People who actively revere this aspect of the Mockery willfully embrace a dark path, acknowledging their actions as selfish and cruel. A King's Dark Lantern who kills for the good of his nation and people will ask Olladra for luck, even though he's deceiving others and spilling blood. The assassin who invokes the Mockery {@i knows} that she's spilling blood solely for her personal gain, and she takes pride and delight in her power to inflict pain.",
+												"The Cazhaak monks of the Flayed Hand are an example of this: they acknowledge the Mockery as the Sovereign of Bloodshed and Betrayal, but worship him still, and believe that they commune with the divine by inflicting pain. And for this reason, the Flayed Hand is a secretive order and the monks hide their devotional scars; those who knowingly employ the Flayed Hand are comfortable with cruelty."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lord of Victory",
+									"page": 82,
+									"entries": [
+										"The Pyrinean Creed casts the Mockery as a force of pure evil—the cruel betrayer who delights in the suffering of innocents. But there are many ways to look at the world, and the Cazhaak faith calls him the Lord of Victory. The Pyrinean interpretation chooses Dol Arrah over the Mockery, saying that war can and should be fought honorably. The Cazhaak interpretation says there is no honor in the brutality and bloodshed of war: \"once you see that someone always suffers in war, you'll realize it's better to hold the blade than to be the one who bleeds.\"",
+										{
+											"type": "entries",
+											"name": "Cunning",
+											"page": 82,
+											"entries": [
+												"The Cazhaak Creed values cunning over brute strength, for survival is the ultimate proof of righteousness. If the goblin defeats the ogre, it doesn't matter if they used poison or treachery; they should be celebrated for finding a path to victory. In this harsh, ruthless vision of the world, you should always be ready for betrayal, and always be watching for weakness in others. Though one might think that this philosophy would undermine any form of community, the Cazhaak Creed does create communities—just in a very different way from Boldrei's love and Aureon's laws. A Cazhaak community is a wolf pack, and its leaders must command respect with their cunning and power. You follow your leader because you believe you'll prosper under their rule. So if a leader isn't betrayed, it's not because of their people's honor or duty; it's either because the people think it's in their own self-interest to serve the leader, or because the people believe they couldn't get away with a betrayal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Find a Path to Victory",
+											"page": 82,
+											"entries": [
+												"In a society driven by Cazhaak principles, no agreement can be based purely on trust. Words alone mean nothing; they have to be backed up by fear, by the knowledge that betrayal carries a terrible cost. Look to Droaam as a whole; while Katra inspires with her voice, Maenya's fist is always ready. This is a cruel way to view the world, but it makes sense to those who follow it. The ideals of Dol Arrah are childish because war isn't a game with rules.",
+												"With that said, the Pyrinean scholar might argue that Aureon's laws and Dol Arrah's ideals matter because international relations rely on trust and on law. The Cazhaak faith can support communities, but it has never been tested on a wide scale. Droaam is a new nation, and in the centuries prior, the Barrens were ruled by small communities and city-states. The armies of Droaam rely on guerrilla warfare and smallunit tactics, where the cunning of a squad leader can turn the tide of battle. It remains to be seen if their ruthless principles can support global relationships.",
+												"Some who follow the Cazhaak path draw on the more extreme elements of the Lord of Bloodshed and Betrayal: for example, the Skinners of Graywall prey on despised foreigners and wear the tanned hides of their victims as grisly trophies. But for most who follow the Cazhaak path, the point is more that the world is cruel, and you must be strong and cunning to survive it; do whatever you must to bring down your foes."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Many Faces of the Mockery",
+									"page": 83,
+									"entries": [
+										"As with all the Dark Six, different representations of the Mockery appear throughout the world's cultures and faith traditions... and even on other planes. On Shavarath, some demons and devils even claim the Mockery is a commander of theirs, a bitter disagreement that stokes the eternal war between both factions. Most traditions, however, aren't that extreme, and have much in common with the Cazhaak view.",
+										{
+											"type": "entries",
+											"name": "Three Faces of War",
+											"page": 83,
+											"entries": [
+												"The Three Faces of War is a mystery cult devoted to Dol Arrah, Dol Dorn, and Dol Azur (the Mockery). It's the most widespread and well known of the Three Faces cults; it was deeply rooted in the united army of Galifar, and cult chapters can now be found in all of the armies of the Five Nations. Allegiance to the Three Faces doesn't supersede national loyalty, but shared knowledge of the mysteries of war provides a foundation for friendship between soldiers of different nations and ranks; in the eyes of the Three Faces, all are equals. If a player character with the soldier background chooses to be an initiate of the Three Faces of War, this can help explain how they benefit from their Military Rank feature with soldiers of other nations; even if they fought one another in the Last War, they respect each other as initiates into the mysteries.",
+												"Followers of the Three Faces of War believe that honor and courage are always to be valued, but there are times when cunning is the only path to victory. They acknowledge that the world would be a better place if we could all live in Dol Arrah's light—but also that the world is cruel, and there are times when victory must come before honor. They also recognize the power of psychological warfare and that sometimes demoralizing a foe is the best way to avoid bloodshed. Overall, the cult respects Dol Azur as a less intense version of the Lord of Victory. They downplay his role as {@i betrayer} and focus more on {@i cunning} and {@i finding a path to victory}.",
+												"Members of the Three Faces often feel they have a particular affinity for one of the Sovereigns; those who feel guided by Dol Azur may still seek to use their powers for good, but acknowledge they have a knack for sowing terror or ruthless action when it becomes necessary. Within the sect, steel is used to represent Dol Dorn, gold to represent Dol Arrah, and leather to represent Dol Azur; if a soldier wears a leather ring, it might be a sign they feel they're guided by the Mockery. On the flip side, even a soldier who accepts that Dol Azur is part of war doesn't have to embrace his path themself; a soldier could decide that they are guided by Dol Arrah and wear gold to show it.",
+												"While the cult isn't generally malevolent, it can be used however suits your story. For example, an influential Azur-touched initiate of the Three Faces of War could use the organization to rally other Azur-touched for some sinister purpose."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Darguun and the Mockery",
+											"page": 83,
+											"entries": [
+												"The Ghaal'dar hobgoblins and the Marguul bugbears of Darguun both revere the Mockery. Much like the diversity among the minotaurs of Droaam in their worship of the Horned King, each goblinoid tribe and clan has its own interpretation and unique traditions, but they fall on a spectrum between the Sovereign of Betrayal and Bloodshed and the Lord of Victory. Since taking power, Lhesh Haruuc has been working to promote the worship of Dol Dorn and Dol Arrah, blending this with the existing worship of the Mockery—but this effort is about optics more than faith. Haruuc recognizes that most people of the Five Nations see worship of the Mockery as evil, so shifting the conversation to say that Darguuls worship all of the Sovereigns of War makes things a little more palatable for outsiders.",
+												"However, Haruuc's efforts aren't entirely insincere; he believes there are lessons to be learned from each of the Sovereigns, and he feels a particular affinity for Dol Dorn. At the moment, the Three Faces of War cult hasn't engaged in any concerted effort to initiate Darguuls, but it's possible that some goblinoid mercenaries were initiated by comrades during the war."
+											]
+										},
+										{
+											"type": "inset",
+											"page": 83,
+											"name": "What's the Orb of Dol Azur?",
+											"entries": [
+												"The {@i Orb of Dol Azur} was first mentioned in an article I wrote in 2004. Ever since, it's been my go-to mysterious artifact, an easy name to drop into any piece of fiction where adventurers are looking for something dangerous and powerful. But I've never actually used it in a campaign or said what it does. {@i Dragons of Eberron} establishes that the draconic champions fought the overlord known as Katashka the Gatekeeper during the Age of Demons; it's entirely possible that this battle inspired the myth of the Dols fighting Death, and that the {@i Orb of Dol Azur} is actually what the Mockery stole from Katashka the Gatekeeper.",
+												"So, what does it do? An easy option is to use the {@i Orb of Dol Azur} to bring in the powers of iconic artifacts from the greater multiverse, just in a different shape. Katashka is the overlord of death and the undead; the orb he once possessed could wield the powers of the {@item Wand of Orcus}. Another possibility is that the orb is one of Katashka's eyes! By default it's the size of a dragon's eye—quite large—but the proper ritual could cause it to shift to a size appropriate to the bearer, possessing the same powers as the {@item Eye of Vecna}.",
+												"An entirely different option is to say that the orb is tied to {@item Keeper's fang|ExploringEberron|Keeper's fangs}—a magical weapon introduced in the original {@i Eberron Campaign Setting} and brought into fifth edition in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}. A Keeper's fang steals the soul of any creature that's killed with it—but what people don't know is that the soul is then trapped in the {@i Orb of Dol Azur}. By this point, the orb holds the spirits of countless mortals and lesser fiends that have been trapped over the course of history."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Using the Mockery",
+									"page": 84,
+									"entries": [
+										"So how can you use the Mockery in a campaign? Well, in a world filled with shades of gray, followers of the Sovereign of Bloodshed and Betrayal are a good source of absolute villains. When you're running a pulp campaign and you want someone who feels capital-E Evil, a Flayed Hand monk fits the bill. Someone who is guided by the Pyrinean Creed but nonetheless embraces the Mockery is someone who delights in cruelty and believes they gain strength by inflicting suffering on others.",
+										"However, not everyone who honors the Mockery delights in suffering. A group of vigilantes could believe that the terror tactics of the Mockery are the only way to combat rising crime, or a once-faithful Vassal might turn to the Mockery and the Fury to take vengeance for a crime Aureon's laws failed to stop. Those who venerate him as the Lord of Victory might band together into a wolf pack, a group that'll do whatever it takes to survive and overcome a foe.",
+										"The Mockery can provide an interesting contrast between a soldier of Droaam and a soldier from the Five Nations. Those who follow the Cazhaak path genuinely see the idea of honor in war as a childish concept. This doesn't make them evil—just because the world is cruel doesn't mean they have to be unnecessarily cruel, but they'll do whatever is required to survive and only show mercy if they see some clear benefit down the road. On the other hand, rather than highlighting differences, introducing the Three Faces of War can forge a bond between soldiers of all nations. If one or more of the player characters is a veteran of the Last War, an influential member of the Three Faces could be a useful patron or ally.",
+										{
+											"type": "entries",
+											"name": "Player Characters",
+											"page": 84,
+											"entries": [
+												"Though honoring the Mockery is an unlikely path for a Vassal player character, it's certainly possible to play the cynical hero who wields fear as a weapon, such as Batman or the Shadow (the pulp hero, not the deity!). This is a dark path to follow, as the fearmonger knows they are inflicting suffering on their enemies; but to them enemies don't deserve to be treated with honor, so it's acceptable to engage in a brutal war on evil, fighting fire with fire. Most likely, a vigilante who embraces the Mockery in this way believes that the law is ineffective— that Aureon's laws and Dol Arrah's honor have failed, and that only cruelty and fear can overcome the threats the character is facing or avenge the wrong that's been done to them. The Dark Petitioner rogue presented at the end of this chapter is one excellent option, but any class could reflect such a vigilante character. On a darker note, a particularly ruthless warlock might believe their power flows from the Mockery—and their Mask of Many Faces invocation might require a strip of skin from the person they wish to impersonate, whether living or dead. The same could apply to a Whispers bard's Mantle of Whispers feature, or to any character who wields fear as a weapon and regularly uses the {@spell disguise self} spell.",
+												"Even when playing a more traditional Vassal, keep in mind that Vassals see the hand of the Sovereigns and Six in all walks of life. When anger or despair gets the better of you, that's the Fury taking hold of you for a moment. If you take a cheap shot in a wrestling match— when the crowd goes \"Oooh, that's a dirty trick!\"—then you're listening to the Mockery. Dol Dorn gives you the strength and skill you need to win in a fair fight, while the Mockery can show you how to win even when the fight isn't fair. But throwing one sucker punch doesn't suddenly make you a cultist of the Mockery. Think of it like someone in our world saying \"the devil made me do it.\" The Dark Six are always with us, trying to pull us down sinister paths. Good Vassals should strive to heed Aureon's law and spread Dol Arrah's light, but everyone has moments of weakness.",
+												"If you're a player character who follows the Cazhaak Creed, you expect betrayal and cruelty from others, and you believe you need to display your strength or cunning to ward off challenges. To you, displays of kindness and altruism are suspect, and you don't expect people to keep their word if it becomes an inconvenience to them. After all, people are driven by self-interest—so the key to a lasting bargain isn't a word of honor; it's making sure that neither party dares to break the agreement."
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
