@@ -4676,6 +4676,37 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Many Faces of the Keeper",
+									"page": 78,
+									"entries": [
+										"Most of the Dark Six are viewed in a very different light in the Five Nations versus in the Cazhaak Creed or other monstrous cultures. This is less true of the Keeper, though varying sects of the Keeper still appear throughout the world. Within the Five Nations, the Three Faces of Coin honor the Keeper in his aspect as Lord of the Hoard. Meanwhile, the Cazhaak faith shares the common Pyrinean idea that the Keeper hoards both the souls of the dead and material goods.",
+										{
+											"type": "entries",
+											"name": "Three Faces of Coin",
+											"page": 79,
+											"entries": [
+												"The Three Faces of Coin is a mystery cult devoted to Onatar, Kol Korran, and Kol Turrant (the Keeper). Like all Three Faces cults, it's a secretive and exclusive organization; initiates are recruited because they're considered to be blessed by one of the Three Faces. Members are often successful merchants or captains of industry, and the cult includes members of the Aurum and the dragonmarked houses. However, the Three Faces of Coin has no grand agenda. At its simplest level, the cult is a fraternity for those who understand the mysteries of coin, and it provides valuable opportunities for networking and bargaining.",
+												"The Three Faces of Coin govern the \"battlefield\" of commerce and industry, the struggle to get the things that we want. Onatar guides those who create the goods people desire, Kol Korran inspires those who trade in the light, and Kol Turrant guides those who work in the shadows. All members of the cult are driven by the same principles: You should always be able to get the things you desire, but good work always deserves a fair price. All people should have a path to profit, provided they are willing to work for it. An honest blacksmith should always be able to profit from their hard labor, and someone who wishes to purchase the smith's goods should have a way to do so ... even if that requires unscrupulous collaboration.",
+												"The blessed of Kol Turrant—known as Pennyroyals— walk a crooked line. The archetypal Pennyroyal is a smuggler or a fence—someone who dodges the laws to get people the things they desire. However, Pennyroyals also include grifters, pickpockets, and thieves. This seems perfectly reasonable to most Coins (the casual term for initiates of the sect), since you should always be able to get the things that you desire—even if you're skirting the whole reason fair prices matter. Of course, the thief always believes they should be paid a fair price for their own services! After all, fellow Coins deserve fair payment most of all, even if a few unlucky bystanders get scammed in the process.",
+												"As a follower of the Three Faces of Coin, it's up to you to decide which of the three paths you'll walk. You can choose to only follow the path of Kol Korran and to engage in honest commerce, but you also recognize your comrade's right to step into the shadows when they can't get what they desire in the light. Coins don't inherently oppose trade laws; they simply believe there should always be a way around these laws for those prepared to work for it. The honest merchant may never deal with a Pennyroyal, but they know that they {@i could}.",
+												"The dark side of the Three Faces of Coin is reflected by their embracing Kol Turrant. The Coins understand that in the right time and place, greed can be good— and it's better to understand and use it than to run from it. After all, everyone wants things, and everyone who creates wants people to want those things they create. The Coins say that there's nothing wrong with that desire, and there's nothing wrong with bending the rules to get what you want, as long as you're willing to pay a fair price. As such, the Three Faces of Coin is one of the only sects openly willing to sell the spells of its divine spellcasters. Spells are commodities; if you want one, you should pay for it. This doesn't mean a Coin cleric {@i has} to charge their companions for casting helpful spells; but you recognize your magic has value, and you {@i could} charge for it, so if you're choosing to give this as a gift to a friend, they'd better appreciate it!"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Keeper's Hands",
+											"page": 79,
+											"entries": [
+												"Dedicated priests of the Keeper—known as Keeper's Hands—can be found in Droaam, Darguun, and even in Zilargo or the Lhazaar Principalities. Though more common in regions that practice the Cazhaak faith, Keeper's Hands can be found across multiple cultures and traditions. These priests generally take the place of the Restful Watch, though they lack the benevolent aspect of Aureon. They still perform funerals and tend cemeteries, but they have no qualms about presenting themselves as servants of the Keeper as opposed to being tied to some greater good. Like the Restful Watch, they set a price for a soul's safe passage; however, this definitely includes personal profit for the priest. In communities served by a Keeper's Hand, it's generally accepted that one can gain the Keeper's favor by sending him choice souls, either by simple dedication (\"Keeper take your soul!\") or fuller ritual ... so if you don't pay the Keeper's Hand to ensure a loved one's passage to Dolurrh, they instead profit by selling the soul to the Keeper themself.",
+												"Keeper's Hands often pursue necromancy, likely as adepts, {@class cleric|PHB|Death|Death|DMG} clerics, {@class warlock|PHB|Undead|Undead|VRGR} warlocks, or {@class paladin|PHB|Oathbreaker|Oathbreaker|DMG} paladins. They see necromancy as an earned gift from the Keeper and consider it the necromancer's right to compel the dead to service—a vastly different perspective than priests of the Restful Watch who seek to lay the dead to rest.",
+												"A Keeper's Hand doesn't see any of this as evil—it's just the way the universe works. Life and death are business transactions, and a Keeper's Hand is a merchant who expects to profit from them. They might even travel with a mercenary band of violent adventurers; after all, this is an excellent way to frequently encounter death, and they're happy to dedicate those deaths to the Keeper in hope for favor.",
+												"While the above practices center on the death aspect of the Keeper, Keeper's Hands may also serve as Talons, and they are often shrewd negotiators. Especially near city centers and other populous regions, a Keeper's Hand may be involved with smuggling or managing other criminal enterprises in addition to their religious duties. Such a Keeper's Hand can make an excellent greed-driven mercenary adventurer, open to all potentially profitable endeavors. There's no reason you can't be willing to share these profits with your friends, as long as you get what you want."
+											]
+										}
+									]
 								}
 							]
 						}
