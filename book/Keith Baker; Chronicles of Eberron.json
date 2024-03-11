@@ -5342,7 +5342,8 @@
 								{
 									"type": "list",
 									"items": [
-										"{@class bard|PHB|Bard: College of the Fury|Fury|ChroniclesofEberron}"
+										"{@class bard|PHB|Bard: College of the Fury|Fury|ChroniclesofEberron}",
+										"{@class cleric|PHB|Cleric: Aspiration Domain|Aspiration|ChroniclesofEberron}"
 									]
 								}
 							]
@@ -6099,6 +6100,35 @@
 			],
 			"casterProgression": "full",
 			"spellcastingAbility": "cha"
+		},
+		{
+			"name": "Aspiration Domain",
+			"source": "ChroniclesofEberron",
+			"page": 93,
+			"className": "cleric",
+			"classSource": "PHB",
+			"shortName": "Aspiration",
+			"subclassFeatures": [
+				"Aspiration Domain|cleric||Aspiration|ChroniclesofEberron|1",
+				"Channel Divinity: Awakened Ambition|cleric||Aspiration|ChroniclesofEberron|2",
+				"Shadow's Gift|cleric||Aspiration|ChroniclesofEberron|6",
+				"Potent Spellcasting|cleric||Aspiration|ChroniclesofEberron|8",
+				"Shadow's Apotheosis|cleric||Aspiration|ChroniclesofEberron|17"
+			],
+			"casterProgression": "full",
+			"spellcastingAbility": "wis",
+			"subclassSpells": [
+				"detect magic",
+				"illusory script",
+				"augury",
+				"detect thought",
+				"clairvoyance",
+				"Shadow's echo|ChroniclesofEberron",
+				"divination",
+				"shadow of Moil|XGE",
+				"circle of power",
+				"scrying"
+			]
 		}
 	],
 	"subclassFeature": [
@@ -6329,6 +6359,187 @@
 			"entries": [
 				"Whenever you use your Fury's Revelry feature, you can empower your song into a magnificent and malign crescendo. Rather than affecting just one target of the triggering spell, you can instead affect each hostile creature that you hit with that attack or that failed its saving throw against that spell.",
 				"You can use this ability a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+			]
+		},
+		{
+			"name": "Aspiration Domain",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 93,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 1,
+			"entries": [
+				"Clerics of the Aspiration domain consider themselves mentors—though others are more likely to call them tempters. They offer forbidden knowledge and challenge people to live up to their full potential, eschewing the confines of what others might consider right, proper, or safe. The most common clerics to earn these gifts of the faith are followers of the Shadow under the Cazhaak Creed.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Domain Spells|cleric||Aspiration|ChroniclesofEberron|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Dark Revelations|cleric||Aspiration|ChroniclesofEberron|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Eyes Unveiled|cleric||Aspiration|ChroniclesofEberron|1"
+				}
+			]
+		},
+		{
+			"name": "Domain Spells",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 93,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 1,
+			"entries": [
+				"You gain domain spells at the cleric levels listed in the Aspiration Domain Spells table. See the Divine Domain class feature for how domain spells work.",
+				{
+					"type": "table",
+					"caption": "Aspiration Domain Spells",
+					"page": 93,
+					"colLabels": [
+						"Cleric Level",
+						"Spells"
+					],
+					"rows": [
+						[
+							"1st",
+							"{@spell detect magic}, {@spell illusory script}"
+						],
+						[
+							"3rd",
+							"{@spell augury}, {@spell detect thoughts}"
+						],
+						[
+							"5th",
+							"{@spell clairvoyance}, {@spell Shadow's echo|ChroniclesofEberron}"
+						],
+						[
+							"7th",
+							"{@spell divination}, {@spell shadow of Moil|XGE}"
+						],
+						[
+							"9th",
+							"{@spell circle of power}, {@spell scrying}"
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Dark Revelations",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 93,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 1,
+			"entries": [
+				"Your divine studies have revealed a wealth of knowledge to you. You gain proficiency in one skill or tool of your choice, and your proficiency bonus is doubled for any ability check you make using that skill or tool. Whenever you finish a long rest, you can change the proficiency granted by this feature to another skill or tool."
+			]
+		},
+		{
+			"name": "Eyes Unveiled",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 93,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 1,
+			"entries": [
+				"Your sight is unhindered, and you can see in the deepest shadows. You have darkvision out to a range of 120 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light. In addition, you have advantage on saving throws against illusion spells and on ability checks to determine whether something is an illusion."
+			]
+		},
+		{
+			"name": "Channel Divinity: Awakened Ambition",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 94,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 2,
+			"entries": [
+				"You can use your Channel Divinity to invoke the secrets of the Shadow, allowing you and your charges to turn forbidden potential into strength. As an action, you and each willing creature of your choice that you can see within 15 feet of you take necrotic damage equal to {@damage 1d10} plus your Wisdom modifier, and gain twice that many temporary hit points. This damage can't be reduced in any way."
+			]
+		},
+		{
+			"name": "Shadow's Gift",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 94,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 6,
+			"entries": [
+				"When you use your Channel Divinity feature, you can impart some of the Shadow's most successful lessons and awaken new gifts in those affected. Choose one of the following magical gifts, bestowing that benefit on yourself and each target of your Channel Divinity:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Eyes of the Medusa",
+							"entries": [
+								"For 1 minute, you can use your bonus action to fix your gaze on one creature within 30 feet of you that you can see and that can see your eyes. The target must make a Constitution saving throw with a DC equal to the cleric spell save DC of the cleric that granted you this benefit. On a failed save, the target's speed is reduced to 0 feet until the end of its next turn."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Heart of the Troll",
+							"entries": [
+								"At the start of your next turn, you regain hit points equal to {@dice 1d10} plus the Wisdom modifier of the cleric that granted you this benefit. If you take fire or acid damage before the start of your next turn, you don't regain hit points from this benefit."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Mastery of the Hag",
+							"entries": [
+								"For 1 minute, you have advantage on saving throws against spells."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Voice of the Harpy",
+							"entries": [
+								"You gain advantage on all Charisma checks for 1 minute."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Potent Spellcasting",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 94,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 8,
+			"entries": [
+				"You add your Wisdom modifier to the damage you deal with any cleric cantrip."
+			]
+		},
+		{
+			"name": "Shadow's Apotheosis",
+			"source": "ChroniclesofEberron",
+			"className": "cleric",
+			"classSource": "PHB",
+			"page": 94,
+			"subclassShortName": "Aspiration",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 17,
+			"entries": [
+				"The range of your Channel Divinity: Awaken Ambition feature increases from 15 feet to 30 feet. In addition, creatures affected by your Shadow's Gifts feature gain all four benefits, instead of just one."
 			]
 		}
 	],
