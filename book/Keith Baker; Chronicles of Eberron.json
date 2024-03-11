@@ -5160,6 +5160,178 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "section",
+							"name": "The Traveler",
+							"page": 89,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0039.webp"
+									},
+									"credit": "Matthew Johnson"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"Boldrei unites us as a community, and Aureon's laws bring order to our lives. Dol Arrah shows us the path of honor, and Dol Dorn gives us courage. But the Traveler seeks to destroy all of this. They wander the world, hiding behind a hundred different faces. They offer gifts, tempting you to take risks and to stray from the path. They have one goal: chaos. Try something new! Listen to this secret! Take this risky opportunity! All of these are the gifts of the Traveler, and all lead to despair. Trust in tradition. Trust the neighbor you know, not the stranger on the road. Beware the gifts of the Traveler."
+									],
+									"by": "Halas Molan, High Priest of Wroat"
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"\"Don't speak to strangers.\" \"Don't try anything new.\" The priests tell you to treasure the life you have now, and to avoid anything that might place it at risk. Well, the sheep in the field live predictable lives of absolute security ... until the shepherd grows hungry! Yes, the Traveler will shatter the life you have known, and in that chaos, you'll find your path and learn who you truly are. Only by leaving your comfortable home can you see all the wonders the world has to offer. If you care only about peace and stability, you might as well crawl into your grave right now. But if you want to experience everything life has to offer—moments of despair, yes, but also the greatest joys you can imagine—embrace the gifts of the Traveler."
+									],
+									"by": "Chance of Sharn"
+								},
+								"Five bones lashed together—one of the oldest and simplest symbols of the Dark Six, found in countless shrines in Droaam. But why {@i five} bones, not six? Because the Traveler can't be bound to one place or one form; they're the space on the wall, acknowledged by their absence.",
+								"Our lives are balanced between order and chaos, and the Traveler, Sovereign of Change, always tries to push us over the edge. In the myths of the Nine and Six, the Traveler is never encountered as \"the Traveler\" themself. Instead, they're the smith who gives Dol Dorn a sword, only to have it shatter in the first battle; the thief who steals Aureon's tome the moment he needs it most; the soldier who exposes Dol Azur's treachery. The Traveler wears a different name and face in every tale, but we know they're the Traveler because of the impact of their actions. Sometimes the gifts of the Traveler raise you up, and sometimes they ruin you. The only constants are chaos and change—shattering the foundation of your life and forcing you to find a new path forward.",
+								"In the common traditions of the Sovereign Host, the Traveler is presented as a malicious entity who revels in misfortune, chaos, and confusion. Good fortune is the blessing of Olladra, but when something fails at the worst possible moment, it's the hand of the Traveler. In these stories, the Traveler seeks to undermine all security, to tear down every foundation. Any stranger could be the Traveler, seeking to bring you to ruin. By contrast, those who follow the Traveler say that the change the Traveler brings is a positive thing—that chaos spurs innovation and revelation, that it's important to challenge traditions and abandon those that have served their purpose. Like most of the Dark Six, the Traveler focuses on the good of the individual over the stability of institutions: they help you find {@i your} path, rather than being bound by tradition. When you meet a stranger on the road, are you afraid of this possible threat or excited to meet someone new?",
+								"In addition to discussing the common Vassal view of the Traveler, this section examines two other relevant sects. The Cazhaak tradition, the common faith of Droaam, respects the chaos of the Traveler as a force that challenges tradition and forces people and civilizations to evolve. Meanwhile, the most devoted followers of the Traveler are the Children of Jes, nomadic changelings who view the Traveler as a personal guide and source of inspiration. You can learn more about these changelings in {@book chapter 2|ExploringEberron|2} of {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}.",
+								{
+									"type": "entries",
+									"name": "Chaos and Change",
+									"page": 90,
+									"entries": [
+										"The Traveler touches the domains of many other Sovereigns. Like Aureon and the Shadow, the Traveler is a source of knowledge. Along with Olladra and the Mockery, the Traveler is a patron of those who rely on deception and cunning. Like Onatar, they can provide inspiration to the artisan. Both those who fear the Traveler and those who revere them agree on one thing: whatever gifts the Traveler gives, they always lead to chaos. If the Traveler gives you knowledge, it's because the revelation will force you to reevaluate everything you know. If they help you deceive, it's because your actions will introduce chaos and crisis into your life or the lives of others. While Onatar teaches a swordsmith to make a better sword, the Traveler might show her how to make a bomb, changing the face of warfare. The Traveler isn't here to help you to satisfy your greed or to achieve your ambitions—instead, they set you on paths you never thought to try. They may grant you good fortune, but when you call on the Traveler, you invite the unexpected into your life.",
+										"The Traveler isn't {@i evil} in the same way as the Devourer or the Shadow. But most Vassals view the Traveler as an entirely malicious force—while those who honor the Traveler emphasize the potentially positive aspects of chaos. Take one common myth as an example: A smith gives Dol Dorn a magic sword, promising that it can defeat any foe. Dol Dorn rashly challenges a band of demons, but as he fights, the blade shatters. Refusing to retreat, Dol Dorn fights on and brings down his enemies with his fists and feet ... creating the martial art practiced by the Vassal monks of the Order of the Broken Blade. The typical Vassal interprets the role of the Traveler as entirely negative: the sword shattered, and only the strength and courage of Dol Dorn allowed him to triumph. By contrast, the Children say that Dol Dorn was forced to create something entirely new {@i because} the blade shattered—the Traveler's goal wasn't to kill Dol Dorn, but rather to challenge him and force this moment of innovation. The Cazhaak tradition maintains that the chaos of the Traveler is a flame that tests and tempers traditions and beliefs, whether these define a society or an individual; the Traveler doesn't seek absolute anarchy, but they want you to constantly challenge your beliefs and abandon traditions that have outlived their usefulness. Under this interpretation, the Traveler is ultimately a positive force, though they force you to live in interesting times. However, most Vassals dismiss this and see the Traveler solely as a bringer of misfortune and mischief."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Walking Your Own Path",
+									"page": 90,
+									"entries": [
+										"In the Pyrinean myths, the Traveler seeks to lure you off the path of safety and security. But in the traditions of the Children, the Traveler is the guide who walks by your side when you choose the unknown road—because it's only by walking your own path that you can find yourself. \"Walk your own path\" and \"find yourself\" are important principles for those who honor the Traveler. Walking your own path can be embraced both literally and metaphorically. On the one hand, it's a faith that encourages a nomadic lifestyle, embracing the chaos of the road and seeking out new places and experiences. Beyond that, it's a simple directive not to let others control your life; trust your instincts and don't fear the unknown.",
+										"Finding yourself can likewise be embraced on multiple levels. Identify your strengths and your passions, but beyond that, figure out who you want to be and become that person. While this is an easier directive for a changeling, Eberron's world of magic can make it a literal truth for anyone. {@spell Disguise self} and {@spell alter self} allow you to temporarily assume identities, but special versions of transmutation spells and rituals can allow you to permanently change any aspect of appearance or gender. Followers of the Traveler are urged not to feel bound by anyone's expectations—only you know who you are.",
+										"So while Vassals fear the Traveler as a malevolent force that seeks to pull you into chaos, the Children and those that follow the Cazhaak faith see the Traveler as the one who stands by you when you choose to leap into the unknown or challenge tradition. Those who follow the Traveler generally embrace one of three paths.",
+										{
+											"type": "entries",
+											"name": "Tricksters",
+											"page": 90,
+											"entries": [
+												"The trickster sows chaos for the joy of it, believing that as long as they're causing trouble for someone, they're protected by the Traveler. Some tricksters are impulsive and wild, causing disruptions wherever they go but rarely causing any huge disasters. Others are careful and calculating, forgoing petty disruptions in favor of actions that'll shake cities or institutions. With that said, most tricksters have no long-term agenda beyond chaos itself; their purpose is to light the fire, and how far it spreads or what it consumes is in the hands of fate. Tricksters are primarily found among Vassals; as the faith has a purely negative view of the Traveler, those who follow their path embrace that destructive view."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Mentors",
+											"page": 90,
+											"entries": [
+												"The mentor creates chaos because they believe it'll have a positive outcome. In comparison to tricksters, mentors are rarely impulsive, preferring to create chaos with a goal in mind, whether that's testing an institution, a law, or a particular individual. The mentor is the smith who gives Dol Dorn a flawed sword because they know he relies too heavily on his sword and needs to learn he doesn't need it. Of course, the mentor decides what lesson you need to learn, and there's no promise you'll survive the ensuing strife. Mentors can also focus on guiding those who are in moments of crisis; just as they believe the Traveler is by their side in chaotic times, they take that role for others, trying to lead toward a positive outcome. Such a mentor believes that traditions need to be challenged and people need to be tested, but ultimately they want people to learn a positive lesson, not to be lost to the chaos."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wanderers",
+											"page": 91,
+											"entries": [
+												"The wanderer follows their own path, pursuing a life of constant change and new experiences. They don't seek to cause chaos in the lives of others, either maliciously or with good intent. Rather, they embrace chaos in their own life, seeking to live unfettered by expectations and avoid settling into any negative patterns."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Many Faces of the Traveler",
+									"page": 91,
+									"entries": [
+										"Many followers of the Traveler follow the path of the wanderer, living nomadic lives and walking their own paths with little concern for the greater world around them. However, just as the Traveler inspires chaos, the faith of those who follow the Traveler can take a vast array of forms. Here are some examples.",
+										{
+											"type": "entries",
+											"name": "The Cabinet of Faces",
+											"page": 91,
+											"entries": [
+												"One alliance devoted to the Traveler follows the path of the mentor, actively sowing chaos in large and small ways. Most members of this Cabinet of Faces are changelings, so their exact numbers are impossible to track and it's up to you as a DM to decide just how widespread they are and how deep their resources go. There could be members of the Cabinet in every city, with agents hidden in positions of power. Or there could be merely a dozen members of the Cabinet, each of whom assumes a hundred different roles.",
+												"Members of the Cabinet of Faces play the role of the Traveler in the myths, acting in ways that set chaos in motion. This could be a gift, a theft, or a revelation. Consider the following possibilities.",
+												{
+													"type": "list",
+													"items": [
+														"The party is ambushed, and before their would-be assassin escapes, the characters recognize their clothing or other trappings as tied to a local organization. In fighting that organization, the party shakes up a corrupt and ingrained system ... but they never encounter the person who originally attacked them.",
+														"A scholar arrives with proof that one of the characters has an unexpected claim to a noble title ... but what chaos will ensue if they pursue it?",
+														"The party is accosted by a group of guards, who report that a member of the party was clearly seen committing a crime earlier—will the characters sort out the situation, or panic and dig in deeper?"
+													]
+												},
+												"In all these examples, a single individual is setting a chaotic series of events in motion. The assassin, the scholar, and the criminal don't have a personal investment in the outcome; they're simply placing the player characters in a challenging situation or using the party to challenge a powerful institution or tradition.",
+												"The key with the Cabinet of Faces is that their actions always create a crisis. This could be a personal crisis—\"do I pursue my ancestral claim?\"—or it could be a set of events that could bring down a dragonmarked house, a high priest, or a nation. It's possible that these actions can objectively be seen as noble, as they often target corrupt institutions. But the Cabinet of Faces also challenges virtuous institutions or traditions, both to make sure they're still serving their purpose and to force them to evolve. Their goal isn't \"good\"—it's chaos, with the hope that that chaos will have a positive outcome."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cannith Cults",
+											"page": 91,
+											"entries": [
+												"Onatar is generally seen as the patron of House Cannith. While he does inspire artisans and help them find better ways to do their work, he does so slowly and carefully. Onatar can be seen as following the Prime Directive: the Sovereign of the Forge won't share any ideas until the world is ready for them. But there are others in House Cannith who believe there should be no limits—divine or otherwise—on arcane advancement. Artificers and artisans who invoke the Traveler pursue ideas that could change the world. After the Mourning rocked the Five Nations, a common theory emerged that the disaster was caused by a Cannith cult of the Traveler—that they were creating a weapon that would completely change the face of modern warfare, and they lost control of it. There's no question that the Mourning has forced change on the world—but it also shows the potential danger of meddling with forces we don't understand. Others say that Aaren d'Cannith was a devotee of the Traveler, and that the Sovereign of Change showed him the path to warforged sentience ... a discovery that forces everyone to reconsider the nature of life and the rights of their creations.",
+												"The party could encounter a single visionary Cannith with big dreams and creations they can't control, or an entire coalition within the house that's actively researching something that could fundamentally change civilization as we know it. Whether that's reliable resurrection or cheap teleportation, part of their motivation would be to explore the chaos such a discovery would cause, and the ways in which it would transform the world.",
+												"Cannith cults are an excellent example of artificers who revere the Traveler, as it's easy for them to hide within the infrastructure of the house, but any artificer can seek inspiration from the Traveler. The risk is that House Cannith always seeks to contain any advances that could threaten its monopolies. Working within the house, you can try to hide your true work within legitimate paths. As an independent, you don't have the shield provided by family connections or knowledge of the house. But an independent artificer who creates a revolutionary ritual could certainly threaten the established dominance of the house ... and bringing down established powers is one of the goals of the Traveler."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Independent Operators",
+											"page": 91,
+											"entries": [
+												"Anyone who causes chaos or crisis can be perceived as a hand of the Traveler, but some people do the work of the Traveler in less dramatic ways. The Tyrants of Sharn aren't as far-reaching in their actions as the Cabinet of Faces, but they also take subtle actions to challenge the institutions of the city—whether that's exacerbating the conflict between Daask and the Boromar Clan, or subtly interfering in the espionage and diplomacy that occurs throughout the city. Meanwhile, a priest of the Traveler named Chance runs a gambling hall in Sharn, encouraging people to take risks and facilitating unusual wagers."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Using the Traveler",
+									"page": 92,
+									"entries": [
+										"The Traveler is the only Sovereign who's often depicted as wandering the world. However, this is a flawed interpretation of what's actually going on. The Traveler is the stranger on the road, the spark that creates the flame. The Traveler takes a different form in every story, but we know they're the Traveler because of the consequences of their actions. While you could posit this as the work of a single divine entity, it can simply be the actions of many different people. The Children believe that the Traveler acts through you; when you do the work of a mentor, in that moment you {@i are} the Traveler. Likewise, many powerful beings—from archfey to the legendary Sora Kell—have taken on the mantle of the Traveler or had their actions attributed to the Traveler.",
+										"Player characters might meet an individual who claims to be the Traveler—but are they truly a god? Are they an archfey or celestial that's taken on the mantle? Are they simply a changeling priest? They might be from one of the sects discussed in \"Many Faces of the Traveler,\" or an independent operator. Either way, when introducing a devotee of the Traveler, consider whether they're a wanderer, mentor, or trickster ... do they wander the world for their own benefit without seeking to bring chaos to others? Do they believe their actions could have a positive outcome? Or are they lighting a fire because they want to watch things burn?",
+										{
+											"type": "entries",
+											"name": "Player Characters",
+											"page": 92,
+											"entries": [
+												"In following the Traveler, you embrace instability and chaos as positive tools. Unless you're a trickster, you don't want to cause trouble without reason. But you believe in taking chances, embracing uncertainty, and pushing others to do the same.",
+												"The critical question is how you're going to interact with the other members of your party. The carefree trickster who sows chaos with no concern for consequence might be fun for {@i you}, but why would the other adventurers associate with you (unless they share your beliefs)? And how will the players themselves feel about your character's actions toward theirs? As such, the mentor or the wanderer are usually better paths for player characters.",
+												{
+													"type": "entries",
+													"name": "Wanderer",
+													"page": 92,
+													"entries": [
+														"As a wanderer, you're primarily a free spirit. You likely encourage the party to keep moving forward, to question authority, and to avoid being tied down, but you're primarily focused on your own journey as opposed to trying to bring chaos to others. A ranger could easily follow the path of the wanderer, as could a changeling monk who seeks to perfect their own form."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Mentor",
+													"page": 92,
+													"entries": [
+														"As a mentor, you may focus on bringing down corrupt systems and institutions: challenging the dragonmarked houses, exposing corruption in local guilds or temples, and trying to help innocents find a positive path through chaotic times. You could also receive cryptic divine guidance, being directed toward people to help or institutions to challenge. You may not know the entire story, but you know that it's your task to bring down the Daggerwatch Garrison in Sharn ... are you up to the task?"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Trickster",
+													"page": 92,
+													"entries": [
+														"Bards, rogues, and charlatans make excellent tricksters. A sorcerer specializing in illusion or enchantment could also attribute their gifts to the Traveler. An Archfey warlock could believe the Traveler is their patron ... but are they actually serving the Sovereign, or an archfey who's taken on the mantle?"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Priest",
+													"page": 92,
+													"entries": [
+														"If your character not only honors the Traveler but actively serves in a priestly role, you could play a cleric of the Trickery or Knowledge domain, depending on your vision of your character. Are you more about active deception, or do you work by exposing secrets? Another option is to play an artificer or Forge cleric who focuses on creating things that will change the world (see the \"{@book Cannith Cults|ChroniclesofEberron|13|Cannith Cults}\" section above for more information on this). There's no paladin oath that's particularly suited to the Traveler, but you could follow any oath as long as you're pursuing the Traveler's goals. If you're a wanderer, you could take the Oath of the Ancients; if you're focused on tearing down corrupt systems, you might take the Oath of Vengeance; and if you're primarily driven to help guide others through times of chaos and crisis, you could follow the Oath of Devotion. However, you needn't be a divine spellcaster to believe you have a divine purpose, or even to play the role of priest.",
+														"Unlike priests of other faiths, who often use a particular holy symbol to mark their service, the Traveler doesn't have a consistent holy symbol; it's hard to be a subtle agent of chaos when you're wearing a uniform or carrying an object that advertises that fact. Instead, the holy symbols of the Traveler are things that have personal significance and importance to the individual priest—each priest carries an object with a story. These can be handed down; one common symbol used by the Children is a traveling cloak, patched and repaired over generations. If a holy symbol is lost, the servant of the Traveler can invest a new object as their holy symbol by finishing a long rest—but that new object must also have a story and significance to the priest. (If you're using something that's not a traditional holy symbol, or even playing a different class that doesn't use one at all, you can describe any spellcasting focus or component as if it were an item of divine significance; just be sure to follow the rules for how that item should be used in spellcasting, such as touching it while you cast a spell.)"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
