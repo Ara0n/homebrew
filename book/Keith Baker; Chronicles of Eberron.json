@@ -28,6 +28,9 @@
 				"dateReleased": "2022-12-01"
 			}
 		],
+		"optionalFeatureTypes": {
+			"MM:F": "Metamagic; Forbidden"
+		},
 		"status": "wip",
 		"dateAdded": 1708532754,
 		"dateLastModified": 1708602271
@@ -5360,6 +5363,25 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Forbidden Metamagic",
+									"page": 95,
+									"entries": [
+										"A character with the Shadow's Metamagic feat (see previous section) gains access to the following Metamagic options. With the DM's permission, other characters with the Metamagic feature might also be able to choose these {@filter Metamagic options|optionalfeatures|Feature Type=MM:F}.",
+										{
+											"type": "list",
+											"columns": 2,
+											"items": [
+												"{@optfeature Doomed Twin|ChroniclesofEberron}",
+												"{@optfeature Defiled Gift|ChroniclesofEberron}",
+												"{@optfeature Shadow's Toll|ChroniclesofEberron}",
+												"{@optfeature Blood Debt|ChroniclesofEberron}",
+												"{@optfeature Reverse Speech|ChroniclesofEberron}"
+											]
+										}
+									]
 								}
 							]
 						}
@@ -7168,7 +7190,7 @@
 			"ruleType": "O",
 			"entries": [
 				"As suggested in a similar sidebar in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}, a DM could introduce magical gifts of the Shadow into a game. The Shadow knows secrets that are dark, powerful, and carry a horrible cost—secrets that good people shouldn't know or use. While the game's rules aren't designed with forbidden spells that shouldn't be cast, you can add forbidden magic into your game, and along with it, a terrible cost.",
-				"The character options presented at the end of this chapter aren't designed with many penalties; however, a player who chooses them (or receives them as a supernatural gift) might be interested in embracing additional downsides and exploring the story of \"forbidden magic at a cost.\" Regardless of what effects you establish, they should illustrate a clear and concrete reason why this magic is forbidden—someone or something pays a price every time it's used. Consider the following ideas:",
+				"The character options presented at the end of this {@book chapter|ChroniclesofEberron|13|Character Option} aren't designed with many penalties; however, a player who chooses them (or receives them as a supernatural gift) might be interested in embracing additional downsides and exploring the story of \"forbidden magic at a cost.\" Regardless of what effects you establish, they should illustrate a clear and concrete reason why this magic is forbidden—someone or something pays a price every time it's used. Consider the following ideas:",
 				{
 					"type": "list",
 					"items": [
@@ -7198,7 +7220,7 @@
 				{
 					"name": "Metamagic",
 					"featureType": [
-						"MM"
+						"MM:F"
 					],
 					"progression": {
 						"*": 2
@@ -7210,10 +7232,99 @@
 				{
 					"type": "list",
 					"items": [
-						"You learn two Metamagic options of your choice from the {@filter Forbidden Metamagic|optionalfeatures|Feature Type=MM} list. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the Forbidden Metamagic list.",
+						"You learn two Metamagic options of your choice from the {@filter Forbidden Metamagic|optionalfeatures|Feature Type=MM:F} list. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the Forbidden Metamagic list.",
 						"You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest."
 					]
 				}
+			]
+		}
+	],
+	"optionalfeature": [
+		{
+			"name": "Doomed Twin",
+			"source": "ChroniclesofEberron",
+			"page": 95,
+			"featureType": [
+				"MM:F"
+			],
+			"consumes": {
+				"name": "Sorcery Point",
+				"amount": 2
+			},
+			"entries": [
+				"When you cast a spell that targets only one creature, doesn't have a range of self, and doesn't inflict the charmed condition, you can spend 2 sorcery points to target a second creature in range with the same spell. When you do, the DM chooses a third creature within range (other than yourself) to target with the same spell. If the spell provides a choice of effects, the DM picks the effects on the third target for the duration of your spell.",
+				"If the creatures you twinned the spell between are your allies, the DM typically chooses an enemy to benefit from the spell. If the creatures you twinned the spell between are your enemies, the DM typically chooses an ally to harm with the spell. You can only use Doomed Twin if the DM agrees there is a third target meeting that criteria within range for them to affect, or if you and the DM both agree for them to choose a third target outside the normal range of that spell.",
+				"To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, {@spell magic missile} and {@spell scorching ray} aren't eligible, but {@spell ray of frost} and {@spell chromatic orb} are."
+			]
+		},
+		{
+			"name": "Defiled Gift",
+			"source": "ChroniclesofEberron",
+			"page": 96,
+			"featureType": [
+				"MM:F"
+			],
+			"consumes": {
+				"name": "Sorcery Point",
+				"amountMin": 1,
+				"amountMax": 6
+			},
+			"entries": [
+				"When you cast a spell that restores hit points to a creature, you can spend 1 sorcery point to roll a number of d6 equal to your proficiency bonus. One target of the spell regains that many additional hit points, and you or one willing creature within your reach takes necrotic damage equal to half the number of additional hit points restored. This damage can't be reduced in any way."
+			]
+		},
+		{
+			"name": "Shadow's Toll",
+			"source": "ChroniclesofEberron",
+			"page": 96,
+			"featureType": [
+				"MM:F"
+			],
+			"consumes": {
+				"name": "Sorcery Point",
+				"amountMin": 1,
+				"amountMax": 5
+			},
+			"entries": [
+				"You can spend up to 5 sorcery points to push yourself to cast a spell of a level equal to the number of sorcery points spent. To do so, you must normally have spell slots of that level but have expended all slots of that level. When you do so, you cast that spell with its normal casting time without expending a spell slot. Immediately afterward, a number of {@creature shadow|MM|shadows} equal to the number of sorcery points you spent appear in unoccupied spaces next to you and take their turns immediately after you. They are hostile to you and your companions, and attack you on their turns if able. Each shadow remains for 1 minute or until reduced to 0 hit points."
+			]
+		},
+		{
+			"name": "Blood Debt",
+			"source": "ChroniclesofEberron",
+			"page": 96,
+			"featureType": [
+				"MM:F"
+			],
+			"consumes": {
+				"name": "Sorcery Point",
+				"amountMin": 1,
+				"amountMax": 6
+			},
+			"entries": [
+				"When you cast a spell of 1st level or higher, you can spend any number of sorcery points to gain twice that many sorcery points. When you do so, you gain a number of levels of exhaustion equal to the number of sorcery points you spent. You must use these newly gained sorcery points before the end of your turn or they are lost as if you'd spent them.",
+				{
+					"type": "inset",
+					"name": "One DnD variant",
+					"entries": [
+						"If using {@loader One DnD rules|collection/Unearthed Arcana 2023 - Druid & Paladin.json|prerelease} for {@condition exhausted|XUA2023DruidAndPaladin|exhaustion} the maximum that is spendable is 10.",
+						"You can use Blood Debt even if you have already used a different Metamagic option during the casting of the spell."
+					]
+				}
+			]
+		},
+		{
+			"name": "Reverse Speech",
+			"source": "ChroniclesofEberron",
+			"page": 96,
+			"featureType": [
+				"MM:F"
+			],
+			"consumes": {
+				"name": "Sorcery Point"
+			},
+			"entries": [
+				"When you cast a spell with verbal components, you can speak them backward and spend 1 sorcery point to reveal hidden meanings in your utterances. For the duration of the spell, each target that knows at least one language and can hear you understands what you say. In addition, if the spell would cause a target to be {@condition charmed}, you can instead choose for that creature to be {@condition frightened} instead, and vice versa, though all other effects of the spell apply as if the original condition were in effect. If the spell targets multiple creatures, you can choose whether to charm or frighten each creature separately."
 			]
 		}
 	]
