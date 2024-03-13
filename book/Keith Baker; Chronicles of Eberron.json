@@ -5346,6 +5346,20 @@
 										"{@class cleric|PHB|Cleric: Aspiration Domain|Aspiration|ChroniclesofEberron}",
 										"{@class rogue|PHB|Rogue: Dark Petitioner|Dark Petitioner|ChroniclesofEberron}"
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Forbidden Feat",
+									"page": 95,
+									"entries": [
+										"The following feat reflects a connection to the Shadow that grants knowledge of forbidden magics. With the DM's permission, this feat can be used with the optional feat rule in the {@book Player's Handbook|PHB}.",
+										{
+											"type": "list",
+											"items": [
+												"{@feat Shadow's Metamagic|ChroniclesofEberron}"
+											]
+										}
+									]
 								}
 							]
 						}
@@ -7167,6 +7181,39 @@
 					]
 				},
 				"These ideas are all reasonable for player characters; meanwhile, an NPC who wields secrets of the Shadow could have even more dramatic effects or costs to their spells. All of this demonstrates that when people say \"this is power that nobody should wield,\" it's not just Aureon being a jerk—these powers truly are dangerous."
+			]
+		}
+	],
+	"feat": [
+		{
+			"name": "Shadow's Metamagic",
+			"source": "ChroniclesofEberron",
+			"page": 95,
+			"prerequisite": [
+				{
+					"spellcasting2020": true
+				}
+			],
+			"optionalfeatureProgression": [
+				{
+					"name": "Metamagic",
+					"featureType": [
+						"MM"
+					],
+					"progression": {
+						"*": 2
+					}
+				}
+			],
+			"entries": [
+				"You've learned the forbidden secrets of the Shadow, allowing you to alter how your spells function:",
+				{
+					"type": "list",
+					"items": [
+						"You learn two Metamagic options of your choice from the {@filter Forbidden Metamagic|optionalfeatures|Feature Type=MM} list. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the Forbidden Metamagic list.",
+						"You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest."
+					]
+				}
 			]
 		}
 	]
