@@ -5343,7 +5343,8 @@
 									"type": "list",
 									"items": [
 										"{@class bard|PHB|Bard: College of the Fury|Fury|ChroniclesofEberron}",
-										"{@class cleric|PHB|Cleric: Aspiration Domain|Aspiration|ChroniclesofEberron}"
+										"{@class cleric|PHB|Cleric: Aspiration Domain|Aspiration|ChroniclesofEberron}",
+										"{@class rogue|PHB|Rogue: Dark Petitioner|Dark Petitioner|ChroniclesofEberron}"
 									]
 								}
 							]
@@ -6061,7 +6062,7 @@
 			"name": "Oath of Veneration",
 			"source": "ChroniclesofEberron",
 			"page": 49,
-			"className": "paladin",
+			"className": "Paladin",
 			"classSource": "PHB",
 			"shortName": "Veneration",
 			"subclassFeatures": [
@@ -6090,7 +6091,7 @@
 			"name": "College of Fury",
 			"source": "ChroniclesofEberron",
 			"page": 93,
-			"className": "bard",
+			"className": "Bard",
 			"classSource": "PHB",
 			"shortName": "Fury",
 			"subclassFeatures": [
@@ -6105,7 +6106,7 @@
 			"name": "Aspiration Domain",
 			"source": "ChroniclesofEberron",
 			"page": 93,
-			"className": "cleric",
+			"className": "Cleric",
 			"classSource": "PHB",
 			"shortName": "Aspiration",
 			"subclassFeatures": [
@@ -6121,13 +6122,353 @@
 				"detect magic",
 				"illusory script",
 				"augury",
-				"detect thought",
+				"detect thoughts",
 				"clairvoyance",
 				"Shadow's echo|ChroniclesofEberron",
 				"divination",
 				"shadow of Moil|XGE",
 				"circle of power",
 				"scrying"
+			]
+		},
+		{
+			"name": "Dark Petitioner",
+			"source": "ChroniclesofEberron",
+			"page": 94,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"shortName": "Dark Petitioner",
+			"subclassFeatures": [
+				"Dark Petitioner|rogue|PHB|Dark Petitioner|ChroniclesofEberron|3",
+				"Azur's Advantage|rogue|PHB|Dark Petitioner|ChroniclesofEberron|9",
+				"Shadow's Veil|rogue|PHB|Dark Petitioner|ChroniclesofEberron|13",
+				"Keeper's End|rogue|PHB|Dark Petitioner|ChroniclesofEberron|17"
+			],
+			"casterProgression": "1/3",
+			"spellcastingAbility": "wis",
+			"subclassSpells": [
+				{
+					"groupName": "Dark Petitioner",
+					"groupSource": ""
+				}
+			],
+			"additionalSpells": [
+				{
+					"known": {
+						"3": [
+							"guidance#c",
+							{
+								"choose": {
+									"from": [
+										"dancing lights#c",
+										"friends#c",
+										"message#c",
+										"resistance#c",
+										"spare the dying#c",
+										"thaumaturgy#c",
+										"true strike#c",
+										"traveler's enigma|ChroniclesofEberron#c"
+									],
+									"count": 2
+								}
+							}
+						],
+						"10": [
+							{
+								"choose": {
+									"from": [
+										"dancing lights#c",
+										"friends#c",
+										"message#c",
+										"resistance#c",
+										"spare the dying#c",
+										"thaumaturgy#c",
+										"true strike#c",
+										"traveler's enigma|ChroniclesofEberron#c"
+									],
+									"count": 1
+								}
+							}
+						]
+					},
+					"expanded": {
+						"3": [
+							{
+								"all": "level=1|class=cleric"
+							}
+						],
+						"7": [
+							{
+								"all": "level=2|class=cleric"
+							}
+						],
+						"13": [
+							{
+								"all": "level=3|class=cleric"
+							}
+						],
+						"19": [
+							{
+								"all": "level=4|class=cleric"
+							}
+						]
+					}
+				}
+			],
+			"spellsKnownProgression": [
+				0,
+				0,
+				3,
+				4,
+				4,
+				4,
+				5,
+				6,
+				6,
+				7,
+				8,
+				8,
+				9,
+				10,
+				10,
+				11,
+				11,
+				11,
+				12,
+				13
+			],
+			"subclassTableGroups": [
+				{
+					"subclasses": [
+						{
+							"name": "Dark Petitioner",
+							"source": "ChroniclesofEberron"
+						}
+					],
+					"colLabels": [
+						"Cantrips Known",
+						"{@filter Spells Known|spells|level=1;2;3;4|class=cleric}"
+					],
+					"rows": [
+						[
+							0,
+							0
+						],
+						[
+							0,
+							0
+						],
+						[
+							3,
+							3
+						],
+						[
+							3,
+							4
+						],
+						[
+							3,
+							4
+						],
+						[
+							3,
+							4
+						],
+						[
+							3,
+							5
+						],
+						[
+							3,
+							6
+						],
+						[
+							3,
+							6
+						],
+						[
+							4,
+							7
+						],
+						[
+							4,
+							8
+						],
+						[
+							4,
+							8
+						],
+						[
+							4,
+							9
+						],
+						[
+							4,
+							10
+						],
+						[
+							4,
+							10
+						],
+						[
+							4,
+							11
+						],
+						[
+							4,
+							11
+						],
+						[
+							4,
+							11
+						],
+						[
+							4,
+							12
+						],
+						[
+							4,
+							13
+						]
+					]
+				},
+				{
+					"title": "Spell Slots per Spell Level",
+					"subclasses": [
+						{
+							"name": "Dark Petitioner",
+							"source": "ChroniclesofEberron"
+						}
+					],
+					"colLabels": [
+						"{@filter 1st|spells|level=1|class=Cleric}",
+						"{@filter 2nd|spells|level=2|class=Cleric}",
+						"{@filter 3rd|spells|level=3|class=Cleric}",
+						"{@filter 4th|spells|level=4|class=Cleric}"
+					],
+					"rowsSpellProgression": [
+						[
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							0,
+							0,
+							0,
+							0
+						],
+						[
+							2,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							3,
+							1
+						],
+						[
+							4,
+							3,
+							3,
+							1
+						]
+					]
+				}
 			]
 		}
 	],
@@ -6540,6 +6881,146 @@
 			"level": 17,
 			"entries": [
 				"The range of your Channel Divinity: Awaken Ambition feature increases from 15 feet to 30 feet. In addition, creatures affected by your Shadow's Gifts feature gain all four benefits, instead of just one."
+			]
+		},
+		{
+			"name": "Dark Petitioner",
+			"source": "ChroniclesofEberron",
+			"className": "rogue",
+			"classSource": "PHB",
+			"page": 94,
+			"subclassShortName": "Dark Petitioner",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"As a rogue, you know that the path to peace and prosperity is rarely as virtuous as the Vassals of the Sovereign Host claim. Victory must be won by pragmatism, sacrifice, and the blood of those who aren't afraid to get their hands dirty—like you. With these tenets, you ask the Dark Six for the gift of their power.",
+				"Though some Dark Petitioners worship the Six as great leaders to venerate and emulate, many among the Five Nations don't hold their patrons in such high esteem. For these petitioners, their rites and rituals instead serve to appease the dark powers, and to turn the Six's attention to their enemies. Do you enjoy the power of Dol Azur's blessing on a poisoned blade? Or do you only hope that your offerings to the Mockery will cause your opponent to stumble first?",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Spellcasting|rogue||Dark Petitioner|ChroniclesofEberron|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Pragmatic Petition|rogue||Dark Petitioner|ChroniclesofEberron|3"
+				}
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "ChroniclesofEberron",
+			"className": "rogue",
+			"classSource": "PHB",
+			"page": 94,
+			"subclassShortName": "Dark Petitioner",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"You gain the ability to cast spells. See {@book chapter 10|PHB|10} of the {@book Player's Handbook|PHB} for the general rules of spellcasting and {@book chapter 11|PHB|11|Cleric Spells} for the cleric spell list.",
+				{
+					"type": "entries",
+					"name": "Cantrips",
+					"page": 94,
+					"entries": [
+						"You learn the {@spell guidance} cantrip and two cantrips of your choice from the following list: {@spell dancing lights}, {@spell friends}, {@spell message}, {@spell resistance}, {@spell spare the dying}, {@spell thaumaturgy}, {@spell true strike}, and {@spell Traveler's enigma|ChroniclesofEberron} (in the \"{@book Spells of the Six|ChroniclesofEberron|13|Spells of the Six}\" section of this chapter). At 10th level, you learn another cantrip of your choice from this list."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spell Slots",
+					"page": 94,
+					"entries": [
+						"The Dark Petitioner Spellcasting table shows how many spell slots you have to cast your {@filter cleric spells|spells|class=cleric} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"For example, if you know the 1st-level spell {@spell cure wounds} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell cure wounds} using either slot."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spells Known of 1st-Level and Higher",
+					"page": 94,
+					"entries": [
+						"You know three 1st-level cleric spells of your choice. The Spells Known column of the Dark Petitioner Spellcasting table shows when you learn more cleric spells of 1st level or higher. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.",
+						"Whenever you gain a level in this class, you can replace one of the cleric spells you know with another spell of your choice from the cleric spell list. The new spell must be of a level for which you have spell slots."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spellcasting Ability",
+					"page": 94,
+					"entries": [
+						"Wisdom is your spellcasting ability for your cleric spells, since your spells come from your appeasement or veneration of the Dark Six. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.",
+						{
+							"type": "abilityDc",
+							"name": "Spell",
+							"attributes": [
+								"wis"
+							]
+						},
+						{
+							"type": "abilityAttackMod",
+							"name": "Spell",
+							"attributes": [
+								"wis"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Pragmatic Petition",
+			"source": "ChroniclesofEberron",
+			"className": "rogue",
+			"classSource": "PHB",
+			"page": 95,
+			"subclassShortName": "Dark Petitioner",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 3,
+			"entries": [
+				"You ask the Six for their guidance and protection when you take advantage of an opening, no matter how dishonorable another Vassal might consider it. When you hit a creature with an attack on your turn, you can use the bonus action granted by your Cunning Action to cast one of your Dark Petitioner cantrips, regardless of its normal casting time."
+			]
+		},
+		{
+			"name": "Azur's Advantage",
+			"source": "ChroniclesofEberron",
+			"className": "rogue",
+			"classSource": "PHB",
+			"page": 95,
+			"subclassShortName": "Dark Petitioner",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 9,
+			"header": 2,
+			"entries": [
+				"If you roll a 1 or 2 on one or more of your Sneak Attack dice when dealing damage to a creature that is {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition grappled}, {@condition incapacitated}, {@condition poisoned}, {@condition prone} or {@condition restrained}, you can reroll those dice and must use the new roll."
+			]
+		},
+		{
+			"name": "Shadow's Veil",
+			"source": "ChroniclesofEberron",
+			"className": "rogue",
+			"classSource": "PHB",
+			"page": 95,
+			"subclassShortName": "Dark Petitioner",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 13,
+			"header": 2,
+			"entries": [
+				"Through careful positioning, cunning and a divine gift or two, you've learned to slip out of a weakened creature's sight. When you hit a creature with an attack, you can choose to become {@condition invisible} to that creature for 1 minute or until you dismiss this effect (no action required). This invisibility ends early if you deal damage to a creature or force a creature to make a saving throw.",
+				"Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot to use this feature again."
+			]
+		},
+		{
+			"name": "Keeper's End",
+			"source": "ChroniclesofEberron",
+			"className": "rogue",
+			"classSource": "PHB",
+			"page": 95,
+			"subclassShortName": "Dark Petitioner",
+			"subclassSource": "ChroniclesofEberron",
+			"level": 17,
+			"header": 2,
+			"entries": [
+				"When you reduce a creature to 0 hit points, you can steal that creature's soul and keep it joined with your own. While a creature's soul is joined to yours, that creature can be restored to life only by a {@spell wish} spell.",
+				"Additionally, when you have to make a death saving throw, you can instead choose to release a soul you have stolen. When you do so, you regain 1 hit point, and that soul is no longer joined to yours."
 			]
 		}
 	],
