@@ -5382,6 +5382,77 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Spells of the Six",
+									"page": 96,
+									"entries": [
+										"This section contains new spells that reflect a connection to one of the Dark Six. The DM may add these spells to a campaign, making them available to player characters and NPCs alike. The Spells of the Six table lists the new spells, ordering them by level. The table also notes each spell's school of magic, whether it requires concentration, whether it bears the ritual tag, and which classes have access to it.",
+										{
+											"type": "table",
+											"caption": "Spells of the Six",
+											"page": 96,
+											"colLabels": [
+												"Level",
+												"Spell",
+												"School",
+												"Conc.",
+												"Ritual",
+												"Class"
+											],
+											"rows": [
+												[
+													"0",
+													"{@spell Traveler's Enigma|ChroniclesofEberron}",
+													"Transmutation",
+													"No",
+													"No",
+													"Artificer, Bard, Cleric"
+												],
+												[
+													"1st",
+													"{@spell Fury's Chorus|ChroniclesofEberron}",
+													"Enchantment",
+													"Yes",
+													"No",
+													"Bard, Cleric, Warlock"
+												],
+												[
+													"2nd",
+													"{@spell Keeper's Vault|ChroniclesofEberron}",
+													"Necromancy",
+													"Yes",
+													"No",
+													"Artificer, Bard, Cleric, Warlock"
+												],
+												[
+													"2nd",
+													"{@spell Mockery's Snare|ChroniclesofEberron}",
+													"Abjuration",
+													"Yes",
+													"No",
+													"Artificer, Cleric, Ranger, Warlock"
+												],
+												[
+													"3rd",
+													"{@spell Shadow's Echo|ChroniclesofEberron}",
+													"Illusion",
+													"No",
+													"No",
+													"Bard, Cleric, Warlock"
+												],
+												[
+													"4th",
+													"{@spell Devourer's Teeth|ChroniclesofEberron}",
+													"Conjuration",
+													"No",
+													"No",
+													"Cleric, Druid, Sorcerer"
+												]
+											]
+										}
+									]
 								}
 							]
 						}
@@ -7326,6 +7397,419 @@
 			"entries": [
 				"When you cast a spell with verbal components, you can speak them backward and spend 1 sorcery point to reveal hidden meanings in your utterances. For the duration of the spell, each target that knows at least one language and can hear you understands what you say. In addition, if the spell would cause a target to be {@condition charmed}, you can instead choose for that creature to be {@condition frightened} instead, and vice versa, though all other effects of the spell apply as if the original condition were in effect. If the spell targets multiple creatures, you can choose whether to charm or frighten each creature separately."
 			]
+		}
+	],
+	"spell": [
+		{
+			"name": "Devourer's Teeth",
+			"level": 4,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "cube",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"duration": [
+				{
+					"duration": {
+						"amount": 1,
+						"type": "minute"
+					},
+					"type": "timed"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"A great wave of salt water bursts from the ground beneath your feet. Each creature in a 30-foot cube originating from you must make a Strength saving throw. On a failed save, a creature takes {@damage 4d10} bludgeoning damage and is pushed 15 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.",
+				"Along with the wave, you conjure the spirit of a great shark. Choose one creature that failed its saving throw as the shark spirit's prey. That target takes an extra {@damage 2d10} piercing damage and is restrained by the shark spirit's jaws. A target restrained in this way can use its action to make a Strength check against your spell save DC. On a success, it frees itself and the shark spirit disappears."
+			],
+			"entriesHigherLevel": [
+				{
+					"name": "At Higher Levels",
+					"type": "entries",
+					"entries": [
+						"When you cast this spell using a spell slot of 5th level or higher, the damage of the wave and the damage of the spirit shark's jaws each increase by {@scaledamage 4d10|4-9|1d10} for each slot level above 4th."
+					]
+				}
+			],
+			"damageInflict": [
+				"bludgeoning",
+				"piercing"
+			],
+			"savingThrow": [
+				"strength"
+			],
+			"miscTags": [
+				"FMV"
+			],
+			"conditionInflict": [
+				"restrained"
+			],
+			"areaTags": [
+				"C"
+			],
+			"source": "ChroniclesofEberron",
+			"page": 96,
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a shark's tooth"
+			}
+		},
+		{
+			"name": "Fury's Chorus",
+			"level": 1,
+			"school": "E",
+			"time": [
+				{
+					"unit": "action",
+					"number": 1
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"amount": 60,
+					"type": "feet"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"concentration": true,
+					"duration": {
+						"amount": 1,
+						"type": "minute"
+					}
+				}
+			],
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"entries": [
+				"You call a group of people to a heightened emotional state, driving them to anger and mistrust. Each Humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw. On a failed save, a creature must use its reaction (if available) to make an opportunity attack whenever another creature (including an ally) moves out of its reach. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. The {@spell calm emotions} spell suppresses the effects of this spell."
+			],
+			"areaTags": [
+				"S"
+			],
+			"affectsCreatureType": [
+				"humanoid"
+			],
+			"savingThrow": [
+				"charisma"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"source": "ChroniclesofEberron",
+			"page": 97
+		},
+		{
+			"name": "Keeper's Vault",
+			"level": 2,
+			"school": "N",
+			"time": [
+				{
+					"unit": "action",
+					"number": 1
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"amount": 60,
+					"type": "feet"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"concentration": true,
+					"duration": {
+						"amount": 1,
+						"type": "minute"
+					}
+				}
+			],
+			"source": "ChroniclesofEberron",
+			"page": 97,
+			"components": {
+				"v": true,
+				"m": {
+					"text": "an unlit lantern worth at least 10 gp",
+					"cost": 1000
+				}
+			},
+			"miscTags": [
+				"UBA",
+				"HL"
+			],
+			"damageInflict": [
+				"necrotic"
+			],
+			"affectsCreatureType": [
+				"aberration",
+				"beast",
+				"celestial",
+				"dragon",
+				"elemental",
+				"fey",
+				"fiend",
+				"giant",
+				"humanoid",
+				"monstrosity",
+				"ooze",
+				"plant"
+			],
+			"entries": [
+				"You draw out a fragment of a living soul and bind it within the lantern used as a material component for this spell. Choose a creature you can see within 60 feet of you that isn't an Undead or Construct. For the duration, the lantern is ignited by the target's soul and sheds dim light in a 30-foot radius. At the start of each of the target's turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes {@damage 2d6} necrotic damage. On a successful save, the target takes no damage, but its soul remains bound. If the target's saving throw succeeds by 5 or more, its soul becomes unbound and the spell ends.",
+				"Until the spell ends, as a bonus action, you can choose one creature you can see within 30 feet of you that isn't an Undead or Construct. That creature regains hit points equal to the total damage dealt by this spell, up to a maximum of 20 hit points, and the spell ends."
+			],
+			"entriesHigherLevel": [
+				{
+					"name": "At Higher Levels",
+					"type": "entries",
+					"entries": [
+						"When you cast this spell using a spell slot of 3rd level or higher, the damage increases by {@scaledamage 2d6|2-9|1d6} and the maximum hit points regained increases by 10 for each slot level above 2nd."
+					]
+				}
+			],
+			"savingThrow": [
+				"constitution"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Artificer",
+						"source": "TCE"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"name": "Mockery's Snare",
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"distance": {
+					"type": "touch"
+				},
+				"type": "point"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"amount": 1,
+						"type": "minute"
+					},
+					"concentration": true
+				}
+			],
+			"source": "ChroniclesofEberron",
+			"page": 97,
+			"savingThrow": [
+				"wisdom"
+			],
+			"conditionInflict": [
+				"restrained"
+			],
+			"damageInflict": [
+				"necrotic"
+			],
+			"entries": [
+				"You imbue yourself or one willing creature you touch with the duplicitous power of Dol Azur, laying a trap to ensnare a foe in spectral bindings. The next time the imbued creature is hit with an attack before the spell ends, the attacking creature must make a Wisdom saving throw. On a failed save, the attacking creature takes {@damage 3d8} necrotic damage and is restrained until the spell ends. On a successful save, it takes half as much damage, is not restrained, and the spell ends. While restrained by this spell, the restrained creature can repeat the saving throw at the end of each of its turns, ending the spell on a success."
+			],
+			"entriesHigherLevel": [
+				{
+					"name": "At Higher Levels",
+					"type": "entries",
+					"entries": [
+						"When you cast this spell using a spell slot of 3rd level or higher, the damage increases by {@scaledamage 3d8|2-9|1d8} for each slot level above 2nd."
+					]
+				}
+			],
+			"components": {
+				"s": true,
+				"m": "a piano wire"
+			},
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Artificer",
+						"source": "TCE"
+					},
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"name": "Shadow's Echo",
+			"level": 3,
+			"school": "I",
+			"source": "ChroniclesofEberron",
+			"page": 97,
+			"time": [
+				{
+					"number": 1,
+					"unit": "reaction",
+					"condition": "which you take after you see a creature within 60 feet of you finish casting a spell with a casting time of 1 action and a duration of Instantaneous"
+				}
+			],
+			"range": {
+				"distance": {
+					"amount": 60,
+					"type": "feet"
+				},
+				"type": "point"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"entries": [
+				"You mirror a creature with its shadowy reflection. If the creature cast a spell that is at least 2 levels lower than the level of this spell, you also cast that spell as part of your reaction, without expending an additional spell slot for that spell.",
+				"The spell you cast uses your own spellcasting ability, and if the spell deals damage, it deals psychic damage instead of its usual damage types.",
+				"As part of your reaction when you cast this spell, you learn what level the target spell is. If the level of the spell slot you expended is too low to copy that spell, you regain the spell slot you expended. When this happens, you can choose to either expend a higher-level spell slot to copy the spell, or choose to abort this spell. In either case, your reaction is spent. For example, if the other creature casts a 5th-level spell, you can regain your 3rd-level spell slot and instead expend a 7th-level spell slot to copy that spell."
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"name": "Traveler's Enigma",
+			"level": 0,
+			"school": "T",
+			"source": "ChroniclesofEberron",
+			"page": 97,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"distance": {
+					"type": "touch"
+				},
+				"type": "point"
+			},
+			"duration": [
+				{
+					"duration": {
+						"amount": 1,
+						"type": "minute"
+					},
+					"type": "timed"
+				}
+			],
+			"components": {
+				"s": true,
+				"m": "a folded cloth"
+			},
+			"entries": [
+				"A nonmagical object you touch is transformed into a random trinket (either from the {@item Trinket|PHB|Trinkets} table in the {@book Player's Handbook|PHB} or a similar trinket of the DM's choice). The object you touch must weigh less than 10 pounds and be no more than 5 inches along any dimension. The transformation lasts for 1 minute, until you dismiss the transformation as a bonus action, or until another creature touches the trinket."
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Artificer",
+						"source": "TCE"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					}
+				]
+			}
 		}
 	]
 }
