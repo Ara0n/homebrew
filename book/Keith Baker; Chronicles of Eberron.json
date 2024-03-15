@@ -5457,6 +5457,21 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "The Vault",
+					"page": 98,
+					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0040.webp"
+							},
+							"credit": "GAOZ"
+						}
+					]
 				}
 			]
 		}
