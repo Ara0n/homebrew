@@ -357,7 +357,7 @@
 					},
 					"headers": [
 						"Unyielding Waters",
-						"Kua toa: Dreamers in the Deep"
+						"Kuo toa: Dreamers in the Deep"
 					]
 				},
 				{
@@ -5892,6 +5892,231 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "The Barren Sea",
+					"page": 106,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The Barren Sea is so called because it is poor for fishing and devoid of apparent life. Hideous monsters are said to inhabit its depths—but sailors make that claim about all ten seas. In fact, sailors have more to fear from storms, icebergs in the north, and unpredictable winds than they do from any living thing in the Barren Sea. In addition to the mundane risks of storm and calm, the Barren Sea is known for scattered areas of dead calm—areas of perfectly still water, sometimes suffused with negative energy that attracts undead."
+							],
+							"from": "Player's Guide to Eberron"
+						},
+						{
+							"type": "quote",
+							"entries": [
+								"The Barren Sea is home to dark and sinister fiends that dwell in horrid cities far below the waves … and tremendous storms send ships to splinter against the rocky shore [of the Demon Waste]."
+							],
+							"from": "Eberron Campaign Guide"
+						},
+						"The Thunder Sea is home to powerful civilizations, and those who cross it must deal with sahuagin or sea elves. The Lhazaar Sea is more chaotic, home to pirates, drake hunters, elemental islands, and all manner of monstrosities. But the Barren Sea tells a different story. As its name suggests, it seems to be almost lifeless. The Barren Sea isn't a resource to be harvested; it's a deadly obstacle to be crossed, an aquatic desert. It's for this reason that you don't see a nation like Rhiavhaar or the Lhazaar Principalities thriving on the coasts around the Barren Sea. There's no fishing, nothing to draw people into the water; as a result, the people of Ohr Kaluun, Nulakesh, and the lands now known as Droaam largely ignore the Barren Sea. Today, the Riedran province of Corvagura is an important port that supports shipping to and from Riedra's interests in western Khorvaire and Xen'drik, and many of Riedra's merchant sailors are Corvaguran; but even they send no fishing boats to the Barren Sea.",
+						{
+							"type": "section",
+							"name": "Unyielding Waters",
+							"page": 106,
+							"entries": [
+								"Why is the Barren Sea so barren? Scholars of the Five Nations generally agree this is due to the sea's hypersalinity, though they're unsure what causes that phenomenon. The waters of the Barren Sea have almost ten times the salt content of the other seas of Eberron. Few plants or animals can survive in these waters. A side effect of this is that the waters of the Barren Sea are surprisingly buoyant; anyone swimming in the Barren Sea has advantage on checks made to stay afloat.",
+								"But while the salt content explains why the sea is devoid of life, a larger question remains: why is the water so salty? Hypersalinity is usually caused by mineral deposits and closed bodies of water, but that's not a factor here—the sea isn't a bounded body of water and there are no known mineral deposits that could cause it. Near Sarlona, the barren waters begin beyond the island chain of Ohr Kaluun. Off the coast of Khorvaire, the barren water starts just west of Zarash Bay; currents should carry the deadly waters into the bay itself, but oddly, the hypersalinity remains within certain static boundaries. When the waters of the Barren Sea flow beyond its invisible bounds, the salinity almost immediately fades. Some sages theorize that the Barren Sea's effect is somehow created and sustained by a supernatural force—for while hypersalinity is typically a natural phenomenon, these waters defy all attempts to explain them.",
+								"The mystery is further compounded by the fact that the majority of the Barren Sea is shielded from divination (including the psionic clairsentience techniques employed by Riedrans). Much to the bewilderment of scholars and sailors alike, a massive {@spell nondetection} effect blankets the barren waters and anything on them—and its effects begin and end almost precisely where the hypersalinity does. Sages can't explore the Barren Sea with {@spell scrying}, Tharashk prospectors can't sense what lies beneath the waves—even the {@spell commune} spell can't unlock the secrets of the Barren Sea. Mystical navigation tools become unreliable in barren waters, and navigators must be prepared to use mundane techniques.",
+								{
+									"type": "entries",
+									"name": "Dangers of the Barren Sea",
+									"page": 106,
+									"entries": [
+										"What goes on in the Barren Sea? You won't encounter dragon turtles or merfolk there, but that doesn't mean that it's boring and uniform. The Encounters on the Barren Sea table suggests a few things adventurers might find when venturing on its waters, and the sections that follow provide more details on the hazards of this unusual ocean.",
+										{
+											"type": "entries",
+											"name": "Deadly Storms",
+											"page": 106,
+											"entries": [
+												"The {@i Player's Guide to Eberron} calls out the risk of storms and unpredictable winds, but it presents these as mundane risks—so while storms are always a danger on the Barren Sea, they aren't as dramatic as the Lamannia-fueled storms of the Thunder Sea. The exception is to the north, where the {@i Eberron Campaign Guides} notes that tremendous storms can dash a ship against the Demon Wastes; along this cursed coast, the weather is enhanced and twisted by the malevolent powers bound in the Wastes.",
+												{
+													"type": "list",
+													"items": [
+														"{@table Encounters on the Barren Sea|ChroniclesofEberron}"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dead Calm",
+											"page": 107,
+											"entries": [
+												"The southern Barren Sea holds several large manifest zones tied to Mabar. Normally, Mabaran manifest zones can be recognized by their impact on flora and fauna, but in the Barren Sea, there's no native life to measure this by. However, these Mabaran zones do create areas of unnatural calm, where winds die and currents are diverted. Some of these areas share Mabar's property of Eternal Shadows, as described in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}; here, all bright light is reduced to dim light, and ships must make their way through this unyielding gloom.",
+												"Regions of dead calm are often inhabited by undead. Zombies, skeletons, and other undead rise as animated corpses—some appear to be unlucky travelers, while others are strange creatures from deep below the poisoned waters. However, shadows are the most common form of undead. Superstition holds that within the dead calm, the shadows of sailors can come to life and kill their owners, persisting even after killing the mortal who cast that shadow. Countless tales feature merchants stumbling on ghost ships inhabited solely by shadows. The annals of the Wayfinder Foundation tell of Lord Boroman ir'Dayne discovering a massive graveyard of ships in the Barren Sea, including vessels that seemed to be the ships of giants and Dhakaani galleys. According to the story, Boroman's own ship was overrun by shadows, forcing him to abandon his vessel and flee. His dinghy was overturned and his friends consumed by \"shadow sharks,\" but according to the tale, Boroman managed to swim for days and made landfall in the Demon Wastes (a story in its own right). Though he tried, ir'Dayne was never able to find the graveyard again."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Still Water",
+											"page": 17,
+											"entries": [
+												"While Mabaran manifest zones exist throughout the Barren Sea, they are outnumbered to the north by manifest zones tied to Risia. These zones are unnaturally cold, home to unexpected icebergs and creeping ice that can potentially trap slower vessels. Such zones have Risia's Lethal Cold property, as described in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}, and creatures unprepared for the bitter cold quickly succumb to exhaustion. A few of the largest manifest zones have the Preservation property; any creature or object completely encased in this Risian ice is kept in stasis, ignoring the passage of time. Travelers or entire ships might be found trapped in such an iceberg: fiends or dragons from the first age of the world, Sarlonan refugees fleeing the Sundering, or more recent sailors from Khorvaire. The shroud against divination makes it difficult to track such prisoners from afar... but there are wonders waiting to be found."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Known Threats and Dangerous Paths",
+											"page": 107,
+											"entries": [
+												"Over the centuries, sailors have charted safe paths through the Barren Sea, identifying deadly manifest zones and plotting routes that avoid them. There are three primary routes used by Riedran ships and Lyrandar vessels, and with a reliable map and a good navigator, you can follow such a path and avoid the planar threats. However, many independent captains— smugglers, spies, Adaran vessels avoiding Riedran patrols—pride themselves on knowing shorter paths. Such routes can save you time and avoid contact with other vessels ... but a false map can lead into still water or a shadowy end. Even if your shortcut is good, these infrequently traveled paths carry a greater chance of running across an intermittent manifest zone that was dormant when the cartographer passed through. When you leave the known paths, you may encounter deadly threats—but you also might find ghost ships laden with treasure or ancient wonders preserved in Risian ice."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Merchants and Soldiers",
+											"page": 107,
+											"entries": [
+												"A regular stream of legitimate traffic flows across the Barren Sea. In the south, merchants and cargo ships travel between Dar Jin, Dar Qat, Stormreach, and Sharn. A northern route connects Dar Jin and Dar Kel to Aundair and points east. The majority of these ships are Riedran, mixed with a few Lyrandar vessels and others. Diplomats and scholars can also be found making their way across the sea.",
+												"Riedran frigates patrol trade routes, ever watchful for pirates and smugglers. While Riedran soldiers aren't inherently hostile to the people of Khorvaire, they may stop and board any vessel they suspect of smuggling or of supporting enemies of Riedra—notably, kalashtar."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Smugglers , Spies, and Pirates",
+											"page": 107,
+											"entries": [
+												"The Barren Sea's steady stream of merchant vessels provides inviting targets for pirates. Riedran frigates are ever vigilant, but the sea's shrouding effect makes it possible for pirates to evade pursuit by plunging into uncharted waters. Of course, this means braving the dangers of a dead calm or still waters, but some are willing to take that risk. Given the dangers, the Barren Sea isn't exactly teeming with pirates, but those who manage to thrive in these dangerous waters are often quite capable.",
+												"The shrouding effect also makes the Barren Sea a haven for smugglers—including the Dream Merchants of Riedran, Adarans making their way to or from Khorvaire, and others—along with spies, whether they're spying on Riedra, Droaam, or elsewhere. Meanwhile, conspiracy theorists claim that many dragonmarked houses maintain secret facilities on platforms in the Barren Sea, places where they can defy the Korth Edicts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sahuagin",
+											"page": 108,
+											"entries": [
+												"The hypersalinity of the Barren Sea is just as deadly to the sahuagin as it is to other creatures, and the Eternal Dominion of the Thunder Sea doesn't extend into these western waters. However, a few sahuagin clans live scattered across the very edges of the Barren Sea. Each of these small enclaves has its own unique culture; some are peaceful, others vicious and cruel. The Sa'arlaath—the All-Consuming—are the most dangerous of these sahuagin; dwelling on the coast of the Demon Wastes, this enclave's people have been twisted by fiendish powers. The Sa'arlaath raid vessels that pass over their terrain, but most sahuagin of the Thunder Sea remain in isolation in the deep, ignoring both the people of the surface and those who dwell in the deepest depths of the Barren Sea—the kuo-toa."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Kuo toa: Dreamers in the Deep",
+							"page": 108,
+							"entries": [
+								"The upper waters of the Barren Sea are deadly, but descend far enough and the salinity of the water drops. It is here that adventurers can discover the \"sinister fiends that dwell in horrid cities far below the waves\" mentioned in the {@i Eberron Campaign Guide}. Those creatures that dwell on the ocean floor aren't literal fiends, but their realm is a terrifying array of nightmares—and their gods are sinister indeed. This is the domain of the kuo-toa.",
+								"While the upper waters of the Barren Sea are close to Mabar and Risia, the depths of the ocean once held powerful manifest zones tied to Dal Quor, the Region of Dreams. All mortals of Eberron possess a connection to Dal Quor, glimpsing the realm of dreams when they sleep. But among the manifest zones of these depths, unique creatures evolved with a far deeper connection—existing in both realms simultaneously, they perceived both the dreamscape and the Material Plane at all times. They called themselves the Quor-Toa, the People of Dreams. Beyond their power to perceive Dal Quor, the Quor-Toa could draw the essence of Dal Quor into reality and shape it within the manifest zones below the Barren Sea, sculpting tools, structures, and servants from the stuff of dreams. Their deep empire was a place of impossible wonders, of spectacles dragons and giants could only dream of. Yet because they could only work these wonders in manifest zones to Dal Quor, the Quor-Toa never sought to spread into other lands or seas.",
+								"Though uninterested in expansion, they defended their territory—and as a result, few giant explorers ever reached Sarlona, though some Cul'sir records describe the glories glimpsed below the waves of the \"Golden Sea\" and the godlike beings that defended it. In the end, the giants destroyed the Quor-Toa without even meaning to. Forty thousand years ago, the giants severed the ties between Eberron and Dal Quor, as a way to end their conflict with the quori ... and in the process, they destroyed the Quor-Toa. As the manifest zones tied to Dal Quor were stripped of power, the dream-towers of the Quor-Toa melted away, the fishfolk suffered devastating psychic trauma, and their civilization collapsed into chaos. Though later generations adjusted to this shattered connection, their people were never the same. Their knowledge had been stored in libraries of dreams, vaults that were shattered and lost, and their psychic gifts were twisted. They no longer called themselves the Quor-Toa, the People of Dreams—they had become kuo-toa, the fallen people.",
+								{
+									"type": "entries",
+									"name": "Following Two Paths",
+									"page": 108,
+									"entries": [
+										"The kuo-toa have never regained the power of their ancestors, and the energies of Dal Quor no longer flow naturally into Eberron. But the kuo-toa still possess a stronger connection to Dal Quor than any other mortal creature. Most mortal creatures find the kuo-toa's behavior mystifying, and many believe they're prone to mass hallucinations, but the truth is far more complicated. While most mortals only glimpse Dal Quor when they sleep, the kuo-toa perceive both realms simultaneously; they are {@i always} dreaming, experiencing the dream overlaid with the Material Plane's reality. This has a few effects.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 108,
+											"items": [
+												{
+													"type": "item",
+													"name": "Waking Dream",
+													"entries": [
+														"Kuo-toa can always be targeted by the {@spell dream} spell, even while awake."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Dual Reality",
+													"entries": [
+														"Kuo-toa experience two realities at once—the physical world and Dal Quor. Thus, when a kuo-toa is dealing with an adventurer, they are also dealing with whatever dream occupies the same space as the adventurer in their vision. They could be holding a fish and describe it as a sword, because in Dal Quor, they {@i are} holding a sword. To the kuo-toa, both realities are equally real—it's a sword {@i and} a fish. Similarly, the kuo-toa could be fighting a monster in Dal Quor while also talking to an adventurer on the Material Plane; so even though the adventurer just sees them waving a fish around, they're actually fighting a nightmare with a mighty sword."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Dream Sense",
+													"entries": [
+														"Kuo-toa perceive invisible and ethereal entities through their echoes in the dream, which grants them their Otherworldly Perception trait."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Dreams in Which I'm Dying",
+													"entries": [
+														"If a kuo-toa is slain in Dal Quor, they simply lose their perception of Dal Quor until they complete a short rest. There's no other negative consequence; it's essentially no different from a human waking up after being killed in a dream."
+													]
+												},
+												{
+													"type": "item",
+													"name": "Language of Dreams",
+													"entries": [
+														"The kuo-toa of Eberron speak Quori instead of Undercommon. They have no ties to creatures of Khyber, and they learned Quori long ago from their dreams."
+													]
+												}
+											]
+										},
+										"While kuo-toa lack both the resources and the knowledge of their ancestors, they still possess supernatural powers tied to their dual existence. Kuo-toa seers have a sharpened form of their Otherworldly Perception, seeing dream visions that reveal secrets about the waking world. Such a seer might manifest {@spell true seeing}—seeing a shapeshifter's true form as a dream aura around it—or other divination effects. Meanwhile, kuo-toa shapers can cast illusion or conjuration spells by pulling dreams into reality, often without fully understanding that this is what they're doing. An individual shaper's abilities are just a shadow of the power they wield as a community, as discussed below. The {@creature kuo-toa dreamseer|ChroniclesofEberron} and {@creature kuo-toa godshaper|ChroniclesofEberron} stat blocks at the end of this chapter present examples of creatures with such powers.",
+										"Beyond their innate powers, there's a second aspect that's crucial to understanding the kuo-toa's dual experience of Dal Quor and Eberron. Because Dal Quor is currently shaped by il-Lashtavar—the Darkness that Dreams—a kuo-toa's dreamscape is often one of nightmares, and this in turn shapes the way they interact with the world. Adventurers might meet a kuo-toa who has learned to resist this; perhaps one of the dreamseers has even touched il-Yannah and can channel positive dreams. However, as long as the kuo-toa remain linked to the Darkness that Dreams, their dreamscape will continue to attract nightmares."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gods & Monsters",
+									"page": 109,
+									"entries": [
+										"A single kuo-toa might have the power to draw a wisp of dream into reality to create the effects of a {@spell minor illusion}. But as kuo-toa join together, their collective unconscious amplifies their dreams—and nightmares—and they can bring these things into reality. Kuo-toa cities are ruled by gods they have dreamed into being, but they didn't choose these gods; these deities are built from their fears. Every kuo-toa deity is unique, and they shape their cities to match their nature. These gods are the true \"sinister fiends that dwell in horrid cities beneath the waves,\" and they make harsh demands on their people. Beyond gods, the kuo-toa can dream otherworldly creations and horrors into existence—they may dream creatures with the abilities of krakens or aboleths (though not their exact shapes or motivations), or entirely new abominations. Such monsters might serve the local deity, or they could simply rise to the surface to prey on unwary travelers. So you never know what you'll find in the Barren Sea ... because the kuo-toa in the deep could dream up a unique nightmare that has never been seen before and will never be seen again.",
+										"The power of these kuo-toa gods depends on the community they're tied to, since it's the kuo-toa themselves that dream them into existence. A small outpost might have a \"god\" with the power of a mere pit fiend. For the major cities, the DM could repurpose the statistics of existing archfiends; this would be a fine place to have a version of {@creature Demogorgon|MPMM} or {@creature Zariel|MPMM}, though I'd definitely give them some distinct kuo-toa flavoring. However, their power is definitely geographically limited; while Blibdolpoop/Demogorgon might be extremely powerful in their domain, they couldn't go attack Sharn. It's a little like the Undying Court, except the kuo-toa gods feed on the nightmares of their people instead of on their love.",
+										{
+											"type": "entries",
+											"name": "Kuo toa and Quori",
+											"page": 109,
+											"entries": [
+												"It might seem like the Dreaming Dark would love the kuo-toa and would exert power over them; in fact, nothing could be further from the truth. Consider that in the Age of Giants, the Quor-Toa were in a realm close to Dal Quor, and yet the quori came to Xen'drik instead. Why not travel through this open gateway? Because the quori of the past feared the Quor-Toa, just as those of the present fear the kuo-toa. When the kuo-toa shape dreams, pulling the essence of Dal Quor into reality and bending it to their will, this includes molding the quori themselves—for the kuo-toa gods began as quori! Understanding this, it becomes clearer why the kuo-toa gods are so cruel and why kuo-toa society is gripped by nightmares; they're built on the foundation of il-Lashtavar. However, the quori are themselves helpless prisoners; the kuo-toa gods are formed from their essence, but the quori themselves are forced to play the roles that are set for them. This isn't something the kuo-toa do consciously, and they can't choose {@i not} to do it. But the quori are aware of the powers the kuo-toa wield, and they stay far away from the ocean depths."
+											]
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0046.webp"
+											},
+											"credit": "Olie Boldador"
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Barren Truth",
+									"page": 19,
+									"entries": [
+										"The beginning of this article raised a question: why is the Barren Sea so barren? What causes the focused hypersalinity, and what blocks divination? Scholars on land have advanced many theories. Some say it's clearly the work of the dragons of Argonnessen, an epic curse like those unleashed against Xen'drik. Others assert it's obviously the handiwork of the daelkyr. Or maybe there's an unbound overlord in the water and this is its domain. All of these ideas are plausible; any of them {@i could} be true.",
+										"But in my interpretation in this chapter, the Barren Sea itself is a nightmare of the kuo-toa. Collectively, they see the world as a barren place of death, and this shared nightmare actively poisons the waters above them. They've dreamed cruel and oppressive gods into existence from quori seeds, and these nightmare gods conceal their domain from prying mortals. Though the kuo-toa no longer suffer the acute distress of the cataclysm where their ancestors were torn from Dal Quor, their world can't be changed by a few friendly conversations. On the other hand, if Dal Quor itself were to change—if il-Lashtavar were to give way to il-Yannah and an Age of Light—perhaps the Great Light could heal the kuo-toa and life could return to the Barren Sea. And there could even be a band of kuo-toa champions who have learned to consciously wield their dreams and are fighting to drive this change; these could be valuable allies for any adventurers following the Path of Light.",
+										"So, back to the original question: what goes on in the Barren Sea? Pirates! Smugglers! Getting boarded by Riedran soldiers who want to inspect your cargo! Ghost ships filled with shadows! Finding an ancient couatl frozen in an iceberg! A secret Cannith research platform! A nightmare from the depths! Or, perhaps, a visit to a city deep beneath the waves, where a nightmare deity rules over people poised between two worlds..."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "What's Common Knowledge ?",
+									"page": 110,
+									"entries": [
+										"The people of the surface world know almost nothing about the kuo-toa people. Surfacers know merely what's suggested in the quote at the beginning of this chapter—that there are \"fiends in horrid cities\" at the bottom of the Barren Sea. Thus far, the nightmare deities of the kuo-toa have kept their dreaming subjects in the depths—and the major trade routes used by Riedra and Khorvaire don't pass over kuo-toa cities, leaving them undisturbed and unknown. So how will adventurers discover what lies below? Adventurers venturing through uncharted waters could be shipwrecked by a nightmare and drawn into the depths. A dragonmarked research platform could attract the attention of a kuo-toa god, causing it to focus its wrath on the world above. A kalashtar could be urged below by visions from il-Yannah; could the kuo-toa play a vital role in the turning of the age?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Kuo toa Stat Blocks",
+									"page": 110,
+									"entries": [
+										"In addition to the {@creature kuo-toa} stat blocks in the {@book Monster Manual|MM}, this section presents two new stat blocks that demonstrate the powers wielded by kuo-toa seers and shapers. These kuo-toa have an unusually high Armor Class, which reflects their ability to manifest spectral armor from their dreams; this is typically formed from misty shadow, with full details flickering into existence and fading away. The Dreamstrike attack of the dreamseer uses weapons similarly forged from dreamstuff. The greatest power is that of the godshaper, who can conjure a powerful entity and enhance its power over time. While the godshaper is mechanically presented as controlling the god-entity, the idea is that this guidance is limited; the god will fight the enemies of the kuo-toa, but kuo-toa gods are typically cruel and can't be commanded. The godshaper is the god's subject, not its master.",
+										{
+											"type": "list",
+											"items": [
+												"{@creature Kuo-toa Dreamseer|ChroniclesofEberron}",
+												"{@creature Kuo-toa Godshaper|ChroniclesofEberron}"
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
@@ -6179,6 +6404,7 @@
 		},
 		{
 			"name": "Unexpected Manifest Zones",
+			"caption": "Unexpected Manifest Zones",
 			"source": "ChroniclesofEberron",
 			"page": 105,
 			"colLabels": [
@@ -6233,6 +6459,58 @@
 				[
 					"12",
 					"{@b Xoriat.} The adventurers are trapped in a closed circle of space, where moving forward only brings them back to where they began. Can they come up with a novel way to escape this spatial anomaly?"
+				]
+			]
+		},
+		{
+			"name": "Encounters on the Barren Sea",
+			"caption": "Encounters on the Barren Sea",
+			"source": "ChroniclesofEberron",
+			"page": 107,
+			"colLabels": [
+				"d10",
+				"Encounter"
+			],
+			"rows": [
+				[
+					"1",
+					"An abandoned ship or an entire graveyard of ships, haunted by shadows or other undead."
+				],
+				[
+					"2",
+					"A Riedran frigate searching for a fugitive changeling or kalashtar. Stand down and prepare to be boarded!"
+				],
+				[
+					"3",
+					"A small Adaran vessel carrying kalashtar on their way to Khorvaire."
+				],
+				[
+					"4",
+					"A Riedran merchant vessel carrying a cargo of sentira, crysteel, and other psionic goods."
+				],
+				[
+					"5",
+					"A Lhazaar pirate ship seeking soft merchant targets."
+				],
+				[
+					"6",
+					"A Lyrandar elemental galleon bound for Dar Jin, possibly carrying valuable cargo or engaging in a diplomatic mission."
+				],
+				[
+					"7",
+					"An iceberg formed of Risian ice with something visibly trapped within it."
+				],
+				[
+					"8",
+					"A dinghy from a wrecked ship, carrying a lone survivor—comatose, but alive."
+				],
+				[
+					"9",
+					"A dramatic storm with shadows moving among the clouds, threatening to strike with the lightning."
+				],
+				[
+					"10",
+					"A nightmarish creature (use the kraken stat block) seeks to pull the adventurers' ship down into the depths."
 				]
 			]
 		}
@@ -7692,6 +7970,10 @@
 				"Terran"
 			],
 			"cr": "1",
+			"traitTags": [
+				"False Appearance",
+				"Siege Monster"
+			],
 			"trait": [
 				{
 					"name": "Earth Glide",
@@ -7722,7 +8004,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hits, reach 5ft., one target. {@h} 7 ({@damage 1d8 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} to hit, reach 5ft., one target. {@h} 7 ({@damage 1d8 + 2}) bludgeoning damage."
 					]
 				}
 			],
@@ -7731,6 +8013,248 @@
 					"name": "Ready, aim...",
 					"entries": [
 						"When an outside force (like another creature or a siege weapon) moves the cannonball at least 20 feet in a straight line, the cannonball makes a Slam attack against a creature, object, or structure within its reach."
+					]
+				}
+			]
+		},
+		{
+			"name": "Kuo-toa Dreamseer",
+			"source": "ChroniclesofEberron",
+			"page": 111,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"Kuo-Toa"
+				]
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 71,
+				"formula": "11d8 + 22"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 30
+			},
+			"str": 12,
+			"dex": 16,
+			"con": 14,
+			"int": 11,
+			"wis": 9,
+			"cha": 15,
+			"skill": {
+				"insight": "+3",
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 120ft"
+			],
+			"passive": 13,
+			"languages": [
+				"Quori"
+			],
+			"cr": "3",
+			"traitTags": [
+				"Amphibious",
+				"Sunlight Sensitivity"
+			],
+			"trait": [
+				{
+					"name": "Amphibious",
+					"entries": [
+						"The dreamseer can breathe air and water."
+					]
+				},
+				{
+					"name": "Otherworldly Perception",
+					"entries": [
+						"The dreamseer can sense the presence of each creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving."
+					]
+				},
+				{
+					"name": "Slippery",
+					"entries": [
+						"The dreamseer has advantage on ability checks and saving throws made to escape a grapple."
+					]
+				},
+				{
+					"name": "Sunlight Sensitivity",
+					"entries": [
+						"While in sunlight, the dreamseer has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The dreamseer makes three attacks: two with its Dreamstrike and one with its Bite."
+					]
+				},
+				{
+					"name": "Dreamstrike",
+					"entries": [
+						"{@atk ms} {@hit 4} to hit, reach 5 ft., one target. {@h} 9 ({@damage 2d6 + 2}) psychic damage, and the target's psyche suffers a debilitating blow. Until the end of the target's next turn, it can't expend spell slots or make more than one attack on its turn."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft, one target. {@h} 5 ({@damage 1d4 + 3}) piercing damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Sleep with the Fishes",
+					"entries": [
+						"When the dreamseer takes psychic damage from a creature it can see, it instinctively forms a bridge across Dal Quor between it and its foe. The creature that caused it to take damage must make a {@dc 12} Wisdom saving throw. On a failed save, both that creature and the dreamseer fall {@status unconscious} for 1 minute. If either of them take damage or if someone uses an action to shake or slap one of the unconscious creatures awake, both creatures wake up."
+					]
+				}
+			]
+		},
+		{
+			"name": "Kuo-toa Godshaper",
+			"source": "ChroniclesofEberron",
+			"page": 111,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"Kuo-Toa"
+				]
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 137,
+				"formula": "25d8 + 25"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 30
+			},
+			"str": 9,
+			"dex": 16,
+			"con": 12,
+			"int": 11,
+			"wis": 12,
+			"cha": 18,
+			"save": {
+				"con": "+4",
+				"cha": "+7"
+			},
+			"skill": {
+				"arcana": "+3",
+				"insight": "+7",
+				"perception": "+7"
+			},
+			"resist": [
+				"psychic"
+			],
+			"senses": [
+				"darkvision 120ft"
+			],
+			"passive": 17,
+			"languages": [
+				"Quori"
+			],
+			"cr": "5",
+			"traitTags": [
+				"Amphibious",
+				"Sunlight Sensitivity"
+			],
+			"trait": [
+				{
+					"name": "Amphibious",
+					"entries": [
+						"The godshaper can breathe air and water."
+					]
+				},
+				{
+					"name": "Otherworldly Perception",
+					"entries": [
+						"The godshaper can sense the presence of each creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving."
+					]
+				},
+				{
+					"name": "Slippery",
+					"entries": [
+						"The godshaper has advantage on ability checks and saving throws made to escape a grapple."
+					]
+				},
+				{
+					"name": "Sunlight Sensitivity",
+					"entries": [
+						"While in sunlight, the godshaper has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft, one target. {@h} 5 ({@damage 1d4 + 3}) piercing damage."
+					]
+				},
+				{
+					"name": "Dreams of Victory",
+					"entries": [
+						"The godshaper sees the fierce attacks of a kuo-toa deity in the dreamscape. The godshaper chooses one deity it can see that was created by its Shape Deity or a friendly godshaper's Shape Deity, moving that deity up to 30 feet to a space it can see. After this move, each creature of the godshaper's choice within 20 feet of the deity must succeed on a {@dc 15} Wisdom saving throw, taking 14 ({@damage 4d6}) psychic damage on a failed save, or half as much damage on a successful one."
+					]
+				},
+				{
+					"name": "Dreams of Strength",
+					"entries": [
+						"The godshaper sees the ever-growing power of a kuo-toa deity in the dreamscape. The godshaper chooses one deity it can see that was created by its Shape Deity or a friendly godshaper's Shape Deity. That deity gains the following cumulative benefits:",
+						{
+							"type": "list",
+							"items": [
+								"Its size increases by one category (such as from Medium to Large).",
+								"Its AC increases by 1.",
+								"It regains 10 hit points and its maximum hit points increase by 10.",
+								"When a godshaper uses Dreams of Victory with that deity, the damage dealt increases by 7 ({@damage 2d6})."
+							]
+						},
+						"Additionally, the godshaper can choose another godshaper it can see, allowing that godshaper to immediately use its reaction to use its Dreams of Victory."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Reveal Dreamscape",
+					"entries": [
+						"Until the end of the godshaper's next turn, each creature within 30 feet of it has truesight out to 60 feet."
+					]
+				},
+				{
+					"name": "Shape Deity (1/Day)",
+					"entries": [
+						"The godshaper imagines a deity and shapes it from ectoplasm. The deity appears in an unoccupied space the kuo-toa can see within 30 feet of it. The deity's size is Medium, and it has AC 15, 50 hit points, and resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. The deity remains for 1 minute, until it is reduced to 0 hit points, or until no friendly godshaper can see it. The godshaper can't use this ability if it can see another friendly godshaper's deity."
 					]
 				}
 			]
