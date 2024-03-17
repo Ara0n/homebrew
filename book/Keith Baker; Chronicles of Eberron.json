@@ -5777,6 +5777,118 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "It's All About the Journey",
+					"page": 104,
+					"entries": [
+						"Is your adventure about the journey or the destination? That's a trick question—the answer is probably \"yes.\" But how do you approach all the traveling that happens between major events in your campaign? Imagine that your intrepid band of heroes are beginning a long trek to reach their destination. The Deep Dark Forest is an infamous haven for bandits and ruffians, shunned by the wise … and it's the only path to the forgotten tomb that holds the {@i Orb of Dol Azur}. If the adventurers were 1st-level characters, this could be a perilous and exciting journey … but they're 9th level now, and far too powerful for any typical band of brigands to pose a significant threat to them. As their DM, you know that playing out a battle against bandits would waste time without any real tension, and compared to the challenges waiting for them in the tomb, fighting bandits is a bland adventure. What do you do?",
+						{
+							"type": "section",
+							"name": "Filling the Space Between",
+							"page": 104,
+							"entries": [
+								"In the situation described above, you could simply take the red-line approach, cutting from point A to point B with just a few sentences of description. It's simple to explain just how creepy the forest is and that the bandits are smart enough to avoid the party. But at the same time, the forest {@i is} really creepy, and the presence of the bandits is an established part of the setting; you want the players to feel like they've taken a significant journey. Consider the following options for how to involve players (and their characters) in the adventure.",
+								{
+									"type": "entries",
+									"name": "Enjoy the Ride",
+									"page": 104,
+									"entries": [
+										"It's possible for the journey to be the adventure. On the surface, {@i The Hobbit} is a story about a group of adventurers delving into a dragon's lair ... but the bulk of the story is about their journey to the dungeon. Similarly, your Tomb of Dol Azur may be the ultimate goal, but you might take a few sessions to actually reach it. Rather than wasting time on random encounters, focus on making each step interesting and meaningful.",
+										{
+											"type": "entries",
+											"name": "Unexpectedly Challenging Challenges",
+											"page": 104,
+											"entries": [
+												"A typical group of bandits shouldn't pose a threat to experienced adventurers. But what if the bandits of the Deep Dark Forest aren't typical? What if they come back to life whenever they're killed—and the only way to stop them is to find and destroy the artifact that's empowering them? Or perhaps the adventurers are capable of overpowering the brigands, but it's actually a moral dilemma. What if the so-called bandits are actually Robin Hood-style heroes robbing from the rich to raise money for some vital cause, like buying medicine to end a local plague? The adventurers are incredibly rich by local standards; are they willing to help in any way?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ancient Artifacts",
+											"page": 104,
+											"entries": [
+												"If you're in a truly out-of-the-way location, adventurers could find a relic or remnant of an ancient civilization— something built by Dhakaani goblins, by dragons in the Age of Giants, or even by couatl or fiends in the Age of Demons. This discovery could be purely an interesting curiosity—an indestructible, immovable statue of a couatl hovering over a mysterious inscription—that could become important later in the campaign. Or it could be something that's already powerful and dangerous... maybe even the reason this land is shunned."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Trouble at the Bar",
+											"page": 104,
+											"entries": [
+												"The adventurers find an inn or a campsite occupied by friendly travelers, and they're welcomed to take a long rest. But trouble arises. Perhaps there's a murder. Perhaps one patron accuses another of being a renegade war criminal—and those crimes impacted one of the player characters. Perhaps a merchant is selling something that seems too good to be true; can you trust the gifts of the traveler?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Manifest Zones",
+											"page": 104,
+											"entries": [
+												"Virtually anywhere in Eberron, adding a manifest zone brings an unexpected twist to an otherwise mundane region. Nobody ever goes into the heart of the Deep Dark Forest ... which is why they don't realize the tomb is in a manifest zone to Shavarath! To reach it, the adventurers must somehow cross a battle line of warring angels and devils to reach it. Or perhaps the tomb is in a manifest zone to Dolurrh, and the adventurers must face ghosts from their past or overcome debilitating ennui to move forward. The {@table Unexpected Manifest Zones|ChroniclesofEberron} table provides ideas to inspire you."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Travel By Montage",
+									"page": 104,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0044.webp"
+											},
+											"credit": "Steve Prescott"
+										},
+										"The ideas suggested in the previous section can be fun ways to make a journey memorable. However, playing through such scenes takes time, and if the core adventure has a strong story, you may not want to water it down with too many side scenes. What do you do when you don't have time to make a bandit encounter interesting, but you also don't want to gloss over the journey?",
+										"One of my favorite tools is the travel montage. I come up with a few short, interesting challenges that the adventurers could face during the journey, then I ask each player to handle one of these situations. So if the party includes a rogue, a wizard, a fighter, and a cleric, I might say:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 105,
+											"items": [
+												{
+													"type": "item",
+													"name": "Rogue:",
+													"entries": [
+														"\"Tell me how you help the group avoid a bandit attack on the first day.\""
+													]
+												},
+												{
+													"type": "item",
+													"name": "Wizard:",
+													"entries": [
+														"\"You're beset by constant storms. By the second day, your clothes are drenched and the bridge across the local river has been washed away. How does your magic help the party get across the river?\""
+													]
+												},
+												{
+													"type": "item",
+													"name": "Fighter:",
+													"entries": [
+														"\"This forest is older than human civilization. You're sure you hear the howls of ghosts on the wind, and see things moving in the shadows. You're known for your bravery ... what's the one thing that actually scares you on the journey?\""
+													]
+												},
+												{
+													"type": "item",
+													"name": "Cleric:",
+													"entries": [
+														"\"Tell me about the dream you have on the last night of your journey.\""
+													]
+												}
+											]
+										},
+										"This gives each character a moment in the spotlight and encourages the players to think about what makes the journey interesting for them. Sure, any of the characters could figure out how to cross a river, but this time, the wizard figured it out ... tell me how. Depending on what the players come up with, you could incorporate their answers into the campaign. Perhaps the cleric's dream turns out to be prophetic, or the thing that frightened the fighter unexpectedly returns. Perhaps the rogue was friendly with the bandit leader in their first guild—in which case, that leader could turn up again later in a more interesting role.",
+										"Alternatively, the players might just make jokes out of these scenarios: the one thing that actually scares the fighter is watching the rogue eat or hearing the cleric snore. And there's nothing wrong with this! The whole point is to let the players tell the story they want; if they want to laugh, this is a great opportunity for that. Either way, the goal is for the players to imagine the journey and think about how it impacts their characters.",
+										"If you want to add more suspense, you can require an ability check to overcome each obstacle, based on the solution they come up with. If the rogue negotiates with the bandits, they might need a Charisma ({@skill Deception} or {@skill Persuasion}) check. If the wizard uses magic to cross the river, you could ask for an Intelligence ({@skill Arcana}) check to see how effective it is. You could ask the cleric to make a Wisdom ({@skill Religion}) check to gain Inspiration from their dream. When doing this, be sure to consider what consequences you'll apply in the case of a bad roll. If time is of the essence, it could be that the only consequence is that the party is delayed. Otherwise, characters might gain a level of exhaustion or lose a couple hit dice—they make it through the challenge but the journey is grueling. You could also offer the players a choice: do you want to gain a level of exhaustion or use two healing potions? You each lose something in the disastrous river crossing— what is it, and how do you respond?",
+										"Regardless of the approach you use or the challenges you set, the goal of the montage is to make an interesting story—to help the players imagine the journey their characters have been through. As long as the players enjoy the experience, you've succeeded!"
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
@@ -6059,6 +6171,65 @@
 				[
 					"10",
 					"A piece of purple chalk that's restored to its original size at each dawn; if broken, only the largest piece retains this power."
+				]
+			]
+		},
+		{
+			"name": "Unexpected Manifest Zones",
+			"source": "ChroniclesofEberron",
+			"page": 105,
+			"colLabels": [
+				"d12",
+				"Manifest Zone"
+			],
+			"rows": [
+				[
+					"1",
+					"{@b Daanvi.} A Daanvi devil informs the group that there is a toll for passing through the zone—and they've already incurred that toll by entering it. Each adventurer must surrender one object that has personal value to them. Defeating the devil is a way to avoid this toll, but it could result in future Daanvian prosecution."
+				],
+				[
+					"2",
+					"{@b Dolurrh.} The adventurers hear the ghosts of people who died here with unfinished business—from Dhakaani goblins and pre-Galifar humans to recent deaths, such as a spy who died in the Last War with a crucial undelivered message. Will the adventurers try to resolve any of these lingering debts?"
+				],
+				[
+					"3",
+					"{@b Fernia.} This section of wilderness is on fire. Vegetation burns forever without being consumed, but the flames still produce deadly heat and fire elementals rove restlessly. Do any of Fernia's sapient denizens emerge from the fire, and what do they ask of the adventurers?"
+				],
+				[
+					"4",
+					"{@b Irian.} A lone deathless hermit dwells in this place, sustained by the positive energy of the region. How old is this hermit, and what secrets do they possess?"
+				],
+				[
+					"5",
+					"{@b Kythri.} The adventurers encounter a slaad outpost; if you have {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}, roll on the {@table Slaad Cultures|ExploringEberron} table in {@book chapter 5|ExploringEberron|5|Slaadi}. Do the slaadi insist the adventurers enjoy their hospitality, or do they take offense at outsiders intruding on their domain?"
+				],
+				[
+					"6",
+					"{@b Lamannia.} A gargantuan beast blocks the adventurers' path. How will the party evade or placate this enormous megafauna?"
+				],
+				[
+					"7",
+					"{@b Mabar.} The adventurers find a campsite or farmstead occupied only by animated skeletons. Is there a valuable treasure or secret to be recovered here ... or a more dangerous undead creature hidden among the weak skeletons?"
+				],
+				[
+					"8",
+					"{@b Risia.} The region is bitterly, unnaturally cold, and adventurers must struggle against the effects of the deadly temperature. Do they find any creatures suspended in the eternal stasis of Risian ice?"
+				],
+				[
+					"9",
+					"{@b Shavarath.} A force of angels is locked in battle with a troop of devils, and the adventurers must safely pass through this disputed territory. Do they run the risk of being conscripted into service?"
+				],
+				[
+					"10",
+					"{@b Syrania.} The adventurers find a door to the Immeasurable Market, but the door is a one-way journey. Once they cross through, how will they purchase passage back home?"
+				],
+				[
+					"11",
+					"{@b Thelanis.} One or more dryads seek to engage the adventurers in conversation. If the adventurers are rude or threaten the dryads, does a fey treant show up to demand an apology?"
+				],
+				[
+					"12",
+					"{@b Xoriat.} The adventurers are trapped in a closed circle of space, where moving forward only brings them back to where they began. Can they come up with a novel way to escape this spatial anomaly?"
 				]
 			]
 		}
