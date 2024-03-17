@@ -321,7 +321,10 @@
 					},
 					"headers": [
 						"Starting a Campaign",
-						"Session Zero",
+						{
+							"header": "Session Zero",
+							"index": 1
+						},
 						{
 							"depth": 1,
 							"header": "Safety Tools"
