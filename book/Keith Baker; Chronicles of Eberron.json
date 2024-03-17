@@ -5472,6 +5472,311 @@
 							"credit": "GAOZ"
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Session Zero",
+					"page": 99,
+					"entries": [
+						"Once upon a time, the typical D&D campaign started something like this: \"Five strangers meet in a tavern. They have nothing in common. They have no families, no friends, no real idea of what they want in life. But they've got a special set of skills, and there's a person willing to pay them a fistful of gold to beat up some baddies. Let's roll.\"",
+						"And if all you're looking for is a chance to roll some dice and fight some monsters, there's nothing wrong with that approach! But you might want your campaign to involve more preparation than this. Before a game even begins, many players and DMs prefer to create characters with interesting ties to the world of Eberron, developing hooks for others to build on. Whether you do so as a formal meeting or simply a series of group chats, \"session zero\" allows your group to establish ground rules and agree on a foundational story before diving into a campaign.",
+						{
+							"type": "section",
+							"name": "Starting a Campaign",
+							"page": 99,
+							"entries": [
+								"Let's say you're starting a new Eberron campaign—but half the players have never heard of Eberron. Where should they start? How do they know if they're even interested in playing your game? If they have a little time, you can encourage them to read the introduction of {@book Eberron: Rising from the Last War|ERLW}. Or you can just summarize the key details: \"It's a world of magic with airships and dragonmarked dynasties; the Last War has ended, sort of; it draws on both pulp and noir for inspiration; and familiar things may not be what you expect them to be.\"",
+								{
+									"type": "entries",
+									"name": "Defining the Campaign",
+									"page": 99,
+									"entries": [
+										"When I'm starting a new campaign, I start by pitching the concept to my players: \"I'm thinking about a campaign in which you're all reporters for the Korranberg Chronicle, tasked with investigating the biggest stories in Khorvaire.\" After all, the most important thing is to make sure the players want to play in that campaign! The second is to give them some basic direction on creating characters.",
+										{
+											"type": "entries",
+											"name": "Group Patrons",
+											"page": 99,
+											"entries": [
+												"{@book Chapter 1|ERLW|4} of {@book Eberron: Rising from the Last War|ERLW} provides a simple framework to tie characters together via group patrons. The simplest of these patrons is the classic adventurers' guild, in which the idea is that you are professional adventurers; this patron establishes that your campaign is likely to involve dungeon crawls and exploring long-lost ruins. The tone of the campaign can be set by the specific guild you choose; for example, the Clifftop Guild has a positive reputation and generally doesn't employ evil characters, while the Deathsgate Guild thrives on dirty tricks",
+												"Other patron options include working for the Boromar Clan (a crime syndicate), becoming private investigators in Sharn (an inquisitive agency), or serving as agents of the Argentum (a religious order). Creating an adventuring party for a specific patron gives players a clear focus: \"For our group of reporters, we want someone who's good at social interaction, a good researcher, and some muscle to keep us safe and throw around a little intimidation when we need it.\""
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Location",
+											"page": 99,
+											"entries": [
+												"Even when you don't have a shared patron, the setting you choose can inform characters. In my Q'barra campaign, I established that the characters lived in a small mining town and encouraged the players to draw on classic Western archetypes. I noted that the town needed a sheriff, a preacher, and someone with an interest in local business—the players could claim these roles for their characters if they wanted, otherwise I'd fill them with NPCs.",
+												"By contrast, when running a game set in Callestan, I told players that the tone was similar to {@i Gangs of New York}; they were living in one of the worst districts in Sharn, and the question they needed to answer was \"why?\" Were they urchins who grew up in the neighborhood? Did they have ties to local criminals? Were they excoriates or deserters hiding from powerful enemies, or were they virtuous vigilantes trying to make a difference?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Creating Eberron Characters",
+									"page": 99,
+									"entries": [
+										"Once you've clearly established the underlying story, you can help the players come up with ideas for their characters. If your game was a movie, how would each character fit in it? For example, if they're a professional adventurer, why? How did they get into that line of work? Where do they expect to be in ten years? Are they just in it for the thrill? Are they searching for inspiration for their arcane experiments? Is this job the equivalent of waiting tables, but their real ambition is to be an actor? This section contains some basic questions to consider for any Eberron character.",
+										{
+											"type": "entries",
+											"name": "What did you do during the Last War?",
+											"page": 99,
+											"entries": [
+												"For most of the last century, the continent of Galifar has been embroiled in a bitter civil war. If you're human, you've never known a world without war. If you're a warforged, you were literally built to fight in it. The Last War came to an end two years ago, after the utter destruction of one of the warring nations.",
+												"Think about how the war affected your character and their skills—for example, a rogue might've been a smuggler who avoided the war, or they might've used their skills to infiltrate enemy territory. Here are some questions to consider:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 100,
+													"items": [
+														{
+															"type": "item",
+															"name": "How were you involved in the war?",
+															"entries": [
+																"Eberron is a magical world; during the Last War, wizards, artificers, and all classes had roles on the battlefield. Were you a soldier? Or were you a criminal, a conscientious objector, a fugitive, or just a civilian whose connections or talents kept you off the front lines?"
+															]
+														},
+														{
+															"type": "item",
+															"name": "If you fought, how did your service end?",
+															"entries": [
+																"Are you still in good standing with the military, or did you leave that life behind? Are you proud of your service or would you rather not talk about it? Was a particular event a defining moment for you—a battle where you did something especially heroic or where you were one of the only survivors?"
+															]
+														},
+														{
+															"type": "item",
+															"name": "How did the war affect you?",
+															"entries": [
+																"Did you lose a loved one? Was your hometown destroyed—or your entire nation, in the case of Cyre? Did the things you saw during the war cause you to lose your faith, or did they actually strengthen it?"
+															]
+														}
+													]
+												},
+												"A character who served in the Last War doesn't have to take the soldier background, though the Military Rank feature is a good fit if your character is still respected by or tied to the military. An outlander could've been a scout; a sailor might've served in the navy; an entertainer could've been the musician for their troops; and an acolyte could've been a chaplain. Meanwhile, a criminal could've been dishonorably discharged, or a folk hero might be celebrated for heroic deeds they performed during the war... even if their heroism went against orders."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "What is your religion?",
+											"page": 100,
+											"entries": [
+												"Eberron has many vastly different faith traditions across the world. If the player isn't familiar with the setting, it helps to focus on the main options:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"page": 100,
+													"items": [
+														{
+															"type": "item",
+															"name": "The Sovereign Host's",
+															"nameDot": false,
+															"entries": [
+																"pantheon of deities don't manifest in the world, but their followers believe the Sovereigns are with them always, offering guidance. This is the most popular religion in the Five Nations, and it's a casual faith that asks little of its followers."
+															]
+														},
+														{
+															"type": "item",
+															"name": "The Silver Flame",
+															"nameDot": false,
+															"entries": [
+																"is a tangible spiritual force that holds demons at bay. Followers of the Flame seek to protect innocents from supernatural evil and to encourage compassionate behavior. It's sort of like a cross between the Jedi and the Men in Black; the faithful don't believe in an anthropomorphic deity, but they can draw on the power of the Flame to fight evil."
+															]
+														},
+														{
+															"type": "item",
+															"name": "The Blood of Vol",
+															"nameDot": false,
+															"entries": [
+																"is a grim but practical faith that believes there's no afterlife, the gods are cruel, and all we have is each other. Followers of this faith believe that all mortals have a spark of divinity within their blood, and Seeker clerics and paladins draw divine power from their own souls."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Primal faiths",
+															"nameDot": false,
+															"entries": [
+																"include druids and other cultures that are devoted to the natural world and animistic spirits."
+															]
+														},
+														{
+															"type": "item",
+															"name": "Faithless people",
+															"nameDot": false,
+															"entries": [
+																"can be found throughout Eberron. After all, gods don't physically manifest in the world, so many people either don't believe the gods exist, or just don't care whether they do. As a faithless character, did you lose your faith because of something terrible that happened, or have you just never been a believer?"
+															]
+														}
+													]
+												},
+												"I might suggest other faiths—like those of the Path of Light, the Tairnadal, and the Dark Six—if they seem especially appropriate based on the player's concept. Likewise, if they're intrigued by the concept of a primal character, I suggest a specific option (Gatekeeper, Warden of the Wood, Talenta halfling) once I learn more about their character."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Where are you from?",
+											"page": 100,
+											"entries": [
+												"If my players don't know the setting, I usually suggest a couple options for their origins once I know what kind of character they're interested in. This can be less intimidating than trying to explain all the nations in sufficient detail for the player to make an informed decision—so instead, I say \"tell me about your idea\" and see if it lends itself to a particular nation ... especially when informed by their role in the war and their religion. A Silver Flame cleric who served in the war? That sure sounds like Thrane. A faithless or primal outlander ranger who didn't serve in the war? Talenta or Eldeen, depending on your ancestry.",
+												"If an entire group of players are new to the setting, I often suggest their characters are all survivors from Cyre—perhaps they served together during the Last War, or they could've been thrown together by the Mourning. This approach not only makes it simple for players to know little about their homeland (after all, they won't be casually strolling its streets or navigating its politics), but being from Cyre gives the party a shared loss and an easy explanation for why they're adventurers. They have no home to return to, and all they have is each other—now do they want to help other Cyrans, or are they just looking out for themselves?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "What do you want?",
+											"page": 100,
+											"entries": [
+												"This question isn't particularly tied to Eberron, but it's a good question to ask. Why are you adventuring? Are you just in it for the gold—and if so, what do you want the gold for? In the introduction of {@book Eberron: Rising from the Last War|ERLW}, \"{@table Why Do You Need 200 Gold Pieces?; Debts|ERLW|Why Do You Need 200 Gold Pieces?}\" suggests one way to inspire character flaws, debts, and motivations.",
+												"If you're not in it for the gold, are you fighting for a cause, and if so, what? Do you want to recover a lost heirloom? Are you seeking vengeance? In all these cases, my job as DM is to find a way to work that desire into the thread of the campaign. If you want vengeance against the man who killed your father, guess what—now he's part of the Emerald Claw, the main villains of this arc! And he's carrying the heirloom sword another character is determined to recover!"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "What's your background?",
+											"page": 100,
+											"entries": [
+												"Backgrounds provide skills and proficiencies, but they also add depth to a story. It's important to keep in mind that background is {@i background}; it's typically what the character used to do, so why did they leave that life behind? Why isn't the acolyte tending a shrine? How did the criminal turn their life around, and why? What guild is the guild artisan part of, and is it tied to a dragonmarked house? What's the entertainer's most popular song, and did they sell the rights to House Phiarlan?",
+												"If I'm working with players who don't know much about Eberron, I ask them to come up with a basic story, then I offer suggestions tied to the region where the campaign is taking place. In the case of an acolyte, I suggest a particular temple or monastery they could've served at; if they're a former criminal, I offer a suggestion for their criminal contact."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ongoing Questions and Flashbacks",
+									"page": 101,
+									"entries": [
+										"Beyond the above, you can ask many more questions—for example, the \"{@table Everyone Has Regrets; Regrets|ERLW|Everyone Has Regrets}\" section in {@book Eberron: Rising from the Last War|ERLW} explores your character's greatest regret. But these basics usually create enough of a foundation that I can help the player flesh out the story with additional Eberron details. And that's a key point: they might not know the world, but I do. I understand the story the player appears to be looking for. So I can offer suggestions that translate that story into the setting. I don't need to ask them if they have ties to a dragonmarked house if they don't know what that is. But if they describe a story that sounds like {@i Romeo and Juliet}, I can say, \"Eberron has these powerful houses that forbid marriage—what if you're tied to one of those?\" Between the war, faith, desire, and background, I usually have good hooks to work with as I build out the story.",
+										"Players don't need to establish every detail about a character at the start of a campaign. They can build on these foundations over time—even improvising details in the middle of a session. If you've established that your fighter fought for Breland during the war, when a Brelish veteran shows up during an adventure, the DM can say, \"You saved his life during the Last War—how did that happen?\" Or perhaps when you run into a Boromar enforcer, the DM can say, \"He was in your unit during the war, but you didn't get along—what happened?\" When an entertainer takes advantage of their By Popular Demand feature, I might say, \"You played at this tavern a year ago and something dramatic happened—what was it?\"",
+										"Similarly, details about family can be established over time. Consider the typical movie or novel: we get enough details about our protagonists to draw us into the story, but we usually don't get a detailed dossier. In the case of a certain war in the stars, revelations about family end up being part of the story itself!"
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Session Zero",
+							"page": 101,
+							"entries": [
+								"By this point, your players probably know the basic idea behind the campaign and have ideas for characters who could be a part of it. Session zero is about bringing players together before you actually start rolling dice, so everyone can discuss the story you're going to create together. It's a final opportunity to make sure everyone knows what they're getting into and to see what excites people about this story—and just as important, to make sure everyone knows the places they {@i don't} want the story to go. During session zero, you all have a chance to establish ground rules for characters and conduct alike.",
+								"The underlying principle of session zero is that a roleplaying game is a {@i collaborative} story—so everyone should collaborate on bringing those pieces together, DM and players alike. Establishing this mutual understanding can encompass anything from agreeing that the rogue won't steal from the party to setting boundaries on romance in the story. When holding a session zero, I start with the following basics...",
+								{
+									"type": "entries",
+									"name": "Safety Tools",
+									"page": 101,
+									"entries": [
+										"Before delving into the story, it's important to establish what content players—and DM—don't want to see at the table. This can be anything from \"plotlines involving child endangerment\" to \"any romance involving my character.\"",
+										"A common approach is to discuss \"lines and veils.\" Are there elements a player doesn't mind being part of the storyline, as long as they remain {@i veiled}—kept in soft focus or occurring off camera? And are there {@i lines} a player simply doesn't want the story to touch on at all, even in passing? While this discussion gives the DM useful knowledge in directing the story, it's also an important time for players to establish boundaries with one another. It's entirely reasonable to say \"I don't want to play in a party with evil characters\" or \"I'm not comfortable with in-character flirting.\" This could be a simple discussion or use a detailed checklist.",
+										"Even once a campaign is started, it's important for everyone to feel empowered to express discomfort or set boundaries as new topics come up. Sometimes, you don't realize you have any lines until you're in the middle of a scene and you suddenly don't want to go any further down that particular path. In situations like this, many groups use the \"X card\"; this physical or digital card can be raised to silently signal (without any need for explanation) that the current scene should stop.",
+										"{@book Chapter 4|VRGR|4} of {@book Van Richten's Guide to Ravenloft|VRGR} provides advice on setting boundaries and expectations before a game begins. Additionally, the free {@link TTRPG Safety Toolkit|http://bit.ly/ttrpgsafetytoolkit} (by Kienna Shaw and Lauren Bryant-Monk) and {@link Consent in Gaming|https://www.montecookgames.com/consent-in-gaming/} (by Sean K. Reynolds and Shanna Germain) contain a wealth of resources on safety tools and how to collaboratively explore challenging content."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Rules and House Rules",
+									"page": 101,
+									"entries": [
+										"If you haven't already talked about your house rules before session zero, this is the time to do so! In addition to any modified rules you might use, are there other things players should know about your DMing philosophy and approach to the game? Here are a few examples.",
+										{
+											"type": "entries",
+											"name": "Death",
+											"page": 101,
+											"entries": [
+												"How does the group want to handle the deaths of player characters? Do you take a straight let-the-dice-fall-wherethey-may approach where if an ogre gets a critical hit, characters might die even in the first session? Or do you generally assume that dropping to zero hit points renders you unconscious, but as long as {@i someone} survives, the group will be okay? Somewhere in the middle? Perhaps your resurrection rules are flexible (your cleric doesn't need the diamonds for {@spell revivify} as long as they have the equivalent gold). Or maybe a character who drops to zero hit points lives, but with a lasting scar or injury—but this should be mutually agreed on by the player and DM."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Descriptive Rolls",
+											"page": 102,
+											"entries": [
+												"How does the DM plan to handle things like Charismabased skills? Can a player just say \"I intimidate them. I roll a 20. I'm so scary!\"? Or does the DM expect the player to add more detail to the scene—\"what are you doing that's so terrifying?\" This can be handled on a player-byplayer basis; one player might enjoy detailed roleplaying, while another player may have taken expertise in Persuasion precisely because they aren't comfortable roleplaying such interactions and want to be able to roll through them. Either approach is okay; just like you don't expect the ranger's player to shoot a real longbow every time their character makes an attack, persuasive characters don't have to require persuasive players."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Inspiration and Other Rewards",
+											"page": 102,
+											"entries": [
+												"Does the DM plan to use any sorts of rewards for clever play, such as awarding inspiration when a player leans into their character's flaws? Are there any special benefits available at character creation?",
+												"For example, some DMs grant characters a bonus feat at 1st level or allow them to choose a feat from a specific list. If your campaign is tied to House Tarkanan, all the characters might start with a free {@feat Aberrant Dragonmark|ERLW}. If the campaign is set in Sarlona, you could offer the players a choice of the psionic feats from {@book chapter 21|ChroniclesofEberron|27|psionic feats} of this book, reflecting that all the characters have some degree of psychic power, regardless of their class. In an espionage-centered campaign, you could offer specialized feats like {@feat Actor}, {@feat Athlete}, {@feat Keen Mind}, {@feat Linguist}, {@feat Observant}, {@feat Skilled}, and {@feat Tavern Brawler}—with the restriction that everyone needs a unique feat to reflect their specialty on the team. (Keep in mind that granting a bonus feat slightly affects encounter balance, but as long as everyone receives the same benefit, feats can help make the characters feel larger than life and emphasize a particular story.)"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "DMing Style",
+											"page": 102,
+											"entries": [
+												"As part of session zero, DMs should share what to expect about their approach to DMing; similarly, players should feel free to give feedback on what approaches are most comfortable for them. In my campaigns, I always emphasize two basic things about my approach.",
+												"First, I'm a story-driven DM: the rules are a framework, but I may choose to ignore or override a rule in a particular scene. I'm happy for players to bring rules to my attention if it seems like I may have overlooked something, because often that may be all that it is— but if I acknowledge it and say that I'm intentionally ignoring it, I don't want to argue about it.",
+												"Second, part of my DMing style is to ask players to add details to a scene: \"There's a mob of zombies— they're rotting villagers! Describe one of the zombies that draws your attention.\" I like doing this because it helps to give players a concrete investment in the scene, and players come up with things that I never would. But I always want to make sure my players are comfortable with this style of play; I tell them they can always say \"Pass\" if they don't have an answer or just aren't comfortable with the question. While the goal is to let everyone share in building the story, the more important goal is for everyone to enjoy the experience—and not everyone likes being put on the spot."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Review the Story",
+									"page": 102,
+									"entries": [
+										"Before we reach session zero, I've already made sure the players approve of the campaign's basic concept, but I lay it out in more detail during this session. We may have agreed in advance that the adventurers are starting in a mining town and that the party's warforged fighter is the sheriff, but now I want to tell the players about the basic situation in Q'barra and the events that are shaping the story. At this point, I usually ask the players to add some personal elements to the setting: \"There's only one tavern in town, the Cat and Biscuit—tell me one detail about it.\" Or you could say, \"tell me about someone you know in town.\" This could be a relative, a friend, or a rival; the point is that it gives both the character and the player a connection to the location, and now I've got a few NPCs I can work with."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Character Introductions",
+									"page": 102,
+									"entries": [
+										"Now that players know the basic building blocks of the story, you have an opportunity to work together, establish connections between the party members, and talk about their hopes for the campaign and their character's development throughout it. It's a good idea to start by having each player introduce their character, describe what most defines their character, and share one thing that's important to them.",
+										{
+											"type": "entries",
+											"name": "Character Connections",
+											"page": 102,
+											"entries": [
+												"After everyone's familiar with each other's characters, it's time to connect them with each other. Who served together during the war? What was the worst thing they endured together? Who lost the most money gambling, and does one of them still owe the other? Perhaps the elf and the dwarf are siblings—\"how did you never know you were adopted?\" Maybe the charlatan was the entertainer's promoter for a time, or the urchin always used to hum one of the entertainer's songs in hard times but never imagined they'd meet. It's likely that players have been thinking of their characters in isolation; this is a chance to find things that bring them together, giving them a shared story instead of one about five strangers."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Aspirations",
+											"page": 102,
+											"entries": [
+												"In creating characters, I encourage players to think about each character's aspirations. But what about the {@i player}'s aspirations? What interests them most—social interaction? Challenging combat? Solving mysteries? Political intrigue? Do they want to own land or gain titles, or to just focus on carefree adventuring? Ideally, a group will be largely united in what they want to see, but it's still possible for the DM to work around different player preferences; the fighter may never have to worry about politics, but the bard can still be drawn into intrigues.",
+												"Aside from these broad choices, this is a chance for players to describe things they'd like to see happen at some point during the campaign. This could be anything from \"I want to find a {@item holy avenger}\" or \"I want us to fight a dragon\" to \"I want to overthrow Kaius III and become the new monarch of Karrnath.\" As a DM, it's important to be clear that these things might not happen for a long time (or ever), but knowing the players would enjoy seeing it helps me shape the story. I'm not going to give them a {@item holy avenger} at first level, but perhaps the adventurers hear stories about a legendary blade early on. If they're fighting the Emerald Claw, Lady Illmarrow's chief lieutenant could be a {@creature death Knight} who lost the blade after breaking their oath—and the only way the party can ultimately defeat this enemy is by finding that forgotten blade and breaking the curse laid on it. So they'll get to that {@item holy avenger}, but by the time they get there, it'll be part of the story.",
+												"If a player wants to overthrow Kaius but that just doesn't fit with the campaign, I might still be able to work aspects of that into encounters. The adventurers may have an opportunity to help a Karrnathi warlord, earning their respect. Or they might win the friendship of a group of mercenaries who could prove invaluable in a campaign against Kaius. I can help the player move their character toward that lifelong goal, even if it never happens \"on camera\" before our campaign ends."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "After Session Zero",
+									"page": 103,
+									"entries": [
+										"The topics discussed above are merely a list to get you started; you may come up with many more based on your campaign. Regardless, by the end of session zero, you'll likely have touched on these key questions:",
+										{
+											"type": "list",
+											"items": [
+												"What story are we embarking on? Where does it begin?",
+												"Who are our characters? What brings them together?",
+												"What things do people want to see? What lines do we agree to not cross? When there's a problem at the table, what strategies can we use to identify and deal with it?",
+												"Are there any rules or house rules players should know?"
+											]
+										},
+										"Keep in mind that this doesn't have to be a one-time discussion—and in fact, it's great to encourage players to revisit these topics any time they'd like to see things head in a different direction (or enthusiastically continue in the same one). Dealing with all these questions in advance can help to avoid frustration down the road and build a sound foundation for your campaign. Similarly, keeping these channels of communication open during the campaign helps ensure you keep collaborating to tell a story everyone is proud of."
+									]
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0042.webp"
+									},
+									"credit": "Storn Cook"
+								}
+							]
+						}
+					]
 				}
 			]
 		}
