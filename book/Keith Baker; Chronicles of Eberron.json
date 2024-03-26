@@ -6342,6 +6342,127 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Ruins and Hermitages",
+									"page": 117,
+									"entries": [
+										"The Astral Plane may in fact be infinite, and there's no telling what could be waiting in that void. There's at least one active city, Tu'narath (described later in this chapter); however, many other points of interest lie scattered in the void, most of them ruins. Some are the remnants of actual cities once built on the Astral Plane, like Sharokarthel. Others are simply pieces of unknown civilizations or lands. These could be from the distant past of this Eberron. They could be remnants of a lost Eberron, such as the Eberron of the gith. Or they could even be relics of previous creations, realities older than the Progenitors themselves. The {@table Astral Ruins|ChroniclesofEberron} table provides a few examples.",
+										{
+											"type": "list",
+											"items": [
+												"{@table Astral Ruins|ChroniclesofEberron}"
+											]
+										},
+										"Odd structures can be found on many planes; what differentiates the ruins of the Astral Plane from the bizarre landscapes of Xoriat is the fact that astral ruins generally feel like they had a {@i purpose}—they may be encountered out of context, but once upon a time, that ship was in water and that skull was part of an immense dragon. Meanwhile, what makes them different from the wonders of Thelanis is that while astral ruins may have a purpose, they rarely have a {@i story}—at least, not one that can be easily discerned. The skull was once part of a dragon, but there are no further clues as to who that dragon was or how it died; if it was once part of a story, that story is long over.",
+										"Ruins are generally abandoned. When immigrants or exiles lay claim to a ruin, it becomes a hermitage. Given that creatures on the Astral Plane are immune to starvation and thirst, people can live in places that could never support life in the natural world. A massive dragon skull could be inhabited by a clan of winged kobolds or a trio of Seekers of the Divinity Within. Again, unlike Xoriat, the denizens of such a realm came from somewhere; if there's kobolds in the skull, they're probably either from Eberron, a previous reality, or a forgotten creation."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sharokarthel",
+									"page": 118,
+									"entries": [
+										"In the wake of the Age of Demons, the victorious dragons spread across the world. Their ascendancy empowered the first rise of the Daughter of Khyber, followed by a devastating war of dragons that destroyed the nations they'd created. Ten thousand years later, a loredrake presented a new idea: the Daughter of Khyber drew power when the dragons expanded across Eberron, but the Daughter herself was bound to Khyber—what, then, if the dragons spread not across the Material Plane, but across the outer planes? This impulse led to the creation of several outposts on the Astral Plane, culminating in the great city of Sharokarthel. This is a city built by dragons, for dragons—a city formed from magic and the immaterial, unbound by gravity or weather. Here, the dragons of Sharokarthel built arcane workshops and planar orreries, and amassed hoards drawn from across the planes. But ultimately the theory was proven wrong. The Daughter of Khyber couldn't touch the dragons in Sharokarthel—but as their glory grew, she could corrupt those dragons still on Eberron, and these corrupted servants could carry the fight to the astral city. This led to the second great collapse. The Daughter was defeated once again, but the dragons were forced to abandon Sharokarthel. They didn't destroy the glorious city, but they laid powerful wards and curses on it, ensuring that no casual traveler could claim their abandoned glory.",
+										"There are several draconic ruins on the Astral Plane, but Sharokarthel is the grandest of them all. It surely holds untold wonders and treasures, but it's protected by powerful curses and traps. Still, there are surely accounts of those defenses somewhere. Perhaps a human sage might stumble on a book detailing a secret path into Sharokarthel ... or perhaps a young dragon might recruit a group of adventurers to accompany them to the abandoned city, hoping to reclaim some treasure of their ancient ancestors."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Subspace",
+									"page": 118,
+									"entries": [
+										"Many effects—{@spell Mordenkainen's Magnificent Mansion|PHB|magnificent mansions}, {@item bag of holding|DMG|bags of holding}, {@item portable hole|DMG|portable holes}—make use of extradimensional spaces. Typically, these are presented as tiny demiplanes, isolated and unconnected; others, such as {@spell Leomund's Secret Chest|PHB|secret chest}, mention the Ethereal Plane. However, it's possible these extradimensional spaces are in fact on the Astral Plane. A traveler might encounter a {@item bag of holding} as a floating bubble of force that contains objects; meanwhile, a {@spell Mordenkainen's Magnificent Mansion|PHB|magnificent mansion} might be found suspended in the void. If this is the case, someone might be able to find and penetrate those spaces from the outside.",
+										"Of course, the chances of finding a bag of holding on the Astral Plane would be like finding a bottle dropped into an infinite ocean. But a DM could decide that items created with the same technique occupy the same region of the Astral Plane; that there is a constellation of Cannith {@item bag of holding|DMG|bags of holding}, a neighborhood of Ghallanda {@spell Mordenkainen's Magnificent Mansion|PHB|magnificent mansions}, or an island formed by the Kundarak Vault network. If this is the case and someone does find a way to access any of these things from the outside, it could cause chaos and force the houses to deploy additional security. But in the meantime, it could certainly make for an epic astral heist!"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tu'narath",
+									"page": 118,
+									"entries": [
+										"In their early days on the Astral Plane, the githyanki discovered an immense six-fingered hand floating in the void—one charged with arcane power, not unlike Eberron dragonshards. The origins of this severed hand remain a mystery, but the githyanki recognized it as a useful resource and a suitable foundation for the anchorage of Tu'narath. Most githyanki prefer to dwell in their ships, but Tu'narath is the port where the cityships come together, where the githyanki unload their planar plunder and tell tales of their glorious battles. And should they plan a conquest, it's here that they will mass their forces.",
+										"The githyanki have no love of outsiders; if you want a friendly place to conduct commerce, go to the Immeasurable Market of Syrania. However, the Sixth Finger of Tu'narath is essentially a foreign quarter where travelers can find shelter and sample some of the wonders the gith have claimed from across reality. It's a very rough neighborhood, where you'll find exiles, astral prisoners, and worse—but if you're looking for an astral guide or some exotic planar plunder, you could make a landing at Tu'narath."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Planar Manifestations",
+							"page": 118,
+							"entries": [
+								"Here are some ways the Astral Plane can affect the Material Plane.",
+								{
+									"type": "entries",
+									"name": "Planar Connections",
+									"page": 118,
+									"entries": [
+										"The Astral Plane doesn't produce manifest zones on the Material Plane, and it never becomes coterminous or remote. However, it does touch all of the planes at various points; these connections are visible on the Astral Plane as color pools (as described in the \"{@book Travel on the Astral Plane|ChroniclesofEberron|18|Travel on the Astral Plane}\" section), but the other side of the pool is generally imperceptible. The color pools aren't usually navigable without special magic, but a Chamber agent could use special rituals or an {@item astral key|ChroniclesofEberron} (described below) to open an astral gateway, allowing adventurers to escape disaster or to quickly pass between distant points on the Material Plane.",
+										"Beyond color pools, the primary ways to enter the Astral Plane are to use {@spell plane shift}, {@spell gate}, {@spell astral projection}, or similar spells. For travelers who lack such magic, however, a DM could always decide there are circumstances under which unwary travelers can fall into the Astral Plane. For example, perhaps if circumstances are just right at a point in the Thunder Sea, a maelstrom can draw ships entirely out of reality and into a graveyard of ships on the Astral Sea."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Astral Artifacts",
+									"page": 119,
+									"entries": [
+										"The Astral Plane produces nothing on its own, and unlike other planes, it has no unifying theme. But the Astral Plane is filled with the ruins and remnants of countless civilizations and worlds. Githyanki plunder can provide treasures drawn from across the planes. Ruins and hermitages hide relics from the past; adventurers could recover the treasures of titans from a Cul'sir outpost, Dhakaani weapons from a floating piece of an Imperial garrison, or draconic wonders from the ruins of Sharokarthel. Beyond that, astral explorers might discover tools or resources that truly have no place in this creation. These could be anything, whether a new form of dragonshard, a material that simply doesn't exist on Eberron, or an iron flask holding an entity who comes from a previous iteration of Eberron or another creation entirely.",
+										{
+											"type": "entries",
+											"name": "Astral Keys",
+											"page": 119,
+											"entries": [
+												"One uniquely astral tool is the {@item astral key|ChroniclesofEberron}, an object that allows the bearer to open an astral color pool from either side. These keys vary in power and design; one could be tied to a single specific astral pool, while another could have the power to open any pool-point the bearer can find. The people of the Five Nations don't currently possess astral keys; if the adventurers acquire such an item, it could be a relic of one of the civilizations that has mastered astral travel, or it could be a unique prototype or breakthrough. Despite the name, an {@item astral key|ChroniclesofEberron} could be any shape; it could be a dagger that slices through the veil of reality or a brush that can paint a doorway in thin air."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Astral Stories",
+									"page": 119,
+									"entries": [
+										"For most creatures, the Astral Plane is simply the space that lies between the planes. It's a path to be traveled, not a destination. But there are many ways it can drive a story on its own. The adventurers might have to pursue a fugitive who's slipped through a pool-point and into a ruin. They could be tasked to explore a region of the Astral Sea, to bargain with a githyanki smuggler, or to help an eccentric scholar who's determined to reach Sharokarthel. They could acquire an iron flask holding some unknown spirit from a previous world—what will it take to open it, and would it be better left alone? Here are a few other ideas:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"page": 119,
+											"items": [
+												{
+													"type": "item",
+													"name": "An Ancestor's Call",
+													"entries": [
+														"An Aereni adventurer is ordered to bring their adventuring companions to Shae Mordai, and from there, the Aereni send them to Pylas VarTolai. An ascendant councilor—the adventurer's distant ancestor—is conducting experiments in creation, and wants their descendant to test the lands beyond the portal. Is this just coincidence, or does the ascendant councilor know something about their descendant as yet undiscovered by the living?"
+													]
+												},
+												{
+													"type": "item",
+													"name": "Storming the Castle",
+													"entries": [
+														"An enemy of the adventurers has built a fortress on the Astral Plane. Using a spell similar to {@spell Mordenkainen's Magnificent Mansion|PHB|magnificent mansion}, they can retreat to their fortress from any location; this allows them to have their evil lair wherever the adventure is taking place. The adventurers could be on a desert island or in a small rustic village, but they'll still have to pursue the necromancer Demise into her Tower of Death when things go wrong."
+													]
+												},
+												{
+													"type": "item",
+													"name": "The Undiscovered Country",
+													"entries": [
+														"A Morgrave scholar has discovered three {@item astral key|ChroniclesofEberron|astral keys}. One opens a pool-point in Sharn, and they want a group of adventurers to help them explore the other side. The pool-point leads to a Cul'sir outpost on the Astral Plane. Is it abandoned, or are their ancient giants still lingering in this place? Was it just good fortune that the scholar found the keys, or does someone want the adventurers to stumble into the forgotten outpost?"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"page": 119,
+									"name": "Spelljammer and the Astral Plane",
+									"entries": [
+										"In the Spelljammer setting, the Astral Sea is the space between Wildspace systems that connects all realities. However, this chapter's depiction of the Astral Plane is still tightly connected to Eberron. It's inhabited by elves and by gith from a previous Eberron, but as described, you won't accidentally stumble into Realmspace as you explore the Astral. {@book Eberron: Rising from the Last War|ERLW} says that while Eberron is part of the multiverse, \"it is fundamentally apart from the Great Wheel, sealed off from the other planes [and] ... sheltered from the influences and machinations of gods and powers elsewhere in the Great Wheel.\" This article assumes that this is true even of Eberron's Astral Plane. There is a mystical barrier within the Astral, a metaphysical wall that blocks passage to the Astral Sea.",
+										"If your campaign is entirely contained within Eberron, you can decide this barrier is unbreakable. On the other hand, if you want to allow travel to and from the rest of the multiverse, this barrier could be breaking down. Adventurers can pass through these cracks to reach other Wildspace systems, or they can encounter travelers from strange new worlds."
+									]
 								}
 							]
 						}
@@ -6823,6 +6944,66 @@
 					"20",
 					"Xoriat",
 					"Dull white with a black chasm"
+				]
+			]
+		},
+		{
+			"name": "Astral Ruins",
+			"caption": "Astral Ruins",
+			"source": "ChroniclesofEberron",
+			"page": 117,
+			"colLabels": [
+				"d12",
+				"Ruin"
+			],
+			"rows": [
+				[
+					"1",
+					"A dragon's skull, ten miles long from snout to horn-tip; its shape doesn't precisely match any known type of dragon."
+				],
+				[
+					"2",
+					"A single tower, seemingly broken off a larger castle."
+				],
+				[
+					"3",
+					"A massive ship designed for ocean travel—a distinctly different design than githyanki astral vessels."
+				],
+				[
+					"4",
+					"A mountain peak formed from smoky crystal."
+				],
+				[
+					"5",
+					"A mass of silver clouds, soft but solid enough to stand on; they drift and shift, but never disperse or drift apart."
+				],
+				[
+					"6",
+					"The empty shell of an immense dragon turtle; within it, abandoned tents stand in irregular rows like a marketplace without its people."
+				],
+				[
+					"7",
+					"A grove of enormous trees with roots and branches intertwined."
+				],
+				[
+					"8",
+					"A manor house, preserved with mending magic and tended by {@spell unseen servant|PHB|unseen servants}."
+				],
+				[
+					"9",
+					"A colossal inert construct, headless with three arms and three legs; tiny crablike constructs crawl along its body."
+				],
+				[
+					"10",
+					"A cozy, rustic farmhouse with smoke rising from the chimney."
+				],
+				[
+					"11",
+					"Rows of brass urns floating around a central monolith."
+				],
+				[
+					"12",
+					"Half of a vast library, perfectly cut down the center; books and scrolls drift through the void around it."
 				]
 			]
 		}
