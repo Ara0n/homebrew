@@ -6467,6 +6467,522 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "The Overlords Revealed",
+					"page": 120,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"In the first days of the world, the children of Khyber rose from the darkness to reign over Eberron. The greatest among them were the overlords, who held dominion over a world of fear, war, and death until the children of Eberron and Siberys rose up against them. Armies of dragons fought against the fiends of Khyber. And though the overlords couldn't be destroyed, the couatl sacrificed their lives to build a prison of celestial light: a silver flame that bound the overlords in Khyber once more. These bonds have held for countless generations, but the overlords still yearn to break free and reclaim the world above."
+							],
+							"from": "Eberron: Rising from the Last War"
+						},
+						"The overlords are one of the greatest threats in the Eberron campaign setting. They ruled the world in its first age, and they yearn to break their bonds and drag reality back to that Age of Demons. The Lords of Dust work to free the overlords, while the dragons of the Chamber oppose their efforts—and this long, cold war is one of the driving forces in the setting.",
+						{
+							"type": "inset",
+							"page": 120,
+							"name": "Demons and Immortal Evil",
+							"entries": [
+								"Though the term \"demon\" formally refers to a chaotic evil fiend, the people of Eberron commonly use it as a term for any evil immortal. So when we say Eberron's first age was the Age of Demons, this doesn't mean it was ruled solely by creatures whose stat blocks say \"demon\"; the term potentially encompasses any archfiend, devil, or other form of supernatural evil."
+							]
+						},
+						{
+							"type": "section",
+							"name": "Immortal Archfiends",
+							"page": 120,
+							"entries": [
+								"The overlords are immortal archfiends with immense power. At full strength, an unbound overlord exerts influence over a broad region, but this dominion is finite; it might cover a country, but not an entire continent. In the Age of Demons, there were approximately thirty overlords, and between them, they dominated the world. Despite their incredible power, however, the overlords aren't deities—and they can't grant divine magic, though a devout follower might be able to draw power directly from Khyber as a result of their faith.",
+								"Though the overlords can't be permanently destroyed, during the Age of Demons, the couatl sacrificed themselves and fused their celestial energy together to create the Silver Flame. This divine force proved capable of binding the overlords and most of their minions—but some lesser fiends slipped through. These beings, known as the Lords of Dust work to release their masters; their efforts are opposed by the dragons of the Chamber.",
+								"Each overlord is bound in a physical vessel, but the power of the Silver Flame keeps them bound (see \"{@book Bonds of the Overlords|ChroniclesofEberron|19|Bonds of the Overlords}\"). They can only be released if a particular piece of the ever-evolving Draconic Prophecy comes to pass. As a result, the Lords of Dust (and their opponents, the Chamber) study the Draconic Prophecy, seeking to manipulate it to achieve their goals.",
+								"Even while bound, the overlords still influence the regions around their prisons. Most overlords are effectively asleep, and this influence is essentially an effect of their \"dreams.\" A few—such as Bel Shalor, the Shadow in the Flame—are more aware and actively scheming.",
+								{
+									"type": "entries",
+									"name": "Hearts of Khyber",
+									"page": 120,
+									"entries": [
+										"The overlords are commonly referred to as the children of Khyber. The truth is slightly more complex; they are actually the {@i architecture} of Khyber. Beyond the physical tunnels and caverns that extend into the depths, Khyber is a matrix of demiplanes. Most scholars believe these demiplanes are the dreams of Khyber the Progenitor, each reflecting a horrifying vision of a possible reality— realms defined by fear, bloodshed, and worse. While most are isolated, some are able to leak out into the Material Plane; these planes, known as heart demiplanes, are each tied to an overlord.",
+										"Heart demiplanes are the source of native fiends in Eberron, and these realms are defined by the nature of their overlords; {@book chapter 5|ExploringEberron|5} of {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} presents more information about heart demiplanes. At the moment, the Silver Flame still binds the overlords, separating the consciousness of each overlord from its heart demiplane—but if one were to be released, its power would flow out into reality, slowly reshaping the surrounding region to mirror its heart plane. The overlord's physical form that mortals can fight is an avatar of that force, but it's just a projection; if an overlord's projection is destroyed, its power flows back into its heart, regenerates, and returns. So physically defeating an overlord is only a temporary setback for it, and the physical entity you encounter is merely a projection."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Overlords and Gods",
+									"page": 120,
+									"entries": [
+										"One common question is what differentiates overlords from the Dark Six (or other deities). There are a few major differences. First and foremost, the overlords absolutely exist—you can find the resting place of an overlord or go to its heart demiplane. If they've loosened their bonds, an overlord can manifest an avatar and you can actually fight it. So while you'll never shake hands with Aureon or dine with the Devourer, one day you might punch Rak Tulkhesh in the nose or have tal with Sul Khatesh",
+										"Second, as powerful as the overlords are, they have a limited sphere of influence. While bound, they can only influence small regions around their prison or where their heart demiplane touches the world. Even when released, their power usually has a finite radius—Bel Shalor threw Thrane into chaos, but his power wasn't felt in Sharn or even in Korth. Other overlords have different limitations: the Daughter of Khyber can reach across the world, but she can only influence dragons.",
+										"A final important difference is that the overlords aren't a logically arranged pantheon with complementary domains—and they aren't gods, but monsters. There's an overlord of cold, but we've never mentioned one associated with fire. Others have overlapping ideas; Sul Khatesh and Tul Oreshka hold secrets, Masvirik deals with reptiles while the Daughter of Khyber corrupts dragons. Bel Shalor and Eldrantulku are both corruptors, but they influence entirely different regions in the world. Rak Tulkhesh is infamously an overlord of war in the Five Nations, but there could be an entirely different overlord associated with bloodshed or war in Sarlona. Overlords are epically powerful, but they are also finite. They don't explain the existence of evil, they embody specific aspects of it."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Overlord Statistics",
+									"page": 121,
+									"entries": [
+										"In each edition of the game, Eberron has provided statistics for some of the overlords, but these vary wildly in power. Under third edition rules, overlords rivaled lesser deities; they possessed the equivalent of 7 divine ranks and 30–50 character levels. In that edition, Sul Khatesh could cast {@spell counterspell} as a free action, had spontaneous access to all wizard and sorcerer spells, and could destroy {@spell antimagic field|PHB|antimagic fields}; she had innate {@spell true seeing} as well as the ability to cast {@spell legend lore} on anything she could see. By contrast, {@book Eberron: Rising from the Last War|ERLW} now presents {@creature Sul Khatesh|ERLW} as a CR 28 threat with a fairly limited set of spells. How do these two interpretations relate to one another?",
+										"The answer is that the third edition statistics reflect the full power that an entirely unbound overlord could wield (comparable to that of a lesser deity). Meanwhile, the CR 28 interpretations of Sul Khatesh and Rak Tulkhesh reflect a weaker avatar, most likely manifested by an overlord who's still partially bound. At the end of the day, overlords are essentially plot devices. They are the most powerful entities that exist on Eberron, and at their full power, they were able to face entire armies of dragons. They aren't supposed to be \"balanced\"; for player characters to face them directly and have a chance of winning the fight, this would require other remarkable factors. In such a victory, perhaps the overlord is limited somehow (such as with the {@spell planar binding} spell), or the player characters might be vessels of the Prophecy, or special preparations might influence the outcome (for example, Tira Miron might have bathed Kloijner in the waters of Irian or the heartsblood of Durastoran the Wymbreaker). Overlords wield apocalyptic levels of power, and any stat block should be seen as inspiration for what an overlord might be capable of, not an absolute limit."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Bonds of the Overlords",
+									"page": 121,
+									"entries": [
+										"Overlords can't be permanently destroyed. When an avatar is defeated, its essence flows back into its heart plane and reforms. The champions of the first age bound that essence—preventing it from returning to its heart plane. Essentially, they severed each overlord's brain from its heart; the heart demiplanes still exist, but the consciousness of the overlords are bound elsewhere and they can't manifest their avatars or exert their full power. While the essence of each overlord is bound to a physical vessel, the power of the Silver Flame actually keeps each overlord bound. A vessel can be damaged—Rak Tulkhesh is bound to a Khyber shard that's been shattered—but this won't actually release that overlord.",
+										{
+											"type": "entries",
+											"name": "Unbinding an Overlord",
+											"page": 121,
+											"entries": [
+												{
+													"type": "quote",
+													"entries": [
+														"Releasing an overlord is no trivial matter. The prisons of the overlords are as indestructible as the fiends themselves. The only way for an overlord to be released is for a certain path of the Prophecy to come to pass. For this reason, the actions of the Lords of Dust are enigmatic. They cannot simply release their masters—they must bring history to a particular crossroads, a point at which the planes and moons are aligned and the darkness can rise again. It is up to you to decide just what is required for a particular overlord to be released. It could be something as grim as the downfall of a nation, or something as positive as the birth of a child."
+													],
+													"from": "Eberron Campaign Guide"
+												},
+												"{@book Chapter 15|ChroniclesofEberron|21}, \"The First War,\" goes into more depth about the nature of how the overlords are bound and how such a bond might be broken. In short, releasing an overlord is controlled by several factors. The Draconic Prophecy is almost always tied to the actions of specific mortals. So despite all the power of the dragons and the Lords of Dust, they can't resolve a situation with brute force; they need to guide the actions of mortal pawns. Additionally, the Prophecy is always evolving. There is always a path for the release of an overlord—and as soon as the Chamber severs one branch, a new one begins to take shape. There will never be a time when humanity doesn't have to worry about the overlords; you can buy time by foiling the plans of the Lords of Dust, as a new branch may take centuries to be uncovered and cultivated, but there is always a path to release Sul Khatesh and there always will be. And while the Lords of Dust and the Chamber are always working to cultivate these branches or to trim them, there's always the chance that the events required to release an overlord will play out entirely on their own. Not all overlords have agents within the Lords of Dust, and the Chamber isn't omniscient; it's always possible that the necessary events will simply {@i happen}, even if there's no cult or fiend driving them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Degrees of Influence",
+											"page": 122,
+											"entries": [
+												{
+													"type": "quote",
+													"entries": [
+														"As long as the overlords are bound by the Silver Flame, they can't physically manifest in the world. But each overlord embodies a particular aspect of evil, which grows in strength as their servants scheme to release their ancient masters. The overlords gain strength when mortals embrace the dark paths laid down for them. And as they grow stronger, they gain more influence."
+													],
+													"from": "Eberron: Rising from the Last War"
+												},
+												"If the bonds of an overlord can only be broken by a Prophetic path, what does it mean for an overlord to \"grow stronger?\" How do they threaten the world? If an overlord is released from its prison, it begins to transform a region of the world into a mirror of its heart demiplane. This may start slowly, but the end results can be dramatic. The Cold Sun will steal the light from the sky, while the Heart of Winter will blanket her domain in ice. Every overlord has a handful of fiends that already walk the world ... but if an overlord is unbound, greater forces will emerge from its demiplane. Beyond this, the overlord itself will be able to manifest a physical avatar, as shown in {@book Eberron: Rising from the Last War|ERLW}.",
+												"An overlord is only able to affect the world directly if their bonds are broken. But even while bound, they still have the ability to influence mortals—Tiamat corrupts dragons, the Wild Heart corrupts nature, and Rak Tulkhesh drives people to spill blood. And the more mortals who succumb to their influence, the greater this power becomes. Sul Khatesh can't walk the world and unleash an arcane armageddon, but she can still whisper secrets to warlocks and create cults, while Rak Tulkhesh can shatter peace and drive war.",
+												"It's possible for an overlord to be partially released, increasing its ability to influence its surroundings but not possessing its full power or the ability to move from its prison. This state generally occurs when the bonds of an overlord are almost broken; there might be a single condition that stands between the overlord and full release, whether that's a planar or lunar conjunction, a ritual sacrifice, or something else its followers must accomplish. While the Wild Heart was in this state, it was able to amplify the power of the curse of lycanthropy and assert control over all ‘thropes, and it may have been able to manifest an avatar in the heart of the forest; but the Towering Woods themselves weren't physically transformed, and the avatar of the Wild Heart wasn't roaming freely and striking down its enemies.",
+												"Ultimately, the amount of power an overlord wields is determined by the needs of your story. A bound overlord has a very limited ability to influence mortals. An unbound overlord can affect both mortals and the world itself, and it can manifest an avatar wielding tremendous power. A partially released overlord falls somewhere in between, with whatever limitations you need to impose to make your story satisfying. Even when cults and fiends aren't actively seeking to release their overlord, they often try to increase its influence—usually by playing out its core concept (war, undead, betrayal, sinister magic) in a region.",
+												"While bound, the overlords are effectively dreaming— or trancing, if you prefer, as they aren't tied to Dal Quor and can't be targeted by the {@spell dream} spell. In this state, they aren't entirely conscious, nor are they fully comatose. Rak Tulkhesh revels in hatred and bloodshed, but it's his speaker {@creature Mordakhesh|ERLW} who schemes across the centuries and who actively sows strife. Sul Khatesh does whisper to her warlocks and share dangerous secrets, but even this is essentially reflexive; it's how her influence manifests, and not every warlock she deals with is part of a world-breaking scheme. The Lords of Dust understand the world and scheme to free their overlords; the overlords themselves are delighted when their influence grows, but are only partially aware of what's going on in the world. This is what makes their speakers—prakhutu—so important; Mordakhesh can commune with Rak Tulkhesh and divine what the Rage of War desires. (Hint: it's war.)"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Lords of Dust",
+									"page": 122,
+									"entries": [
+										"The {@i Eberron Campaign Setting} describes the Lords of Dust as a coalition \"of rakshasas and other fiends [who] have been playing games with the common races for thousands of years. They hide in the shadows of Khorvaire, plotting to free their ancient masters from the depths of Khyber, scheming to use them to gain greater power, or spreading pain and suffering.\"",
+										{
+											"type": "entries",
+											"name": "Immortal Servants",
+											"page": 122,
+											"entries": [
+												"Given that the overlords are so firmly bound, why {@i do} the Lords of Dust serve the overlords? Why doesn't Mordakhesh pursue his own interests? There are a few aspects to this. The first is that these fiends are immortals with fundamentally inhuman minds, created as the physical embodiments of ideas. Mordakhesh never {@i chose} to serve Rak Tulkhesh; it's a fundamental aspect of what he is. Furthermore, all native fiends are tied to heart demiplanes; when Mordakhesh dies, he returns to the Bitter Shield, the heart of Rak Tulkhesh. In essence, while he has his own unique personality, Mordakhesh is part of Rak Tulkhesh. Immortals can change—angels can fall, quori can become kalashtar—and it's certainly possible to encounter a fiend that's somehow shifted its allegiance or even become something other than a fiend. But this would be extremely unusual. Most fiends don't choose to serve their overlord; it's a fundamental part of who and what they are."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wary Allies",
+											"page": 122,
+											"entries": [
+												"Though the Lords of Dust often scheme together to release their various overlords, this is an arrangement born of convenience, not sentiment. The servants of some overlords avoid involvement with the Lords of Dust entirely, while others only work with this coalition when it serves their purposes. Meanwhile, the overlords they serve are certainly not allies, nor do the Lords of Dust support all overlords. The overlords often fought one another during the Age of Demons, and a few—such as Ran Iishiv, Sakinnirot, Dral Khatuur— have even been described as being shunned by the Lords of Dust.",
+												"Keep in mind that the overlords embody terrible things, and all they desire is to express their nature. Rak Tulkhesh {@i is} furious bloodshed and has no other way to relate to the world; if you live next to Rak Tulkhesh, you know he's going to constantly attack you. Likewise, Eldrantulku is the embodiment of betrayal; the Lords of Dust who deal with him know that sooner or later, any arrangement ends in an unpleasant surprise, but because they know this, they can prepare and work around it.",
+												"So while the overlords themselves don't work together, the Lords of Dust are merely the lesser fiends that serve them. Though Rak Tulkhesh is unreasoning war, his speaker Mordakhesh is careful and calculating, willing to scheme with the servants of other overlords. But the Lords of Dust always place the interests of their own overlord above all else ... and many members of the Lords of Dust have long-standing feuds or rivalries with other fiends."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Who Are the Overlords ?",
+							"page": 123,
+							"entries": [
+								"There is no complete list of overlords, and even their exact number is uncertain; one canon source says \"around thirty\" while another says \"a few dozen.\" Similarly, many details are left vague even for the overlords that have been named. Does Sakinnirot have a prakhutu, and if so, do they consult with the Bleak Council of Ashtakala? Where is Tul Oreshka's prison? This vagueness is largely intentional, because the overlords are essentially plot devices. Sakinnirot has a prakhutu if you want it to! We know the location of Sul Khatesh's prison, but Tul Oreshka's is intentionally undefined so it can be wherever you want it to be. Are there thirty overlords or thirty-six? Well, how many do you need?",
+								"This section lists the overlords who've been mentioned in canon or kanon, but these are just a starting point. You can learn more about some overlords using the references provided, but many don't have much information available; in some cases, this chapter actually provides more information on them than what exists in canon. Don't let that hold you back! Use this as inspiration and build on it to meet the needs of your campaign.",
+								{
+									"type": "entries",
+									"name": "Ashtakala: the Demon City",
+									"page": 123,
+									"entries": [
+										"Located in the Demon Wastes, Ashtakala is described in many sources as the last citadel of the Lords of Dust and the meeting place of their Bleak Council. In my Eberron, Ashtakala is itself an overlord, the immortal embodiment of the citadel of evil. (You can learn more about Ashtakala in {@book chapter 14|ChroniclesofEberron|20} of this book.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ashurak: the Slow Death",
+									"page": 123,
+									"entries": [
+										"While never named in previous sourcebooks, the Slow Death is the patron of the Plaguebearers, one of the Carrion Tribes of the Demon Wastes. Ashurak revels in the horror of disease. The plagues they spread are agonizing and disfiguring, but never kill quickly; lingering suffering is Ashurak's hallmark. While their prison is in the Demon Wastes, their influence can be carried by the diseases they create, and Plaguebearers have occasionally started cults in the Five Nations.",
+										"While one might expect these cultists to find allies among the Children of Winter, the truth is quite the opposite; the maladies of Ashurak are deeply unnatural, and the druids battle these cults whenever they find them. Ashurak isn't one of the most powerful or infamous overlords, but they do have representatives among the Lords of Dust; their speaker is Shalashar, a native oinoloth. (The Plaguebearers were introduced in the {@i Eberron Campaign Setting}, though that book contains no information about Ashurak.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Bel Shalor: the Shadow in the Flame",
+									"page": 123,
+									"entries": [
+										"Bound in Flamekeep, Bel Shalor is the most infamous overlord in Khorvaire, largely due to his well-documented devastation of Thrane and subsequent defeat at the hands of Tira Miron. Bel Shalor embodies our fear of one another and the capacity for even the most virtuous person to do evil. He thrives on paranoia and smiles when a good person harms an innocent or ignores their conscience.",
+										"Bel Shalor's speaker is the ak'chazar rakshasa Durastoran the Wyrmbreaker, and his minions are a powerful force within the Lords of Dust. Though his influence was originally tied to Thrane, the conditions of his binding now allow him to influence anyone who draws on the power of the Silver Flame; it's entirely possible he wanted to be bound and always planned to become the Shadow in the Flame. (You can learn more about Bel Shalor in the {@i Eberron Campaign Guide} and {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Daughter of Khyber",
+									"page": 123,
+									"entries": [
+										"The Daughter of Khyber embodies the fear of dragons and the evil they can do—this includes both humanoids who fear the dragons, and the fears of the dragons themselves. She is bound in the Pit of Five Sorrows in Argonnessen, but much like Bel Shalor and the followers of the Silver Flame, the Daughter of Khyber can touch the heart of any dragon, wherever they may be. Her influence can be subtle, hidden within pride or even a desire to help lesser creatures—but once she sinks her hooks into a dragon's soul, she can twist even noble desires toward evil ends. The Daughter of Khyber's machinations have brought the world to the edge of disaster at least once since the Age of Demons, devastating ancient civilizations on Khorvaire that have now been forgotten; it's because of this that the dragons of Argonnessen place severe restrictions on how dragons exercise power in the wider world.",
+										"Known to some as Tiamat, the Daughter of Khyber has no involvement with the Lords of Dust, and if she has a speaker, their identity is unknown. (You can learn more about the Daughter of Khyber in {@i Dragons of Eberron}, the {@i Eberron Campaign Guide}, and {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dral Khatuur: the Heart of Winter",
+									"page": 124,
+									"entries": [
+										"Bound in the Frostfell, Dral Khatuur embodies all of the terrors of winter—endless night, the killing frost, the iceencrusted face of a frozen friend. Her minions are frozen corpses, fiends sculpted from ice, and the howling, hungry wind. She despises all other creatures, including the other overlords; she has no ties to the Lords of Dust, and waits in the Frostfell for anyone foolish enough to venture into her domain."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Eldrantulku: the Oathbreaker",
+									"page": 124,
+									"entries": [
+										"As described in {@i Dragon 337}, \"Eldrantulku is a spirit of discord who turns allies into enemies and lovers into mortal foes. A master deceiver, his title comes from his ability to convince others to break their oaths. He is not a force of war—he corrupts the innocent, using ambition, jealousy, and paranoia as his tools.\" Eldrantulku is active within the Lords of Dust. Notable minions include Thelestes, an exiled Mabaran succubus and deadly assassin; and the devious rakshasa Kashtarhak, his prakhutu. The location of Eldrantulku's prison is unknown."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Katashka: the Gatekeeper",
+									"page": 124,
+									"entries": [
+										"Katashka thrives on mortal fears of death and the undead. He is thought to have brought the first undead into the world, and certainly created the first liches and dracoliches. Katashka's servants are part of the Lords of Dust, and his prakhutu is the dracolich Mazyralyx (thought by some to be the origin of many myths of the Keeper).",
+										"The location of Katashka's prison is a mystery—the Lair of the Keeper in the Demon Wastes is one possibility, but it's just as likely that the lair instead contains a connection to his heart demiplane. Katashka's cults are more widespread than many other overlords, which suggests his prison could have been shattered and scattered like that of Rak Tulkhesh. As Katashka is known to create liches, one possibility is that pieces of his shattered prison are used as phylacteries by his lich champions, who spread his influence wherever they go. Katashka largely works with undead as opposed to fiends; his champions include the ancient wizard Kyuss and his spawn. (You can learn more about Katashka in {@i Dragon 337}, the {@i Eberron Campaign Guide}, and {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Lurker in Shadow",
+									"page": 124,
+									"entries": [
+										"In the first age of the world, the Thunder Sea was the domain of a powerful overlord embodying the fear of the unknown and unknowable, of the unimaginable terrors lurking in the depths and in the darkness. Its true name is one more secret. Its servants call it Surash Ka, which is Abyssal for \"the Deep Lord\" or \"the Ruler Below\"; the sahuagin and other denizens of the Thunder Sea avoid even that name, calling it the Lurker in Shadow or just the Lurker. It's an exceptionally powerful overlord; while unbound, it dominated the Thunder Sea, and even now, its influence can be felt across the region.",
+										"The Lurker in Shadow has no interaction with the Lords of Dust. Its servants include aboleths, shadow demons, and shark-aspected rakshasa, but stories say these are the least of the horrors it has spawned. While the Lurker has some overlap with Sul Khatesh and Tul Oreshka, Sul Khatesh is focused on arcane knowledge and personal secrets, while Tul Oreshka deals with secrets that can break people; the Lurker in Shadow deals with the {@i things} you can't imagine, the forces that lie just beyond sight and that are waiting to pull you down. (You can learn more about the Lurker and the Thunder Sea in {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Masvirik: the Cold Sun",
+									"page": 124,
+									"entries": [
+										"Masvirik consumes the light, embodying our fears of all that slithers through the dark and cold. On the one hand, he embodies the warm-blooded fears of reptiles and venomous vermin. On the other, he embodies the reptilian fears of cold and death. His minions include corrupted lizardfolk, dragonborn, and kobolds, along with undead reptilian creatures and fiends who thrive on cold instead of heat.",
+										"Masvirik is imprisoned beneath Haka'torvhak, and his influence is felt across Q'barra. His speaker, the dragon Rhashaak, is bound in Haka'torvhak; the reptilian rakshasa Asshalara represents Rhashaak on the Bleak Council of Ashtakala. (You can learn more about Masvirik in {@i Dungeon 185}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Rak Tulkhesh: the Rage of War",
+									"page": 124,
+									"entries": [
+										"{@creature Rak Tulkhesh|ERLW} embodies the fear of war and bloodshed, whether as a victim of violence or losing oneself to bloodlust and rage. The cults of Rak Tulkhesh include brutal raiders who embrace lives of endless violence, but also those who spread hate and strife—anything that stirs up harsh conflict where there might otherwise be peace.",
+										"The prison of Rak Tulkhesh has been shattered, and his influence is spread across Khorvaire; however, he has a strong presence in the Demon Wastes and his Carrion Tribes are always thirsty for bloodshed. His speaker, {@creature Mordakhesh|ERLW|Mordakhesh the Shadowsword}, is a respected member of the Lords of Dust and a brilliant military strategist. (You can learn more about Rak Tulkhesh in {@i Dragon 416}, {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}, and {@book Eberron: Rising from the Last War|ERLW}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ran Iishiv: the Unmaker",
+									"page": 125,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0052.webp"
+											},
+											"credit": "Jack Holliday"
+										},
+										"Bound beneath Adar, Ran Iishiv is a force of chaos and destruction. Some believe that Ran Iishiv reflects Khyber's primal hatred of creation itself, the burning desire to tear down the Material Plane and start anew. Whatever the truth, Ran Iishiv was exceptionally powerful and feared even by other overlords; it's believed that the wild zones to Kythri in Adar are the result of Ran Iishiv literally tearing through reality. Even while bound, the Unmaker's fury is a powerful force. Ran Iishiv may be the source of the storms that batter Adar, and some accounts claim its rage created the volcano of Korrandar.",
+										"Ran Iishiv has no allies among the Lords of Dust; it's possible fiends tied to other overlords would help prevent its release. Ran's primary servants are the Endseekers, cultists who have heard the Unmaker's dreaming whispers and seek to return reality to primordial chaos. (You can learn more about Ran Iishiv in {@i Secrets of Sarlona}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sakinnirot: the Scar That Abides",
+									"page": 125,
+									"entries": [
+										"Those loyal to Sakinnirot say it was the first child of the Dragon Below. In many ways, it embodies pure hatred— not the savage bloodlust of Rak Tulkhesh, but hatred that smolders and burns. It thrives on bloody feuds that only deepen the need for revenge, on physical and spiritual wounds left to fester. It's possible Sakinnirot is nothing less than the patient fury of Khyber itself, the determination for vengeance on the world that holds it prisoner.",
+										"Whatever the truth, Sakinnirot is one of the most powerful overlords; during the Age of Demons, the Scar laid claim to all of Xen'drik and reveled in battling other overlords. It was bound even more tightly than most overlords, and few of its fiendish servants escaped into the world; both because of this and its feuds with other overlords, the Scar That Abides isn't represented within the Lords of Dust. However, the rakshasa Lorishto—an ak'chazar of Eldrantulku—has been seeking to weaken the binding of Sakinnirot, hoping to become the prakhutu of the Scar That Abides. (You can learn more about Sakinnirot in {@i City of Stormreach}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Spinner of Shadows",
+									"page": 125,
+									"entries": [
+										"Though the Spinner of Shadows is commonly associated with spiders, this simply reflects her wider role as an overlord of hidden schemes, of the careful vendetta and the joy of toying with a powerless foe. She has significant overlap with Sakinnirot, but the Spinner is less driven by burning hatred and more by hungry ambition; she is the schemer willing to climb a web formed of innocent corpses to achieve her desires.",
+										"Though the Spinner isn't one of the most powerful overlords, one of her strengths is her talent for remaining hidden—reflected by the fact that she had her domain in Xen'drik despite Sakinnirot's claim on the continent. Because of this obsession with secrecy, it's unlikely that the Spinner is involved with the Lords of Dust; her agents scheme alone, hiding even from their fiendish cousins. (You can fight the Spinner yourself—digitally, at least—by playing the {@i Dungeons & Dragons Online} MMO.)  "
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sul Khatesh: the Keeper of Secrets",
+									"page": 125,
+									"entries": [
+										"{@book Eberron: Rising from the Last War|ERLW} describes {@creature Sul Khatesh|ERLW} as \"the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness.\" She may be bound beneath Arcanix, but she has found ways to spread her influence further. Her prakhutu—the First Scribe, Hektula—has written books of magic that can grant tremendous power but that also serve as a focus for her influence; these could mirror the effects of the {@item Book of Vile Darkness} or the {@item Demonomicon of Iggwilv|TCE|Demonomicon}.",
+										"Sul Khatesh spreads cults and covens, and where her cultists come together to perform malefic rituals, Sul Khatesh can touch the world. While she often whispers to her warlocks and to other susceptible minds, Sul Khatesh is essentially dreaming; her whispers rarely work out well for those who listen to them, but they aren't all tied toward one grand plan. The agents of Sul Khatesh are a strong force in the Lords of Dust. Hektula maintains the Library of Ashtakala and often mediates disputes between the other speakers. (You can learn more about Sul Khatesh and Hektula in {@i Dragon 337}, {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json}, and {@book Eberron: Rising from the Last War|ERLW}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tol Kharash: the Horned King",
+									"page": 125,
+									"entries": [
+										"A dark power lies bound beneath the fortress known as Turakbar's Fist, and it has long spread its influence across the barren region now known as Droaam. Znir hwyri hunt those who fall too far down its path, but the minotaur clans see this power as their patron. Tol Kharash can easily be mistaken for Rak Tulkhesh, as both delight in bloodshed and war. However, Tol Kharash is a force of tyranny rather than rage. It drives the strong to oppress the weak ... and the crueler they are, the better.",
+										"The Horned King is the common name of the overlord and the aspect worshiped by Rhesh Turakbar and his clan, the Blood Horns; they raid and pillage in his name. However, each of the major minotaur clans has their own unique interpretation of the Horned King. The Red Hooves are devoted to He Who Walks Behind, and they prefer sly ambushes over the howling assaults of the Blood Horns. The Blade Breaker clan worships One Horn, who rewards displays of strength and courage. While the Blade Breakers are just as aggressive as the Blood Horns, they're less brutal; it's possible that while {@i they} think One Horn is an aspect of the Horned King, they're in truth drawing on a different power entirely— perhaps the essence of Dol Dorn.",
+										"Tol Kharash has relatively few fiendish minions. His greatest servants are possessed mortals as opposed to manifested fiends; he has no representatives in Ashtakala and doesn't work with the Lords of Dust. (Tol Kharash appears in the upcoming {@i Frontiers of Eberron: Threshold}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tul Oreshka: the Truth in the Darkness",
+									"page": 126,
+									"entries": [
+										"Tul Oreshka embodies our fear of secrets and the things we don't know, of unbearable truths and feelings we'd kill to keep private. These may be deeply personal—\"your mother wishes you'd died instead of your brother\"—or shocking cosmic revelations. She's far more primal than Sul Khatesh; the words she deals with may not conjure fire or fiends, but they still have the power to shatter lives. People who pass by her prison may learn terrible things through ghostly whispers or vivid nightmares. Though her cults take many forms, they're almost always driven by a compelling, infectious idea. While she doesn't deal in traditional mystical knowledge as does Sul Khatesh, Tul Oreshka can reveal secrets that defy our previous understanding of magic or that alter the way we see reality. For example, a cult of Tul Oreshka might reveal that humans are actually fiends—and humanity itself is collectively an overlord.",
+										"While her agents are unpredictable, Tul Oreshka does participate in the Bleak Council of the Lords of Dust; her current speaker is a pit fiend named Korliac of the Gray Flame, though Tul Oreshka's speakers rarely hold the position for long. The location of Tul Oreshka's prison has never been established."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Val Gultesh: the Shaper of Nightmares",
+									"page": 126,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0052.webp"
+											},
+											"credit": "Jack Holliday"
+										},
+										"Many overlords embody something that is feared; Val Gultesh feeds on fear itself. It thrives on paranoia and on lives torn apart by unfounded fears, and crafts nightmares that help spread terrifying and disruptive ideas. While it can shape nightmares, it does so from Eberron—effectively using a powerful form of the {@spell dream} spell that can potentially affect led hundreds of people at once—as opposed to entering Dal Quor. The quori of the present age haven't encountered an unbound Val Gultesh, but it's quite possible the overlord would pose a threat to them, especially to quori manifesting in Eberron as Inspired or kalashtar. Val Gultesh is imprisoned somewhere in Zilargo, and it's possible that should its power grow, that it could corrupt the Trust to serve its purposes; however, the Trust could be aware of this threat and may have ruthlessly eliminated cults of Val Gultesh in the past.",
+										"The Shaper of Nightmares works with the Lords of Dust, but the nature of its speaker and the power of its faction have yet to be established. (Val Gultesh is introduced in the {@i Fear Reveals Truth} adventure path, which begins with {@i Curtain Call}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Wild Heart",
+									"page": 126,
+									"entries": [
+										"The Wild Heart embodies mortal fears of the natural world. To some degree, this embodies the sheer unknown that the wild represents, but it especially draws on the fear of predators—the unknown dangers lurking in the depths of the darkest wood. The Wild Heart is known both for its connection to gnolls and as one of the primary sources of lycanthropy; in my Eberron, it was the cause of the Lycanthropic Purge.",
+										"As a force fundamentally opposed to civilization, the Wild Heart uses no name and takes no part in the schemes of the Lords of Dust. Its speaker is a shapeshifting fiend known as Drulkalatar Atesh, but its fiendish minions are more likely to possess or be fused with beasts than to act in fiendish form. (The Wild Heart is featured in the novel {@i The Queen of Stone}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Yad-Raghesh: the Fallen Rajah",
+									"page": 126,
+									"entries": [
+										"The fiend known as Yad-Raghesh is a mystery; some loredrake scholars question whether he was actually an overlord, or whether he was an exceptionally powerful champion of Sakinnirot or Ran Iishiv. What is known is that during the wars of the Age of Demons, Yad-Raghesh fought in the form of a colossal two-headed rakshasa; he was defeated with surprising ease, but it was later discovered he had somehow imbued his essence into the region in which he was slain, permanently corrupting it. The corpse of Yad-Raghesh remains in this vale, which seethes with hatred and fiends.",
+										"There is no evidence that the consciousness of YadRaghesh remains as an active force, and he plays no role in the Lords of Dust, but he has effectively transformed this Vale of the Fallen Rajah into a heart demiplane in the midst of Argonnessen. (You can learn more about Yad-Raghesh in {@i Dragons of Eberron}.)"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Unnamed and Unknown",
+									"page": 126,
+									"entries": [
+										"Other overlords have been hinted at in canon sources but never described in detail. {@i Secrets of Sarlona} suggests that there are overlords imprisoned in the Krertok Peninsula and in Sustrai Mor, while the {@i Player's Guide to Eberron} suggests that an overlord with power over  the weather is bound on Tempest Isle. Some previous lists included Shudra the Fleshrender, a \"mighty rakshasa\" mentioned in {@i Forge of War}; however, Shudra isn't an overlord, but a rakshasa champion on par with {@creature Mordakhesh|ERLW} and Hektula. Shudra is associated with the overlord Dhavibashta, who appears in James Wyatt's novel {@i In the Claws Of the Tiger}. As mentioned at the start, this isn't intended to be a complete list of overlords, and I would never want to create such a list; there should always be room in the world to create an overlord who perfectly suits the needs of your story."
+									]
+								},
+								{
+									"type": "inset",
+									"page": 127,
+									"name": "The Overlords and the Planes",
+									"entries": [
+										"The overlords are spirits of Khyber and the Material Plane. However, since the Material Plane ties together all of the iconic concepts that define the outer planes, some of the overlords reflect ideas that are also represented in the planes. Rak Tulkhesh and Shavarath are both associated with war. Tul Oreshka and the Lurker in Shadows both deal with the unknowable and unnatural in ways that evoke Xoriat. Val Gultesh shapes nightmares—but this overlord isn't a creature of Dal Quor, nor is Rak Tulkhesh from Shavarath.",
+										"When the overlords deal with mortals who fight and dream, they influence those things in and from the Material Plane, and they have no connection to or alliances with the denizens of the planes. In general, the power of an overlord trumps the power of any extraplanar entity while that entity is on the Material Plane; so an unbound Val Gultesh might be able to control quori possessing human hosts. For this reason, extraplanar entities generally try to avoid conflict with overlords and the Lords of Dust."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Using the Overlords",
+							"page": 127,
+							"entries": [
+								"Eberron is balanced on a precipice. Should the overlords rise en masse, they'd destroy reality as we know it and drag the world back into the primal chaos of the Age of Demons. The release of even a single overlord would be a devastating event that could destroy a nation—but it wouldn't instantly herald the end of the world. We've seen examples of this before. In the Year of Blood and Fire, Bel Shalor devastated Thrane until he was rebound by the sacrifice of Tira Miron. In this chapter, I suggest that the Lycanthropic Purge was the work of the Wild Heart; as the Towering Woods were more remote than Thrane, the impact of the Wild's Heart partial release and the sacrifices made to rebind it are less well known. It could even be that the Mourning was the result of releasing an overlord. Consider the following ways the overlords might influence your campaign.",
+								{
+									"type": "entries",
+									"name": "Legacy of the Overlords",
+									"page": 127,
+									"entries": [
+										"Overlords are sources of evil, and their existence and legacy can be used to explain why evil things exist in the world: The Daughter of Khyber corrupts dragons. The Wild Heart is one of the sources of lycanthropy. Katashka creates many forms of undead.",
+										{
+											"type": "entries",
+											"name": "Artifacts",
+											"page": 127,
+											"entries": [
+												"The overlords also have the power to create artifacts; a sword bearing a shard of Rak Tulkhesh might grant great power while also spreading strife and hatred. An adventure or a campaign arc could involve creations of the overlords—a rogue dragon, a pack of werewolves, a clan of clever ghouls, a cursed artifact—without actually having anything to do with the overlord or its goals. The {@item Book of Vile Darkness} may have been written by Hektula and be a vector for the influence of Sul Khatesh; but if Sul Khatesh's plans are on hold for the next century, the book may only be dangerous by virtue of its innate power."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cults and Influence",
+											"page": 127,
+											"entries": [
+												"Even while bound, the overlords influence mortals. {@loader Exploring Eberron|collection/Keith Baker%3B Exploring Eberron.json} delves into the many forms these cults take—from ancient secret societies that actively work to release an overlord, to deluded sects who have no idea of the power they're tied to. The whispers of Bel Shalor are a threat to every follower of the Silver Flame. Followers of Rak Tulkhesh strive to cause strife, and the ghouls of Katashka feast on flesh beneath cities across Khorvaire. So adventurers can clash with a cult of the Whispering Flame or a cabal of Katashka's ghouls, even if the overlord has no greater role in the campaign."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Long-Term Plans",
+											"page": 127,
+											"entries": [
+												"Prophetic paths that lead to the release of an overlord have many steps; they can take generations or even centuries to finally bear fruit. So it's possible for adventurers to be caught up in a scheme set up by one of the Lords of Dust, even though there's no threat of an overlord actually being released during their lifetimes. It may even be that a fiend wants to {@i help} an adventurer acquire a powerful magic item—because the character needs to have that item to fulfill their role in the Prophecy. The Lords of Dust also have their own feuds and rivalries; a stranger could give the adventurers a tip about a rakshasa scheming to take over a local guild, only to eventually realize that it was another fiend who tipped them off."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Boons of the Overlords",
+									"page": 127,
+									"entries": [
+										"The overlords, their speakers, and their lesser minions might seek mortal pawns to help fulfill the requirements of a Prophecy foretelling their master's release. Often, these mortals rise to prominence as willing leaders of the cults of the Dragon Below. However, an overlord's power might also be granted to the unwilling or ignorant. In bestowing these accursed gifts, the overlord may be hoping to tempt someone with its dark power or to simply make them a living weapon.",
+										"The DM can either give the following supernatural gifts to player characters, or they might add these as traits to an enemy stat block (such as the {@creature cultist}, {@creature cult fanatic}, or {@creature warlock of the fiend|MPMM}). These dark gifts typically last for 28 days, but DMs should change this duration as appropriate for the overlord's schemes. For the gifts that grant spells, the creature's spellcasting ability is its choice of Intelligence, Wisdom, or Charisma.",
+										{
+											"type": "list",
+											"columns": 3,
+											"items": [
+												"{@reward Dark Gift of the Citadel|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Slow Death|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Silvered Shadow|ChroniclesofEberron}",
+												"{@reward Dark Gift of Khyber's Daughter|ChroniclesofEberron}",
+												"{@reward Dark Gift of Winter|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Oathbreaker|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Gatekeeper|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Lurker|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Cold Sun|ChroniclesofEberron}",
+												"{@reward Dark Gift of War|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Unmaker|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Scar|ChroniclesofEberron}",
+												"{@reward Dark Gift of Secrets|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Truth|ChroniclesofEberron}",
+												"{@reward Dark Gift of the Wilds|ChroniclesofEberron}"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Player Characters",
+									"page": 128,
+									"entries": [
+										"Player characters can be tied to overlords. A warlock with the Pact of the Tome could be tied to Sul Khatesh and the intrigues of her Court of Shadows. A Great Old One warlock might be receiving visions from Tul Oreshka, not knowing why they've been chosen by the Truth in the Darkness or what she wants with them. A barbarian could have a sliver of Rak Tulkhesh's prison shard bound to their flesh; the shard is what powers their rage, but by mastering that rage, they help hold the overlord at bay. This could be vitally important if the campaign involves the potential release of the Rage of War ... or it could be that there's no risk of Rak Tulkhesh escaping this century, but the character may clash with cultists who want to claim the shard."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "An Overlord Unleashed",
+									"page": 129,
+									"entries": [
+										"The threat of an overlord's release could be a driving arc for a campaign, building to a climactic clash in which the adventurers race against a doomsday countdown to prevent an overlord from escaping its binding. If the party succeeds, the overlord won't be released, though they'll certainly have to deal with cultists and Lords of Dust. They might face a weak avatar in the conclusion of that final battle, but it's a battle that can be won.",
+										"But there's another option—to say that your campaign isn't about stopping the release of an overlord, but rather dealing with the aftermath of an overlord who has been released. Let's look at a historical example..."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Year of Blood and Fire: Tira's Campaign",
+									"page": 129,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0054.webp"
+											},
+											"credit": "Thomas Bourdon"
+										},
+										"When Bel Shalor broke his bonds in Thrane, he plunged the region into chaos—a period known as the Year of Blood and Fire. In my vision of things, Tira Miron didn't simply ride up and smite him; a long road led her from the first time she touched the Flame to her final sacrifice. And while she may have made that sacrifice alone, she had companions on the journey. Canonically we've mentioned the avenger Samyr Kes, but in my opinion, Tira had a full party of stalwart allies. In short, she was one of the player characters of her age. I see her campaign as going something like this.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Shadows Fall",
+													"page": 129,
+													"entries": [
+														"According to the {@i Eberron Campaign Guide}, \"if the Shadow in the Flame is freed, his influence will begin to extend out over the land around him, first covering a few miles, and ultimately spreading out across an entire nation. People who fall under his sway become selfish and cruel, turning on one another instead of standing against him.\" This is the world in which the campaign begins—a Thrane in which people are drawn to darkness, where good people are tempted to commit atrocities. Tira begins as a paladin of Dol Arrah. She {@i knows} something is wrong, but she doesn't know what it is ... and Bel Shalor has only just broken his bonds, so his power is weak. In Tira's initial adventures, she fights the symptoms; she and her companions clash with newly formed cults, with good people drawn to evil, and perhaps even with a few shadowy fiends—agents of Bel Shalor who helped with his release."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Vision in the Darkness",
+													"page": 130,
+													"entries": [
+														"As the campaign proceeds and Bel Shalor's power grows, the Year of Blood and Fire truly begins. Murder and arson spread across the realm. Cities burn. Innocents suffer. Fiends emerge into the chaos, gathering cults and preying on the innocent. And it is in this time—perhaps as Tira chooses her paladin oath—that she has a vision of a couatl and is first touched by the power of the Flame."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Face to Face",
+													"page": 130,
+													"entries": [
+														"Along with her companions, Tira fights the horror spreading across the land. She learns to harness the power of the Silver Flame and uses it to protect the innocent. She establishes a haven in an Irian manifest zone, and develops techniques that can help her followers recognize and resist the insidious corrupting influence. Her and her allies discover the source of the darkness—and reaching it, they discover that Bel Shalor has broken his bonds but isn't yet fully free. He can manifest a weak avatar but can't leave the spot in which he's been bound. Nonetheless, this avatar is far too powerful for Tira and her companions to defeat, and they are lucky to survive and flee. But now they know their enemy."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Search for Answers",
+													"page": 130,
+													"entries": [
+														"While they can't defeat Bel Shalor, Tira and her allies are celebrated champions protecting a community of people. They continue to deal with Bel Shalor's servants and those who've been corrupted by his influence, while also doing all they can to learn how he can be defeated. In addition to the couatl, they receive assistance from a (secret) agent of the Chamber. They travel to Daanvi, seeking knowledge in the Infinite Archive, and to other planes as well. They take steps laid out in the Prophecy, though many of these challenges are enigmatic and set them directly at odds with agents of the Lords of Dust."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Pursuing the Prophecy",
+													"page": 130,
+													"entries": [
+														"Guided by the Flame and the Prophecy, Tira obtains the greatsword Kloijner. A brutal cult is spreading across Thrane, but Tira presses to the heart of it and exposes Durastoran the Wyrmbreaker, the speaker of Bel Shalor. The rakshasa kills her Chamber ally, but Tira takes him down with Kloijner. This battle is part of a Prophetic path Tira has uncovered. She knows it'll keep Durastoran from reforming for decades—but it also fully releases Bel Shalor, who now strides across Thrane as a vast force of shadow."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Final Stand",
+													"page": 130,
+													"entries": [
+														"Tira knew the consequences of defeating Durastoran. In the Irian zone that has become her haven, she and her companions gather all those innocents freed from Bel Shalor's power. She holds Durastoran's heart, and beyond that, she knows that the unbound Bel Shalor can't stand to have a stronghold of light at the heart of his darkness. All of this has been foreshadowed by the Prophecy; though her Chamber ally has fallen, Tira knows that Bel Shalor will come to her, and she knows what she must do. She rallies her allies, sharing the light of the Flame. Bel Shalor comes with an army of fiends and victims, and Tira's faithful make their stand in the last bastion of light. Though the battle seems hopeless, Tira's allies help her reach Bel Shalor himself—and in this moment, Tira and her couatl guide make their final sacrifice. They bind Bel Shalor with the light of Tira's soul and the power of the Flame, which surges forth as the silver column that can still be seen in Flamekeep to this day."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Setting the Stage",
+											"page": 130,
+											"entries": [
+												"This is merely my vision of the campaign that Tira might've gone through. It's a simple, high-level sketch: for example, in my mind, Tira traveled to Irian and Daanvi as part of her adventures, but I don't know exactly what she did there.",
+												"In a campaign like this, Tira doesn't even have a chance to prevent Bel Shalor from being released. He's already been partially released when the campaign begins—but if I was running the campaign, the players wouldn't yet know it. In our session zero, I'd emphasize that {@i something} is wrong with the world, that the player characters will be both warriors and investigators, champions of the light trying to identify an infectious evil that's spreading across the land.",
+												"As the campaign itself unfolds, the adventurers not only uncover the true threat of Bel Shalor and the Wyrmbreaker, they also must develop their own personal connections to the Silver Flame. The first tier of the campaign would be almost entirely spent dealing with cultists and corrupted innocents, trying to determine what power is behind the encroaching evil; they might initially think they can stop Bel Shalor from being released, only to reach that stronghold of evil and discover he's already out. In tier 2, they are dealing with the increasingly apocalyptic consequences of his release, fighting fiends as well as cultists and the corrupted; and things only get more dramatic from there."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "A More Subtle Approach",
+											"page": 130,
+											"entries": [
+												"This is an apocalyptic scenario; we know from the start that it's called \"the Year of Blood and Fire,\" so of course there'll be burning cities and mass chaos. However, that flavor would depend on the overlord involved and the story you want to tell. The release of the Rage of War would involve brutal bloodshed, while the release of Sul Khatesh or the Oathbreaker could have very subtle effects. Every story will be different.",
+												"For example, in a campaign based around Sul Khatesh, the Court of Shadows' influence slowly spreads. As the campaign continues, the court's dark vision of the world starts to become real, with towers of shadow appearing across the nation. Common people start gaining arcane powers and resolving petty disputes with curses. Sly rakshasas offer tempting pacts. Minister Adal might even forge an order of witchfinders and seize control of Aundair, little realizing that he too is just a pawn of Sul Khatesh, helping to spread delightful fear. It builds to a point where civilization could collapse into outright arcane terror... but this fall can take time."
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
@@ -8916,6 +9432,141 @@
 			"type": "Blessing",
 			"entries": [
 				"When you touch a creature that has been reduced to 0 hit points or killed within the last minute, you can choose to kill it (if it isn't already dead) and remove its soul. A creature whose soul has been removed in this way can be restored to life only by a {@spell wish} spell."
+			]
+		},
+		{
+			"name": "Dark Gift of the Citadel",
+			"source": "ChroniclesofEberron",
+			"page": 127,
+			"type": "Dark Gift",
+			"entries": [
+				"Ashtakala drives you to build for yourself a grand throne. You can cast {@spell Leomund's Tiny Hut|PHB|tiny hut} up to three times, after which this dark gift vanishes. You can also cast {@spell Mordenkainen's Magnificent Mansion|PHB|magnificent mansion} once, after which this dark gift vanishes."
+			]
+		},
+		{
+			"name": "Dark Gift of the Slow Death",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Ashurak opens your heart and mind to the glory of the plague. You automatically fail all saving throws against disease, but you are immune to all effects of diseases except for any effect that would infect another creature. In addition, you can also cast the {@spell contagion} spell up to three times, after which this dark gift vanishes."
+			]
+		},
+		{
+			"name": "Dark Gift of the Silvered Shadow",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"With Bel Shalor's gift, your mind opens to the darkness at the edge of all mortal minds. When you see a creature cast a spell or use a magical effect that would restore hit points to one or more other creatures, you can use your reaction to instead cause that effect to deal necrotic damage to each target equal to the number of hit points that would have been restored. Once you use this feature, you can't do so again until you finish a short or long rest."
+			]
+		},
+		{
+			"name": "Dark Gift of Khyber's Daughter",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Tiamat kindles the rage of dragonfire within your heart. Once on your turn when you make a weapon attack, you can replace that attack with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes {@damage 1d10} acid, cold, fire, lightning, or poison damage (your choice). On a successful save, it takes half as much damage. This damage increases by {@dice 1d10} when you reach 5th level ({@dice 2d10}), 11th level ({@dice 3d10}), and 17th level ({@dice 4d10}). You can use this breath weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+			]
+		},
+		{
+			"name": "Dark Gift of Winter",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Dral Khatuur teaches you to embrace the killing cold. Whenever you would take cold damage, you instead gain that many temporary hit points."
+			]
+		},
+		{
+			"name": "Dark Gift of the Oathbreaker",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Eldrantulku grants you an understanding of the power of lies. Your proficiency bonus is doubled for any ability check using {@skill Deception}. In addition, you can cast the {@spell dominate person} spell, after which this dark gift vanishes."
+			]
+		},
+		{
+			"name": "Dark Gift of the Gatekeeper",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Katashka grants you a reprieve from your fears of mortality. If you die, you return to life 24 hours after death; if your body was destroyed, it first reforms (without your equipment) at a spot determined by the DM within 1 mile of the place of your death. After you return to life, this dark gift vanishes."
+			]
+		},
+		{
+			"name": "Dark Gift of the Lurker",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"The Lurker's gift opens your eyes to what moves in the depths. While underwater, you have a swimming speed of 30 feet, you have {@sense darkvision} out to 120 feet, and you can see through magical darkness. While underwater, you can't close your eyes, but suffer no other penalty."
+			]
+		},
+		{
+			"name": "Dark Gift of the Cold Sun",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Masvirik's gifts seed primordial fears of all things that slither in the dark. As an action, you can choose to emit an aura that impresses these fears on other creatures for 1 minute. Each creature of your choice, other than a reptilian or draconic creature, that starts its turn within 30 feet of you must succeed on a Wisdom saving throw or become {@condition frightened} of reptilian and draconic creatures. A {@condition frightened} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to your aura for the next 24 hours. Once you use this feature, you can't do so again until you finish a short or long rest."
+			]
+		},
+		{
+			"name": "Dark Gift of War",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Rak Tulkhesh's gifts open your eyes to the richness of slaughter. You have advantage on melee attack rolls against any creature that doesn't have all its hit points. Additionally, when you reduce a creature to 0 hit points, you gain advantage on your next saving throw."
+			]
+		},
+		{
+			"name": "Dark Gift of the Unmaker",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Ran Iishiv makes you a nexus of instability, poised to tear a wound in the fabric of reality. You can cast the {@spell storm of vengeance} spell once. When the spell ends, your body is torn into several pieces, you die, and this dark gift vanishes. This death can't be prevented by any means."
+			]
+		},
+		{
+			"name": "Dark Gift of the Scar",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Sakinnirot empowers you with its slow and patient hate. Each creature that deals damage to you becomes your resented adversary for as long as you have this dark gift. You have advantage on all attack rolls and opposed ability checks against your resented adversaries. Additionally, when you make an attack roll or opposed ability check against one of your resented adversaries, you can choose to change the die result to a natural 20, after which this dark gift vanishes."
+			]
+		},
+		{
+			"name": "Dark Gift of Secrets",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Sul Khatesh reveals to you a passage of lore from her forbidden tomes. You have advantage on ability checks to recall or decipher lore about spells, rituals, magical effects, and magical creatures. In addition, you can use an action to recite cursed words from the passages Sul Khatesh has revealed. When you do, you take {@damage 1d12} psychic damage, and each creature you can see within 15 feet of you takes {@damage 3d6} psychic damage."
+			]
+		},
+		{
+			"name": "Dark Gift of the Truth",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"Tul Oreshka pulls back the curtain of your mind to reveal the dark truths of the soul. Your proficiency bonus is doubled for any ability check using {@skill Insight}. Additionally, you can cast the {@spell detect thoughts} spell up to three times, after which this dark gift vanishes."
+			]
+		},
+		{
+			"name": "Dark Gift of the Wilds",
+			"source": "ChroniclesofEberron",
+			"page": 128,
+			"type": "Dark Gift",
+			"entries": [
+				"The Wild Heart connects you to your predatory nature and you embrace a more bestial appearance. You grow claws that you can use to make unarmed strikes. When you hit with these claws, the strike deals {@damage 1d6} + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. In addition, you can use an action to gain resistance to bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered for 1 hour, after which this dark gift vanishes."
 			]
 		}
 	],
