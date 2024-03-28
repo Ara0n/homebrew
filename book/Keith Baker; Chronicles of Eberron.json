@@ -6983,6 +6983,196 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Ashtakala",
+					"page": 131,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The one city of any real significance in the Demon Wastes is Ashtakala, the last citadel of the Lords of Dust. Surrounded by a permanent storm of sand and volcanic glass and shielded from all forms of divinatory magic, Ashtakala rarely reveals itself to human eyes. Explorers who manage to penetrate the eternal storm find a bizarre yet beautiful metropolis, a citadel built from basalt and brass. Compared to the shattered ruins spread throughout the rest of the Wastes, Ashtakala seems impossibly alive, filled with thousands of demons and other fiends.",
+								"While Ashtakala appears as it did a million years or more ago, it is a city of ghosts and shadows—all an illusion. In addition to the illusory inhabitants and the spirits of ancient things that still wander the decaying streets masked by powerful illusions of the city's zenith, a handful of zakyas and rakshasas and a host of minor fiends serve the great Lords of Dust who congregate here. The Lords of Dust occasionally meet in this shadow of their ancient city, and rakshasas return to Ashtakala to scheme and to study in the vaults and libraries, reading scrolls and tomes that will crumble to dust if ever removed from the city. The power that preserves the image of Ashtakala transforms anyone who enters the city; visitors find their clothing and equipment altered to match the archaic fashions of the city, as if by a disguise self spell. The city of fiends is a dangerous place for mortals to visit—only the luckiest of intruders caught by the rakshasa lords get to die quickly."
+							],
+							"from": "Eberron Campaign Setting"
+						},
+						"If you delve long enough into the mysteries of the Age of Demons and the tales of fiends lingering in the shadows today, you'll eventually find some mention of Ashtakala, the City of Demons. Hidden deep in the Demon Wastes, Ashtakala is shrouded in mystery, the subject of countless contradictory tales. In some tales, it's a crumbling ruin; in others, it's a mighty citadel of evil and the seat of the Lords of Dust. As a DM, you might well ask why the dragons of Argonnessen haven't destroyed Ashtakala. If a player character may know stories about it, surely the Chamber does as well—so how could it still exist? Let's dig deeper into this mystery.",
+						{
+							"type": "section",
+							"name": "City of Demons",
+							"page": 131,
+							"entries": [
+								"Ashtakala, the last surviving city of the Lords of Dust, endured on even after the overlords were bound. It is immune to divination and surrounded by a deadly storm, while the entire region around it is an unnatural wasteland that's never been tamed. Ashtakala was supposedly ruined long ago, but its magic is so powerful that it creates an alternate reality within its storm—there, it still appears to be at its zenith, and people who enter its influence are themselves altered to fit this haunted narrative.",
+								"As the city is used as a meeting place by {@i all} of the Lords of Dust, this implies it's not tied to any single overlord. Though Hektula—the speaker of Sul Khatesh— maintains the Library of Ashtakala, this city isn't the heart of Sul Khatesh. It's neutral ground where all the Lords of Dust can find sanctuary. And while Ashtakala has stood for a hundred thousand years since the Age of Demons, it has never expanded. It is immortal but largely unchanging, like the fiends themselves.",
+								{
+									"type": "entries",
+									"name": "Ashtakala and Argonnessen",
+									"page": 131,
+									"entries": [
+										"The dragons of Argonnessen have no obvious presence in the Demon Wastes. The defenses of the Demon Wastes, including both the Ghaash'kala and the Labyrinth itself, are tied to the Silver Flame. Unlike Q'barra, there are no dragonborn or dragon guardians. This is no accident—the dragons shun the Demon Wastes because they have no choice.",
+										"Should a sage ever gain access to the records of the Chamber, they would learn that the Light of Siberys {@i did} attack the Demon Wastes tens of thousands of years ago. The dragons laid waste to it, destroying a humanoid civilization predating the Carrion Tribes (who arrived in the Wastes less than two thousand years ago). But this attack was a disaster. Aside from the host of fiends, many powerful magical defenses were unleashed against the attackers. Ashtakala was the worst of all. Just as it shields the city from divination magic, the storm surrounding Ashtakala repelled magical and elemental attacks ... and as dragons drew close to it, their souls were ripped from their bodies and they turned on their allies. When they were wounded, dust spilled out instead of blood. The attacking force was almost entirely wiped out—and the dust-stuffed dragons claimed by Ashtakala proved to be an ongoing threat and asset to the Lords of Dust for thousands of years.",
+										"Though the dragons' attack wiped out the humanoids of the Wastes, the slain fiends simply reformed. The dragons have shunned the region ever since; while they know Ashtakala is an asset for the Lords of Dust, they don't have the power to destroy it. So the city continues to serve as a useful sanctuary for the Lords of Dust—but it has done so for a hundred thousand years, so it's not like it poses a dire, imminent threat to the safety of Argonnessen."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Demon City",
+							"page": 132,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0056.webp"
+									},
+									"credit": "Vincentius Matthew"
+								},
+								"How could a fortress of rakshasas be strong enough to resist the power that leveled Xen'drik? Consider again what we know of Ashtakala. It's surrounded by a corrupted region the size of a nation. The corruption can't be undone, and the region is filled with free-roaming fiends. It alters reality within its confines. And while it has endured for a hundred thousand years, it remains fundamentally unchanged—maintaining the shadow of its glory, but never expanding.",
+								"Corrupting a nation? Surrounded by fiends? Possessed of mystical power to resist the might of Argonnessen? That sounds a lot like what Bel Shalor did to Thrane when he was partially released—and therein lies the answer. Ashtakala isn't just a city ... Ashtakala is an overlord. It's an immortal embodiment of eternal evil, irrevocably corrupting the region around it while being attended by a host of lesser fiends. Ashtakala is trapped in place by the wards of the Labyrinth and by the power of the Silver Flame, but of all the overlords, Ashtakala alone was never fully bound.",
+								{
+									"type": "entries",
+									"name": "Dark Citadel",
+									"page": 132,
+									"entries": [
+										"Though Ashtakala is an overlord, it has also always been a city. All fiends embody malevolent ideas: Ashtakala is the Dark Citadel, the fortress of ultimate evil. It can't move and it doesn't have an anthropomorphic form—after all, it's a demon city. But like any overlord, it's immortal and it alters reality within its sphere of influence. Ashtakala is the {@i source} of the never-ending storm that surrounds it. There aren't powerful enchantments laid on the city to transform those who enter—the power of the city itself transforms them. The host of illusory fiends are the servants of the city. And Ashtakala is the source of the unnatural corruption of the Demon Wastes, the blight that cannot be lifted—for that blighted landscape is part of its defining concept as the Citadel of Evil.",
+										"What does it mean to be a demon city? First, Ashtakala was never constructed. This overlord is the concept of a city given form—specifically, a city of fiends. The currency of Ashtakala is souls, for the city can rip the souls from mortals and forge them into coinage (and potentially other things). {@i Explorer's Handbook} describes a lesser form of this in the city's Drain Works, but in that case, a parasitic rakshasa is making use of Ashtakala's capabilities rather than the city doing this. Ashtakala itself can rip the soul out of a dragon in an instant; the Drain Works is a slower process that rakshasas can use on creatures the city considers to be insignificant.",
+										"This brings us to an important reminder: overlords don't think the way mortals do. They are vast, alien, and unique. Ashtakala allows the Lords of Dust to dwell within it, but it doesn't cater to their whims or help them with their schemes. I've mentioned before that the weakness of the overlords is that they didn't work together, and that remains the case here. Ashtakala doesn't care that the other overlords are imprisoned, and it doesn't care about the needs of the Lords of Dust. Ashtakala simply is. It expresses itself by creating and maintaining the Demon Wastes, by doing the thing that gives its existence meaning. The city's illusory servitors are extensions of the city, serving no purpose other than to maintain it. They're much like the manifestations of the planes; just as Daanvi has subjects and Shavarath has conscripts, Ashtakala's servitors have no lasting identity, no purpose beyond playing out the story of Ashtakala. They can't be recruited to serve the schemes of Rak Tulkhesh or Sul Khatesh because they literally don't exist independently of Ashtakala."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Immortal Citadel",
+									"page": 133,
+									"entries": [
+										"Ashtakala doesn't recognize lesser mortals as a threat. This immortal city fought dragons, titans, and celestials, and if such creatures approached it again, Ashtakala would strike them with its full force. But humans? Orcs? Elves? Ashtakala doesn't register them as having any significance. If a dragon approached the city, the city would rip the dragon's soul out and replace it with dust; but if a mere human managed to make it through the storm, the city would cloak them in illusion so they fit in the city—just as it cloaks its fiendish denizens—because Ashtakala can't conceive of them as a threat. Now, the fiends that dwell {@i within} Ashtakala may capture that human, torture them, or take them to the Drain Works, but the city doesn't care.",
+										"This comes back to the point that, like all overlords, Ashtakala is immortal. If it were burned to the ground, it would return within days. This is what's meant by the city being an \"illusion.\" While you're within it, it's real—but if you steal an ancient tome from the Library of Ashtakala, it'll crumble to dust when you leave the city ... and it'll be back in the library the next day, intact. However, this property doesn't apply to things that are brought into the city (or things forged from outside materials, like stolen souls); if Hektula steals a tome from Arcanix and brings it to Ashtakala, that book can later be stolen from the city or destroyed permanently. But the library's most ancient scrolls dating back to the Age of Demons aren't truly real; they're memories in the mind of the Demon City.",
+										"Due to all of this, Ashtakala is a perfect haven for the Lords of Dust. It's shielded from hostile magic, and their greatest enemies can't even approach it. They don't need to maintain it—no one repairs the masonry, or fixes the sewers, or touches up the paint—because the entire city is a concept that maintains itself. It provides them with invaluable resources like the library and Drain Works. But again, while it appears to be a thriving metropolis filled with tens of thousands of fiends, less than a thousand of those are truly independent and {@i real}; like the scrolls, the vast majority of denizens are just ideas in the mind of the Demon City."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Deadly Citadel",
+									"page": 133,
+									"entries": [
+										"Ashtakala's manifested denizens can't leave the city, and they have no desires beyond playing out their role in the story ... but they still exist within the city, and that means they can hurt you. And though Ashtakala itself doesn't target mortals when they enter the city, this mostly just means it won't instantly rip your soul out, not that it'll welcome or protect you. Even the illusion it cloaks visitors in is a passive effect, not something it consciously chooses—because if it chose something to do to you, it would be decidedly unpleasant.",
+										"Ashtakala is an incarnate nightmare. Imagine the most horrifying hell-city you can; that's what it is. The music of Ashtakala is the screams of tortured mortals kept in hideous painful stasis. Its furnaces are filled with bones—not because Ashtakala needs to burn people to keep the fires going, but because that's what its story is about. And if mortals remain within Ashtakala too long, they're slowly transformed into fiends themselves. So even though it won't instantly smite you with the force that lays a titan low, it's surely one of the most dangerous locations in Eberron. It literally doesn't notice mortals—but its servants and denizens definitely will. As the {@i Eberron Campaign Setting} says, \"the city of fiends is a dangerous place for mortals to visit—only the luckiest of intruders caught by the rakshasa lords get to die quickly.\""
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Using Ashtakala",
+							"page": 133,
+							"entries": [
+								"So Ashtakala is an overlord, and dragons can't come near it without being corrupted. But what does this mean for you and your campaign?",
+								{
+									"type": "entries",
+									"name": "Stories of Ashtakala",
+									"page": 133,
+									"entries": [
+										"As discussed previously, the mind of an overlord doesn't work like that of a human. Ashtakala isn't working with the Lords of Dust; it simply allows them to dwell within it because that suits its nature as the Citadel of Evil. But by default, Ashtakala doesn't have goals beyond the Demon Wastes. It expresses its nature by creating and maintaining the Demon Wastes, and by destroying any dragons or similar threats that come too close, but it doesn't actually participate in the schemes of the Lords of Dust or help them free other overlords.",
+										"Though the city isn't actively pursuing a worldwide agenda, it's still an overlord, and you could involve it in a campaign in many ways. Consider the following ideas.",
+										{
+											"type": "entries",
+											"name": "Chamber Agents",
+											"page": 133,
+											"entries": [
+												"The Chamber knows that most humanoids are beneath the city's notice. So if the Chamber has any interests tied to Ashtakala—if they want to spy on the plans of the Lords of Dust or steal information from the Library of Ashtakala—they need to work with capable humanoid agents... like the player characters.",
+												"Along similar lines, Argonnessen and Aerenal have intermittently warred for countless centuries. It's possible the dragons have been attacking them because they want to practice fighting something with the power of an overlord, all in preparation for a new assault on Ashtakala. How could this assault involve the player characters? Might the Chamber ask powerful characters to help with the assault, perhaps sabotaging Ashtakala from within during the attack? When the adventurers learn about the planned attack, do they also learn it could inflict devastating collateral damage on Aundair and the Eldeen Reaches?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dust-Stuffed Dragon",
+											"page": 134,
+											"entries": [
+												"{@i Explorer's Handbook} includes the Drain Works, a facility that allows fiends to suck out a creature's soul and replace it with dust. As mentioned earlier, my thought is that this is something Ashtakala can do on its own, and the Drain Works is simply a way the Lords of Dust have found to harness this power for their own purposes. A dust-stuffed dragon working with the Lords of Dust could be an interesting alternative to a rogue dragon. And if the adventurers have an ally within the dragons of the Chamber, a tragic twist would be for that dragon to be captured by the Lords of Dust and taken to Ashtakala, returning as a duststuffed villain."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Growing Consciousness",
+											"page": 134,
+											"entries": [
+												"One interesting plot point would be to introduce warlocks or active fiends who {@i do} represent the interests of Ashtakala—to say that after a hundred thousand years of largely ignoring the world, Ashtakala now has its own desires. What would these desires be? How would its agents interact with fiends serving other overlords? The \"Interlopers in Ashtakala\" section presents lair actions that Ashtakala might grant a creature as its speaker."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lost Civilization",
+											"page": 134,
+											"entries": [
+												"Long before the Carrion Tribes, the Demon Wastes were once home to another mortal civilization, which was destroyed when the dragons attacked. Adventurers exploring the Demon Wastes could find relics of this previously unknown civilization. Similarly, this civilization could be used to explain the origin of new creatures you want to add to the setting (as discussed in {@book chapter 4|ChroniclesofEberron|9})."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sister Cities",
+											"page": 134,
+											"entries": [
+												"Ashtakala is a city that corrupts the land around it—a region as large as a nation, making it into a warped wasteland. Sound familiar? The Mourning itself could've resulted from a similar demon city being released into Cyre. If so, has that city taken the place of an existing city like Metrol? Or is it still waiting to be found?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Soul-Forger",
+											"page": 134,
+											"entries": [
+												"Ashtakala can rip souls from mortals and forge them into solid form. This effect prevents that soul's resurrection, much like a Keeper's fang; it's even possible that these dark weapons are tied to Ashtakala. Adventurers might acquire Ashtakalan magic items forged from souls—perhaps even artifacts made from the souls of ancient dragons, giants, or couatl. Could such an item be destroyed, and if so, could its fallen champion be resurrected? Alternately, what could a modern artificer do with a handful of coins forged from dragon-soul?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Denizens of Ashtakala",
+									"page": 134,
+									"entries": [
+										"Ashtakala seems to be full of life. But in this alien city, life is always cruel. Guards are always dragging innocent people off to be tortured or imprisoned, and there's almost always an execution to watch. Meanwhile, the city also holds merchants, musicians, pickpockets, beggars, and more, all going about little stories that'll ultimately never come to anything significant. Most of these denizens are essentially temporary; should the adventurers kill the arrogant noble, he'll be back tomorrow and probably won't recognize them. And the tentacled beggar who wants to play dice {@i always} wants to play dice; she'll never win big and get off the streets.",
+										"The Denizens of Ashtakala table can inspire basic details for random NPCs in the Demon City. Some of Ashtakala's inhabitants are recognizable fiends, but many are closer to tieflings; they're humanoid in form, but with disturbing fiendish elements. So adventurers might meet an ancient dwarf in the plaza—but when he smiles, they see he's got the mouth of a serpent, with curved fangs and a forked tongue.",
+										"Meanwhile, the Encounters in Ashtakala table provides story hooks for the adventurers to engage with. The denizens of Ashtakala typically won't recognize adventurers as intruders, but a suspicious guard may still ask them questions, while an oily merchant may promise to reveal a secret vault deep within the city. As always, these tables are purely sources of inspiration, and adventurers may encounter things far stranger or more dangerous than these.",
+										{
+											"type": "list",
+											"items": [
+												"{@table Denizens of Ashtakala|ChroniclesofEberron}",
+												"{@table Encounters in Ashtakala|ChroniclesofEberron}"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Interlopers in Ashtakala",
+									"page": 135,
+									"entries": [
+										"The Demon City very rarely turns its attention on mortal interlopers. However, particularly powerful creatures (such as dragons of Argonnessen or Prophecy-bound individuals) may draw the Dark Citadel's gaze. In these cases, Ashtakala may manifest its power through a fiendish servant as its speaker. A high-ranking rakshasa such as the prakhutu of the Bleak Council, or even mortal warlocks who have proven themselves to the Lords of Dust, may have access to the following lair actions within the bounds of Ashtakala.",
+										"These lair actions are designed for tier 4 play; in encounters for that tier, granting a creature these lair actions typically increases its challenge rating by 1.",
+										{
+											"type": "statblock",
+											"tag": "legroup",
+											"source": "ChroniclesofEberron",
+											"name": "Ashtakala",
+											"page": 135,
+											"collapsed": false,
+											"style": "inset"
+										}
+									]
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/Ara0n/homebrew/Chronicles_of_Eberron/_img/ChroniclesofEberron/0057.webp"
+									},
+									"credit": "Camille Kuo"
+								}
+							]
+						}
+					]
 				}
 			]
 		}
@@ -7520,6 +7710,131 @@
 				[
 					"12",
 					"Half of a vast library, perfectly cut down the center; books and scrolls drift through the void around it."
+				]
+			]
+		},
+		{
+			"name": "Denizens of Ashtakala",
+			"caption": "Denizens of Ashtakala",
+			"source": "ChroniclesofEberron",
+			"page": 134,
+			"colLabels": [
+				"d8",
+				"Appearance",
+				"Ancestry",
+				"Quirk"
+			],
+			"rows": [
+				[
+					"1",
+					"An emaciated ...",
+					"Orc or Gnoll",
+					"... with cracked skin oozing purple blood."
+				],
+				[
+					"2",
+					"A hulking, bestial ...",
+					"Human or Dwarf",
+					"... with multiple tentacles instead od arms."
+				],
+				[
+					"3",
+					"A beautiful ...",
+					"Elf or Khoravar",
+					"... with a hald-dozen rows of mismatched teeth."
+				],
+				[
+					"4",
+					"An elderly ...",
+					"Dragonborn",
+					"... with eyes or mouths in unexpected places."
+				],
+				[
+					"5",
+					"A sobbing ...",
+					"Goblin or Bugbear",
+					"... with unnaturally long limbs hanging backwards."
+				],
+				[
+					"6",
+					"A young ...",
+					"Halfling or Gnome",
+					"... with smooth skin where their eyes or other features should be."
+				],
+				[
+					"7",
+					"A terrified ...",
+					"Ogre or Troll",
+					"... who constantly, slowly changes shape."
+				],
+				[
+					"8",
+					"A malevolent ...",
+					"Fiend",
+					"... whose rubbery body lacks any bones."
+				]
+			]
+		},
+		{
+			"name": "Encounters in Ashtakala",
+			"caption": "Encounters in Ashtakala",
+			"source": "ChroniclesofEberron",
+			"page": 135,
+			"colLabels": [
+				"d10",
+				"Encounters",
+				"Twist"
+			],
+			"rows": [
+				[
+					"1",
+					"A legless beggar ...",
+					"... invites you to a game of chance."
+				],
+				[
+					"2",
+					"A musician playing a bone flute ...",
+					"... recognizes you and will soon reveal your presence."
+				],
+				[
+					"3",
+					"An arrogant noble ...",
+					"... offers you a stolen soul."
+				],
+				[
+					"4",
+					"A suspicious guard...",
+					"... recognizes you but offers to help."
+				],
+				[
+					"5",
+					"An oily merchant ...",
+					"... tries to draw you into intrigue."
+				],
+				[
+					"6",
+					"An obvious criminal ...",
+					"... has a story to share."
+				],
+				[
+					"7",
+					"An off-duty torturer ...",
+					"... wants to know all about you."
+				],
+				[
+					"8",
+					"A masked fortune teller...",
+					"... offers to take you to a secret location."
+				],
+				[
+					"9",
+					"An abandoned child ...",
+					"... thinks you're someone else."
+				],
+				[
+					"10",
+					"An escaped prisoner ...",
+					"... lies on the ground, recently murdered."
 				]
 			]
 		}
@@ -10127,6 +10442,50 @@
 					}
 				]
 			}
+		}
+	],
+	"legendaryGroup": [
+		{
+			"name": "Ashtakala",
+			"source": "ChroniclesofEberron",
+			"page": 135,
+			"lairActions": [
+				"While in the bounds of the Demon City, a creature chosen by Ashtakala as its speaker can take lair actions. The save DC for these actions is equal to 8 + the speaker's proficiency bonus + the speaker's Charisma modifier. On initiative count 20 (losing initiative ties), the speaker can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Demonglass Eruption",
+							"entries": [
+								"Spikes of serrated black glass erupt from the ground in a 50-foot-radius area centered on a point the Speaker can see. That area becomes difficult terrain for 1 minute. For the duration, when a creature moves into or within that area, it takes 5 ({@damage 2d4}) piercing damage and 5 ({@damage 2d4}) necrotic damage for every 5 feet it travels. If a flying creature starts its turn no more than 60 feet above that area, it is drawn by the Demon City's fell presence, and must succeed on a Wisdom saving throw or fall prone and be unable to leave that area until the start of its next turn."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Soul Tearing",
+							"entries": [
+								"Ashtakala rends the soul from one creature the Speaker can see, gifting it to the Speaker. If the target has fewer than 40 hit points, it dies. Otherwise, it takes 22 ({@damage 4d10}) necrotic damage, which can't be reduced by any means. If the target dies in this way, its soul becomes trapped as if affected by the {@spell soul cage|XGE} spell (from Xanathar's Guide to Everything), and its cage is a conjured sliver of demonglass that appears in the Speaker's hand. This effect lasts until the demonglass sliver, which has AC 12 and 40 hit points, is destroyed. A creature whose soul is trapped in this way can be restored to life only by a wish spell."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Create Dust-Stuffed",
+							"entries": [
+								"The Speaker chooses the corpse of a creature whose soul is trapped by the Soul Tearing lair action. That creature's body becomes reanimated by the dust of Ashtakala and it regains half its maximum hit points. Until the dust-stuffed creature drops to 0 hit points, it is friendly to Ashtakala and the Speaker, follows all their commands, and is a Fiend instead of its usual creature type, but it otherwise uses the statistics it had in life."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Storm of Ash",
+							"entries": [
+								"A maelstrom of volcanic ash swirls in a 50-foot-radius sphere centered on a point the Speaker can see. The storm spreads around corners. It lasts for 1 minute or until the next time the Speaker uses a lair action. A creature that starts its turn within the storm must make a Constitution saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) magical piercing damage and is {@condition blinded} until the start of its next turn. On a successful save, a creature takes half as much damage and is not blinded."
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
