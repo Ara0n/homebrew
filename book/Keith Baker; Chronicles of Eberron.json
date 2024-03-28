@@ -7718,6 +7718,7 @@
 			"caption": "Denizens of Ashtakala",
 			"source": "ChroniclesofEberron",
 			"page": 134,
+			"isNameGenerator": true,
 			"colLabels": [
 				"d8",
 				"Appearance",
@@ -7780,6 +7781,7 @@
 			"caption": "Encounters in Ashtakala",
 			"source": "ChroniclesofEberron",
 			"page": 135,
+			"isNameGenerator": true,
 			"colLabels": [
 				"d10",
 				"Encounters",
